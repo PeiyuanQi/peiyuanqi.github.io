@@ -19,13 +19,7 @@
     <style>
         /* Style for our header texts
         * --------------------------------------- */
-        h1{
-            font-size: 6em;
-            font-family: arial,helvetica;
-            color: #fff;
-            margin:0;
-            padding:0;
-        }
+
 
 
         /* Centered texts in each section
@@ -38,8 +32,7 @@
         /* Backgrounds will cover all the section
         * --------------------------------------- */
         #section0,
-        #section1,
-        #section2{
+        #section1{
             background-size: cover;
         }
 
@@ -52,6 +45,14 @@
             top: 50%;
             transform: translateY(-50%);
             position: relative;
+        }
+
+        #section0 h1{
+            font-size: 6em;
+            font-family: arial,helvetica;
+            color: #fff;
+            margin:0;
+            padding:0;
         }
 
         #section0 h3{
@@ -68,17 +69,12 @@
         }
 
         #section1 h1{
+            top: 30%;
+            transform: translateY(-30%);
+            position: relative;
             color: #000;
         }
 
-        #section2{
-            background-image: url(assets/imgs/bg3.jpg);
-            padding: 6% 0 0 0;
-        }
-
-        #section2 h1{
-            color: #000;
-        }
     </style>
 
 
@@ -99,6 +95,9 @@
                 verticalCentered: false,
                 loopTop: true,
                 loopBottom: true,
+                navigation: true,
+                navigationPosition: 'right',
+                navigationTooltips: ['Home', 'About Me'],
 
                 //to avoid problems with css3 transforms and fixed elements in Chrome, as detailed here: https://github.com/alvarotrigo/fullPage.js/issues/208
                 css3:false
@@ -134,7 +133,13 @@
         </footer>
     </div>
     <div class="section" id="section1">
-        <h1>Visit My Blog</h1>
+        <h1>
+            <div class="spinner">
+                <strong>
+                Visit my <a href="https://blog.peiyuanqi.me">Blog <i class="fas fa-chevron-circle-right"></i></a><span class="fa-li"><i class="fas fa-spinner fa-spin"></i></span>
+                </strong>
+            </div>
+        </h1>
         <footer class="footer " style="margin-bottom: 0px">
             <!--Copyright-->
             <div class="container">
