@@ -1,0 +1,123 @@
+@font-face {
+    font-family: "Font Awesome 5 Solid";
+    src: url("../webfonts/fa-solid-900.eot");
+    src:
+            url("../webfonts/fa-solid-900.woff") format("woff"),
+            url("../webfonts/fa-solid-900.otf") format("opentype"),
+            url("../webfonts/fa-solid-900.svg#filename") format("svg");
+}
+
+/* Social Network accounts
+* --------------------------------------- */
+.social {
+    position: relative;
+}
+
+.social li {
+    display: inline-block;
+    margin-right: 2px;
+    text-align: center;
+}
+
+.social a {
+    border: 2px solid #FFF;
+    color: #FFF;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+.social li i {
+    line-height: 32px;
+    font-size: 12px;
+}
+
+.social a:hover {
+    border: 2px solid #F34452;
+    color: #F34452;
+}
+
+
+.btn {
+    border: 2px solid transparent;
+    border-radius: 0;
+    padding: 12px 28px;
+    margin: 20px 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    transition: all .3s;
+    position: relative;
+    color: #FFF;
+    background-color: #F34452;
+    z-index: 20;
+    overflow: hidden;
+}
+
+.btn:hover {
+    color: #F34452;
+    background-color: #FFF;
+    border: 2px solid #F34452;
+}
+.btn:focus {
+    color: #FFF;
+    outline: none;
+}
+
+.btn-download {
+    border: none;
+    font-size: 16px;
+    padding: 16px 55px 16px 25px;
+}
+
+.btn-download:hover {
+    border: none;
+    color: #FFF;
+    background-color: #F34452;
+}
+
+.btn-download:before {
+    position: absolute;
+    font-family: "Font Awesome 5 Solid";
+    font-weight: 900;
+    content: '\f019';
+    top: 16px;
+    right: 20px;
+    font-size: 16px;
+}
+
+.btn-download:hover:before {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: fadeOutDown;
+    animation-name: fadeOutDown;
+    -webkit-transform-origin: center bottom;
+    transform-origin: center bottom;
+}
+
+.btn-download:after {
+    content: "";
+    position: absolute;
+    background-color: rgba(0,0,0,0.2);
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    z-index: -1;
+    transition: all .3s;
+}
+
+.btn-download:hover:after {
+    width: 50px;
+    height: 70px;
+    right: -5px;
+    top: -5px;
+    -ms-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+

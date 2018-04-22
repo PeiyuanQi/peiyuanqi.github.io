@@ -1614,7 +1614,7 @@
             var panel = getSlideOrSection(destiny);
             var element;
 
-            panel.find('img[data-src], img[data-srcset], source[data-src], source[data-srcset], video[data-src], audio[data-src], iframe[data-src]').each(function(){
+            panel.find('imgs[data-src], imgs[data-srcset], source[data-src], source[data-srcset], video[data-src], audio[data-src], iframe[data-src]').each(function(){
                 element = $(this);
 
                 $.each(['src', 'srcset'], function(index, type){
@@ -2761,11 +2761,11 @@
             silentScroll(0);
 
             //loading all the lazy load content
-            container.find('img[data-src], source[data-src], audio[data-src], iframe[data-src]').each(function(){
+            container.find('imgs[data-src], source[data-src], audio[data-src], iframe[data-src]').each(function(){
                 setSrc($(this), 'src');
             });
 
-            container.find('img[data-srcset]').each(function(){
+            container.find('imgs[data-srcset]').each(function(){
                 setSrc($(this), 'srcset');
             });
 
