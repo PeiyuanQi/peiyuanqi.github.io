@@ -88,6 +88,36 @@
             color: #000;
         }
 
+        #section2{
+            background-image: url(assets/imgs/sea.jpg);
+            padding: 6% 0 0 0;
+        }
+
+        #section2 h1{
+            top: 0%;
+            left: 0%;
+            font-size: 4em;
+            transform: translateY(-30%);
+            position: relative;
+            color: #fff;
+        }
+
+        #section2 h2{
+            top: 10%;
+            font-size: 2.5em;
+            transform: translateY(-30%);
+            position: relative;
+            color: #fff;
+        }
+
+        #section2 h2 div{
+            top: 20%;
+        }
+
+        #section2 h2 a{
+            color: #fff;
+        }
+
     </style>
 
 
@@ -110,7 +140,7 @@
                 loopBottom: true,
                 navigation: true,
                 navigationPosition: 'right',
-                navigationTooltips: ['Home', 'Blog'],
+                navigationTooltips: ['Home', 'Blog','Portfolio'],
 
                 //to avoid problems with css3 transforms and fixed elements in Chrome, as detailed here: https://github.com/alvarotrigo/fullPage.js/issues/208
                 css3:false
@@ -163,6 +193,35 @@
             <div class="container">
                 <span class="text-muted">
                     &copy; <script>new Date().getFullYear()>2010&&document.write(new Date().getFullYear());</script> Qi Peiyuan. Photo by <a class="footer-link" href="https://unsplash.com/photos/Y00oREjN6-M">Lukas Budimaier</a> on <a class="footer-link" href="https://unsplash.com">Unsplash.</a>
+                </span>
+            </div>
+            <!--/.Copyright-->
+        </footer>
+    </div>
+    <div class="section" id="section2">
+        <h1>
+            <div class="spinner">
+                <strong>
+                    Portfolio
+                </strong>
+            </div>
+        </h1>
+        <h2>
+            <div class="spinner">
+                <a href="https://ipams.xyz">IPAMS <i class="fas fa-chevron-circle-right"></i></a><span class="fa-li"><i class="fas fa-spinner fa-spin"></i></span>
+            </div>
+            <div class="spinner">
+                <a href="https://medicinatio.xyz">Medicinatio <i class="fas fa-chevron-circle-right"></i></a><span class="fa-li"><i class="fas fa-spinner fa-spin"></i></span>
+            </div>
+            <div class="spinner">
+                <a href="https://github.com/PeiyuanQi/touchmore">TouchMore <i class="fas fa-chevron-circle-right"></i></a><span class="fa-li"><i class="fas fa-spinner fa-spin"></i></span>
+            </div>
+        </h2>
+        <footer class="footer " style="margin-bottom: 0px">
+            <!--Copyright-->
+            <div class="container">
+                <span class="text-muted">
+                    &copy; <script>new Date().getFullYear()>2010&&document.write(new Date().getFullYear());</script> Qi Peiyuan. Photo by <a class="footer-link" href="https://unsplash.com/@jakobowens1">Jakob Owens</a> on <a class="footer-link" href="https://unsplash.com">Unsplash.</a>
                 </span>
             </div>
             <!--/.Copyright-->
