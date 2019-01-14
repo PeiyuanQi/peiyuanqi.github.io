@@ -32,7 +32,9 @@
         /* Backgrounds will cover all the section
         * --------------------------------------- */
         #section0,
-        #section1{
+        #section1,
+        #section2,
+        #section3{
             background-size: cover;
         }
 
@@ -118,6 +120,33 @@
             color: #fff;
         }
 
+        #section3{
+            background-image: url(assets/imgs/sport.jpg);
+            padding: 6% 0 0 0;
+        }
+
+        .s3-content{
+            text-align:left;
+            padding-left: 20%;
+            position: relative;
+            color: #000;
+        }
+
+        #section3 h1{
+            font-size: 4em;
+
+        }
+
+        #section3 h2{
+            font-size: 3em;
+            padding-left: 5%;
+        }
+
+        #section3 h2 div{
+
+        }
+
+
     </style>
 
 
@@ -140,7 +169,7 @@
                 loopBottom: true,
                 navigation: true,
                 navigationPosition: 'right',
-                navigationTooltips: ['Home', 'Blog','Portfolio'],
+                navigationTooltips: ['Home', 'Blog','Portfolio','About Me'],
 
                 //to avoid problems with css3 transforms and fixed elements in Chrome, as detailed here: https://github.com/alvarotrigo/fullPage.js/issues/208
                 css3:false
@@ -153,6 +182,7 @@
 
 <div id="fullpage">
     <div class="section " id="section0">
+        <a name="Home"></a>
         <div>
             <h3>Hi, I'm <br></h3>
             <h1><strong>PEIYUAN QI</strong></h1><br>
@@ -176,6 +206,7 @@
         </footer>
     </div>
     <div class="section" id="section1">
+        <a name="Blog"></a>
         <h1>
             <div class="spinner">
                 <strong>
@@ -199,6 +230,7 @@
         </footer>
     </div>
     <div class="section" id="section2">
+        <a name="Portfolio"></a>
         <h1>
             <div class="spinner">
                 <strong>
@@ -222,6 +254,62 @@
             <div class="container">
                 <span class="text-muted">
                     &copy; <script>new Date().getFullYear()>2010&&document.write(new Date().getFullYear());</script> Qi Peiyuan. Photo by <a class="footer-link" href="https://unsplash.com/@jakobowens1">Jakob Owens</a> on <a class="footer-link" href="https://unsplash.com">Unsplash.</a>
+                </span>
+            </div>
+            <!--/.Copyright-->
+        </footer>
+    </div>
+    <div class="section " id="section3">
+        <a name="AboutMe"></a>
+        <div class="s3-content">
+            <h1>
+                <div class="spinner">
+                    <strong>
+                        I like
+                    </strong>
+                </div>
+            </h1>
+            <h2>
+                <div class="spinner">
+                    <strong>
+                        Fencing, Sailing and Skiing;
+                    </strong>
+                </div>
+            </h2>
+            <h1>
+                <div class="spinner">
+                    <strong>
+                        I do
+                    </strong>
+                </div>
+            </h1>
+            <h2>
+                <div class="spinner">
+                    <strong>
+                        play PC Games and Airsoft;
+                    </strong>
+                </div>
+            </h2>
+            <h1>
+                <div class="spinner">
+                    <strong>
+                        I am fond of
+                    </strong>
+                </div>
+            </h1>
+            <h2>
+                <div class="spinner">
+                    <strong>
+                        Movies, Reading and TRPG.
+                    </strong>
+                </div>
+            </h2>
+        </div>
+        <footer class="footer " style="margin-bottom: 0px">
+            <!--Copyright-->
+            <div class="container">
+                <span class="text-muted">
+                    &copy; <script>new Date().getFullYear()>2010&&document.write(new Date().getFullYear());</script> Qi Peiyuan. Photo by <a class="footer-link" href="https://unsplash.com/@yann_allegre">Yann Allegre</a> on <a class="footer-link" href="https://unsplash.com">Unsplash.</a>
                 </span>
             </div>
             <!--/.Copyright-->
