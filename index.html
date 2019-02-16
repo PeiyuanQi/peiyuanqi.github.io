@@ -13,6 +13,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/jquery.fullPage.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/examples.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/scroll-icon.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/hex-progress-bar.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link href="assets/css/footer.css" rel="stylesheet">
@@ -138,14 +139,6 @@
 
         }
 
-        #section3 h2{
-            font-size: 3em;
-            padding-left: 5%;
-        }
-
-        #section3 h2 div{
-
-        }
 
 
     </style>
@@ -161,7 +154,7 @@
     <script type="text/javascript" src="assets/js/scrolloverflow.js"></script>
     <script type="text/javascript" src="assets/js/jquery.fullPage.js"></script>
     <script type="text/javascript" src="assets/js/examples.js"></script>
-
+    <script type="text/javascript" src="assets/js/hex-progress-bar.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             $('#fullpage').fullpage({
@@ -187,7 +180,7 @@
         <div>
             <h3>Hi, I'm <br></h3>
             <h1><strong>PEIYUAN QI</strong></h1><br>
-            <a href="assets/Peiyuan_Qi_Resume.pdf" download class="btn btn-download" style="margin-top: 0px">Download Resume</a><br>
+            <a href="assets/Peiyuan_Qi_Resume.pdf" download class="btn btn-download" style="margin-top: 0px">Download Résumé</a><br>
             <ul class="social">
                 <li><a href="https://www.linkedin.com/in/peiyuanqi"><i class="fab fa-linkedin"></i></a></li>
                 <li><a href="https://github.com/PeiyuanQi"><i class="fab fa-github"></i></a></li>
@@ -273,52 +266,109 @@
     <div class="section " id="section3">
         <a name="AboutMe"></a>
         <div class="s3-content">
+
             <h1>
                 <div class="spinner">
                     <strong>
-                        I like
+                        About Me
                     </strong>
                 </div>
             </h1>
-            <h2>
-                <div class="spinner">
-                    <strong>
-                        Fencing, Sailing and Skiing;
-                    </strong>
-                </div>
-            </h2>
-            <h1>
-                <div class="spinner">
-                    <strong>
-                        I do
-                    </strong>
-                </div>
-            </h1>
-            <h2>
-                <div class="spinner">
-                    <strong>
-                        play PC Games and Airsoft;
-                    </strong>
-                </div>
-            </h2>
-            <h1>
-                <div class="spinner">
-                    <strong>
-                        I am fond of
-                    </strong>
-                </div>
-            </h1>
-            <h2>
-                <div class="spinner">
-                    <strong>
-                        Movies, Reading and TRPG.
-                    </strong>
-                </div>
-            </h2>
-            <ul class="social" style="padding-left: 35%">
-                <li><a href="https://www.instagram.com/mithsul/"><i class="fab fa-instagram"></i></a></li>
-            </ul>
+            <div class="hexwrapper">
+                <svg class="hexprogress red noselect" data-progress="15" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Fencing</text>
+                </svg>
+                <svg class="hexprogress yellow noselect" data-progress="5" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Sailing</text>
+                </svg>
+                <svg class="hexprogress blue noselect" data-progress="25" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Skiing</text>
+                </svg>
+            </div>
+            <div class="hexwrapper">
+                <svg class="hexprogress lightyellow noselect" data-progress="100" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Game</text>
+                </svg>
+                <svg class="hexprogress lightorange noselect" data-progress="55" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">TRPG</text>
+                </svg>
+                <svg class="hexprogress lightred noselect" data-progress="40" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Airsoft</text>
+                </svg>
+            </div>
+            <div class="hexwrapper">
+                <svg class="hexprogress orange noselect" data-progress="100" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Movies</text>
+                </svg>
+                <svg class="hexprogress darkgreen noselect" data-progress="100" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Reading</text>
+                </svg>
+                <svg class="hexprogress rosered noselect" data-progress="20" x="0px" y="0px" viewBox="0 0 776 628">
+                    <path class="track" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <path class="fill" d="M723 314L543 625.77 183 625.77 3 314 183 2.23 543 2.23 723 314z"></path>
+                    <text class="value" x="50%" y="61%">TBU</text>
+                    <text class="text" x="50%" y="122%">Writing</text>
+                </svg>
+            </div>
+            <!--<h1>-->
+                <!--<div class="spinner">-->
+                    <!--<strong>-->
+                        <!--I do-->
+                    <!--</strong>-->
+                <!--</div>-->
+            <!--</h1>-->
+            <!--<h2>-->
+                <!--<div class="spinner">-->
+                    <!--<strong>-->
+                        <!--play PC Games and Airsoft;-->
+                    <!--</strong>-->
+                <!--</div>-->
+            <!--</h2>-->
+            <!--<h1>-->
+                <!--<div class="spinner">-->
+                    <!--<strong>-->
+                        <!--I am fond of-->
+                    <!--</strong>-->
+                <!--</div>-->
+            <!--</h1>-->
+            <!--<h2>-->
+                <!--<div class="spinner">-->
+                    <!--<strong>-->
+                        <!--Movies, Reading and TRPG.-->
+                    <!--</strong>-->
+                <!--</div>-->
+            <!--</h2>-->
+            <!--<ul class="social" style="padding-left: 35%">-->
+                <!--<li><a href="https://www.instagram.com/mithsul/"><i class="fab fa-instagram"></i></a></li>-->
+            <!--</ul>-->
         </div>
+
+
+
         <footer class="footer " style="margin-bottom: 0px">
             <!--Copyright-->
             <div class="container">

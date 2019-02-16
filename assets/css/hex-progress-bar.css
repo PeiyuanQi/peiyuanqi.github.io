@@ -1,0 +1,82 @@
+/*===== Not The CSS :P =====*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+.hexwrapper{
+    position: relative;
+    top: 3%;
+    width: 100%;
+}
+
+
+/*===== The CSS =====*/
+.hexprogress{
+    width: 150px;
+    height: 185px;
+}
+.hexprogress .track, .hexprogress .fill{
+    fill: rgba(0, 0, 0, 0);
+    stroke-width: 30;
+    transform: translate(290px, 800px)rotate(-120deg);
+}
+.hexprogress .track{
+    stroke: #34314c;
+}
+.hexprogress .fill {
+    stroke: rgb(255, 255, 255);
+    stroke-linecap: round;
+    stroke-dasharray: 2160;
+    stroke-dashoffset: 2160;
+    transition: stroke-dashoffset 1s;
+}
+
+.hexprogress.red .fill {
+    stroke: #ff7473;
+}
+.hexprogress.blue .fill {
+    stroke: #47b8e0;
+}
+.hexprogress.yellow .fill {
+    stroke: #ffc952;
+}
+.hexprogress.lightyellow .fill {
+    stroke: #FBFFB9;
+}
+.hexprogress.lightorange .fill {
+    stroke: #FDD692;
+}
+.hexprogress.lightred .fill {
+    stroke: #EC7357;
+}
+.hexprogress.orange .fill {
+    stroke: #FFBC42;
+}
+.hexprogress.rosered .fill {
+    stroke: #D81159;
+}
+.hexprogress.orange .fill {
+    stroke: #FFBC42;
+}
+.hexprogress.darkgreen .fill {
+    stroke: #79bd9a;
+}
+
+.hexprogress .value, .hexprogress .text {
+    font-family: 'Open Sans';
+    fill: rgb(255, 255, 255);
+    text-anchor: middle;
+}
+.hexprogress .value {
+    font-size: 180px;
+}
+.hexprogress .text {
+    font-size: 120px;
+}
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+}
