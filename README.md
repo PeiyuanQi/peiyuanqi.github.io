@@ -32,6 +32,8 @@ Your web browser should automatically open to `<ip>:<port>:<path>` default: [htt
 
 ## Deploying
 
+run `npm run predeploy`, make sure there is folder docs/, but no build/.
+
 ### Deploying to Github Pages
 
 1. Modify the environmental variables and git remote url in [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).

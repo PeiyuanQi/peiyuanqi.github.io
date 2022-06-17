@@ -10,7 +10,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading">Peiyuan Qi&apos;s Personal Website.</h2>
+          <h2 data-testid="heading">To Infinity and Beyond.</h2>
           <p>
             Doo-dee doo dee-doo.
           </p>
