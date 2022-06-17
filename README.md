@@ -5,9 +5,7 @@
 [MIT](./LICENSE) licensed. Modified based on [mldangelo.com](https://mldangelo.com/) by MICHAEL D'ANGELO.
 Original template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
 
-## Contributing
-
-Contributions are actively encouraged. Please review the [design goals](./docs/design-goals.md), [roadmap](./docs/roadmap.md), and [contributing guidelines](./docs/contributing.md). If you find a bug, please email me, submit a pull request (I'll buy you a coffee as a thank you), or submit an issue.
+Master branch contains the deprecated version of peiyuanqi.me.
 
 ## Dependencies
 
