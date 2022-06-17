@@ -4,6 +4,7 @@ import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faArtstation } from '@fortawesome/free-brands-svg-icons/faArtstation';
+import { faMailchimp } from '@fortawesome/free-brands-svg-icons/faMailchimp';
 import { faRssSquare } from '@fortawesome/free-solid-svg-icons/faRssSquare';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -41,15 +42,15 @@ const data = [
     icon: faArtstation,
   },
   {
-    link: 'http://eepurl.com/ghyKAT',
-    label: 'Email Subscription',
+    link: 'https://blog.peiyuanqi.me/atom.xml',
+    label: 'RSS Subscription',
     icon: faRssSquare,
   },
-  // {
-  //   link: '',
-  //   label: 'Email Subscription',
-  //   icon: 'fa-solid fa-square-rss',
-  // },
+  {
+    link: 'http://eepurl.com/ghyKAT',
+    label: 'Email Subscription',
+    icon: faMailchimp,
+  },
 ];
 
 export default data;
