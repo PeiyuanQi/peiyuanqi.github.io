@@ -16,7 +16,7 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more in <a href="https://blog.peiyuanqi.me">my blog</a>.
+      <p> Welcome to my website.
       </p>
     </article>
   </Main>
