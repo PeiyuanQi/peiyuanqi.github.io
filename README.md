@@ -32,7 +32,7 @@ Your web browser should automatically open to `<ip>:<port>:<path>` default: [htt
 
 ## Deploying
 
-run `npm run predeploy`, make sure there is folder docs/, but no build/.
+First, run `npm run predeploy`, make sure there is folder docs/, but no build/.
 
 ### Deploying to Github Pages
 
