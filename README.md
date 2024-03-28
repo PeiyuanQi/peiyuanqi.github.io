@@ -36,9 +36,15 @@ First, run `npm run predeploy`, make sure there is folder docs/, but no build/.
 
 ### Deploying to Github Pages
 
+just run the following
+```
+npm run deploy
+```
+<details old section>
 1. Modify the environmental variables and git remote url in [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).
 2. Modify `homepage` in `package.json` to point to where you plan to host your site. If you do not plan on using a custom domain name, it should look like `https://[your-gh-username].github.io/[repository-name - default:personal-site]/`
 3. If you plan on using a custom domain, modify `public/CNAME`. If you don't, delete `public/CNAME`.
+</details>
 
 Make a commit to `main` and push your changes. That's it.
 
