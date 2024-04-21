@@ -16,8 +16,10 @@ const messages = [
   'hello',
   '你好',
   'Bonjour',
-  'glad you want to learn about me',
-  'but I am still writing an about me',
+  'unfortunately this is not a llm chat bot',
+  'as this is a static page',
+  'but glad you want to learn about me',
+  'however, I am still writing an about me',
   'ihlu',
   'face just hit the keyboard',
   'maybe not today :(  ',
@@ -44,8 +46,8 @@ const useInterval = (callback, delay) => {
 };
 
 const EmailLink = ({ loopMessage }) => {
-  const hold = 50; // ticks to wait after message is complete before rendering next message
-  const delay = 50; // tick length in mS
+  const hold = 30; // ticks to wait after message is complete before rendering next message
+  const delay = 40; // tick length in mS
 
   const [idx, updateIter] = useState(0); // points to current message
   const [message, updateMessage] = useState(messages[idx]);
