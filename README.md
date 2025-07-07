@@ -32,22 +32,27 @@ Your web browser should automatically open to `<ip>:<port>:<path>` default: [htt
 
 ## Deploying
 
-First, run `npm run predeploy`, make sure there is folder docs/, but no build/.
-
 ### Deploying to Github Pages
 
-just run the following
-```
+To deploy to GitHub Pages, run:
+
+```bash
+npm run predeploy
 npm run deploy
 ```
-<details old section>
-1. Modify the environmental variables and git remote url in [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).
-2. Modify `homepage` in `package.json` to point to where you plan to host your site. If you do not plan on using a custom domain name, it should look like `https://[your-gh-username].github.io/[repository-name - default:personal-site]/`
-3. If you plan on using a custom domain, modify `public/CNAME`. If you don't, delete `public/CNAME`.
-</details>
 
-Make a commit to `main` and push your changes. That's it.
+The `predeploy` script will:
+1. Remove the existing `build/` folder
+2. Build the React application to create a fresh `build/` folder
+
+The `deploy` script uses `gh-pages` to deploy the build folder to GitHub Pages.
 
 ### Static Export
 
-To statically export the site without deploying to github pages, delete or disable `.github/workflows/github-pages.yml` and run `npm run predeploy`. This generates a static export of the website as `personal-site/build/`. Copy this and self-host or deploy to a CDN.
+To generate a static export without deploying, run:
+
+```bash
+npm run build
+```
+
+This creates a production build in the `build/` folder that can be deployed to any static hosting service.

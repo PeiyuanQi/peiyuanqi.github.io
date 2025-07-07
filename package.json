@@ -12,7 +12,7 @@
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
-    "predeploy": "rm -fr docs/ && npm run build && mv build docs",
+    "predeploy": "rm -fr build/ && npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "lint": "eslint $(git ls-files '*.js')",
