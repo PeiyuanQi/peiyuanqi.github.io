@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   // website meta data description.
   <Main
-    description={"Peiyuan Qi's personal website."}
+    description="Peiyuan Qi's personal website."
   >
     <article className="post" id="index">
       <header>
