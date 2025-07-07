@@ -34,18 +34,17 @@ Your web browser should automatically open to `<ip>:<port>:<path>` default: [htt
 
 ### Deploying to Github Pages
 
-To deploy to GitHub Pages, run:
+Before committing changes, run the predeploy script locally:
 
 ```bash
 npm run predeploy
-npm run deploy
 ```
 
 The `predeploy` script will:
 1. Remove the existing `build/` folder
 2. Build the React application to create a fresh `build/` folder
 
-The `deploy` script uses `gh-pages` to deploy the build folder to GitHub Pages.
+Then commit and push your changes to the remote repository. The `deploy` script is automatically executed by GitHub Actions to deploy the build folder to GitHub Pages.
 
 ### Static Export
 
