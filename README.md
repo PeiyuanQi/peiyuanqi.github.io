@@ -1,57 +1,47 @@
 # Personal Website
 
-[peiyuanqi.me](https://peiyuanqi.me).
+Source for [peiyuanqi.me](https://peiyuanqi.me), a static React site hosted from the `docs/` folder on GitHub Pages.
 
-[MIT](./LICENSE) licensed. Modified based on [mldangelo.com](https://mldangelo.com/) by MICHAEL D'ANGELO.
-Original template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
+## Local Dev
 
-Master branch contains the deprecated version of peiyuanqi.me.
-
-## Dependencies
-
-Tested with: [node](https://nodejs.org/) >= v14 and optional [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing node versions.
-
-## Set up
-
-To download the repository and install dependencies, run the following commands:
+Use Node 14 or newer. If you use `nvm`, run:
 
 ```bash
-nvm install # this is optional - make sure you're running >= node 14 with `node --version`
+nvm install
+nvm use
 npm install
 ```
 
-## Running
-
-Run the following command to build the react application and serve it with fast refresh:
+Start the local app:
 
 ```bash
 npm start
 ```
 
-Your web browser should automatically open to `<ip>:<port>:<path>` default: [http://localhost:3000/](http://localhost:3000/).
+Open [http://localhost:3000](http://localhost:3000). Main source files live in `src/`; static assets live in `public/`.
 
-## Deploying
+## Checks
 
-### Deploying to Github Pages
+```bash
+npm run lint
+npm test -- --watchAll=false
+npm run build
+```
 
-Before committing changes, run the predeploy script locally:
+`npm run build` creates a normal production build in `build/`.
+
+## GitHub Pages
+
+Before committing deployable changes, refresh the checked-in static site:
 
 ```bash
 npm run predeploy
 ```
 
-The `predeploy` script will:
-1. Remove the existing `build/` folder
-2. Build the React application to create a fresh `build/` folder
+This removes `docs/`, builds the React app, adds `404.html` as a GitHub Pages SPA fallback, and moves the build output into `docs/`. Commit both source changes and the regenerated `docs/` files.
 
-Then commit and push your changes to the remote repository. The `deploy` script is automatically executed by GitHub Actions to deploy the build folder to GitHub Pages.
+Do not edit generated files in `docs/static/` directly; change `src/` or `public/`, then run `npm run predeploy`.
 
-### Static Export
+## Notes
 
-To generate a static export without deploying, run:
-
-```bash
-npm run build
-```
-
-This creates a production build in the `build/` folder that can be deployed to any static hosting service.
+The site is MIT licensed and modified from [mldangelo.com](https://mldangelo.com/), based on the [Future Imperfect](https://html5up.net/future-imperfect) template.

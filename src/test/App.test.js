@@ -18,7 +18,7 @@ import Stats from '../pages/Stats';
 const pages = [
   {
     route: '/',
-    heading: 'About this site',
+    heading: 'To Infinity and Beyond.',
     component: Index,
   },
   {
