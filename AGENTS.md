@@ -14,7 +14,7 @@ This repository is a static personal website hosted on GitHub Pages from the che
 
 - Run `npm run predeploy` before committing deployable site changes.
 - Commit the refreshed `docs/` output with the source changes.
-- The `predeploy` script copies `index.html` to `404.html` so React routes such as `/projects` work when opened directly or refreshed on GitHub Pages.
+- The `predeploy` script creates static route entries for `/about` and `/projects`, then copies `index.html` to `404.html` as a fallback for any future React routes.
 - GitHub Pages does not serve Git LFS objects. Keep original large media in LFS-backed archive paths, but put browser-viewable site media in `public/` as normal Git files.
 
 ## Style

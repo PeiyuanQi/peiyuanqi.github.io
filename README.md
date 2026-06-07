@@ -38,7 +38,7 @@ Before committing deployable changes, refresh the checked-in static site:
 npm run predeploy
 ```
 
-This removes `docs/`, builds the React app, adds `404.html` as a GitHub Pages SPA fallback, and moves the build output into `docs/`. Commit both source changes and the regenerated `docs/` files.
+This removes `docs/`, builds the React app, adds static route entries for `/about` and `/projects`, adds `404.html` as a GitHub Pages SPA fallback, and moves the build output into `docs/`. Commit both source changes and the regenerated `docs/` files.
 
 Do not edit generated files in `docs/static/` directly; change `src/` or `public/`, then run `npm run predeploy`.
 
