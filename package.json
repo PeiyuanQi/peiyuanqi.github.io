@@ -14,7 +14,7 @@
     "build": "rimraf ./build && react-scripts build",
     "build:pages": "npm run build && node scripts/build-pages.js",
     "predeploy": "rm -fr docs/ && npm run build:pages && mv build docs",
-    "deploy": "gh-pages -d docs",
+    "deploy": "gh-pages -d docs -t",
     "start": "react-scripts start",
     "lint": "eslint \"src/**/*.js\"",
     "test": "react-scripts test --watchAll=false",
