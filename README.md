@@ -52,7 +52,7 @@ The Celestial Mandate project page is generated from `/Users/peiyuanqi/projects/
 
 ```bash
 cd /Users/peiyuanqi/projects/celestial-mandate-concept-collection
-npm run deploy:peiyuanqi
+npm run deploy-website
 ```
 
 That command builds the project page, copies it into `public/projects/celestial-mandate/`, regenerates and commits `docs/`, pushes `main`, and publishes `gh-pages`.
