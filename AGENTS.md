@@ -1,6 +1,6 @@
 # Repository Instructions
 
-This repository is a static personal website hosted on GitHub Pages from the checked-in `docs/` folder.
+This repository is a static personal website hosted on GitHub Pages from the `gh-pages` branch. The checked-in `docs/` folder is the reviewable deploy output source that is published to `gh-pages`.
 
 ## Development
 
@@ -14,7 +14,9 @@ This repository is a static personal website hosted on GitHub Pages from the che
 
 - Run `npm run predeploy` before committing deployable site changes.
 - Commit the refreshed `docs/` output with the source changes.
+- Run `npm run deploy` after the commit when the live `gh-pages` branch should be updated.
 - The `predeploy` script creates static route entries for `/about` and `/projects`, then copies `index.html` to `404.html` as a fallback for any future React routes.
+- For the Celestial Mandate project page, prefer running `npm run deploy:peiyuanqi` from `/Users/peiyuanqi/projects/celestial-mandate-concept-collection`; that command updates this repo's `public/projects/celestial-mandate/`, commits the refreshed `docs/` output, pushes `main`, and publishes `gh-pages`.
 - GitHub Pages does not serve Git LFS objects. Keep original large media in LFS-backed archive paths, but put browser-viewable site media in `public/` as normal Git files.
 
 ## Style
