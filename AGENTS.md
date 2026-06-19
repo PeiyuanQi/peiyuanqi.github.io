@@ -4,11 +4,11 @@ This repository is a static personal website hosted on GitHub Pages from the `gh
 
 ## Development
 
-- Use Node 14 or newer.
+- Use Node 20 or newer.
 - Run `npm start` for local development.
-- Run `npm run lint`, `npm test -- --watchAll=false`, and `npm run build` before handing off code changes.
+- Run `npm run lint`, `npm test`, and `npm run build` before handing off code changes.
 - Keep source edits in `src/` and static assets in `public/`.
-- Do not edit generated files in `docs/static/` by hand.
+- Do not edit generated files in `docs/` by hand.
 
 ## GitHub Pages
 

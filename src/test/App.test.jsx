@@ -1,9 +1,10 @@
-// jest-dom adds custom jest matchers for asserting on DOM nodes.
+// jest-dom adds custom matchers for asserting on DOM nodes.
 // allows you to do things like:
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
-import '@testing-library/jest-dom';
+import '@testing-library/jest-dom/vitest';
 import { render, screen } from '@testing-library/react';
+import { afterEach, beforeEach, vi } from 'vitest';
 
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
@@ -50,6 +51,22 @@ const renderWithRouter = (ui, { route = '/' } = {}) => {
   window.history.pushState({}, 'Test page', route);
   return render(ui, { wrapper: BrowserRouter });
 };
+
+beforeEach(() => {
+  vi.stubGlobal('fetch', vi.fn(() => Promise.resolve({
+    json: () => Promise.resolve({
+      forks: 0,
+      open_issues_count: 0,
+      pushed_at: '2026-06-19T00:00:00Z',
+      stargazers_count: 0,
+      subscribers_count: 0,
+    }),
+  })));
+});
+
+afterEach(() => {
+  vi.unstubAllGlobals();
+});
 
 test('Renders 404 Page Component', () => {
   renderWithRouter(<NotFound />);

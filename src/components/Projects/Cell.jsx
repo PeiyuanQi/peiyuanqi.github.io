@@ -39,7 +39,7 @@ const Cell = ({ data, isOpen, onSelect }) => {
             </time>
           </span>
           <span className="project-preview__image">
-            <img src={`${process.env.PUBLIC_URL}${firstImage}`} alt={data.title} />
+            <img src={firstImage} alt={data.title} />
           </span>
           <span className="project-preview__body">
             <span className="project-preview__summary">{data.summary || data.desc}</span>
@@ -97,7 +97,7 @@ const Cell = ({ data, isOpen, onSelect }) => {
                   <img
                     alt={data.title}
                     key={image}
-                    src={`${process.env.PUBLIC_URL}${image}`}
+                    src={image}
                   />
                 ))}
               </div>
@@ -108,17 +108,17 @@ const Cell = ({ data, isOpen, onSelect }) => {
                   <figure key={video.src}>
                     <video controls playsInline preload="metadata">
                       <source
-                        src={`${process.env.PUBLIC_URL}${video.src}`}
+                        src={video.src}
                         type={video.type}
                       />
                       <track
                         default
                         kind="captions"
                         label="English"
-                        src={`${process.env.PUBLIC_URL}${video.captions}`}
+                        src={video.captions}
                         srcLang="en"
                       />
-                      <a href={`${process.env.PUBLIC_URL}${video.src}`}>Open video</a>
+                      <a href={video.src}>Open video</a>
                     </video>
                     <figcaption>{video.title}</figcaption>
                   </figure>

@@ -4,7 +4,7 @@ Source for [peiyuanqi.me](https://peiyuanqi.me), a static React site hosted from
 
 ## Local Dev
 
-Use Node 14 or newer. If you use `nvm`, run:
+Use Node 20 or newer. If you use `nvm`, run:
 
 ```bash
 nvm install
@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000). Main source files live in `
 
 ```bash
 npm run lint
-npm test -- --watchAll=false
+npm test
 npm run build
 ```
 
@@ -40,7 +40,7 @@ npm run predeploy
 
 This removes `docs/`, builds the React app, adds static route entries for `/about` and `/projects`, adds `404.html` as a GitHub Pages SPA fallback, and moves the build output into `docs/`. Commit both source changes and the regenerated `docs/` files.
 
-Do not edit generated files in `docs/static/` directly; change `src/` or `public/`, then run `npm run predeploy`.
+Do not edit generated files in `docs/` directly; change `src/` or `public/`, then run `npm run predeploy`.
 
 After committing, publish the live GitHub Pages branch:
 

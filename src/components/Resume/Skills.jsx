@@ -16,6 +16,20 @@ class Skills extends Component {
   constructor(props) {
     super(props);
     this.state = handleProps({ categories: props.categories, skills: props.skills });
+    this.handleChildClick = this.handleChildClick.bind(this);
+  }
+
+  handleChildClick(label) {
+    this.setState((prevState) => {
+      // Toggle button that was clicked. Turn all other buttons off.
+      const buttons = Object.keys(prevState.buttons).reduce((obj, key) => ({
+        ...obj,
+        [key]: (label === key) && !prevState.buttons[key],
+      }), {});
+      // Turn on 'All' button if other buttons are off
+      buttons.All = !Object.keys(prevState.buttons).some((key) => buttons[key]);
+      return { buttons };
+    });
   }
 
   getRows() {
@@ -52,19 +66,6 @@ class Skills extends Component {
         handleClick={this.handleChildClick}
       />
     ));
-  }
-
-  handleChildClick = (label) => {
-    this.setState((prevState) => {
-      // Toggle button that was clicked. Turn all other buttons off.
-      const buttons = Object.keys(prevState.buttons).reduce((obj, key) => ({
-        ...obj,
-        [key]: (label === key) && !prevState.buttons[key],
-      }), {});
-      // Turn on 'All' button if other buttons are off
-      buttons.All = !Object.keys(prevState.buttons).some((key) => buttons[key]);
-      return { buttons };
-    });
   }
 
   render() {
