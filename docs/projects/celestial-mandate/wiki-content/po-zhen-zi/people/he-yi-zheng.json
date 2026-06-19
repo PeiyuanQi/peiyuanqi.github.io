@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__he-yi-zheng",
+  "title": "何义 / He Yi",
+  "sourcePath": "references/southern-ming/people/he-yi-zheng.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.he_yi_zheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>何义，郑成功系统将领，1660 年海门海战和高崎战后任命线索人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1660 年五月海门海战中，《海上見聞錄》记郑成功继令何义督战。</li><li>高崎战后，郑成功以何义为虎卫左镇。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为战场督战和虎卫任命人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Battle Command</code>: 海门督战。</li><li><code>Unit Succession</code>: 虎卫左镇任命。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0374</code>：海门海战何义督战线索。</li><li><code>../source-audit.md#audit-sm-0375</code>：高崎战后何义任命。</li></ul>\n<h3>待辨析</h3>\n<ul><li>何义职衔、督战职责、虎卫左镇范围和后续去向需另校。</li></ul>",
+  "plainText": "何义 / He Yi Stable draft ID: person.he yi zheng Status: anchored seed profile 身份 何义，郑成功系统将领，1660 年海门海战和高崎战后任命线索人物。 生平和主要事迹 1660 年五月海门海战中，《海上見聞錄》记郑成功继令何义督战。 高崎战后，郑成功以何义为虎卫左镇。 性格、评价和行为模式提取 当前只可记录为战场督战和虎卫任命人物。 著作或文本 未见。 游戏数据线索 Battle Command: 海门督战。 Unit Succession: 虎卫左镇任命。 来源 ../source audit.md audit sm 0374：海门海战何义督战线索。 ../source audit.md audit sm 0375：高崎战后何义任命。 待辨析 何义职衔、督战职责、虎卫左镇范围和后续去向需另校。"
+}

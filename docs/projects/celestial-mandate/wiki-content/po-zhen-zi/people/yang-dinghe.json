@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__yang-dinghe",
+  "title": "杨鼎和 / Yang Dinghe",
+  "sourcePath": "references/southern-ming/people/yang-dinghe.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.yang_dinghe</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨鼎和，永历南宁朝廷兵部尚书级人物，1651 年秦封争议中反对孙可望压力，随后遇害。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1651 年南宁危局中参与朝廷对孙可望秦王封号的争议。</li><li>贺九仪、张明志等入南宁后，杨鼎和被杀；顾诚据《滇缅录》等将其置于昆仑关/护驾压力链中，地点和执行者仍需逐源校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：维护朝廷封爵权威和名分秩序，但在军事保护者入场后缺乏实际保护。</li><li>可作为“朝臣反制事实摄政失败”的早期节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 朝臣清洗、封爵权威崩坏、孙可望压力。</li><li><code>Report Fact</code>: 秦封争议导致杨鼎和遇害。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0090</code>，<code>../source-audit.md#audit-sm-0174</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>死亡地点、是否在昆仑关被杀、同行朝臣名单需逐源校。</li></ul>",
+  "plainText": "杨鼎和 / Yang Dinghe Stable draft ID: person.yang dinghe Status: anchored seed profile 身份 杨鼎和，永历南宁朝廷兵部尚书级人物，1651 年秦封争议中反对孙可望压力，随后遇害。 生平和主要事迹 1651 年南宁危局中参与朝廷对孙可望秦王封号的争议。 贺九仪、张明志等入南宁后，杨鼎和被杀；顾诚据《滇缅录》等将其置于昆仑关/护驾压力链中，地点和执行者仍需逐源校。 性格、评价和行为模式提取 行为模式：维护朝廷封爵权威和名分秩序，但在军事保护者入场后缺乏实际保护。 可作为“朝臣反制事实摄政失败”的早期节点。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 朝臣清洗、封爵权威崩坏、孙可望压力。 Report Fact: 秦封争议导致杨鼎和遇害。 来源 已核锚点：../source audit.md audit sm 0090，../source audit.md audit sm 0174。 待辨析 死亡地点、是否在昆仑关被杀、同行朝臣名单需逐源校。"
+}

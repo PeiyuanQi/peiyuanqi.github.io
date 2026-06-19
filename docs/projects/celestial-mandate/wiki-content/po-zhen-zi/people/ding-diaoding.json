@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__ding-diaoding",
+  "title": "丁调鼎 / Ding Diaoding",
+  "sourcePath": "references/southern-ming/people/ding-diaoding.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.ding_diaoding</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>丁调鼎，永历入缅后行在锦衣卫人物。顾诚《南明史》在 1660 年高文贵、吴子圣入缅迎驾失败中作锦衣卫。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚《南明史》记 1660 年四月，高文贵、吴子圣入缅迎驾并杀入蛮莫后，缅方迫使永历发敕令其退兵；丁调鼎与吏部郎杨生芳奉命前往传敕，高文贵、吴子圣接敕后从布岭退兵。</li><li>顾诚又记丁调鼎、杨生芳返行在后，以退兵有功而升秩。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：锦衣卫身份下的行在传令节点。</li><li>当前材料不足以判断其在退兵决策中的主动性。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Communication System</code>: 退兵敕令传递。</li><li><code>Court Retinue</code>: 入缅行在近卫/使者层。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0307</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>丁调鼎官职全称、是否在咒水之难名单中出现、传敕路线和后续升秩需继续校。</li></ul>",
+  "plainText": "丁调鼎 / Ding Diaoding Stable draft ID: person.ding diaoding Status: anchored seed profile 身份 丁调鼎，永历入缅后行在锦衣卫人物。顾诚《南明史》在 1660 年高文贵、吴子圣入缅迎驾失败中作锦衣卫。 生平和主要事迹 顾诚《南明史》记 1660 年四月，高文贵、吴子圣入缅迎驾并杀入蛮莫后，缅方迫使永历发敕令其退兵；丁调鼎与吏部郎杨生芳奉命前往传敕，高文贵、吴子圣接敕后从布岭退兵。 顾诚又记丁调鼎、杨生芳返行在后，以退兵有功而升秩。 性格、评价和行为模式提取 行为模式：锦衣卫身份下的行在传令节点。 当前材料不足以判断其在退兵决策中的主动性。 著作或文本 未见已核著作。 游戏数据线索 Communication System: 退兵敕令传递。 Court Retinue: 入缅行在近卫/使者层。 来源 已核锚点：../source audit.md audit sm 0307。 待辨析 丁调鼎官职全称、是否在咒水之难名单中出现、传敕路线和后续升秩需继续校。"
+}

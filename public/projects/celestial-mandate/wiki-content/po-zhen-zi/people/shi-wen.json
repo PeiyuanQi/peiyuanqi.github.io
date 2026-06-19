@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__shi-wen",
+  "title": "史文 / Shi Wen",
+  "sourcePath": "references/southern-ming/people/shi-wen.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.shi_wen</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>史文，南明后府相关人物，1659 年降清名单和顾诚降将概括中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年清兵还云南后，掌后府史文与扶纲、尹三聘、武大定、袁韬等畔降于清。</li><li>顾诚《南明史》概括降清人物时，也记王会、杨成、赵武、史文、邓望功等率众降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其为降清名单节点；“掌后府”职衔和是否率众需继续核。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Actor</code>: 后府/军政机构瓦解。</li><li><code>State Modifier Source</code>: 降将和官员编组。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0300</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>史文职衔、所率人员、与清方十营或其他投诚记录关系需继续校。</li></ul>",
+  "plainText": "史文 / Shi Wen Stable draft ID: person.shi wen Status: anchored seed profile 身份 史文，南明后府相关人物，1659 年降清名单和顾诚降将概括中出现。 生平和主要事迹 《南明史稿》记 1659 年清兵还云南后，掌后府史文与扶纲、尹三聘、武大定、袁韬等畔降于清。 顾诚《南明史》概括降清人物时，也记王会、杨成、赵武、史文、邓望功等率众降清。 性格、评价和行为模式提取 当前只可记录其为降清名单节点；“掌后府”职衔和是否率众需继续核。 著作或文本 未见已核著作。 游戏数据线索 Political Actor: 后府/军政机构瓦解。 State Modifier Source: 降将和官员编组。 来源 已核锚点：../source audit.md audit sm 0300，../source audit.md audit sm 0306。 待辨析 史文职衔、所率人员、与清方十营或其他投诚记录关系需继续校。"
+}

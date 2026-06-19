@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__chen-jiamo",
+  "title": "陈嘉谟 / Chen Jiamo",
+  "sourcePath": "references/southern-ming/people/chen-jiamo.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.chen_jiamo</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈嘉谟，永历初兵部职方司郎中。1646 年绍武、永历并立时与彭燿一同赴广州宣谕，后被苏观生杀害。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>永历朝廷为化解广州绍武并立，派陈嘉谟与彭燿前往广州宣谕。</li><li>宣谕失败后，陈嘉谟与彭燿被杀，广州、肇庆之间的政治冲突转向军事冲突。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>现有材料只足以支撑其作为永历使臣和死难者的角色，不足以抽取稳定性格画像。</li><li>建模上应作为 <code>Diplomatic Envoy</code> 和 <code>Internal Conflict Casualty</code>，暂不加入独立策略偏好。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未核到个人著述。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Actor</code>: 绍武/永历宣谕失败。</li><li><code>Relation Memory</code>: 杀使事件。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0151</code>：永历遣使广州与彭燿、陈嘉谟被杀。</li></ul>\n<h3>待辨析</h3>\n<ul><li>官衔、籍贯、出使日和被杀地点需继续校。</li></ul>",
+  "plainText": "陈嘉谟 / Chen Jiamo Stable draft ID: person.chen jiamo Status: anchored seed profile 身份 陈嘉谟，永历初兵部职方司郎中。1646 年绍武、永历并立时与彭燿一同赴广州宣谕，后被苏观生杀害。 生平和主要事迹 永历朝廷为化解广州绍武并立，派陈嘉谟与彭燿前往广州宣谕。 宣谕失败后，陈嘉谟与彭燿被杀，广州、肇庆之间的政治冲突转向军事冲突。 性格、评价和行为模式提取 现有材料只足以支撑其作为永历使臣和死难者的角色，不足以抽取稳定性格画像。 建模上应作为 Diplomatic Envoy 和 Internal Conflict Casualty，暂不加入独立策略偏好。 著作或文本 未核到个人著述。 游戏数据线索 Event Actor: 绍武/永历宣谕失败。 Relation Memory: 杀使事件。 来源 ../source audit.md audit sm 0151：永历遣使广州与彭燿、陈嘉谟被杀。 待辨析 官衔、籍贯、出使日和被杀地点需继续校。"
+}

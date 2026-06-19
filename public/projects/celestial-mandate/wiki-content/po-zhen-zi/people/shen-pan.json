@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__shen-pan",
+  "title": "沈潘 / Shen Pan",
+  "sourcePath": "references/southern-ming/people/shen-pan.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.shen_pan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>沈潘，松江盗首。1645 年吴易长白荡起兵后被计擒，部众和船只被吴易收编。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>旧籍称沈潘在松江方向劫掠不常，为地方绅民所患。</li><li>吴易起兵后，受诸绅移书，计擒沈潘，降其众并获船。</li><li>沈潘线索显示吴易义军既抗清，也整合或压制地方盗匪。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方盗首被义军首领降服，成为船只和人手来源。</li><li>建模意义：不能把所有聚众自动视为同质“忠义军”，地方秩序层必须单独建模。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 盗匪收编、地方治安、义军船只扩张。</li><li><code>Divergence Gate</code>: 吴易是否能成功整合沈潘部众而非纵容劫掠。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0203</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>沈潘部众规模、船数、活动范围和后续去向需继续校。</li></ul>",
+  "plainText": "沈潘 / Shen Pan Stable draft ID: person.shen pan Status: anchored seed profile 身份 沈潘，松江盗首。1645 年吴易长白荡起兵后被计擒，部众和船只被吴易收编。 生平和主要事迹 旧籍称沈潘在松江方向劫掠不常，为地方绅民所患。 吴易起兵后，受诸绅移书，计擒沈潘，降其众并获船。 沈潘线索显示吴易义军既抗清，也整合或压制地方盗匪。 性格、评价和行为模式提取 行为模式：地方盗首被义军首领降服，成为船只和人手来源。 建模意义：不能把所有聚众自动视为同质“忠义军”，地方秩序层必须单独建模。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 盗匪收编、地方治安、义军船只扩张。 Divergence Gate: 吴易是否能成功整合沈潘部众而非纵容劫掠。 来源 已核锚点：../source audit.md audit sm 0203。 待辨析 沈潘部众规模、船数、活动范围和后续去向需继续校。"
+}

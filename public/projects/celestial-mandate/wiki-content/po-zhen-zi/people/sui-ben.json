@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__sui-ben",
+  "title": "眭本 / Sui Ben",
+  "sourcePath": "references/southern-ming/people/sui-ben.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.sui_ben</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>眭本，生员，1653-1654 年东西会师长江地下网络中的使者人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>贺王盛派眭本以为父请恤典等名义与姚志卓同行，试图建立同永历朝廷和孙可望行营的直接联系。</li><li>行至湖南湘潭时，眭本患病不能继续前进；姚志卓独自赴贵州、安龙。</li><li>后顾诚叙述中，眭本与贺王盛等因清方破获地下网络而遇害。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前资料只足以作为高风险使者记录。</li><li>他的意义在于说明地下联络常以家族恤典、身份掩护和文书传递交错运行。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route/Flow</code>: 江南、湖南、贵州之间的秘密交通。</li><li><code>Risk</code>: 使者病阻、文书滞留、网络暴露。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0102</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>顾诚文本写作“眭本”；旧 OCR 或转写可能误作“睦本”，暂不合并。其父眭明永、请恤典和遇害经过需继续核。</li></ul>",
+  "plainText": "眭本 / Sui Ben Stable draft ID: person.sui ben Status: anchored seed profile 身份 眭本，生员，1653 1654 年东西会师长江地下网络中的使者人物。 生平和主要事迹 贺王盛派眭本以为父请恤典等名义与姚志卓同行，试图建立同永历朝廷和孙可望行营的直接联系。 行至湖南湘潭时，眭本患病不能继续前进；姚志卓独自赴贵州、安龙。 后顾诚叙述中，眭本与贺王盛等因清方破获地下网络而遇害。 性格、评价和行为模式提取 当前资料只足以作为高风险使者记录。 他的意义在于说明地下联络常以家族恤典、身份掩护和文书传递交错运行。 著作或文本 待补。 游戏数据线索 Route/Flow: 江南、湖南、贵州之间的秘密交通。 Risk: 使者病阻、文书滞留、网络暴露。 来源 已核锚点：../source audit.md audit sm 0102。 待辨析 顾诚文本写作“眭本”；旧 OCR 或转写可能误作“睦本”，暂不合并。其父眭明永、请恤典和遇害经过需继续核。"
+}

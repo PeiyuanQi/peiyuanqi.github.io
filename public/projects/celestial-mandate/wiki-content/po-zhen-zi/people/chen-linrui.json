@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__chen-linrui",
+  "title": "陈麟瑞 / Chen Linrui",
+  "sourcePath": "references/southern-ming/people/chen-linrui.md",
+  "html": "<h3>身份</h3>\n<p>陈麟瑞，安龙十八先生追赠层人物。当前已核材料主要见《明季南略》1657 年追赠名单。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>《明季南略》交水后追赠层列陈麟瑞为侍读学士一类追赠对象。</li><li>顾诚所录 1654 处置名单中未明显列出陈麟瑞，因此当前不可直接把他并入案发处置名单。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>这是“追赠名单与案发名单不完全重合”的关键提醒人物之一。建模时应先标为 <code>memorial_roster_only_pending</code> 一类候选，而不是已定案中执行名单。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Memorial Roster Candidate</code>: 追赠层候选人物。</li><li><code>Roster Conflict</code>: 追赠名单与案发名单需拆层。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0280</code>：十八先生追赠、祠庙和地方记忆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈麟瑞是否对应案发层某个异名人物、官职和死难经过需继续校。</li></ul>",
+  "plainText": "陈麟瑞 / Chen Linrui 身份 陈麟瑞，安龙十八先生追赠层人物。当前已核材料主要见《明季南略》1657 年追赠名单。 生平与主要事迹 《明季南略》交水后追赠层列陈麟瑞为侍读学士一类追赠对象。 顾诚所录 1654 处置名单中未明显列出陈麟瑞，因此当前不可直接把他并入案发处置名单。 性格、评价与行为模式 这是“追赠名单与案发名单不完全重合”的关键提醒人物之一。建模时应先标为 memorial roster only pending 一类候选，而不是已定案中执行名单。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Memorial Roster Candidate: 追赠层候选人物。 Roster Conflict: 追赠名单与案发名单需拆层。 来源 ../source audit.md audit sm 0280：十八先生追赠、祠庙和地方记忆层。 待辨析 陈麟瑞是否对应案发层某个异名人物、官职和死难经过需继续校。"
+}

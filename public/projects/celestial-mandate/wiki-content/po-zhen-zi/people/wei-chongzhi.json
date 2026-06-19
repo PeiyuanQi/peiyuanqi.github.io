@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__wei-chongzhi",
+  "title": "魏崇治 / Wei Chongzhi",
+  "sourcePath": "references/southern-ming/people/wei-chongzhi.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.wei_chongzhi</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>魏崇治，维基文库《明史》卷二百九十五所见大理司狱。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明史》卷二百九十五在大理/太和同死层中列司狱魏崇治。</li><li>本地 CBDB 20260530 对 <code>魏崇治</code> 未见直接命中；这是弱否定，只提示转向地方志和点校本。</li><li>当前只作地方狱官死事种子人物；具体职任、籍贯和死亡细节待校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方司法/狱政小官进入城陷死事名单。</li><li>不从单一名单扩展性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 大理/太和陷落死事层。</li><li><code>Local Office</code>: 司狱。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0422</code>：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。</li><li><code>../source-audit.md#audit-sm-0428</code>：本地 CBDB 所见魏崇治无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>魏崇治姓名字形、职任、籍贯、地方志记载和明人传记索引原条待校。</li></ul>",
+  "plainText": "魏崇治 / Wei Chongzhi Stable draft ID: person.wei chongzhi Status: anchored seed profile; identity pending. 身份 魏崇治，维基文库《明史》卷二百九十五所见大理司狱。 生平和主要事迹 《明史》卷二百九十五在大理/太和同死层中列司狱魏崇治。 本地 CBDB 20260530 对 魏崇治 未见直接命中；这是弱否定，只提示转向地方志和点校本。 当前只作地方狱官死事种子人物；具体职任、籍贯和死亡细节待校。 性格、评价和行为模式提取 行为模式：地方司法/狱政小官进入城陷死事名单。 不从单一名单扩展性格。 著作或文本 未见。 游戏数据线索 Event Participant: 大理/太和陷落死事层。 Local Office: 司狱。 来源 ../source audit.md audit sm 0422：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。 ../source audit.md audit sm 0428：本地 CBDB 所见魏崇治无直接命中。 待辨析 魏崇治姓名字形、职任、籍贯、地方志记载和明人传记索引原条待校。"
+}

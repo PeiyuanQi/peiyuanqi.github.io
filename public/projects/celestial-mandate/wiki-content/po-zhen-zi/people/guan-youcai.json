@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__guan-youcai",
+  "title": "关有才 / Guan Youcai",
+  "sourcePath": "references/southern-ming/people/guan-youcai.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.guan_youcai</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>关有才，孙可望体系将领，1655-1658 年前后涉及田州阻拦、楚雄/永昌内应和交水后清算线索。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1655-1656 年前后，孙可望派关有才等阻拦李定国迎驾路线；李定国突破田州方向后，关有才相关兵力溃散或被收。</li><li>交水后善后材料中，顾诚记王自奇、张明志、关有才等曾接受孙可望密令，准备东犯昆明。</li><li>1658 年初后续清算中，李定国阵擒关有才并处死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：亲孙可望阵营的执行型边镇将领。</li><li>其经历适合建模为“内应风险”和“内战后清算”的样本。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 迎驾阻拦、昆明内应风险、交水后清算。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0107</code>，<code>../source-audit.md#audit-sm-0115</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>关有才的爵号、驻地和被擒日期需结合 1658 善后材料继续校。</li></ul>",
+  "plainText": "关有才 / Guan Youcai Stable draft ID: person.guan youcai Status: anchored seed profile 身份 关有才，孙可望体系将领，1655 1658 年前后涉及田州阻拦、楚雄/永昌内应和交水后清算线索。 生平和主要事迹 1655 1656 年前后，孙可望派关有才等阻拦李定国迎驾路线；李定国突破田州方向后，关有才相关兵力溃散或被收。 交水后善后材料中，顾诚记王自奇、张明志、关有才等曾接受孙可望密令，准备东犯昆明。 1658 年初后续清算中，李定国阵擒关有才并处死。 性格、评价和行为模式提取 行为模式：亲孙可望阵营的执行型边镇将领。 其经历适合建模为“内应风险”和“内战后清算”的样本。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 迎驾阻拦、昆明内应风险、交水后清算。 来源 已核锚点：../source audit.md audit sm 0107，../source audit.md audit sm 0115。 待辨析 关有才的爵号、驻地和被擒日期需结合 1658 善后材料继续校。"
+}

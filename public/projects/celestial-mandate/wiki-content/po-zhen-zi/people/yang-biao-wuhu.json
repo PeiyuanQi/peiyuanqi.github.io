@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__yang-biao-wuhu",
+  "title": "杨彪（芜湖末局） / Yang Biao",
+  "sourcePath": "references/southern-ming/people/yang-biao-wuhu.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.yang_biao_wuhu</code><br />Status: low-confidence seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨彪，《南明史稿》芜湖末局日序中列为与黄得功、翁之琪、黄飞、邓林祖等同死的人物之一，职衔作总兵。为避免同名混淆，文件名暂标 <code>wuhu</code>。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年五月下旬，《南明史稿》在刘良佐追驾、黄得功死的同日条中列总兵杨彪等死。</li><li>当前没有已核材料说明其是否为黄得功部将、地方总兵、临时随驾者或另一路军中人物。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>事实层：只作为芜湖末局从死/战死名单层人物。</li><li>行为模式：<code>Terminal Loyalist Roster Candidate</code>。</li><li>不抽取个人性格或确定死节叙事。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Character Identity Disambiguation</code>: 杨彪同名风险。</li><li><code>Report Fact</code>: 芜湖末局从死名单候选。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0469</code>：芜湖末局日期矩阵中《南明史稿》所列杨彪等死层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杨彪的身份、职衔、隶属、死亡地点和同名风险。</li></ul>",
+  "plainText": "杨彪（芜湖末局） / Yang Biao Stable draft ID: person.yang biao wuhu Status: low confidence seed profile 身份 杨彪，《南明史稿》芜湖末局日序中列为与黄得功、翁之琪、黄飞、邓林祖等同死的人物之一，职衔作总兵。为避免同名混淆，文件名暂标 wuhu。 生平和主要事迹 1645 年五月下旬，《南明史稿》在刘良佐追驾、黄得功死的同日条中列总兵杨彪等死。 当前没有已核材料说明其是否为黄得功部将、地方总兵、临时随驾者或另一路军中人物。 性格、评价和行为模式提取 事实层：只作为芜湖末局从死/战死名单层人物。 行为模式：Terminal Loyalist Roster Candidate。 不抽取个人性格或确定死节叙事。 著作或文本 暂未核到个人著作。 游戏数据线索 Character Identity Disambiguation: 杨彪同名风险。 Report Fact: 芜湖末局从死名单候选。 来源 ../source audit.md audit sm 0469：芜湖末局日期矩阵中《南明史稿》所列杨彪等死层。 待辨析 杨彪的身份、职衔、隶属、死亡地点和同名风险。"
+}

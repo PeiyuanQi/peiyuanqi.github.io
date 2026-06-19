@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__sha-yuan",
+  "title": "沙源 / Sha Yuan",
+  "sourcePath": "references/southern-ming/people/sha-yuan.md",
+  "html": "<blockquote><p>Status: anchored seed profile; tusi title and place identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>沙源，《南明野史》和既有云南线锚点所见沙定洲之父，属云南土司网络人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>既有锚点记沙定洲为王弄土司沙源之子；《南明野史》又把沙源放入临安、蒙自、阿迷等土司旧局中。</li><li>《南明野史》记沙源曾与普明声、吾必奎等奉调江西，参与平定水乌之乱的旧籍叙事。</li><li>其重要性主要在于沙氏土司继承链和沙定洲权力来源，而非已可独立建模的个人行动。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作沙氏土司世系节点，不从单一旧籍推断性格或政治立场。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Tusi Network</code>: 沙氏土司世系和蒙自/王弄/临安地名关系。</li><li><code>Identity Disambiguation</code>: 王弄、蒙自、临安等称谓需进入地名换算再用于路线或辖区数据。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0208</code>：沙定洲为王弄土司沙源之子线索。</li><li><code>../source-audit.md#audit-sm-0384</code>：《南明野史》所见沙源、普明声、吾必奎等土司旧局。</li></ul>\n<h3>待辨析</h3>\n<ul><li>沙源土司职名、王弄/蒙自/临安之间的行政和土司地望关系，需要云南地方志校。</li></ul>",
+  "plainText": "沙源 / Sha Yuan Status: anchored seed profile; tusi title and place identity pending. 身份 沙源，《南明野史》和既有云南线锚点所见沙定洲之父，属云南土司网络人物。 生平和主要事迹 既有锚点记沙定洲为王弄土司沙源之子；《南明野史》又把沙源放入临安、蒙自、阿迷等土司旧局中。 《南明野史》记沙源曾与普明声、吾必奎等奉调江西，参与平定水乌之乱的旧籍叙事。 其重要性主要在于沙氏土司继承链和沙定洲权力来源，而非已可独立建模的个人行动。 性格、评价和行为模式提取 当前只作沙氏土司世系节点，不从单一旧籍推断性格或政治立场。 著作或文本 未见。 游戏数据线索 Tusi Network: 沙氏土司世系和蒙自/王弄/临安地名关系。 Identity Disambiguation: 王弄、蒙自、临安等称谓需进入地名换算再用于路线或辖区数据。 来源 ../source audit.md audit sm 0208：沙定洲为王弄土司沙源之子线索。 ../source audit.md audit sm 0384：《南明野史》所见沙源、普明声、吾必奎等土司旧局。 待辨析 沙源土司职名、王弄/蒙自/临安之间的行政和土司地望关系，需要云南地方志校。"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__zhu-yizuo",
+  "title": "朱衣佐 / Zhu Yizuo",
+  "sourcePath": "references/southern-ming/people/zhu-yizuo.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.zhu_yizuo</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱衣佐，清方瓜洲守将或瓜洲战役相关将领，1659 年六月被郑军擒获。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年六月，郑成功攻瓜洲，《閩海紀要》《海上見聞錄》均记朱衣佐被擒。</li><li>《海上見聞錄》又记其被送至镇江并有乞归养母线索；该后续需另证。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>目前只可作为瓜洲守御和俘获名单人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Battle Node</code>: 瓜洲守将被擒。</li><li><code>Evidence Gap</code>: 被俘后处置。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0370</code>：瓜洲战、朱衣佐被擒及后续异文线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>朱衣佐职衔、瓜洲守军结构、被擒后去向和清方记录需地方志与清方档案互校。</li></ul>",
+  "plainText": "朱衣佐 / Zhu Yizuo Stable draft ID: person.zhu yizuo Status: anchored seed profile 身份 朱衣佐，清方瓜洲守将或瓜洲战役相关将领，1659 年六月被郑军擒获。 生平和主要事迹 1659 年六月，郑成功攻瓜洲，《閩海紀要》《海上見聞錄》均记朱衣佐被擒。 《海上見聞錄》又记其被送至镇江并有乞归养母线索；该后续需另证。 性格、评价和行为模式提取 目前只可作为瓜洲守御和俘获名单人物。 著作或文本 未见。 游戏数据线索 Battle Node: 瓜洲守将被擒。 Evidence Gap: 被俘后处置。 来源 ../source audit.md audit sm 0370：瓜洲战、朱衣佐被擒及后续异文线索。 待辨析 朱衣佐职衔、瓜洲守军结构、被擒后去向和清方记录需地方志与清方档案互校。"
+}

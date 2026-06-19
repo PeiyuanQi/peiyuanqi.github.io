@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__ren-yuansui",
+  "title": "任源邃 / Ren Yuansui",
+  "sourcePath": "references/southern-ming/people/ren-yuansui.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.ren_yuansui</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>任源邃，太湖另一路义军人物。旧籍评价其“深沉有大略”。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>任源邃见各地起兵者多不合意，感叹诸军如儿戏。</li><li>吴福之起兵后，约任源邃同就李总兵合军。</li><li>《南明史稿》记吴福之、李甲及任源邃等败绩太湖，死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：对临时义军质量有判断，倾向寻找可成事的军事组合。</li><li>资料状态：评价很集中但来源少，暂作人物性格线索，不作为能力定论。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Advisor/Organizer</code>: 太湖另一路中的谋划型人物候选。</li><li><code>Data Uncertainty</code>: 结局和军事角色待校。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0205</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>任源邃籍贯、职衔、死难细节和是否有文集/传记需继续校。</li></ul>",
+  "plainText": "任源邃 / Ren Yuansui Stable draft ID: person.ren yuansui Status: anchored seed profile 身份 任源邃，太湖另一路义军人物。旧籍评价其“深沉有大略”。 生平和主要事迹 任源邃见各地起兵者多不合意，感叹诸军如儿戏。 吴福之起兵后，约任源邃同就李总兵合军。 《南明史稿》记吴福之、李甲及任源邃等败绩太湖，死。 性格、评价和行为模式提取 行为模式：对临时义军质量有判断，倾向寻找可成事的军事组合。 资料状态：评价很集中但来源少，暂作人物性格线索，不作为能力定论。 著作或文本 未见已核著作。 游戏数据线索 Advisor/Organizer: 太湖另一路中的谋划型人物候选。 Data Uncertainty: 结局和军事角色待校。 来源 已核锚点：../source audit.md audit sm 0205。 待辨析 任源邃籍贯、职衔、死难细节和是否有文集/传记需继续校。"
+}

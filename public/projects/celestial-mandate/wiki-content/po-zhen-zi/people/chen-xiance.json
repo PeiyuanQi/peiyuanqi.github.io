@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__chen-xiance",
+  "title": "陈献策 / Chen Xiance",
+  "sourcePath": "references/southern-ming/people/chen-xiance.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.chen_xiance</code><br />Status: low-confidence seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈献策，《南明史稿》芜湖末局日序中列入田雄、马得功、丘钺、张杰、黄名等同组畔附并犯御舟劫上的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年五月下旬，《南明史稿》在刘良佐追驾、黄得功死后，把陈献策列入畔附并犯御舟劫上的名单。</li><li>当前没有已核材料说明陈献策职衔、所属、是否黄得功部将、是否参与具体拘执动作或后续清方安排。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>事实层：只作芜湖末局畔附/劫上名单层人物。</li><li>行为模式：<code>Defection Cascade Roster Candidate</code>。</li><li>不用“献策”字面或名单位置推导其智谋、主谋或个人动机。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Defection Cascade</code>: 田雄、马得功之外的群体性畔附。</li><li><code>Research Query</code>: 黄得功部将名单、清方接收名单和赏罚记录。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0469</code>：芜湖末局日期矩阵中《南明史稿》所列陈献策等畔附并犯御舟劫上层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈献策的职衔、隶属、实际动作、同名风险和清方后续。</li></ul>",
+  "plainText": "陈献策 / Chen Xiance Stable draft ID: person.chen xiance Status: low confidence seed profile 身份 陈献策，《南明史稿》芜湖末局日序中列入田雄、马得功、丘钺、张杰、黄名等同组畔附并犯御舟劫上的人物。 生平和主要事迹 1645 年五月下旬，《南明史稿》在刘良佐追驾、黄得功死后，把陈献策列入畔附并犯御舟劫上的名单。 当前没有已核材料说明陈献策职衔、所属、是否黄得功部将、是否参与具体拘执动作或后续清方安排。 性格、评价和行为模式提取 事实层：只作芜湖末局畔附/劫上名单层人物。 行为模式：Defection Cascade Roster Candidate。 不用“献策”字面或名单位置推导其智谋、主谋或个人动机。 著作或文本 暂未核到个人著作。 游戏数据线索 Defection Cascade: 田雄、马得功之外的群体性畔附。 Research Query: 黄得功部将名单、清方接收名单和赏罚记录。 来源 ../source audit.md audit sm 0469：芜湖末局日期矩阵中《南明史稿》所列陈献策等畔附并犯御舟劫上层。 待辨析 陈献策的职衔、隶属、实际动作、同名风险和清方后续。"
+}

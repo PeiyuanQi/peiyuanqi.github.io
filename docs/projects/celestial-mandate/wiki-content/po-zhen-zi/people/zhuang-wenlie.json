@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__zhuang-wenlie",
+  "title": "庄文烈 / Zhuang Wenlie",
+  "sourcePath": "references/southern-ming/people/zhuang-wenlie.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.zhuang_wenlie</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>庄文烈，《先王實錄》所见郑氏台湾初期天兴县知县人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《先王實錄》记郑成功取台湾后，改赤嵌城为承天府，下设天兴、万年二县；以杨朝栋为府尹，祝敬知万年县，庄文烈知天兴县。</li><li>CText《臺灣鄭氏始末》整理本同样保存庄文烈知天兴县的设置线索，可作为府县初设的旁证，但仍不能单独确定辖境。</li><li>当前只据这一条作为东都/明京初期府县设置中的行政人物建档。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>资料不足以评价个人性格；只记录其为制度设置节点中的早期地方官。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Governance</code>: 天兴县初设。</li><li><code>Institutional Setup</code>: 东都/明京府县化。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0322</code>，<code>../source-audit.md#audit-sm-0328</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>庄文烈身份、任职日期、天兴县辖境、后续履历和姓名写法需郑氏材料、台湾地方资料和清方材料继续校。</li></ul>",
+  "plainText": "庄文烈 / Zhuang Wenlie Stable draft ID: person.zhuang wenlie Status: anchored seed profile 身份 庄文烈，《先王實錄》所见郑氏台湾初期天兴县知县人物。 生平和主要事迹 《先王實錄》记郑成功取台湾后，改赤嵌城为承天府，下设天兴、万年二县；以杨朝栋为府尹，祝敬知万年县，庄文烈知天兴县。 CText《臺灣鄭氏始末》整理本同样保存庄文烈知天兴县的设置线索，可作为府县初设的旁证，但仍不能单独确定辖境。 当前只据这一条作为东都/明京初期府县设置中的行政人物建档。 性格、评价和行为模式提取 资料不足以评价个人性格；只记录其为制度设置节点中的早期地方官。 著作或文本 未见。 游戏数据线索 Governance: 天兴县初设。 Institutional Setup: 东都/明京府县化。 来源 已核锚点：../source audit.md audit sm 0322，../source audit.md audit sm 0328。 待辨析 庄文烈身份、任职日期、天兴县辖境、后续履历和姓名写法需郑氏材料、台湾地方资料和清方材料继续校。"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__xu-gao",
+  "title": "徐高 / Xu Gao",
+  "sourcePath": "references/southern-ming/people/xu-gao.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.xu_gao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐高，瞿式耜标官。朱亨嘉事件中，瞿式耜预知其将乱，遣徐高察看动静；瞿式耜被幽囚桂林王邸后，徐高幼子得以出入王府并向瞿式耜进粥。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年朱亨嘉自立前后，受瞿式耜派遣察看靖江王府动静。</li><li>瞿式耜被幽囚时，徐高家属参与暗中接济。</li><li>《小腆紀年》附记徐高于永历四年桂林之难殉死；该后续需另按 1650 桂林陷落材料补证。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>徐高体现瞿式耜身边标官、家属和小规模亲信网络在危局中的信息与后勤作用。</li><li>当前材料更适合建模为“地方官亲信网络”节点，而非独立军政人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 瞿式耜亲信网络、被囚状态下的通信和存活支持。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0214</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐高官职、籍贯、幼子姓名，以及永历四年桂林之难殉死细节需另校。</li></ul>",
+  "plainText": "徐高 / Xu Gao Stable draft ID: person.xu gao Status: anchored seed profile 身份 徐高，瞿式耜标官。朱亨嘉事件中，瞿式耜预知其将乱，遣徐高察看动静；瞿式耜被幽囚桂林王邸后，徐高幼子得以出入王府并向瞿式耜进粥。 生平和主要事迹 1645 年朱亨嘉自立前后，受瞿式耜派遣察看靖江王府动静。 瞿式耜被幽囚时，徐高家属参与暗中接济。 《小腆紀年》附记徐高于永历四年桂林之难殉死；该后续需另按 1650 桂林陷落材料补证。 性格、评价和行为模式提取 徐高体现瞿式耜身边标官、家属和小规模亲信网络在危局中的信息与后勤作用。 当前材料更适合建模为“地方官亲信网络”节点，而非独立军政人物。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 瞿式耜亲信网络、被囚状态下的通信和存活支持。 来源 已核锚点：../source audit.md audit sm 0214。 待辨析 徐高官职、籍贯、幼子姓名，以及永历四年桂林之难殉死细节需另校。"
+}

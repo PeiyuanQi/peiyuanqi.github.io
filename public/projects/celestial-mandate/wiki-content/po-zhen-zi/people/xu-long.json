@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__xu-long",
+  "title": "许龙 / Xu Long",
+  "sourcePath": "references/southern-ming/people/xu-long.md",
+  "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>许龙，潮州、南洋方向的地方武装节点；《閩海紀要》1658 年条作许龙，1649 年潮州线中又见许隆，是否同人待校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649 年郑成功潮州勤王线中，许隆/许龙作为南洋、潮州地方节点之一出现，和黄海如、陈斌、达濠、新墟等地名/人物同属待校网络。</li><li>1658 年郑成功命林胜率左右虎卫等南下攻许龙，许龙逃遁，郑军获其辎重、船只并焚巢穴。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为潮州/南洋地方武装节点和郑氏清剿对象记录；不据单一编年材料推断人格。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Local Armed Node</code>: 南洋、潮州地方势力。</li><li><code>Campaign Target</code>: 郑氏南线清剿与招降。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0347</code>：1649 年潮州勤王链中的许隆、南洋和地方节点。</li><li><code>../source-audit.md#audit-sm-0364</code>：1658 年林胜攻许龙。</li></ul>\n<h3>待辨析</h3>\n<ul><li>许龙/许隆是否同人、南洋地望、与 1661 年铜山叛乱材料中“南洋许龙兵至”传闻的关系需地方志、清方记录和郑氏材料互校。</li></ul>",
+  "plainText": "许龙 / Xu Long Status: anchored seed profile; identity pending. 身份 许龙，潮州、南洋方向的地方武装节点；《閩海紀要》1658 年条作许龙，1649 年潮州线中又见许隆，是否同人待校。 生平和主要事迹 1649 年郑成功潮州勤王线中，许隆/许龙作为南洋、潮州地方节点之一出现，和黄海如、陈斌、达濠、新墟等地名/人物同属待校网络。 1658 年郑成功命林胜率左右虎卫等南下攻许龙，许龙逃遁，郑军获其辎重、船只并焚巢穴。 性格、评价和行为模式提取 当前只作为潮州/南洋地方武装节点和郑氏清剿对象记录；不据单一编年材料推断人格。 著作或文本 未见。 游戏数据线索 Local Armed Node: 南洋、潮州地方势力。 Campaign Target: 郑氏南线清剿与招降。 来源 ../source audit.md audit sm 0347：1649 年潮州勤王链中的许隆、南洋和地方节点。 ../source audit.md audit sm 0364：1658 年林胜攻许龙。 待辨析 许龙/许隆是否同人、南洋地望、与 1661 年铜山叛乱材料中“南洋许龙兵至”传闻的关系需地方志、清方记录和郑氏材料互校。"
+}

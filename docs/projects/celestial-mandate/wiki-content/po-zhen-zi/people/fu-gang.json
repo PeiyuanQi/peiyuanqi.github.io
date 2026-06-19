@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__fu-gang",
+  "title": "扶纲 / Fu Gang",
+  "sourcePath": "references/southern-ming/people/fu-gang.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.fu_gang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>扶纲，南明大学士，1659 年滇西和云南降清名单中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记清兵还至云南后，扶纲与尹三聘、马宝、马惟兴、王国玺、吴子金/吴子圣、高启隆、李如碧等先后降清。</li><li>《南明史稿》也在同一阶段列扶纲、尹三聘、马惟兴、王国玺、武大定、袁韬等降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为 1659 年滇西/云南降清链中的文臣节点，不宜据名单推断其完整政治立场。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本轮已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Actor</code>: 永历后期文臣降清链。</li><li><code>State Modifier Source</code>: 行在入缅后文武离散。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0300</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>扶纲官职履历、降清日期、是否有清方授职和与其他同名人物的关系需继续校。</li></ul>",
+  "plainText": "扶纲 / Fu Gang Stable draft ID: person.fu gang Status: anchored seed profile 身份 扶纲，南明大学士，1659 年滇西和云南降清名单中出现。 生平和主要事迹 《小腆紀年》记清兵还至云南后，扶纲与尹三聘、马宝、马惟兴、王国玺、吴子金/吴子圣、高启隆、李如碧等先后降清。 《南明史稿》也在同一阶段列扶纲、尹三聘、马惟兴、王国玺、武大定、袁韬等降清。 性格、评价和行为模式提取 当前只可记录为 1659 年滇西/云南降清链中的文臣节点，不宜据名单推断其完整政治立场。 著作或文本 未见本轮已核著作。 游戏数据线索 Political Actor: 永历后期文臣降清链。 State Modifier Source: 行在入缅后文武离散。 来源 已核锚点：../source audit.md audit sm 0300。 待辨析 扶纲官职履历、降清日期、是否有清方授职和与其他同名人物的关系需继续校。"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__yao-shengwen",
+  "title": "姚生文 / Yao Shengwen",
+  "sourcePath": "references/southern-ming/people/yao-shengwen.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.yao_shengwen</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>姚生文，南明永历初期李成栋攻赣线随军人物。《南明野史》在信丰败死条中称其为监军道，记其与张调鼎同死于乱兵。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>当前已核材料只支撑其在 1649 年信丰战斗中的随军和死难位置。</li><li>《南明野史》将其置于李成栋败死的同一条叙事中，身份作监军道。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>暂不提取性格。当前证据只够建为信丰事件中的随军监军节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 信丰败死中的随军文官/监军伤亡。</li><li><code>Actor Pattern</code>: 攻赣失败不仅损失主帅，也连带损失随军监军与文官链条。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0234</code>，<code>../source-audit.md#audit-sm-0236</code>。</li><li>事件文件：<code>../events/xinfeng-defeat-li-chengdong-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>姚生文籍贯、官衔、是否另见于地方志、文集或清方奏报。</li><li>“死于乱兵”应理解为战斗中遇害、溃乱中死，还是旧籍概括性说法。</li></ul>",
+  "plainText": "姚生文 / Yao Shengwen Stable draft ID: person.yao shengwen Status: anchored seed profile 身份 姚生文，南明永历初期李成栋攻赣线随军人物。《南明野史》在信丰败死条中称其为监军道，记其与张调鼎同死于乱兵。 生平和主要事迹 当前已核材料只支撑其在 1649 年信丰战斗中的随军和死难位置。 《南明野史》将其置于李成栋败死的同一条叙事中，身份作监军道。 性格、评价和行为模式提取 暂不提取性格。当前证据只够建为信丰事件中的随军监军节点。 著作或文本 未见。 游戏数据线索 Report Fact: 信丰败死中的随军文官/监军伤亡。 Actor Pattern: 攻赣失败不仅损失主帅，也连带损失随军监军与文官链条。 来源 已核锚点：../source audit.md audit sm 0234，../source audit.md audit sm 0236。 事件文件：../events/xinfeng defeat li chengdong 1649.md。 待辨析 姚生文籍贯、官衔、是否另见于地方志、文集或清方奏报。 “死于乱兵”应理解为战斗中遇害、溃乱中死，还是旧籍概括性说法。"
+}

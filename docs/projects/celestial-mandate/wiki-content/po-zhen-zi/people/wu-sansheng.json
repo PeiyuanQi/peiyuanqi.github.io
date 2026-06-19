@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__wu-sansheng",
+  "title": "吴三省 / Wu Sansheng",
+  "sourcePath": "references/southern-ming/people/wu-sansheng.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.wu_sansheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>吴三省，南明残军将领，白文选降清前后仍试图入缅会合李定国。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>白文选被张国用、赵得胜挟北走时，途中遇吴三省部。</li><li>吴三省以云南降者不得所、人心思明等话语劝阻白文选部立即降清，使其一度屯驻锡薄/锡箔；顾诚材料称其本人仍步行入缅寻求会合李定国。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：残军中的反降说服者，试图利用降清者不满和郑氏会师消息维持复明可能。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Communication System</code>: 阻止降清、残军再联络。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0140</code>，<code>../source-audit.md#audit-sm-0309</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>所部兵力、驻地耿马/孟定关系和后续结局需校。</li></ul>",
+  "plainText": "吴三省 / Wu Sansheng Stable draft ID: person.wu sansheng Status: anchored seed profile 身份 吴三省，南明残军将领，白文选降清前后仍试图入缅会合李定国。 生平和主要事迹 白文选被张国用、赵得胜挟北走时，途中遇吴三省部。 吴三省以云南降者不得所、人心思明等话语劝阻白文选部立即降清，使其一度屯驻锡薄/锡箔；顾诚材料称其本人仍步行入缅寻求会合李定国。 性格、评价和行为模式提取 行为模式：残军中的反降说服者，试图利用降清者不满和郑氏会师消息维持复明可能。 著作或文本 未见。 游戏数据线索 Communication System: 阻止降清、残军再联络。 来源 已核锚点：../source audit.md audit sm 0140，../source audit.md audit sm 0309。 待辨析 所部兵力、驻地耿马/孟定关系和后续结局需校。"
+}

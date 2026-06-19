@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__ta-xince",
+  "title": "塔新策 / Ta Xince",
+  "sourcePath": "references/southern-ming/people/ta-xince.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.ta_xince</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>塔新策，南明将军，1659 年澜沧江外降清链和后续清方降将编营中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年五月，塔新策与马宝、刘偁、徐廷威、李贵、贺天云等自澜沧江外降清。</li><li>顾诚《南明史》在概括滇西北残军瓦解时，把塔新策列为退至滇西北后先后降清的将领之一；又记顺治十七年七月清方把投降明军分作十营，塔新策为十营总兵之一。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：边地残军失去统一节制后，随降将网络进入清方编组。</li><li>当前材料不足以判断其个人动机、原属系统和是否保有独立兵力。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 澜沧江外降清链。</li><li><code>State Modifier Source</code>: 清方降将编营。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0305</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>塔新策姓名写法、军职、所属兵力、澜沧江外路线和十营编组后的去向需清方资料校。</li></ul>",
+  "plainText": "塔新策 / Ta Xince Stable draft ID: person.ta xince Status: anchored seed profile 身份 塔新策，南明将军，1659 年澜沧江外降清链和后续清方降将编营中出现。 生平和主要事迹 《南明史稿》记 1659 年五月，塔新策与马宝、刘偁、徐廷威、李贵、贺天云等自澜沧江外降清。 顾诚《南明史》在概括滇西北残军瓦解时，把塔新策列为退至滇西北后先后降清的将领之一；又记顺治十七年七月清方把投降明军分作十营，塔新策为十营总兵之一。 性格、评价和行为模式提取 行为模式：边地残军失去统一节制后，随降将网络进入清方编组。 当前材料不足以判断其个人动机、原属系统和是否保有独立兵力。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 澜沧江外降清链。 State Modifier Source: 清方降将编营。 来源 已核锚点：../source audit.md audit sm 0305，../source audit.md audit sm 0306。 待辨析 塔新策姓名写法、军职、所属兵力、澜沧江外路线和十营编组后的去向需清方资料校。"
+}

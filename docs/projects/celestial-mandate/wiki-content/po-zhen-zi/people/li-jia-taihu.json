@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__li-jia-taihu",
+  "title": "李甲 / Li Jia",
+  "sourcePath": "references/southern-ming/people/li-jia-taihu.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.li_jia_taihu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李甲，或为《小腆纪年》所称名字里居不可详的“李总兵”。太湖另一路义军人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆纪年》记与吴易同起兵而另分一路者有总兵官李某，吴福之约任源邃同就其军。</li><li>《南明史稿》记总兵李甲及吴福之、任源邃等败绩太湖，又记李甲等败绩太湖青山。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：太湖另一路义军的军事首领候选。</li><li>资料状态：李某/李甲是否同一仍需校，不应与其他同名李甲合并。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Identity Disambiguation</code>: 李某/李甲同一性待校。</li><li><code>Historical Candidate</code>: 太湖另一路是否能与吴易部协同。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0205</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>姓名、籍贯、职衔、青山地望和死亡细节需地方志/清方材料核验。</li></ul>",
+  "plainText": "李甲 / Li Jia Stable draft ID: person.li jia taihu Status: anchored seed profile 身份 李甲，或为《小腆纪年》所称名字里居不可详的“李总兵”。太湖另一路义军人物。 生平和主要事迹 《小腆纪年》记与吴易同起兵而另分一路者有总兵官李某，吴福之约任源邃同就其军。 《南明史稿》记总兵李甲及吴福之、任源邃等败绩太湖，又记李甲等败绩太湖青山。 性格、评价和行为模式提取 行为模式：太湖另一路义军的军事首领候选。 资料状态：李某/李甲是否同一仍需校，不应与其他同名李甲合并。 著作或文本 未见已核著作。 游戏数据线索 Identity Disambiguation: 李某/李甲同一性待校。 Historical Candidate: 太湖另一路是否能与吴易部协同。 来源 已核锚点：../source audit.md audit sm 0205。 待辨析 姓名、籍贯、职衔、青山地望和死亡细节需地方志/清方材料核验。"
+}

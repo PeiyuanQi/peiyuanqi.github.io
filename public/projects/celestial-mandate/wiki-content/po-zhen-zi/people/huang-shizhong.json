@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__huang-shizhong",
+  "title": "黄事忠 / Huang Shizhong",
+  "sourcePath": "references/southern-ming/people/huang-shizhong.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.huang_shizhong</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>黄事忠，字臣以，永历朝廷职方司人物，参与广东龙门至厦门的封郑成功路线和后续复命线。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年前后，永历朝廷派漳平伯周金汤、职方司黄事忠等由广东龙门航海至厦门，册封郑成功为延平王并晋升东南沿海抗清文武。</li><li>后续复命过程中，黄事忠与张自新从间道入广西，在思忠府/思明府附近被清军擒获；所携文书落入清方。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料不足以评价人格。</li><li>行为模式：册封和文书传递链中的执行者，连接永历行在、广东海路和郑氏厦门。</li></ul>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Diplomatic Courier</code>: 永历册封郑成功路线。</li><li><code>Intelligence Risk</code>: 复命文书被清方截获。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0187</code>：徐孚远、张自新、黄事忠复命受阻和文书被获。</li><li><code>../source-audit.md#audit-sm-0268</code>：复命受阻、文书被获和《小腆紀年》《闽海纪要》旁证。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黄事忠职衔、是否与其他同名人物混杂、被俘后处置和路线细节需补证。</li></ul>",
+  "plainText": "黄事忠 / Huang Shizhong Stable draft ID: person.huang shizhong Status: anchored seed profile 身份 黄事忠，字臣以，永历朝廷职方司人物，参与广东龙门至厦门的封郑成功路线和后续复命线。 生平和主要事迹 1658 年前后，永历朝廷派漳平伯周金汤、职方司黄事忠等由广东龙门航海至厦门，册封郑成功为延平王并晋升东南沿海抗清文武。 后续复命过程中，黄事忠与张自新从间道入广西，在思忠府/思明府附近被清军擒获；所携文书落入清方。 性格、评价和行为模式提取 当前材料不足以评价人格。 行为模式：册封和文书传递链中的执行者，连接永历行在、广东海路和郑氏厦门。 著作或文本 未见。 游戏数据线索 Diplomatic Courier: 永历册封郑成功路线。 Intelligence Risk: 复命文书被清方截获。 来源 ../source audit.md audit sm 0187：徐孚远、张自新、黄事忠复命受阻和文书被获。 ../source audit.md audit sm 0268：复命受阻、文书被获和《小腆紀年》《闽海纪要》旁证。 待辨析 黄事忠职衔、是否与其他同名人物混杂、被俘后处置和路线细节需补证。"
+}

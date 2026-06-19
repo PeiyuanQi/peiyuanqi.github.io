@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__liu-cheng-monitor",
+  "title": "刘澄 / Liu Cheng",
+  "sourcePath": "references/southern-ming/people/liu-cheng-monitor.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.liu_cheng_monitor</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘澄，郑成功系统监纪。为避免与西南终局人物刘偁混淆，本页文件名加 <code>monitor</code> 标识。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年郑成功入江至崇明阶段，《閩海紀要》《海上見聞錄》均记郑成功遣监纪刘澄密通江南提督马进宝。</li><li>该线索把南京战役前的海上进军、江南内应设想和清方地方将领态度连在一起，但密书内容和马进宝实际意图仍需另证。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只支持其为郑氏文书/监纪链上的执行者，不足以评价人格或长期立场。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Command Relay Chain</code>: 郑氏入江阶段的秘密联络。</li><li><code>Evidence Gap</code>: 密书内容、马进宝回应和是否形成实际会师。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0369</code>：1659 年入江、崇明和刘澄密通马进宝。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘澄职任、密书原文、传递路线和后续去向需张煌言材料、清方档案、郑氏原书和地方志互校。</li></ul>",
+  "plainText": "刘澄 / Liu Cheng Stable draft ID: person.liu cheng monitor Status: anchored seed profile 身份 刘澄，郑成功系统监纪。为避免与西南终局人物刘偁混淆，本页文件名加 monitor 标识。 生平和主要事迹 1659 年郑成功入江至崇明阶段，《閩海紀要》《海上見聞錄》均记郑成功遣监纪刘澄密通江南提督马进宝。 该线索把南京战役前的海上进军、江南内应设想和清方地方将领态度连在一起，但密书内容和马进宝实际意图仍需另证。 性格、评价和行为模式提取 当前材料只支持其为郑氏文书/监纪链上的执行者，不足以评价人格或长期立场。 著作或文本 未见。 游戏数据线索 Command Relay Chain: 郑氏入江阶段的秘密联络。 Evidence Gap: 密书内容、马进宝回应和是否形成实际会师。 来源 ../source audit.md audit sm 0369：1659 年入江、崇明和刘澄密通马进宝。 待辨析 刘澄职任、密书原文、传递路线和后续去向需张煌言材料、清方档案、郑氏原书和地方志互校。"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__xu-shi-deng-wenchang-wife",
+  "title": "徐氏（邓文昌妻） / Lady Xu, Wife of Deng Wenchang",
+  "sourcePath": "references/southern-ming/people/xu-shi-deng-wenchang-wife.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.xu_shi_deng_wenchang_wife</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐氏，邓文昌妻，徐弘基之女，《南疆繹史》卷十一中作为福州城破前后死难人物出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南疆繹史》邓文昌传称清军至福州时，徐氏先死，邓文昌随后自尽，并合葬于城北芙蓉岭。</li><li>现阶段只作列女/家属死难来源层，不直接确定死法和日序。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Family Link</code>: 徐弘基家族与邓文昌姻亲。</li><li><code>Memory Layer</code>: 隆武福州终局中的家属死难记忆。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0435</code>：维基文库《南疆繹史》所见邓文昌、徐氏和邓文郁对照层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐氏姓名、死法、合葬地点和是否另见列女传/地方志需继续校。</li></ul>",
+  "plainText": "徐氏（邓文昌妻） / Lady Xu, Wife of Deng Wenchang Stable draft ID: person.xu shi deng wenchang wife Status: seed profile 身份 徐氏，邓文昌妻，徐弘基之女，《南疆繹史》卷十一中作为福州城破前后死难人物出现。 生平和主要事迹 《南疆繹史》邓文昌传称清军至福州时，徐氏先死，邓文昌随后自尽，并合葬于城北芙蓉岭。 现阶段只作列女/家属死难来源层，不直接确定死法和日序。 游戏数据线索 Family Link: 徐弘基家族与邓文昌姻亲。 Memory Layer: 隆武福州终局中的家属死难记忆。 来源 ../source audit.md audit sm 0435：维基文库《南疆繹史》所见邓文昌、徐氏和邓文郁对照层。 待辨析 徐氏姓名、死法、合葬地点和是否另见列女传/地方志需继续校。"
+}

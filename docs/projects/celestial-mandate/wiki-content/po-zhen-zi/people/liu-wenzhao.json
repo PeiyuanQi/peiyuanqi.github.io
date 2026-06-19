@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__liu-wenzhao",
+  "title": "刘文照 / Liu Wenzhao",
+  "sourcePath": "references/southern-ming/people/liu-wenzhao.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.liu_wenzhao</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘文照，新乐侯刘文炳之弟，《南疆繹史》卷十一列为甲申后避居人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>传文称刘文照在甲申后避居，家族与新乐侯刘文炳相连。</li><li>当前只作为勋臣支系避居人物入口，缺少独立事件层。</li><li>本地 CBDB 20260530 有 <code>劉文照 c_personid=519108</code>，索引年 1583，来源见史语所人名权威；字段较薄，只作候选入口。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Family Link</code>: 刘文炳支系。</li><li><code>Memory Layer</code>: 甲申后勋臣支系避居。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0436</code>：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。</li><li><code>../source-audit.md#audit-sm-0439</code>：本地 CBDB 所见刘文照候选权威。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘文照避居地点、后续结局、与刘文炳家族关系和 CBDB <code>519108</code> 是否可用需《明史》、刘氏谱牒和地方志互校。</li></ul>",
+  "plainText": "刘文照 / Liu Wenzhao Stable draft ID: person.liu wenzhao Status: seed profile 身份 刘文照，新乐侯刘文炳之弟，《南疆繹史》卷十一列为甲申后避居人物。 生平和主要事迹 传文称刘文照在甲申后避居，家族与新乐侯刘文炳相连。 当前只作为勋臣支系避居人物入口，缺少独立事件层。 本地 CBDB 20260530 有 劉文照 c personid=519108，索引年 1583，来源见史语所人名权威；字段较薄，只作候选入口。 游戏数据线索 Family Link: 刘文炳支系。 Memory Layer: 甲申后勋臣支系避居。 来源 ../source audit.md audit sm 0436：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。 ../source audit.md audit sm 0439：本地 CBDB 所见刘文照候选权威。 待辨析 刘文照避居地点、后续结局、与刘文炳家族关系和 CBDB 519108 是否可用需《明史》、刘氏谱牒和地方志互校。"
+}

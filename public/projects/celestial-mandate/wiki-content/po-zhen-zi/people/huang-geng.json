@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__huang-geng",
+  "title": "黄赓 / Huang Geng",
+  "sourcePath": "references/southern-ming/people/huang-geng.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.huang_geng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>黄赓，徽州人，旧籍称明季武状元，与黄澍同族。1645 年徽州、绩溪抗清支线中被记为乡兵武力节点。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆纪年》在温璜守徽州条下记黄赓为徽州武状元，率乡兵助守，后削发为僧。</li><li>《明季南略》另有“黄赓为僧”条，记其率众固守徽州、后走闽，清帅招之不从而削发。</li><li>旧籍关于铁鞭重量、十九战皆捷、单骑步战等细节高度戏剧化，暂作为地方忠义和武力记忆，不作战斗事实。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方武力名望和乡兵动员。</li><li>记忆层特征：材料以勇力和器械夸张塑造形象，适合保留为传闻/声望层，不适合直接转成兵力或战绩数值。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 乡兵士气、地方武勇记忆。</li><li><code>Data Uncertainty</code>: 战斗次数、兵力和个人武力描写需低置信处理。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0198</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黄赓是否确为武状元、与黄澍族属关系、后走闽和为僧过程均需外部资料和地方志核验。</li></ul>",
+  "plainText": "黄赓 / Huang Geng Stable draft ID: person.huang geng Status: anchored seed profile 身份 黄赓，徽州人，旧籍称明季武状元，与黄澍同族。1645 年徽州、绩溪抗清支线中被记为乡兵武力节点。 生平和主要事迹 《小腆纪年》在温璜守徽州条下记黄赓为徽州武状元，率乡兵助守，后削发为僧。 《明季南略》另有“黄赓为僧”条，记其率众固守徽州、后走闽，清帅招之不从而削发。 旧籍关于铁鞭重量、十九战皆捷、单骑步战等细节高度戏剧化，暂作为地方忠义和武力记忆，不作战斗事实。 性格、评价和行为模式提取 行为模式：地方武力名望和乡兵动员。 记忆层特征：材料以勇力和器械夸张塑造形象，适合保留为传闻/声望层，不适合直接转成兵力或战绩数值。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 乡兵士气、地方武勇记忆。 Data Uncertainty: 战斗次数、兵力和个人武力描写需低置信处理。 来源 已核锚点：../source audit.md audit sm 0198。 待辨析 黄赓是否确为武状元、与黄澍族属关系、后走闽和为僧过程均需外部资料和地方志核验。"
+}

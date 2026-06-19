@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__he-wangsheng",
+  "title": "贺王盛 / He Wangsheng",
+  "sourcePath": "references/southern-ming/people/he-wangsheng.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.he_wangsheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>贺王盛，原兵部职方司主事，1653-1654 年钱谦益、姚志卓等长江会师地下网络中的联络人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>在顾诚叙述中，贺王盛派遣生员眭本同姚志卓一道赴西南联络永历/孙可望系统。</li><li>姚志卓从贵州带回文书后，贺王盛成为接收和转递相关文书、联络海上张名振线的重要人物之一。</li><li>后因叛徒出卖，贺王盛、眭本等相关人员被清政府逮捕遇害的线索见顾诚叙述。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：清统治区内的高风险地下联络者。</li><li>建模上可作为“地下网络暴露风险”和“文书链条可信度”的节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 地下联络、文书传递、清方破获风险。</li><li><code>Historical Candidate</code>: 长江会师内地响应是否成形。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0102</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>贺王盛官职、雷跃龙师生关系、遇害日期和供词材料需继续校。</li></ul>",
+  "plainText": "贺王盛 / He Wangsheng Stable draft ID: person.he wangsheng Status: anchored seed profile 身份 贺王盛，原兵部职方司主事，1653 1654 年钱谦益、姚志卓等长江会师地下网络中的联络人物。 生平和主要事迹 在顾诚叙述中，贺王盛派遣生员眭本同姚志卓一道赴西南联络永历/孙可望系统。 姚志卓从贵州带回文书后，贺王盛成为接收和转递相关文书、联络海上张名振线的重要人物之一。 后因叛徒出卖，贺王盛、眭本等相关人员被清政府逮捕遇害的线索见顾诚叙述。 性格、评价和行为模式提取 行为模式：清统治区内的高风险地下联络者。 建模上可作为“地下网络暴露风险”和“文书链条可信度”的节点。 著作或文本 待补。 游戏数据线索 State Modifier Source: 地下联络、文书传递、清方破获风险。 Historical Candidate: 长江会师内地响应是否成形。 来源 已核锚点：../source audit.md audit sm 0102。 待辨析 贺王盛官职、雷跃龙师生关系、遇害日期和供词材料需继续校。"
+}

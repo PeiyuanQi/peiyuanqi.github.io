@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__liu-you-zheng",
+  "title": "刘猷 / Liu You",
+  "sourcePath": "references/southern-ming/people/liu-you-zheng.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.liu_you_zheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘猷，郑成功系统将领或守备节点人物，1659 年瓜洲、温州线索中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年六月郑军克瓜洲后，材料记郑成功以刘猷守瓜洲，并以柯平督江防。</li><li>南京败后，《海上見聞錄》记十月刘猷在温州取饷战死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料显示其承担前线守备与取饷任务，但不足以进一步评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Garrison Commander</code>: 瓜洲守备。</li><li><code>Supply Raid</code>: 温州取饷战死线索。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0370</code>：瓜洲克复后刘猷守瓜洲。</li><li><code>../source-audit.md#audit-sm-0372</code>：刘猷温州取饷战死线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘猷职衔、守瓜洲时间、温州战死地点和战斗经过需郑氏原书、地方志和清方材料互校。</li></ul>",
+  "plainText": "刘猷 / Liu You Stable draft ID: person.liu you zheng Status: anchored seed profile 身份 刘猷，郑成功系统将领或守备节点人物，1659 年瓜洲、温州线索中出现。 生平和主要事迹 1659 年六月郑军克瓜洲后，材料记郑成功以刘猷守瓜洲，并以柯平督江防。 南京败后，《海上見聞錄》记十月刘猷在温州取饷战死。 性格、评价和行为模式提取 当前材料显示其承担前线守备与取饷任务，但不足以进一步评价。 著作或文本 未见。 游戏数据线索 Garrison Commander: 瓜洲守备。 Supply Raid: 温州取饷战死线索。 来源 ../source audit.md audit sm 0370：瓜洲克复后刘猷守瓜洲。 ../source audit.md audit sm 0372：刘猷温州取饷战死线索。 待辨析 刘猷职衔、守瓜洲时间、温州战死地点和战斗经过需郑氏原书、地方志和清方材料互校。"
+}

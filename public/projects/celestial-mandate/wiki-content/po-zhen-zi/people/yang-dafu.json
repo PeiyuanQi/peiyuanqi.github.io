@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__yang-dafu",
+  "title": "杨大甫 / Yang Dafu",
+  "sourcePath": "references/southern-ming/people/yang-dafu.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.yang_dafu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨大甫，1649 年忠贞营南撤广西、梧州冲突中被叶承恩、刘嗣宽飞檄求援的德庆总兵。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649 年五月，叶承恩、刘嗣宽在梧州附近阻击忠贞营失利后，飞檄德庆总兵杨大甫来援。</li><li>其出现说明梧州、封川/封开、德庆、西江水路防务在忠贞营南撤中相互牵连。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只能作为西江地方军镇节点处理；不应在未检地方志前推断其后续政治选择。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见可归属文本。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 德庆-梧州西江防务联动。</li><li><code>Report Fact</code>: 地方总兵被召援友军过境冲突。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0240</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>德庆总兵任命、辖兵、是否实际到援、是否与李赤心/高必正直接交战待地方志校。</li></ul>",
+  "plainText": "杨大甫 / Yang Dafu Stable draft ID: person.yang dafu Status: anchored seed profile 身份 杨大甫，1649 年忠贞营南撤广西、梧州冲突中被叶承恩、刘嗣宽飞檄求援的德庆总兵。 生平和主要事迹 1649 年五月，叶承恩、刘嗣宽在梧州附近阻击忠贞营失利后，飞檄德庆总兵杨大甫来援。 其出现说明梧州、封川/封开、德庆、西江水路防务在忠贞营南撤中相互牵连。 性格、评价和行为模式提取 当前只能作为西江地方军镇节点处理；不应在未检地方志前推断其后续政治选择。 著作或文本 未见可归属文本。 游戏数据线索 State Modifier Source: 德庆 梧州西江防务联动。 Report Fact: 地方总兵被召援友军过境冲突。 来源 已核锚点：../source audit.md audit sm 0240；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 德庆总兵任命、辖兵、是否实际到援、是否与李赤心/高必正直接交战待地方志校。"
+}

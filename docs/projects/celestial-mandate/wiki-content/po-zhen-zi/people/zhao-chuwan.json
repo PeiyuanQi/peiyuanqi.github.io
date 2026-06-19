@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__zhao-chuwan",
+  "title": "赵初浣 / Zhao Chuwan",
+  "sourcePath": "references/southern-ming/people/zhao-chuwan.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.zhao_chuwan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>赵初浣，字雪度，泾县生员，本邑人。1645 年与尹民兴、吴汉超起兵守泾县。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>吴汉超联络流寓泾县的尹民兴后，赵初浣与二人共同起兵城守。</li><li>《小腆纪年》记泾县城破后，赵初浣被杀。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：本邑士人作为流寓官员和地方武力之间的本地锚点。</li><li>资料状态：当前只可确认其参与守城并死难，不宜扩展心理或政治评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Local Legitimacy</code>: 本地士人参与可提升泾县守城动员可信度。</li><li><code>Martyrdom Memory</code>: 泾县城破死难人物。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0200</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>字号、家族、城破当日经过和是否有赠恤记录需地方志校。</li></ul>",
+  "plainText": "赵初浣 / Zhao Chuwan Stable draft ID: person.zhao chuwan Status: anchored seed profile 身份 赵初浣，字雪度，泾县生员，本邑人。1645 年与尹民兴、吴汉超起兵守泾县。 生平和主要事迹 吴汉超联络流寓泾县的尹民兴后，赵初浣与二人共同起兵城守。 《小腆纪年》记泾县城破后，赵初浣被杀。 性格、评价和行为模式提取 行为模式：本邑士人作为流寓官员和地方武力之间的本地锚点。 资料状态：当前只可确认其参与守城并死难，不宜扩展心理或政治评价。 著作或文本 未见已核著作。 游戏数据线索 Local Legitimacy: 本地士人参与可提升泾县守城动员可信度。 Martyrdom Memory: 泾县城破死难人物。 来源 已核锚点：../source audit.md audit sm 0200。 待辨析 字号、家族、城破当日经过和是否有赠恤记录需地方志校。"
+}

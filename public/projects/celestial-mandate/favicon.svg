@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Celestial Mandate">
-  <rect width="64" height="64" rx="8" fill="#111610"/>
-  <path d="M14 17h36v6H14zM20 29h24v6H20zM27 41h10v7H27z" fill="#c13b27"/>
-  <path d="M16 50h32" stroke="#d8b75d" stroke-width="4" stroke-linecap="round"/>
-  <path d="M19 14c8 5 18 5 26 0" fill="none" stroke="#4f8a8b" stroke-width="3" stroke-linecap="round"/>
+  <rect width="64" height="64" rx="12" fill="#111610"/>
+  <rect x="17" y="18" width="30" height="30" fill="none" stroke="#d8b75d" stroke-width="5.5" stroke-linejoin="round"/>
+  <path d="M22 42 42 22" fill="none" stroke="#4f8a8b" stroke-width="6" stroke-linecap="round"/>
+  <rect x="25" y="25" width="14" height="14" rx="1.5" fill="#c13b27" stroke="#f0d08c" stroke-width="2.2"/>
 </svg>

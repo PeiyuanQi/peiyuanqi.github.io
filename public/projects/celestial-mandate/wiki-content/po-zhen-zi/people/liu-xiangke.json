@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__liu-xiangke",
+  "title": "刘湘客 / Liu Xiangke",
+  "sourcePath": "references/southern-ming/people/liu-xiangke.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.liu_xiangke</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘湘客，永历朝臣，1649 年被派往梧州安辑忠贞营，后在《小腆紀年》评语中与金堡等并列为与堵胤锡为难者。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649 年，永历帝遣严起恒、刘湘客至梧州安辑忠贞营；到达时李赤心等已入宾、横二州，二人遂载堵胤锡回肇庆。</li><li>《小腆紀年》后文评价堵胤锡权宜承制问题时，将刘湘客、金堡等作为反对或诋排堵胤锡的一方。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可作为“朝臣安辑/质疑堵胤锡权宜”的节点人物；不宜据单条评语定性为误国或党争人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见可归属文本。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 朝廷派员安辑忠贞营时已错过驻地窗口。</li><li><code>State Modifier Source</code>: 中枢文臣与堵胤锡整合方案之间的信任裂痕。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0243</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘湘客官职、籍贯、是否另有传记、与严起恒/金堡/堵胤锡的具体关系待校。</li></ul>",
+  "plainText": "刘湘客 / Liu Xiangke Stable draft ID: person.liu xiangke Status: anchored seed profile 身份 刘湘客，永历朝臣，1649 年被派往梧州安辑忠贞营，后在《小腆紀年》评语中与金堡等并列为与堵胤锡为难者。 生平和主要事迹 1649 年，永历帝遣严起恒、刘湘客至梧州安辑忠贞营；到达时李赤心等已入宾、横二州，二人遂载堵胤锡回肇庆。 《小腆紀年》后文评价堵胤锡权宜承制问题时，将刘湘客、金堡等作为反对或诋排堵胤锡的一方。 性格、评价和行为模式提取 当前只可作为“朝臣安辑/质疑堵胤锡权宜”的节点人物；不宜据单条评语定性为误国或党争人物。 著作或文本 未见可归属文本。 游戏数据线索 Report Fact: 朝廷派员安辑忠贞营时已错过驻地窗口。 State Modifier Source: 中枢文臣与堵胤锡整合方案之间的信任裂痕。 来源 已核锚点：../source audit.md audit sm 0243；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 刘湘客官职、籍贯、是否另有传记、与严起恒/金堡/堵胤锡的具体关系待校。"
+}
