@@ -13,6 +13,7 @@ const Cell = ({ data, isOpen, onSelect }) => {
   const firstImage = images[0];
   const detailImages = images.slice(1);
   const detailVideos = data.videos || [];
+  const detailLinks = data.links || [];
   const detailId = `project-detail-${data.slug}`;
 
   return (
@@ -62,12 +63,30 @@ const Cell = ({ data, isOpen, onSelect }) => {
                 {data.details.map((paragraph) => (
                   <p key={paragraph}>{paragraph}</p>
                 ))}
+                {detailLinks.length > 0 && (
+                  <div className="project-detail__links">
+                    {detailLinks.map((link) => (
+                      <a
+                        href={link.href}
+                        key={link.href}
+                        rel={link.external ? 'noreferrer' : undefined}
+                        target={link.external ? '_blank' : undefined}
+                      >
+                        {link.label}
+                      </a>
+                    ))}
+                  </div>
+                )}
               </div>
               <dl className="project-detail__facts">
                 {data.facts.map((fact) => (
                   <div key={fact.label}>
                     <dt>{fact.label}</dt>
-                    <dd>{fact.value}</dd>
+                    <dd>
+                      {fact.href ? (
+                        <a href={fact.href}>{fact.value}</a>
+                      ) : fact.value}
+                    </dd>
                   </div>
                 ))}
               </dl>
@@ -119,11 +138,17 @@ Cell.propTypes = {
     desc: PropTypes.string.isRequired,
     details: PropTypes.arrayOf(PropTypes.string).isRequired,
     facts: PropTypes.arrayOf(PropTypes.shape({
+      href: PropTypes.string,
       label: PropTypes.string.isRequired,
       value: PropTypes.string.isRequired,
     })).isRequired,
     image: PropTypes.string.isRequired,
     images: PropTypes.arrayOf(PropTypes.string).isRequired,
+    links: PropTypes.arrayOf(PropTypes.shape({
+      external: PropTypes.bool,
+      href: PropTypes.string.isRequired,
+      label: PropTypes.string.isRequired,
+    })),
     slug: PropTypes.string.isRequired,
     subtitle: PropTypes.string.isRequired,
     summary: PropTypes.string.isRequired,

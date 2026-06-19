@@ -268,6 +268,29 @@
     }
   }
 
+  .project-detail__links {
+    @include vendor('display', 'flex');
+    @include vendor('flex-wrap', 'wrap');
+    gap: 0.75em;
+    margin-top: 1.25em;
+
+    a {
+      border: solid 1px _palette(border);
+      color: _palette(fg-bold);
+      font-family: _font(family-heading);
+      font-size: 0.55em;
+      font-weight: _font(weight-heading-bold);
+      letter-spacing: _font(kerning-heading);
+      padding: 0.8em 1em;
+      text-transform: uppercase;
+
+      &:hover {
+        border-color: _palette(accent);
+        color: _palette(accent) !important;
+      }
+    }
+  }
+
   .project-detail__facts {
     border-left: solid 1px _palette(border);
     margin: 0;
@@ -294,6 +317,16 @@
       color: _palette(fg-bold);
       font-size: 0.9em;
       margin: 0.25em 0 0;
+
+      a {
+        border-bottom: dotted 1px transparentize(_palette(fg-bold), 0.45);
+        color: _palette(fg-bold);
+
+        &:hover {
+          border-bottom-color: _palette(accent);
+          color: _palette(accent) !important;
+        }
+      }
     }
   }
 
