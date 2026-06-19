@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__yang-tingshu",
+  "title": "杨廷枢 / Yang Tingshu",
+  "sourcePath": "references/southern-ming/people/yang-tingshu.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.yang_tingshu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨廷枢，字维斗，吴县人，崇祯庚午应天乡试第一。吴胜兆反清案中因门人戴之俊和策动线索被捕遇害。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>清兵南下后隐居邓尉山中，秘密联络抗清志士。</li><li>门人戴之俊参与劝说吴胜兆反清，吴胜兆案败后，杨廷枢被牵连逮捕。</li><li>顾诚据清方材料和《明季南略》记其拒绝剃发，五月初一遇害。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：名望士人、门生网络和地下抗清策动。</li><li>风险特征：门人行动可反向牵连师长与士绅网络。</li><li>评价层：拒剃和死节语言在旧籍中有强记忆性，需与清方案卷事实分层。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>血衣、诗文等传说和文本需后续专题整理。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Argument</code>: 剃发与忠义身份。</li><li><code>Intelligence Risk</code>: 门人网络暴露。</li><li><code>State Modifier Source</code>: 江南士人名望和清方劝降/剃发压力。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0197</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>戴之俊姓名异写、杨廷枢受刑过程、血衣诗文真伪和遇害日期需分源校。</li></ul>",
+  "plainText": "杨廷枢 / Yang Tingshu Stable draft ID: person.yang tingshu Status: anchored seed profile 身份 杨廷枢，字维斗，吴县人，崇祯庚午应天乡试第一。吴胜兆反清案中因门人戴之俊和策动线索被捕遇害。 生平和主要事迹 清兵南下后隐居邓尉山中，秘密联络抗清志士。 门人戴之俊参与劝说吴胜兆反清，吴胜兆案败后，杨廷枢被牵连逮捕。 顾诚据清方材料和《明季南略》记其拒绝剃发，五月初一遇害。 性格、评价和行为模式提取 行为模式：名望士人、门生网络和地下抗清策动。 风险特征：门人行动可反向牵连师长与士绅网络。 评价层：拒剃和死节语言在旧籍中有强记忆性，需与清方案卷事实分层。 著作或文本 血衣、诗文等传说和文本需后续专题整理。 游戏数据线索 Political Argument: 剃发与忠义身份。 Intelligence Risk: 门人网络暴露。 State Modifier Source: 江南士人名望和清方劝降/剃发压力。 来源 已核锚点：../source audit.md audit sm 0197。 待辨析 戴之俊姓名异写、杨廷枢受刑过程、血衣诗文真伪和遇害日期需分源校。"
+}

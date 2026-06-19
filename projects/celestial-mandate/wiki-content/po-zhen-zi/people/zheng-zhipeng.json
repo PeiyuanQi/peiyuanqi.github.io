@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__zheng-zhipeng",
+  "title": "郑芝鹏 / Zheng Zhipeng",
+  "sourcePath": "references/southern-ming/people/zheng-zhipeng.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.zheng_zhipeng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>郑芝鹏，郑氏家族人物，早期见于厦门、鼓浪屿和厦门留守线，1651 年厦门失守后被郑成功追责处死。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《臺灣鄭氏始末》卷二记 1647 年郑成功以金门、安平、鼓浪屿为基地时，命郑鸿逵、郑芝豹、郑芝鹏分守。</li><li>《閩海紀要》《海上見聞錄》记 1650 年郑成功南下勤王时，命郑芝鹏镇守厦门；1651 年张学圣、马得功袭厦门后，郑芝鹏不能守，郑成功回师后以失守罪斩之。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只支撑其为郑氏支系留守人物和失败追责案例，不足以展开性格评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Rear Base Risk</code>: 主帅外出后留守节点崩溃。</li><li><code>Discipline Event</code>: 厦门失守后的军纪/追责。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0335</code>，<code>../source-audit.md#audit-sm-0348</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>郑芝鹏亲族关系、1647 分守地点、1651 厦门守备部署、处分日序和阮引等同案人物需郑氏原书、清方材料和地方志互校。</li></ul>",
+  "plainText": "郑芝鹏 / Zheng Zhipeng Stable draft ID: person.zheng zhipeng Status: anchored seed profile 身份 郑芝鹏，郑氏家族人物，早期见于厦门、鼓浪屿和厦门留守线，1651 年厦门失守后被郑成功追责处死。 生平和主要事迹 《臺灣鄭氏始末》卷二记 1647 年郑成功以金门、安平、鼓浪屿为基地时，命郑鸿逵、郑芝豹、郑芝鹏分守。 《閩海紀要》《海上見聞錄》记 1650 年郑成功南下勤王时，命郑芝鹏镇守厦门；1651 年张学圣、马得功袭厦门后，郑芝鹏不能守，郑成功回师后以失守罪斩之。 性格、评价和行为模式提取 当前材料只支撑其为郑氏支系留守人物和失败追责案例，不足以展开性格评价。 著作或文本 未见。 游戏数据线索 Rear Base Risk: 主帅外出后留守节点崩溃。 Discipline Event: 厦门失守后的军纪/追责。 来源 已核锚点：../source audit.md audit sm 0335，../source audit.md audit sm 0348。 待辨析 郑芝鹏亲族关系、1647 分守地点、1651 厦门守备部署、处分日序和阮引等同案人物需郑氏原书、清方材料和地方志互校。"
+}

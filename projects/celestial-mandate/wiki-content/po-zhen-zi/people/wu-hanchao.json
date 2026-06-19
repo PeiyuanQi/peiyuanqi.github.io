@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__wu-hanchao",
+  "title": "吴汉超 / Wu Hanchao",
+  "sourcePath": "references/southern-ming/people/wu-hanchao.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.wu_hanchao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>吴汉超，字许公。1645 年与尹民兴、赵初浣起兵守泾县。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>北京陷落后，吴汉超曾与友人汤廷铉谋募师赴难；南都建立后暂止。</li><li>南都覆亡后，吴汉超议保宁国境，未得响应；随后联络流寓泾县的尹民兴，与赵初浣起兵守城。</li><li>《小腆纪年》称其善战；泾县城破后，吴汉超匿华阳山中。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：先谋远赴勤王，后转入本地守城和山地隐匿。</li><li>能力特征：旧籍强调其“强直有胆”和善战，但具体战绩待核。</li><li>风险特征：依赖地方响应；当宁国境无人响应时，只能转向泾县小核心防守。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>CharacterProfile</code>: 泾县防御中的武力/执行型人物。</li><li><code>Route</code>: 泾县城破后转入华阳山隐匿的山地逃亡线索。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0200</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>汤廷铉身份、吴汉超后续结局、华阳山隐匿是否与邱祖德华阳山寨同一空间需校。</li></ul>",
+  "plainText": "吴汉超 / Wu Hanchao Stable draft ID: person.wu hanchao Status: anchored seed profile 身份 吴汉超，字许公。1645 年与尹民兴、赵初浣起兵守泾县。 生平和主要事迹 北京陷落后，吴汉超曾与友人汤廷铉谋募师赴难；南都建立后暂止。 南都覆亡后，吴汉超议保宁国境，未得响应；随后联络流寓泾县的尹民兴，与赵初浣起兵守城。 《小腆纪年》称其善战；泾县城破后，吴汉超匿华阳山中。 性格、评价和行为模式提取 行为模式：先谋远赴勤王，后转入本地守城和山地隐匿。 能力特征：旧籍强调其“强直有胆”和善战，但具体战绩待核。 风险特征：依赖地方响应；当宁国境无人响应时，只能转向泾县小核心防守。 著作或文本 未见已核著作。 游戏数据线索 CharacterProfile: 泾县防御中的武力/执行型人物。 Route: 泾县城破后转入华阳山隐匿的山地逃亡线索。 来源 已核锚点：../source audit.md audit sm 0200。 待辨析 汤廷铉身份、吴汉超后续结局、华阳山隐匿是否与邱祖德华阳山寨同一空间需校。"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__wu-fuzhi",
+  "title": "吴福之 / Wu Fuzhi",
+  "sourcePath": "references/southern-ming/people/wu-fuzhi.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.wu_fuzhi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>吴福之，常州诸生，旧籍记为闽中礼部尚书吴锺峦之子。太湖另一路义军人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>吴福之起兵后，约任源邃同就李总兵合为一军。</li><li>《明季南略》记其屡与清兵战，越三月兵溃后投湖死。</li><li>《南明史稿》记恩贡吴福之、总兵李甲、任源邃等败绩太湖死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：士人起兵后寻求与更大军事首领合流。</li><li>风险特征：另一路太湖义军与吴易网络关系不明，不能默认同属吴易直接指挥。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 太湖另一路义军能否与吴易或黄蜚部形成协同。</li><li><code>Data Uncertainty</code>: 职衔、隶属和败绩地点待校。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0205</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>吴福之身份、投湖地点、与李甲和任源邃关系需地方志校。</li></ul>",
+  "plainText": "吴福之 / Wu Fuzhi Stable draft ID: person.wu fuzhi Status: anchored seed profile 身份 吴福之，常州诸生，旧籍记为闽中礼部尚书吴锺峦之子。太湖另一路义军人物。 生平和主要事迹 吴福之起兵后，约任源邃同就李总兵合为一军。 《明季南略》记其屡与清兵战，越三月兵溃后投湖死。 《南明史稿》记恩贡吴福之、总兵李甲、任源邃等败绩太湖死。 性格、评价和行为模式提取 行为模式：士人起兵后寻求与更大军事首领合流。 风险特征：另一路太湖义军与吴易网络关系不明，不能默认同属吴易直接指挥。 著作或文本 未见已核著作。 游戏数据线索 Historical Candidate: 太湖另一路义军能否与吴易或黄蜚部形成协同。 Data Uncertainty: 职衔、隶属和败绩地点待校。 来源 已核锚点：../source audit.md audit sm 0205。 待辨析 吴福之身份、投湖地点、与李甲和任源邃关系需地方志校。"
+}

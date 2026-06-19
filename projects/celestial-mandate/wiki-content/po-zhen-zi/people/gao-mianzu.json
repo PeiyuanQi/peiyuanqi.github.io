@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__gao-mianzu",
+  "title": "高绵祖 / Gao Mianzu",
+  "sourcePath": "references/southern-ming/people/gao-mianzu.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.gao_mianzu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>高绵祖，1659 年南京围城前后郑氏会马进宝师线索人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年七月郑成功进逼南京时，《閩海紀要》记郑成功遣蔡政、高绵祖会马进宝师。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为会师/联络链人物，不足以判断其具体职能。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Command Relay Chain</code>: 郑氏与马进宝的会师联络。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0371</code>：蔡政、高绵祖会马进宝师。</li></ul>\n<h3>待辨析</h3>\n<ul><li>高绵祖身份、职衔、与蔡政分工和是否见到马进宝需另校。</li></ul>",
+  "plainText": "高绵祖 / Gao Mianzu Stable draft ID: person.gao mianzu Status: anchored seed profile 身份 高绵祖，1659 年南京围城前后郑氏会马进宝师线索人物。 生平和主要事迹 1659 年七月郑成功进逼南京时，《閩海紀要》记郑成功遣蔡政、高绵祖会马进宝师。 性格、评价和行为模式提取 当前只可记录为会师/联络链人物，不足以判断其具体职能。 著作或文本 未见。 游戏数据线索 Command Relay Chain: 郑氏与马进宝的会师联络。 来源 ../source audit.md audit sm 0371：蔡政、高绵祖会马进宝师。 待辨析 高绵祖身份、职衔、与蔡政分工和是否见到马进宝需另校。"
+}

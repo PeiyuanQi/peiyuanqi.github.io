@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__gao-dejie",
+  "title": "高得捷 / Gao Dejie",
+  "sourcePath": "references/southern-ming/people/gao-dejie.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.gao_dejie</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>高得捷，吴三桂前锋相关人物，在永历被缅方交出、登岸入清营的异文中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》和顾诚所列异文中，高得捷出现在永历被缅方送出、登岸或入清营的接收链条里；顾诚主叙另记王会在河边假称奉李定国迎驾，当前仅作为异文对照。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作为献俘日序中的具体人物节点记录。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Detail</code>: 永历被献清的执行链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0138</code>，<code>../source-audit.md#audit-sm-0264</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>与王会异文的先后、职衔、是否为同一叙事层需要逐源校。</li></ul>",
+  "plainText": "高得捷 / Gao Dejie Stable draft ID: person.gao dejie Status: anchored seed profile 身份 高得捷，吴三桂前锋相关人物，在永历被缅方交出、登岸入清营的异文中出现。 生平和主要事迹 《小腆紀年》和顾诚所列异文中，高得捷出现在永历被缅方送出、登岸或入清营的接收链条里；顾诚主叙另记王会在河边假称奉李定国迎驾，当前仅作为异文对照。 性格、评价和行为模式提取 当前只作为献俘日序中的具体人物节点记录。 著作或文本 未见。 游戏数据线索 Event Detail: 永历被献清的执行链。 来源 已核锚点：../source audit.md audit sm 0138，../source audit.md audit sm 0264。 待辨析 与王会异文的先后、职衔、是否为同一叙事层需要逐源校。"
+}

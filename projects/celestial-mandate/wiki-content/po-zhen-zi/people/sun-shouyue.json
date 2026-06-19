@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__sun-shouyue",
+  "title": "孙守约 / Sun Shouyue",
+  "sourcePath": "references/southern-ming/people/sun-shouyue.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.sun_shouyue</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>孙守约，《明季南略》卷十七所见曲靖守城人物。来源称其为副总兵，驻札曲靖。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明季南略》卷十七记孙可旺等攻曲靖时，孙守约与朱寿琳、孔思诚、张京元等同在守城链条中。</li><li>城陷后，该来源把孙守约与孔思诚等写作降。</li><li>当前不据单一来源扩展其后续履历。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>暂不提取性格；“降”只作为旧籍记录层。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 曲靖防御。</li><li><code>Identity Pending</code>: 曲靖副总兵职任待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0406</code>：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>孙守约职任、城陷后去向、与其他同名武将是否混淆，需查地方志和明清档案。</li></ul>",
+  "plainText": "孙守约 / Sun Shouyue Stable draft ID: person.sun shouyue Status: anchored seed profile 身份 孙守约，《明季南略》卷十七所见曲靖守城人物。来源称其为副总兵，驻札曲靖。 生平和主要事迹 《明季南略》卷十七记孙可旺等攻曲靖时，孙守约与朱寿琳、孔思诚、张京元等同在守城链条中。 城陷后，该来源把孙守约与孔思诚等写作降。 当前不据单一来源扩展其后续履历。 性格、评价和行为模式提取 暂不提取性格；“降”只作为旧籍记录层。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 曲靖防御。 Identity Pending: 曲靖副总兵职任待校。 来源 ../source audit.md audit sm 0406：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。 待辨析 孙守约职任、城陷后去向、与其他同名武将是否混淆，需查地方志和明清档案。"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__shen-zibing",
+  "title": "沈自炳 / Shen Zibing",
+  "sourcePath": "references/southern-ming/people/shen-zibing.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.shen_zibing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>沈自炳，字君晦，太湖水乡抗清支线人物。《小腆纪年》记其为沈自征之弟。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>沈自征生前造渔船并藏于太湖，沈自炳、沈自駉在其死后收船集兵。</li><li>1645 年剃发令和地方冲突加剧后，沈自炳与陆世钥相应起兵。</li><li>其具体职衔、战斗和结局本轮尚未核实。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：继承家族船只资源并转化为水乡武装。</li><li>资料状态：当前证据重在船只和起兵，不宜扩展个人评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route/Water Network</code>: 太湖渔船资源和义军水上机动。</li><li><code>State Modifier Source</code>: 地方船只储备转军事动员。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0202</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>沈自炳职衔、籍贯、与沈自駉分工、船只数量和结局需继续校。</li></ul>",
+  "plainText": "沈自炳 / Shen Zibing Stable draft ID: person.shen zibing Status: anchored seed profile 身份 沈自炳，字君晦，太湖水乡抗清支线人物。《小腆纪年》记其为沈自征之弟。 生平和主要事迹 沈自征生前造渔船并藏于太湖，沈自炳、沈自駉在其死后收船集兵。 1645 年剃发令和地方冲突加剧后，沈自炳与陆世钥相应起兵。 其具体职衔、战斗和结局本轮尚未核实。 性格、评价和行为模式提取 行为模式：继承家族船只资源并转化为水乡武装。 资料状态：当前证据重在船只和起兵，不宜扩展个人评价。 著作或文本 未见已核著作。 游戏数据线索 Route/Water Network: 太湖渔船资源和义军水上机动。 State Modifier Source: 地方船只储备转军事动员。 来源 已核锚点：../source audit.md audit sm 0202。 待辨析 沈自炳职衔、籍贯、与沈自駉分工、船只数量和结局需继续校。"
+}

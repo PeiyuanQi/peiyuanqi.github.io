@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__xu-biao",
+  "title": "徐彪 / Xu Biao",
+  "sourcePath": "references/southern-ming/people/xu-biao.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.xu_biao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐彪，1649 年陈邦傅争夺南宁时的对手，顾诚材料将其放在横州、南宁一线。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1648 年九月至 1649 年五月前后，陈邦傅与徐彪围绕南宁发生争夺。</li><li>1649 年十二月初三，陈邦傅利用李赤心、高必正所部忠贞营，在永淳县界攻杀徐彪并占南宁。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只能视为广西地方军政竞争者；其身份、派系和是否稳定奉永历需地方志细校。</li><li>人物建模上，他是“地方军镇互斗导致外来强军被利用”的节点，而非单独的大战略人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见可归属文本。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 南宁争夺与陈邦傅地方军阀化。</li><li><code>State Modifier Source</code>: 广西内部派系冲突。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0242</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐彪官职、辖地、与横州/南宁/永淳的关系，以及被杀日期的公历换算待核。</li></ul>",
+  "plainText": "徐彪 / Xu Biao Stable draft ID: person.xu biao Status: anchored seed profile 身份 徐彪，1649 年陈邦傅争夺南宁时的对手，顾诚材料将其放在横州、南宁一线。 生平和主要事迹 1648 年九月至 1649 年五月前后，陈邦傅与徐彪围绕南宁发生争夺。 1649 年十二月初三，陈邦傅利用李赤心、高必正所部忠贞营，在永淳县界攻杀徐彪并占南宁。 性格、评价和行为模式提取 当前只能视为广西地方军政竞争者；其身份、派系和是否稳定奉永历需地方志细校。 人物建模上，他是“地方军镇互斗导致外来强军被利用”的节点，而非单独的大战略人物。 著作或文本 未见可归属文本。 游戏数据线索 Historical Candidate: 南宁争夺与陈邦傅地方军阀化。 State Modifier Source: 广西内部派系冲突。 来源 已核锚点：../source audit.md audit sm 0242；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 徐彪官职、辖地、与横州/南宁/永淳的关系，以及被杀日期的公历换算待核。"
+}

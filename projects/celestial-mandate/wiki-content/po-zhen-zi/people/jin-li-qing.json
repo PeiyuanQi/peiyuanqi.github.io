@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__jin-li-qing",
+  "title": "金砺 / Jin Li",
+  "sourcePath": "references/southern-ming/people/jin-li-qing.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.jin_li_qing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>金砺，清方将领，郑氏材料中常作“固山金砺/金励”，1652 年解漳州围、1653 年攻海澄。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《閩海紀要》《海上見聞錄》记 1652 年金砺率兵援漳，郑成功久攻漳州后退守海澄。</li><li>两书又记 1653 年金砺攻海澄，郑成功亲督防御，甘辉等击退清军；此后海澄城防被进一步强化。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只支撑其为清方满汉军力进入福建沿海战局的关键军事节点，不展开性格评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Relief Force</code>: 漳州解围和海澄攻防。</li><li><code>Base Pressure</code>: 海澄作为郑氏近陆堡垒的防御压力来源。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0349</code>，<code>../source-audit.md#audit-sm-0350</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>金砺/金励写法、清方官职、兵力、战役日序、战果和清方奏报需清方材料、地方志和郑氏原书互校。</li></ul>",
+  "plainText": "金砺 / Jin Li Stable draft ID: person.jin li qing Status: anchored seed profile 身份 金砺，清方将领，郑氏材料中常作“固山金砺/金励”，1652 年解漳州围、1653 年攻海澄。 生平和主要事迹 《閩海紀要》《海上見聞錄》记 1652 年金砺率兵援漳，郑成功久攻漳州后退守海澄。 两书又记 1653 年金砺攻海澄，郑成功亲督防御，甘辉等击退清军；此后海澄城防被进一步强化。 性格、评价和行为模式提取 当前材料只支撑其为清方满汉军力进入福建沿海战局的关键军事节点，不展开性格评价。 著作或文本 未见。 游戏数据线索 Qing Relief Force: 漳州解围和海澄攻防。 Base Pressure: 海澄作为郑氏近陆堡垒的防御压力来源。 来源 已核锚点：../source audit.md audit sm 0349，../source audit.md audit sm 0350。 待辨析 金砺/金励写法、清方官职、兵力、战役日序、战果和清方奏报需清方材料、地方志和郑氏原书互校。"
+}

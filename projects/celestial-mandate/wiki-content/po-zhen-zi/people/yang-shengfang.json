@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__yang-shengfang",
+  "title": "杨生芳 / Yang Shengfang",
+  "sourcePath": "references/southern-ming/people/yang-shengfang.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.yang_shengfang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨生芳，永历入缅后行在官员。顾诚《南明史》在 1660 年高文贵、吴子圣入缅迎驾失败中作吏部郎。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚《南明史》记 1660 年四月，高文贵、吴子圣率兵入缅迎驾并杀入蛮莫后，缅方迫使永历发敕令其退兵；杨生芳与锦衣卫丁调鼎奉命前往传敕，高文贵、吴子圣接敕后从布岭退兵。</li><li>顾诚又记杨生芳、丁调鼎返行在后，以退兵有功而升秩。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：行在内传敕/退兵链条的执行者。</li><li>当前材料不足以判断其是否主动赞成退兵，或只是奉敕传达。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Communication System</code>: 退兵敕令传递。</li><li><code>Divergence Gate</code>: 高文贵、吴子圣迎驾是否被敕令压回。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0307</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杨生芳官职、敕令原文、出使路线、升秩记录和后续结局需继续直查《狩缅纪事》《庭闻录》等。</li></ul>",
+  "plainText": "杨生芳 / Yang Shengfang Stable draft ID: person.yang shengfang Status: anchored seed profile 身份 杨生芳，永历入缅后行在官员。顾诚《南明史》在 1660 年高文贵、吴子圣入缅迎驾失败中作吏部郎。 生平和主要事迹 顾诚《南明史》记 1660 年四月，高文贵、吴子圣率兵入缅迎驾并杀入蛮莫后，缅方迫使永历发敕令其退兵；杨生芳与锦衣卫丁调鼎奉命前往传敕，高文贵、吴子圣接敕后从布岭退兵。 顾诚又记杨生芳、丁调鼎返行在后，以退兵有功而升秩。 性格、评价和行为模式提取 行为模式：行在内传敕/退兵链条的执行者。 当前材料不足以判断其是否主动赞成退兵，或只是奉敕传达。 著作或文本 未见已核著作。 游戏数据线索 Communication System: 退兵敕令传递。 Divergence Gate: 高文贵、吴子圣迎驾是否被敕令压回。 来源 已核锚点：../source audit.md audit sm 0307。 待辨析 杨生芳官职、敕令原文、出使路线、升秩记录和后续结局需继续直查《狩缅纪事》《庭闻录》等。"
+}

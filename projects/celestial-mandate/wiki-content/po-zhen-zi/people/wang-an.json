@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__wang-an",
+  "title": "王安 / Wang An",
+  "sourcePath": "references/southern-ming/people/wang-an.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.wang_an_bai_wenxuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>王安，白文选部将。《小腆紀年》在 1659 年残军瓦解和印信缴纳链条中记其名。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记狄三品执冯双礼并携印册赴清军前投降后，白文选部将王安等自建昌卫至云南，缴白文选“荡平大将军”印和“心膂藩臣”金章。</li><li>此条显示白文选本人尚未降清时，其部将和印信体系已出现裂解；王安当前只作为白文选军政结构瓦解的执行节点记录。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：部将携主帅印信转向清方，属于军政合法性被抽离的节点。</li><li>当前材料不足以判断王安是主动降清、受清方招抚，还是在残军失序中自保。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 主帅印信丧失、部曲瓦解、白文选救驾能力下降。</li><li><code>Authority Transition</code>: 印信从南明军中转入清方招抚链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0301</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王安爵号、官职、与《南明史稿》同阶段“王安”是否同一人、降清日期和后续编营情况需继续校。</li></ul>",
+  "plainText": "王安 / Wang An Stable draft ID: person.wang an bai wenxuan Status: anchored seed profile 身份 王安，白文选部将。《小腆紀年》在 1659 年残军瓦解和印信缴纳链条中记其名。 生平和主要事迹 《小腆紀年》记狄三品执冯双礼并携印册赴清军前投降后，白文选部将王安等自建昌卫至云南，缴白文选“荡平大将军”印和“心膂藩臣”金章。 此条显示白文选本人尚未降清时，其部将和印信体系已出现裂解；王安当前只作为白文选军政结构瓦解的执行节点记录。 性格、评价和行为模式提取 行为模式：部将携主帅印信转向清方，属于军政合法性被抽离的节点。 当前材料不足以判断王安是主动降清、受清方招抚，还是在残军失序中自保。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 主帅印信丧失、部曲瓦解、白文选救驾能力下降。 Authority Transition: 印信从南明军中转入清方招抚链。 来源 已核锚点：../source audit.md audit sm 0301。 待辨析 王安爵号、官职、与《南明史稿》同阶段“王安”是否同一人、降清日期和后续编营情况需继续校。"
+}

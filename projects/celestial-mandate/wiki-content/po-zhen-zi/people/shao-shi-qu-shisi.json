@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__shao-shi-qu-shisi",
+  "title": "邵氏 / Shao Shi",
+  "sourcePath": "references/southern-ming/people/shao-shi-qu-shisi.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.shao_shi_qu_shisi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>邵氏，瞿式耜夫人。朱亨嘉幽囚瞿式耜期间，邵氏在幽所哭泣，并遣家人间道至福州上疏隆武朝廷，既贺即位，又请求出兵援救广西。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年瞿式耜被朱亨嘉幽囚后，邵氏通过家人向福州递疏。</li><li>疏中强调岭表居楚、豫上游，若广西失守将影响天下局势，并陈述朱亨嘉必败之状。</li><li>该行动帮助隆武行在理解广西危局，也与陈邦傅进讨朱亨嘉的事件链相连。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：家属通信、危局中维持朝廷承认链和救援通道。</li><li>在游戏建模中可作为“非正式通信网络”样本：女性家属与仆从路线能在正式官路被阻时传递关键政治信息。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>朱亨嘉事件中有邵氏递疏线索；疏文原貌待查。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 家属/仆从间道通信、隆武行在情报输入。</li><li><code>Report Fact</code>: 邵氏遣家人赍疏至福州。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0215</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>邵氏姓名、生卒、疏文原文、递疏路线和是否有其他来源记载需继续校。</li></ul>",
+  "plainText": "邵氏 / Shao Shi Stable draft ID: person.shao shi qu shisi Status: anchored seed profile 身份 邵氏，瞿式耜夫人。朱亨嘉幽囚瞿式耜期间，邵氏在幽所哭泣，并遣家人间道至福州上疏隆武朝廷，既贺即位，又请求出兵援救广西。 生平和主要事迹 1645 年瞿式耜被朱亨嘉幽囚后，邵氏通过家人向福州递疏。 疏中强调岭表居楚、豫上游，若广西失守将影响天下局势，并陈述朱亨嘉必败之状。 该行动帮助隆武行在理解广西危局，也与陈邦傅进讨朱亨嘉的事件链相连。 性格、评价和行为模式提取 行为模式：家属通信、危局中维持朝廷承认链和救援通道。 在游戏建模中可作为“非正式通信网络”样本：女性家属与仆从路线能在正式官路被阻时传递关键政治信息。 著作或文本 朱亨嘉事件中有邵氏递疏线索；疏文原貌待查。 游戏数据线索 State Modifier Source: 家属/仆从间道通信、隆武行在情报输入。 Report Fact: 邵氏遣家人赍疏至福州。 来源 已核锚点：../source audit.md audit sm 0215。 待辨析 邵氏姓名、生卒、疏文原文、递疏路线和是否有其他来源记载需继续校。"
+}

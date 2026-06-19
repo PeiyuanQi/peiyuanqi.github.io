@@ -1,0 +1,7 @@
+{
+  "id": "po-zhen-zi__people__xu-yidu",
+  "title": "徐逸度 / Xu Yidu",
+  "sourcePath": "references/southern-ming/people/xu-yidu.md",
+  "html": "<blockquote><p>Stable draft ID: <code>person.xu_yidu</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐逸度，徐达后裔，《南疆繹史》卷十一称其国变后改名李南，隐居杭州艮山卖药。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>传文称徐逸度国变后隐姓埋名为李南，居杭州艮山，以卖药自给，并以宗姓不可轻泄为戒。</li><li>此为身份隐藏和遗民隐逸来源层，暂不作为已校定别名。</li><li>本地 CBDB 20260530 对 <code>徐逸度</code> 无直接主名或别名命中；<code>李南</code> 泛名未在本轮据 CBDB 归并。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Identity Disambiguation</code>: 徐逸度 / 李南。</li><li><code>Memory Layer</code>: 明勋后裔在清初隐匿身份的生存方式。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0436</code>：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。</li><li><code>../source-audit.md#audit-sm-0439</code>：本地 CBDB 所见徐逸度无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李南别名、杭州艮山地点、卖药生计、徐氏谱系和 CBDB 无命中原因需地方志、遗民文集和点校本互校。</li></ul>",
+  "plainText": "徐逸度 / Xu Yidu Stable draft ID: person.xu yidu Status: seed profile 身份 徐逸度，徐达后裔，《南疆繹史》卷十一称其国变后改名李南，隐居杭州艮山卖药。 生平和主要事迹 传文称徐逸度国变后隐姓埋名为李南，居杭州艮山，以卖药自给，并以宗姓不可轻泄为戒。 此为身份隐藏和遗民隐逸来源层，暂不作为已校定别名。 本地 CBDB 20260530 对 徐逸度 无直接主名或别名命中；李南 泛名未在本轮据 CBDB 归并。 游戏数据线索 Identity Disambiguation: 徐逸度 / 李南。 Memory Layer: 明勋后裔在清初隐匿身份的生存方式。 来源 ../source audit.md audit sm 0436：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。 ../source audit.md audit sm 0439：本地 CBDB 所见徐逸度无直接命中。 待辨析 李南别名、杭州艮山地点、卖药生计、徐氏谱系和 CBDB 无命中原因需地方志、遗民文集和点校本互校。"
+}
