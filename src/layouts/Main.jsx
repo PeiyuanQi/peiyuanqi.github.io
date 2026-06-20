@@ -1,20 +1,17 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Helmet, HelmetProvider } from 'react-helmet-async';
 
 import Analytics from '../components/Template/Analytics';
+import DocumentHead from '../components/Template/DocumentHead';
 import Navigation from '../components/Template/Navigation';
 import SideBar from '../components/Template/SideBar';
 import ScrollToTop from '../components/Template/ScrollToTop';
 
 const Main = (props) => (
-  <HelmetProvider>
+  <>
     <Analytics />
     <ScrollToTop />
-    <Helmet titleTemplate="%s | Peiyuan Qi" defaultTitle="Peiyuan's Personal Website." defer={false}>
-      {props.title && <title>{props.title}</title>}
-      <meta name="description" content={props.description} />
-    </Helmet>
+    <DocumentHead title={props.title} description={props.description} />
     <div id="wrapper">
       <Navigation />
       <div id="main">
@@ -22,7 +19,7 @@ const Main = (props) => (
       </div>
       {props.fullPage ? null : <SideBar />}
     </div>
-  </HelmetProvider>
+  </>
 );
 
 Main.propTypes = {

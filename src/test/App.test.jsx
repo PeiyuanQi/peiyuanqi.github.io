@@ -16,6 +16,8 @@ import NotFound from '../pages/NotFound';
 import Projects from '../pages/Projects';
 import Stats from '../pages/Stats';
 
+const getDescriptionMeta = () => document.querySelector('meta[name="description"]');
+
 const pages = [
   {
     route: '/',
@@ -53,6 +55,10 @@ const renderWithRouter = (ui, { route = '/' } = {}) => {
 };
 
 beforeEach(() => {
+  document.title = '';
+  getDescriptionMeta()?.remove();
+  window.scrollTo = vi.fn();
+
   vi.stubGlobal('fetch', vi.fn(() => Promise.resolve({
     json: () => Promise.resolve({
       forks: 0,
@@ -74,9 +80,25 @@ test('Renders 404 Page Component', () => {
   expect(linkElement).toBeInTheDocument();
 });
 
+test('Updates document head for standard pages', () => {
+  renderWithRouter(<Projects />, { route: '/projects' });
+
+  expect(document.title).toBe('Projects | Peiyuan Qi');
+  expect(getDescriptionMeta()).toHaveAttribute('content', "Learn about Peiyuan Qi's projects.");
+});
+
+test('Updates document head for the 404 page', () => {
+  renderWithRouter(<NotFound />);
+
+  expect(document.title).toBe('404 Not Found');
+  expect(getDescriptionMeta()).toHaveAttribute(
+    'content',
+    'The content you are looking for cannot be found.',
+  );
+});
+
 const checkPageComponent = async (page) => {
   test(`Renders ${page.route} Component`, () => {
-    window.scrollTo = () => {}; // TODO mock this later
     renderWithRouter(<page.component />, { route: page.route });
     const linkElement = screen.getByTestId('heading');
     expect(linkElement).toHaveTextContent(page.heading);
