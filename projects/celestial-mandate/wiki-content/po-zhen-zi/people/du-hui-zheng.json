@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__du-hui-zheng",
   "title": "杜辉（郑氏） / Du Hui",
   "sourcePath": "references/southern-ming/people/du-hui-zheng.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/du-hui-zheng/portrait.png",
+    "caption": "AI generated style inspired game concept art; likeness is not authenticated.",
+    "alt": "杜辉（郑氏） / Du Hui portrait concept art",
+    "sourcePath": "references/southern-ming/people/du-hui-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>杜辉，郑成功系统将领，1656 年揭阳败事后与苏茂、黄梧同被调回追责。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年《海上見聞錄》记郑成功差张光启察揭阳败情后，调苏茂、杜辉、黄梧等回思明州；六月议罪时，苏茂被斩，杜辉受捆责，黄梧记责。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为揭阳败事责任链中的郑氏将领节点。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Responsibility Chain</code>: 揭阳败事追责。</li><li><code>Zheng Commander</code>: 闽粤边界行动。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0356</code>：1656 年揭阳败事、围头海战和海澄叛前责任链。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杜辉职衔、揭阳战中分工、受责后去向及与同名人物关系需校。</li></ul>",
   "plainText": "杜辉（郑氏） / Du Hui Status: seed profile; identity pending. 身份 杜辉，郑成功系统将领，1656 年揭阳败事后与苏茂、黄梧同被调回追责。 生平和主要事迹 1656 年《海上見聞錄》记郑成功差张光启察揭阳败情后，调苏茂、杜辉、黄梧等回思明州；六月议罪时，苏茂被斩，杜辉受捆责，黄梧记责。 性格、评价和行为模式提取 当前只作为揭阳败事责任链中的郑氏将领节点。 著作或文本 未见本轮材料记录。 游戏数据线索 Responsibility Chain: 揭阳败事追责。 Zheng Commander: 闽粤边界行动。 来源 ../source audit.md audit sm 0356：1656 年揭阳败事、围头海战和海澄叛前责任链。 待辨析 杜辉职衔、揭阳战中分工、受责后去向及与同名人物关系需校。"
 }

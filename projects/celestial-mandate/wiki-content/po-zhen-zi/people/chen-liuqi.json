@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-liuqi",
   "title": "陈六奇 / Chen Liuqi",
   "sourcePath": "references/southern-ming/people/chen-liuqi.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-liuqi/portrait.png",
+    "caption": "AI generated style inspired game concept art; the likeness is not authenticated.",
+    "alt": "陈六奇 / Chen Liuqi portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-liuqi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_liuqi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈六奇，《小腆紀年》所见大西入滇后“南宁”死节人物。来源称其字鸣鸾，龙江卫人，万历戊午举人，曾知景陵，后移知南宁。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记孙可旺陷明南宁，知县陈六奇死。</li><li>同源补称陈六奇曾知景陵县，以廉平称；移知南宁后，城破被杀于东门。</li><li>本地 CBDB 对 <code>陳六奇/陈六奇</code> exact-name 查询无主名或别名直接命中；<code>陳六</code> 前缀查询只见陈六御、陈六纪、陈六韐等近名，未见目标全名。此为弱否定，不能证明人物不存在。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：县级地方官死节记忆层。</li><li>“廉平”属于来源评价，需地方志和传记互校后再提取为人物特征。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 大西入滇地方死节名单层。</li><li><code>Place Disambiguation</code>: 此处“南宁”按上下文先作云南曲靖府南宁县待校，不作广西南宁。</li><li><code>Authority Gap</code>: 本地 CBDB 未见直接目标命中，下一步应转向南宁县志、景陵县志和明人传记资料索引原条。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0410</code>：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。</li><li><code>../source-audit.md#audit-sm-0415</code>：本地 CBDB 二次查验所见陈六奇无直接命中层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈六奇的任地是否确为云南南宁县、景陵履历、城破日序、地方志记载和外部权威入口待校。</li></ul>",
   "plainText": "陈六奇 / Chen Liuqi Stable draft ID: person.chen liuqi Status: anchored seed profile 身份 陈六奇，《小腆紀年》所见大西入滇后“南宁”死节人物。来源称其字鸣鸾，龙江卫人，万历戊午举人，曾知景陵，后移知南宁。 生平和主要事迹 《小腆紀年》记孙可旺陷明南宁，知县陈六奇死。 同源补称陈六奇曾知景陵县，以廉平称；移知南宁后，城破被杀于东门。 本地 CBDB 对 陳六奇/陈六奇 exact name 查询无主名或别名直接命中；陳六 前缀查询只见陈六御、陈六纪、陈六韐等近名，未见目标全名。此为弱否定，不能证明人物不存在。 性格、评价和行为模式提取 行为模式：县级地方官死节记忆层。 “廉平”属于来源评价，需地方志和传记互校后再提取为人物特征。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 大西入滇地方死节名单层。 Place Disambiguation: 此处“南宁”按上下文先作云南曲靖府南宁县待校，不作广西南宁。 Authority Gap: 本地 CBDB 未见直接目标命中，下一步应转向南宁县志、景陵县志和明人传记资料索引原条。 来源 ../source audit.md audit sm 0410：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。 ../source audit.md audit sm 0415：本地 CBDB 二次查验所见陈六奇无直接命中层。 待辨析 陈六奇的任地是否确为云南南宁县、景陵履历、城破日序、地方志记载和外部权威入口待校。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__di-sanpin",
   "title": "狄三品 / Di Sanpin",
   "sourcePath": "references/southern-ming/people/di-sanpin.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/di-sanpin/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the person page only; not a historically authenticated likeness",
+    "alt": "狄三品 / Di Sanpin portrait concept art",
+    "sourcePath": "references/southern-ming/people/di-sanpin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.di_sanpin</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>狄三品，刘文秀部将，1656 年四川经营中参与嘉定方向行动；交水后因党附孙可望相关问题被降爵线索待校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年刘文秀经营四川时，与祁三升、杨威、贺天云、郑守豹等进至嘉定府。</li><li>交水后论功罪材料中，狄三品因“党附可望”相关罪名被降爵。</li><li>《小腆紀年》记 1659 年狄三品受吴三桂密指，执冯双礼并携“戡定大将军”金印、庆阳王金册赴清军前降清；这说明他在残军瓦解阶段已成为清方招抚链条的执行者。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料说明其从四川经营部将、交水后奖惩对象，转为 1659 年挟持冯双礼降清的执行者；但其主动性、受胁迫程度和具体利益交换仍需清方记录校。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 四川经营部将、交水后内部奖惩。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0111</code>，<code>../source-audit.md#audit-sm-0115</code>，<code>../source-audit.md#audit-sm-0301</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>狄三品爵号、是否确属刘文秀稳定部将、交水后降爵原因、受吴三桂密指来源和执冯双礼日序需逐源校。</li></ul>",
   "plainText": "狄三品 / Di Sanpin Stable draft ID: person.di sanpin Status: anchored seed profile 身份 狄三品，刘文秀部将，1656 年四川经营中参与嘉定方向行动；交水后因党附孙可望相关问题被降爵线索待校。 生平和主要事迹 1656 年刘文秀经营四川时，与祁三升、杨威、贺天云、郑守豹等进至嘉定府。 交水后论功罪材料中，狄三品因“党附可望”相关罪名被降爵。 《小腆紀年》记 1659 年狄三品受吴三桂密指，执冯双礼并携“戡定大将军”金印、庆阳王金册赴清军前降清；这说明他在残军瓦解阶段已成为清方招抚链条的执行者。 性格、评价和行为模式提取 当前材料说明其从四川经营部将、交水后奖惩对象，转为 1659 年挟持冯双礼降清的执行者；但其主动性、受胁迫程度和具体利益交换仍需清方记录校。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 四川经营部将、交水后内部奖惩。 来源 已核锚点：../source audit.md audit sm 0111，../source audit.md audit sm 0115，../source audit.md audit sm 0301。 待辨析 狄三品爵号、是否确属刘文秀稳定部将、交水后降爵原因、受吴三桂密指来源和执冯双礼日序需逐源校。"
 }

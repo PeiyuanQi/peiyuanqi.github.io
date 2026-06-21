@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-jin-qing",
   "title": "陈锦（清方福建总督线） / Chen Jin",
   "sourcePath": "references/southern-ming/people/chen-jin-qing.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-jin-qing/portrait.png",
+    "caption": "AI generated style inspired game concept art. It is not an authenticated likeness of Chen Jin and must not be used as historical evidence.",
+    "alt": "陈锦（清方福建总督线） / Chen Jin portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-jin-qing/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_jin_qing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈锦，清方福建方向军政/军事节点，材料中见为总督，参与 1648 同安反攻和 1652 江东桥、漳州相关战局。因同名可能较多，暂以“清方福建总督线”限定。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《閩海紀要》《海上見聞錄》均记 1648 年陈锦率师攻破同安，叶翼云、陈鼎、邱晋、林壮猷等死难。</li><li>1652 年海澄、长泰和漳州战局中，两书又记陈锦在江东桥方向败于郑成功军；《海上見聞錄》另有其后被库成栋刺杀的叙事。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只支撑其为清方福建方向压制郑氏的高级节点；成败和死亡细节需另校。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Regional Pressure</code>: 福建清方对同安、海澄、漳州方向的军事压力。</li><li><code>Contested Narrative</code>: 江东桥败绩和库成栋刺杀叙事。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0346</code>，<code>../source-audit.md#audit-sm-0349</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈锦职衔、福建总督身份、同安反攻指挥链、江东桥战局、库成栋刺杀和死亡日序需清方档案、实录、地方志和郑氏材料互校。</li></ul>",
   "plainText": "陈锦（清方福建总督线） / Chen Jin Stable draft ID: person.chen jin qing Status: anchored seed profile 身份 陈锦，清方福建方向军政/军事节点，材料中见为总督，参与 1648 同安反攻和 1652 江东桥、漳州相关战局。因同名可能较多，暂以“清方福建总督线”限定。 生平和主要事迹 《閩海紀要》《海上見聞錄》均记 1648 年陈锦率师攻破同安，叶翼云、陈鼎、邱晋、林壮猷等死难。 1652 年海澄、长泰和漳州战局中，两书又记陈锦在江东桥方向败于郑成功军；《海上見聞錄》另有其后被库成栋刺杀的叙事。 性格、评价和行为模式提取 当前材料只支撑其为清方福建方向压制郑氏的高级节点；成败和死亡细节需另校。 著作或文本 未见。 游戏数据线索 Qing Regional Pressure: 福建清方对同安、海澄、漳州方向的军事压力。 Contested Narrative: 江东桥败绩和库成栋刺杀叙事。 来源 已核锚点：../source audit.md audit sm 0346，../source audit.md audit sm 0349。 待辨析 陈锦职衔、福建总督身份、同安反攻指挥链、江东桥战局、库成栋刺杀和死亡日序需清方档案、实录、地方志和郑氏材料互校。"
 }

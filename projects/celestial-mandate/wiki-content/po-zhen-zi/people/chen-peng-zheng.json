@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-peng-zheng",
   "title": "陈鹏（郑氏） / Chen Peng",
   "sourcePath": "references/southern-ming/people/chen-peng-zheng.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-peng-zheng/portrait.png",
+    "caption": "AI generated style inspired game concept art. No local rights clear visual reference was used, and the likeness is not authenticated.",
+    "alt": "陈鹏（郑氏） / Chen Peng portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-peng-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>陈鹏，郑成功系统将领，1658 年演武亭/铁人亲军线中与陈魁并列为左右虎卫镇。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年《海上見聞錄》记郑成功筑演武亭、挑选铁人亲军后，拔陈魁、陈鹏为左右虎卫镇。</li><li>1660 年清军攻厦金时，《閩海紀要》记郑成功以陈鹏守高崎；后续高崎线又记陈鹏约降或密通清方、令所部勿动，陈蟒不与谋并反击清兵，郑成功战后诛陈鹏。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其在郑氏亲军、高崎守御和内应叙事中的职任/处置线索；约降或密通证据未互校前，不据此写成稳定性格定论。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Zheng Commander</code>: 左右虎卫镇之一。</li><li><code>Elite Unit Link</code>: 铁人亲军。</li><li><code>Internal Betrayal Risk</code>: 高崎内应叙事，待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0363</code>：1658 年演武亭、铁人亲军和陈魁、陈鹏。</li><li><code>../source-audit.md#audit-sm-0144</code>：1660 年厦金防御中陈鹏、郑泰等分守线索。</li><li><code>../source-audit.md#audit-sm-0373</code>：1660 年厦金布防中的高崎防守线。</li><li><code>../source-audit.md#audit-sm-0375</code>：高崎登陆、陈鹏内应和战后被诛。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈鹏与南京战役、1660 年厦金防御中同名人物是否同一，左右虎卫镇职名、具体辖兵、约降/密通证据和家属连坐叙述需郑氏原书、清方记录互校。</li></ul>",
   "plainText": "陈鹏（郑氏） / Chen Peng Status: anchored seed profile; identity pending. 身份 陈鹏，郑成功系统将领，1658 年演武亭/铁人亲军线中与陈魁并列为左右虎卫镇。 生平和主要事迹 1658 年《海上見聞錄》记郑成功筑演武亭、挑选铁人亲军后，拔陈魁、陈鹏为左右虎卫镇。 1660 年清军攻厦金时，《閩海紀要》记郑成功以陈鹏守高崎；后续高崎线又记陈鹏约降或密通清方、令所部勿动，陈蟒不与谋并反击清兵，郑成功战后诛陈鹏。 性格、评价和行为模式提取 当前只记录其在郑氏亲军、高崎守御和内应叙事中的职任/处置线索；约降或密通证据未互校前，不据此写成稳定性格定论。 著作或文本 未见。 游戏数据线索 Zheng Commander: 左右虎卫镇之一。 Elite Unit Link: 铁人亲军。 Internal Betrayal Risk: 高崎内应叙事，待校。 来源 ../source audit.md audit sm 0363：1658 年演武亭、铁人亲军和陈魁、陈鹏。 ../source audit.md audit sm 0144：1660 年厦金防御中陈鹏、郑泰等分守线索。 ../source audit.md audit sm 0373：1660 年厦金布防中的高崎防守线。 ../source audit.md audit sm 0375：高崎登陆、陈鹏内应和战后被诛。 待辨析 陈鹏与南京战役、1660 年厦金防御中同名人物是否同一，左右虎卫镇职名、具体辖兵、约降/密通证据和家属连坐叙述需郑氏原书、清方记录互校。"
 }

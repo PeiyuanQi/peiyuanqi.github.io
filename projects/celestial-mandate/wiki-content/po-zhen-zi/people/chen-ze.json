@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-ze",
   "title": "陈泽 / Chen Ze",
   "sourcePath": "references/southern-ming/people/chen-ze.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-ze/portrait.png",
+    "caption": "AI generated style inspired game concept art. It is not an authenticated likeness of Chen Ze and must not be used as historical evidence.",
+    "alt": "陈泽 / Chen Ze portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-ze/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_ze</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈泽，郑成功取台湾战役中的水师/虎卫系统执行者。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年《海上見聞錄》记清方韩尚亮统船出泉州港攻两岛时，陈泽等乘势追杀遇风败散的清船；此为取台前的郑氏水师行动线索。</li><li>《海上见闻录》记郑军由鹿耳门入台后，陈泽督虎卫坐铳船扎鹿耳门，牵制港内荷兰船并防北线尾。</li><li>同书又记陈泽、陈广攻港内甲板船，八月荷兰甲板船来犯时，郑成功令陈泽同戎旗左右协水师击败之。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只支撑其为取台战役中的战术执行者。</li><li>行为模式：负责航道封锁、船炮牵制和反击荷兰船只。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Naval Action</code>: 鹿耳门牵制、港内船炮战。</li><li><code>Battle Role</code>: 取台初期航道控制。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0356</code>，<code>../source-audit.md#audit-sm-0315</code>，<code>../source-audit.md#audit-sm-0379</code>，<code>../source-audit.md#audit-sm-0381</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈泽军职、所属营伍、与陈广等人的分工、荷船战果和后续去向需继续校。</li></ul>",
   "plainText": "陈泽 / Chen Ze Stable draft ID: person.chen ze Status: anchored seed profile 身份 陈泽，郑成功取台湾战役中的水师/虎卫系统执行者。 生平和主要事迹 1656 年《海上見聞錄》记清方韩尚亮统船出泉州港攻两岛时，陈泽等乘势追杀遇风败散的清船；此为取台前的郑氏水师行动线索。 《海上见闻录》记郑军由鹿耳门入台后，陈泽督虎卫坐铳船扎鹿耳门，牵制港内荷兰船并防北线尾。 同书又记陈泽、陈广攻港内甲板船，八月荷兰甲板船来犯时，郑成功令陈泽同戎旗左右协水师击败之。 性格、评价和行为模式提取 当前材料只支撑其为取台战役中的战术执行者。 行为模式：负责航道封锁、船炮牵制和反击荷兰船只。 著作或文本 未见。 游戏数据线索 Naval Action: 鹿耳门牵制、港内船炮战。 Battle Role: 取台初期航道控制。 来源 已核锚点：../source audit.md audit sm 0356，../source audit.md audit sm 0315，../source audit.md audit sm 0379，../source audit.md audit sm 0381。 待辨析 陈泽军职、所属营伍、与陈广等人的分工、荷船战果和后续去向需继续校。"
 }

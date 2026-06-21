@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-de-zheng",
   "title": "陈德（郑氏） / Chen De",
   "sourcePath": "references/southern-ming/people/chen-de-zheng.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-de-zheng/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "陈德（郑氏） / Chen De portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-de-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>陈德，1658 年《海上見聞錄》羊山风灾叙事中出现的管船都督。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年七月羊山风灾中，《海上見聞錄》记管船都督陈德与太监张忠等跪求郑成功上棚拜天；此处属于灾难记忆和神异叙事层，只能证明人物出现在该叙述中。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前不据拜天叙事提取性格或宗教行为模式。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Disaster Narrative Node</code>: 羊山风灾。</li><li><code>Fleet Administration</code>: 管船都督职名待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0367</code>：1658 年羊山风灾、陈德和张忠线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈德职衔、是否负责船务、羊山风灾中实际行动和损失数字需郑氏材料、地方志和清方记录互校。</li></ul>",
   "plainText": "陈德（郑氏） / Chen De Status: anchored seed profile; identity pending. 身份 陈德，1658 年《海上見聞錄》羊山风灾叙事中出现的管船都督。 生平和主要事迹 1658 年七月羊山风灾中，《海上見聞錄》记管船都督陈德与太监张忠等跪求郑成功上棚拜天；此处属于灾难记忆和神异叙事层，只能证明人物出现在该叙述中。 性格、评价和行为模式提取 当前不据拜天叙事提取性格或宗教行为模式。 著作或文本 未见。 游戏数据线索 Disaster Narrative Node: 羊山风灾。 Fleet Administration: 管船都督职名待校。 来源 ../source audit.md audit sm 0367：1658 年羊山风灾、陈德和张忠线索。 待辨析 陈德职衔、是否负责船务、羊山风灾中实际行动和损失数字需郑氏材料、地方志和清方记录互校。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__feng-guoen",
   "title": "冯国恩 / Feng Guoen",
   "sourcePath": "references/southern-ming/people/feng-guoen.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/feng-guoen/portrait.png",
+    "caption": "AI generated style inspired game concept art; the likeness is not authenticated.",
+    "alt": "冯国恩 / Feng Guoen portrait concept art",
+    "sourcePath": "references/southern-ming/people/feng-guoen/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.feng_guoen</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>冯国恩，白文选降清前后被派往木邦侦察的副将。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记白文选等屯于锡箔江后，闻清兵至木邦，派副将冯国恩侦察；冯国恩被获，军情泄露。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：侦察/通信节点；其被获导致白文选部军情暴露，是残军在边境通道中信息安全失败的样本。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Communication System</code>: 侦察被获、军情泄露。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0309</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>冯国恩职衔、所属部众、被获后处置和是否见于清方材料需补。</li></ul>",
   "plainText": "冯国恩 / Feng Guoen Stable draft ID: person.feng guoen Status: anchored seed profile 身份 冯国恩，白文选降清前后被派往木邦侦察的副将。 生平和主要事迹 《小腆紀年》记白文选等屯于锡箔江后，闻清兵至木邦，派副将冯国恩侦察；冯国恩被获，军情泄露。 性格、评价和行为模式提取 行为模式：侦察/通信节点；其被获导致白文选部军情暴露，是残军在边境通道中信息安全失败的样本。 著作或文本 未见。 游戏数据线索 Communication System: 侦察被获、军情泄露。 来源 已核锚点：../source audit.md audit sm 0309。 待辨析 冯国恩职衔、所属部众、被获后处置和是否见于清方材料需补。"
 }

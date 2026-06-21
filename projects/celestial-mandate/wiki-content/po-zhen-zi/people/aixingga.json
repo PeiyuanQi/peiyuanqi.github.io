@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__aixingga",
   "title": "爱星阿 / Aixingga",
   "sourcePath": "references/southern-ming/people/aixingga.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/aixingga/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated and should not be used as historical evidence.",
+    "alt": "爱星阿 / Aixingga portrait concept art",
+    "sourcePath": "references/southern-ming/people/aixingga/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.aixingga</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>爱星阿，清内大臣、一等公，1660-1661 年受命为定西将军，会同吴三桂入缅追索永历。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>清廷采纳入缅追索方案后，任命爱星阿为定西将军，率八旗兵赴云南，与吴三桂形成中央军令和西南汉军强藩的共同入缅结构。</li><li>1661 年会同吴三桂部署满汉兵和降将向缅甸施压，马宁、石国柱、祁三升、马宝、高启隆、马惟兴等推进至木邦、旧晚坡方向。</li><li>永历押回昆明后，处死方式和是否“全其首领”的叙述中出现满洲将领意见，具体责任链需校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：清廷中央派出的满洲统军节点，用于制衡并配合吴三桂的西南行动；其存在说明逼缅不是吴三桂个人越境行动，而是清廷核准后的中央-地方军事协作。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>清方敕书、实录和八旗资料待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Authority</code>: 清廷中央军令。</li><li><code>Diplomacy/War</code>: 入缅会剿、清方对缅威慑。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0136</code>，<code>../source-audit.md#audit-sm-0138</code>，<code>../source-audit.md#audit-sm-0139</code>，<code>../source-audit.md#audit-sm-0263</code>，<code>../source-audit.md#audit-sm-0264</code>，<code>../source-audit.md#audit-sm-0265</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>满文/汉文官职、行军路线、与吴三桂节制关系和永历处死责任链需清方资料校。</li></ul>",
   "plainText": "爱星阿 / Aixingga Stable draft ID: person.aixingga Status: anchored seed profile 身份 爱星阿，清内大臣、一等公，1660 1661 年受命为定西将军，会同吴三桂入缅追索永历。 生平和主要事迹 清廷采纳入缅追索方案后，任命爱星阿为定西将军，率八旗兵赴云南，与吴三桂形成中央军令和西南汉军强藩的共同入缅结构。 1661 年会同吴三桂部署满汉兵和降将向缅甸施压，马宁、石国柱、祁三升、马宝、高启隆、马惟兴等推进至木邦、旧晚坡方向。 永历押回昆明后，处死方式和是否“全其首领”的叙述中出现满洲将领意见，具体责任链需校。 性格、评价和行为模式提取 行为模式：清廷中央派出的满洲统军节点，用于制衡并配合吴三桂的西南行动；其存在说明逼缅不是吴三桂个人越境行动，而是清廷核准后的中央 地方军事协作。 著作或文本 清方敕书、实录和八旗资料待补。 游戏数据线索 Authority: 清廷中央军令。 Diplomacy/War: 入缅会剿、清方对缅威慑。 来源 已核锚点：../source audit.md audit sm 0136，../source audit.md audit sm 0138，../source audit.md audit sm 0139，../source audit.md audit sm 0263，../source audit.md audit sm 0264，../source audit.md audit sm 0265。 待辨析 满文/汉文官职、行军路线、与吴三桂节制关系和永历处死责任链需清方资料校。"
 }

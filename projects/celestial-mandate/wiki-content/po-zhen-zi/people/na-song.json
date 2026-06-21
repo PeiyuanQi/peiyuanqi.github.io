@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__na-song",
   "title": "那嵩 / Na Song",
   "sourcePath": "references/southern-ming/people/na-song.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/na-song/portrait.png",
+    "caption": "AI generated game concept art; style inspired only. The likeness is not authenticated and must not be treated as a historical evidence source.",
+    "alt": "那嵩 / Na Song portrait concept art",
+    "sourcePath": "references/southern-ming/people/na-song/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.na_song</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>那嵩，元江土知府，永历入缅后云南迤东抗清的重要土司人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>永历入缅前后，仍与永历体系保持关系，并接受总督、巡抚、怀明将军等授衔。</li><li>联络那焘、许名臣、高应凤、龙赞扬等迤东土司和降将反清。</li><li>《南明史稿》卷十把元江那嵩兵列入土兵条目，可作其元江土司兵源身份旁证；不等于 1659 抗清事迹的完整来源。</li><li>清方集中兵力围攻元江后，城破时合家自焚。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方土司忠诚和复明网络节点，在中央行在失控后仍能组织地方反清。</li><li>局限：未能与李定国边境主力形成足够同步，被清方逐点镇压。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 元江那嵩抗清。</li><li><code>State Modifier Source</code>: 云南土司忠诚、清方后方不稳。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0132</code>，<code>../source-audit.md#audit-sm-0397</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>官衔授予细节、城破日换算、元江土司世系和藏书焚毁记忆需地方志校。</li></ul>",
   "plainText": "那嵩 / Na Song Stable draft ID: person.na song Status: anchored seed profile 身份 那嵩，元江土知府，永历入缅后云南迤东抗清的重要土司人物。 生平和主要事迹 永历入缅前后，仍与永历体系保持关系，并接受总督、巡抚、怀明将军等授衔。 联络那焘、许名臣、高应凤、龙赞扬等迤东土司和降将反清。 《南明史稿》卷十把元江那嵩兵列入土兵条目，可作其元江土司兵源身份旁证；不等于 1659 抗清事迹的完整来源。 清方集中兵力围攻元江后，城破时合家自焚。 性格、评价和行为模式提取 行为模式：地方土司忠诚和复明网络节点，在中央行在失控后仍能组织地方反清。 局限：未能与李定国边境主力形成足够同步，被清方逐点镇压。 著作或文本 未见已核著作。 游戏数据线索 Historical Candidate: 元江那嵩抗清。 State Modifier Source: 云南土司忠诚、清方后方不稳。 来源 已核锚点：../source audit.md audit sm 0132，../source audit.md audit sm 0397。 待辨析 官衔授予细节、城破日换算、元江土司世系和藏书焚毁记忆需地方志校。"
 }

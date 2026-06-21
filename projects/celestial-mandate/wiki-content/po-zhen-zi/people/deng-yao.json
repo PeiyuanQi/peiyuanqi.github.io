@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__deng-yao",
   "title": "邓耀 / Deng Yao",
   "sourcePath": "references/southern-ming/people/deng-yao.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/deng-yao/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the person page only; not a historically authenticated likeness",
+    "alt": "邓耀 / Deng Yao portrait concept art",
+    "sourcePath": "references/southern-ming/people/deng-yao/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.deng_yao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>邓耀，广东、粤西和安南线尾段的南明将领或地方武装首领，本轮主要记录其据守龙门、败入安南和遇难线索。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>文村抗清基地覆灭后，邓耀部据守龙门，成为广东西部残余复明力量之一。</li><li>1660 年四月二十七日，清方攻克龙门，邓耀率残部逃入安南；安南不容其存身并发兵逆击，邓耀后削发为僧藏匿广西，被清方查获遇难。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料不足以展开完整人格评价。</li><li>行为模式：边境据点守将，失败后试图依靠外部政权或跨境空间避难，但被东道方态度变化和清方追索共同压缩。</li></ul>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route</code>: 龙门-安南逃亡线。</li><li><code>Diplomacy</code>: 安南是否容纳南明残部。</li><li><code>Collapse Marker</code>: 文村后粤西残余据点继续失守。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0190</code>：龙门邓耀部失败、逃入安南又被拒。</li><li><code>../source-audit.md#audit-sm-0133</code>：广东、粤西和安南支线崩解总述。</li><li><code>../source-audit.md#audit-sm-0272</code>：龙门邓耀部失败、安南拒容和清方追索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>邓耀官职、龙门现代对应、安南方面出兵细节和遇难日期需清方档案、越南资料和地方志补证。</li></ul>",
   "plainText": "邓耀 / Deng Yao Stable draft ID: person.deng yao Status: anchored seed profile 身份 邓耀，广东、粤西和安南线尾段的南明将领或地方武装首领，本轮主要记录其据守龙门、败入安南和遇难线索。 生平和主要事迹 文村抗清基地覆灭后，邓耀部据守龙门，成为广东西部残余复明力量之一。 1660 年四月二十七日，清方攻克龙门，邓耀率残部逃入安南；安南不容其存身并发兵逆击，邓耀后削发为僧藏匿广西，被清方查获遇难。 性格、评价和行为模式提取 当前材料不足以展开完整人格评价。 行为模式：边境据点守将，失败后试图依靠外部政权或跨境空间避难，但被东道方态度变化和清方追索共同压缩。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Route: 龙门 安南逃亡线。 Diplomacy: 安南是否容纳南明残部。 Collapse Marker: 文村后粤西残余据点继续失守。 来源 ../source audit.md audit sm 0190：龙门邓耀部失败、逃入安南又被拒。 ../source audit.md audit sm 0133：广东、粤西和安南支线崩解总述。 ../source audit.md audit sm 0272：龙门邓耀部失败、安南拒容和清方追索。 待辨析 邓耀官职、龙门现代对应、安南方面出兵细节和遇难日期需清方档案、越南资料和地方志补证。"
 }
