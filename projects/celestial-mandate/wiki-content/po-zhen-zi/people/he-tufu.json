@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-tufu",
   "title": "何图复 / He Tufu",
-  "sourcePath": "references/southern-ming/people/he-tufu.md",
+  "sourcePath": "references/southern-ming/people/he-tufu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-tufu/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local He Tufu person page. This is not an authenticated likeness or evidence source.",
+    "alt": "何图复 / He Tufu portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-tufu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.he_tufu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>何图复，1649 年堵胤锡撤退线中出现的南明人物，旧籍将其与救堵胤锡、随后被害联系在一起。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>在堵胤锡从衡州、龙虎关线撤退过程中，旧籍记曹志建等杀害堵胤锡随从，何图复救堵胤锡脱险。</li><li>后续何图复又被杀，具体经过、责任和地点仍需核验。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>可暂作“危局中保护文臣整合者”的忠义/护卫节点，但旧籍是否有忠烈修辞需再校。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见可归属文本。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 堵胤锡撤退线中的救援与内部暴力。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0241</code>，<code>../source-audit.md#audit-sm-0243</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>何图复身份、官职、死因和与堵胤锡的关系待地方志和文集校。</li></ul>",
   "plainText": "何图复 / He Tufu Stable draft ID: person.he tufu Status: anchored seed profile 身份 何图复，1649 年堵胤锡撤退线中出现的南明人物，旧籍将其与救堵胤锡、随后被害联系在一起。 生平和主要事迹 在堵胤锡从衡州、龙虎关线撤退过程中，旧籍记曹志建等杀害堵胤锡随从，何图复救堵胤锡脱险。 后续何图复又被杀，具体经过、责任和地点仍需核验。 性格、评价和行为模式提取 可暂作“危局中保护文臣整合者”的忠义/护卫节点，但旧籍是否有忠烈修辞需再校。 著作或文本 未见可归属文本。 游戏数据线索 Report Fact: 堵胤锡撤退线中的救援与内部暴力。 来源 已核锚点：../source audit.md audit sm 0241，../source audit.md audit sm 0243；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 何图复身份、官职、死因和与堵胤锡的关系待地方志和文集校。"
 }

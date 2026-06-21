@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yin-mengfu",
   "title": "尹梦符 / Yin Mengfu",
-  "sourcePath": "references/southern-ming/people/yin-mengfu.md",
+  "sourcePath": "references/southern-ming/people/yin-mengfu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yin-mengfu/portrait.png",
+    "caption": "AI generated game concept art based on local text notes; it is not an authenticated likeness or evidence source.",
+    "alt": "尹梦符 / Yin Mengfu portrait concept art",
+    "sourcePath": "references/southern-ming/people/yin-mengfu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yin_mengfu</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>尹梦符，维基文库《明史》卷二百九十五所见大理/太和士人层诸生。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明史》卷二百九十五列尹梦旗、尹梦符、冯大成为诸生，倡义助守，城陷后死。</li><li>本地 CBDB 20260530 对 <code>尹夢符/尹梦符</code> 未见直接命中；这是弱否定，只提示转向地方志和点校本。</li><li>当前只作诸生助守和死事名单层；与尹梦旗是否亲属或同族待校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方诸生参与助守的来源层。</li><li>不从单一名单扩展个人性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 大理/太和助守士人层。</li><li><code>Identity Disambiguation</code>: 与尹梦旗关系待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0422</code>：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。</li><li><code>../source-audit.md#audit-sm-0428</code>：本地 CBDB 所见尹梦符无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>尹梦符姓名字形、与尹梦旗关系、助守地点、地方志记载和明人传记索引原条待校。</li></ul>",
   "plainText": "尹梦符 / Yin Mengfu Stable draft ID: person.yin mengfu Status: anchored seed profile; identity pending. 身份 尹梦符，维基文库《明史》卷二百九十五所见大理/太和士人层诸生。 生平和主要事迹 《明史》卷二百九十五列尹梦旗、尹梦符、冯大成为诸生，倡义助守，城陷后死。 本地 CBDB 20260530 对 尹夢符/尹梦符 未见直接命中；这是弱否定，只提示转向地方志和点校本。 当前只作诸生助守和死事名单层；与尹梦旗是否亲属或同族待校。 性格、评价和行为模式提取 行为模式：地方诸生参与助守的来源层。 不从单一名单扩展个人性格。 著作或文本 未见。 游戏数据线索 Event Participant: 大理/太和助守士人层。 Identity Disambiguation: 与尹梦旗关系待校。 来源 ../source audit.md audit sm 0422：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。 ../source audit.md audit sm 0428：本地 CBDB 所见尹梦符无直接命中。 待辨析 尹梦符姓名字形、与尹梦旗关系、助守地点、地方志记载和明人传记索引原条待校。"
 }

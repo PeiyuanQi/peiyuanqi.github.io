@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yinyuan",
   "title": "隐元 / Yinyuan",
-  "sourcePath": "references/southern-ming/people/yinyuan.md",
+  "sourcePath": "references/southern-ming/people/yinyuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yinyuan/portrait.png",
+    "caption": "AI generated game concept art based on local profile notes and shared Southern Ming art direction; not an authenticated likeness or evidence source.",
+    "alt": "隐元 / Yinyuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/yinyuan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yinyuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>隐元，黄檗寺僧。1660 年《海上見聞錄》在张光启往日本借兵线中记其同船赴日。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1660 年七月，郑成功命兵官张光启往日本借兵，船载黄檗寺僧隐元及其徒五十众；材料解释为日本方面敦请隐元，故同载。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作为郑氏-日本交通线中的宗教人物和航路同载线索，不推断其政治立场。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。黄檗宗、日本材料需另查。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>External Route</code>: 厦金至日本。</li><li><code>Religious Network</code>: 黄檗寺僧侣移动。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0377</code>：张光启往日本借兵未成和隐元同载线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>隐元日本行的日期、邀请主体、船只路线和是否与郑氏借兵有直接关联需日本材料、黄檗宗资料和郑氏原书互校。</li></ul>",
   "plainText": "隐元 / Yinyuan Stable draft ID: person.yinyuan Status: anchored seed profile 身份 隐元，黄檗寺僧。1660 年《海上見聞錄》在张光启往日本借兵线中记其同船赴日。 生平和主要事迹 1660 年七月，郑成功命兵官张光启往日本借兵，船载黄檗寺僧隐元及其徒五十众；材料解释为日本方面敦请隐元，故同载。 性格、评价和行为模式提取 当前只作为郑氏 日本交通线中的宗教人物和航路同载线索，不推断其政治立场。 著作或文本 待补。黄檗宗、日本材料需另查。 游戏数据线索 External Route: 厦金至日本。 Religious Network: 黄檗寺僧侣移动。 来源 ../source audit.md audit sm 0377：张光启往日本借兵未成和隐元同载线索。 待辨析 隐元日本行的日期、邀请主体、船只路线和是否与郑氏借兵有直接关联需日本材料、黄檗宗资料和郑氏原书互校。"
 }

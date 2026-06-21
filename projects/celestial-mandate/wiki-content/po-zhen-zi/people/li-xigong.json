@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-xigong",
   "title": "李锡贡 / Li Xigong",
-  "sourcePath": "references/southern-ming/people/li-xigong.md",
+  "sourcePath": "references/southern-ming/people/li-xigong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-xigong/portrait.png",
+    "caption": "This is AI generated game concept art informed by the local person page; it is not an authenticated likeness or evidence source.",
+    "alt": "李锡贡 / Li Xigong portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-xigong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_xigong</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李锡贡，李文忠后裔支系人物，《南疆繹史》卷十一与李锡祚并列为舟山防守人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>传文称李锡贡随舟山防守。</li><li>舟山城破后，传文记其巷战被获，并在四明遇害。此为公开文本死难层，不直接确定地点和过程。</li><li>本地 CBDB 20260530 对 <code>李錫貢/李锡贡</code> 无直接主名或别名命中；这是弱否定，不排除谱牒或地方志另有记录。</li><li>《小腆紀年》《南明史稿》又见李锡贡与李锡祚协阮进守螺头门；该层只能证明鲁监国海师来源记忆，不能定其后续去向。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event</code>: 舟山失守后的巷战、俘获和处置记忆。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0434</code>：维基文库《南疆繹史》所见李升、李锡祚、李锡贡、刘永锡层。</li><li><code>../source-audit.md#audit-sm-0438</code>：本地 CBDB 所见李锡贡无直接命中。</li><li><code>../source-audit.md#audit-sm-0444</code>：本地《小腆紀年》《南明史稿》所见李锡祚、李锡贡协阮进守螺头门层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>“四明”地点、被获后处置、与李锡祚关系和 CBDB 无命中原因需地方志、谱牒和鲁监国材料互校。</li></ul>",
   "plainText": "李锡贡 / Li Xigong Stable draft ID: person.li xigong Status: seed profile 身份 李锡贡，李文忠后裔支系人物，《南疆繹史》卷十一与李锡祚并列为舟山防守人物。 生平和主要事迹 传文称李锡贡随舟山防守。 舟山城破后，传文记其巷战被获，并在四明遇害。此为公开文本死难层，不直接确定地点和过程。 本地 CBDB 20260530 对 李錫貢/李锡贡 无直接主名或别名命中；这是弱否定，不排除谱牒或地方志另有记录。 《小腆紀年》《南明史稿》又见李锡贡与李锡祚协阮进守螺头门；该层只能证明鲁监国海师来源记忆，不能定其后续去向。 游戏数据线索 Event: 舟山失守后的巷战、俘获和处置记忆。 来源 ../source audit.md audit sm 0434：维基文库《南疆繹史》所见李升、李锡祚、李锡贡、刘永锡层。 ../source audit.md audit sm 0438：本地 CBDB 所见李锡贡无直接命中。 ../source audit.md audit sm 0444：本地《小腆紀年》《南明史稿》所见李锡祚、李锡贡协阮进守螺头门层。 待辨析 “四明”地点、被获后处置、与李锡祚关系和 CBDB 无命中原因需地方志、谱牒和鲁监国材料互校。"
 }

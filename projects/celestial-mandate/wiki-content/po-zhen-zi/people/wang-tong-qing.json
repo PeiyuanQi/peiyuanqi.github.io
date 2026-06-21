@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-tong-qing",
   "title": "王统（清方） / Wang Tong",
-  "sourcePath": "references/southern-ming/people/wang-tong-qing.md",
+  "sourcePath": "references/southern-ming/people/wang-tong-qing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-tong-qing/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local text; the likeness is not authenticated, and the source identity may represent a name, title, or misreading",
+    "alt": "王统（清方） / Wang Tong portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-tong-qing/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>王统，1655 年《閩海紀要》所见清方入闽压力人物；来源又有“定远大将军庶子王”“庶子王”等称谓，具体满洲宗室身份需校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1655 年《閩海紀要》记庶子王入闽，至泉州后遣谕招抚郑成功不纳；郑成功令厦门居民和官兵家口迁往金门、镇海等处，空岛以待。</li><li>《海上見聞錄》亦记京中遣庶子王统率八旗满兵及汉军入闽，形成郑氏抽兵回防和迁思明州居民的压力。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为清方入闽压力和郑氏空岛防御的触发节点处理。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Pressure</code>: 入闽、招抚、迫使郑氏迁眷空岛。</li><li><code>Military Threat</code>: 满汉兵入闽。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0354</code>：1655 年舟山、温台行动和王统入闽压力。</li></ul>\n<h3>待辨析</h3>\n<ul><li>“王统”是否为名、称号还是误读，及其与“庶子王”“定远大将军”身份关系，需清实录、清方档案和地方志校。</li></ul>",
   "plainText": "王统（清方） / Wang Tong Status: seed profile; identity pending. 身份 王统，1655 年《閩海紀要》所见清方入闽压力人物；来源又有“定远大将军庶子王”“庶子王”等称谓，具体满洲宗室身份需校。 生平和主要事迹 1655 年《閩海紀要》记庶子王入闽，至泉州后遣谕招抚郑成功不纳；郑成功令厦门居民和官兵家口迁往金门、镇海等处，空岛以待。 《海上見聞錄》亦记京中遣庶子王统率八旗满兵及汉军入闽，形成郑氏抽兵回防和迁思明州居民的压力。 性格、评价和行为模式提取 当前只作为清方入闽压力和郑氏空岛防御的触发节点处理。 著作或文本 未见本轮材料记录。 游戏数据线索 Qing Pressure: 入闽、招抚、迫使郑氏迁眷空岛。 Military Threat: 满汉兵入闽。 来源 ../source audit.md audit sm 0354：1655 年舟山、温台行动和王统入闽压力。 待辨析 “王统”是否为名、称号还是误读，及其与“庶子王”“定远大将军”身份关系，需清实录、清方档案和地方志校。"
 }

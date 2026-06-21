@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhu-hengjia",
   "title": "朱亨嘉 / Zhu Hengjia",
-  "sourcePath": "references/southern-ming/people/zhu-hengjia.md",
+  "sourcePath": "references/southern-ming/people/zhu-hengjia/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhu-hengjia/portrait.png",
+    "caption": "This is AI generated game concept art informed only by the local profile; it is not an authenticated likeness or historical evidence source.",
+    "alt": "朱亨嘉 / Zhu Hengjia portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhu-hengjia/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhu_hengjia</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱亨嘉，明靖江王。1645 年南都失守后在桂林自称监国，成为广西内部宗藩自立危机的核心人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>以庶子袭靖江王，袭封合法性曾受嫡嗣和宗人质疑。</li><li>弘光元年二月前后向弘光朝廷表贺登极，并奏称永、金、连三州为土贼所据。</li><li>南都失守后在桂林自称监国，任总兵杨国威为大将军、推官顾奕等为党羽，并试图调动广西左、右江四十五洞土狼标勇。</li><li>拒受隆武诏，举兵将东；在梧州逼迫广西巡抚瞿式耜朝见并索敕印未成，随后将瞿式耜挟至桂林幽囚。</li><li>陈邦傅、焦琏内外合谋后，朱亨嘉与杨国威、顾奕等被擒送福州；后废为庶人并幽死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：宗藩身份投机、地方王府自重、试图通过任官和调动土狼兵把王府权威转化为政权权力。</li><li>关键失败点在于承认链和地方执行链不足：隆武诏不受，瞿式耜拒交敕印，陈邦傅、焦琏和狼兵网络未形成稳定响应。</li><li>游戏建模中可作为“宗藩监国候选”与“内部合法性危机”样本，而不是普通叛军首领。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作；相关奏疏和檄文需另查地方志、文集或编年材料。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 靖江王朱亨嘉是否能形成广西监国中心。</li><li><code>State Modifier Source</code>: 宗藩自立、地方任官、土狼兵调动失败、巡抚敕印争夺。</li><li><code>AI Bias</code>: 高合法性投机、高自重、低跨派系整合。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0213</code>，<code>../source-audit.md#audit-sm-0214</code>，<code>../source-audit.md#audit-sm-0215</code>，<code>../source-audit.md#audit-sm-0216</code>，<code>../source-audit.md#audit-sm-0217</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>称监国的日级日期和朱亨嘉到梧州、返桂林、送福州的具体顺序。</li><li>靖江王支系谱系和《明季南略》谱系写法需按《明史》世表、宗室档和地方志复核。</li><li>其在广西实际控制范围、党羽名单、檄调狼兵是否有具体响应仍需补证。</li></ul>",
   "plainText": "朱亨嘉 / Zhu Hengjia Stable draft ID: person.zhu hengjia Status: anchored seed profile 身份 朱亨嘉，明靖江王。1645 年南都失守后在桂林自称监国，成为广西内部宗藩自立危机的核心人物。 生平和主要事迹 以庶子袭靖江王，袭封合法性曾受嫡嗣和宗人质疑。 弘光元年二月前后向弘光朝廷表贺登极，并奏称永、金、连三州为土贼所据。 南都失守后在桂林自称监国，任总兵杨国威为大将军、推官顾奕等为党羽，并试图调动广西左、右江四十五洞土狼标勇。 拒受隆武诏，举兵将东；在梧州逼迫广西巡抚瞿式耜朝见并索敕印未成，随后将瞿式耜挟至桂林幽囚。 陈邦傅、焦琏内外合谋后，朱亨嘉与杨国威、顾奕等被擒送福州；后废为庶人并幽死。 性格、评价和行为模式提取 行为模式：宗藩身份投机、地方王府自重、试图通过任官和调动土狼兵把王府权威转化为政权权力。 关键失败点在于承认链和地方执行链不足：隆武诏不受，瞿式耜拒交敕印，陈邦傅、焦琏和狼兵网络未形成稳定响应。 游戏建模中可作为“宗藩监国候选”与“内部合法性危机”样本，而不是普通叛军首领。 著作或文本 未见已核著作；相关奏疏和檄文需另查地方志、文集或编年材料。 游戏数据线索 Historical Candidate: 靖江王朱亨嘉是否能形成广西监国中心。 State Modifier Source: 宗藩自立、地方任官、土狼兵调动失败、巡抚敕印争夺。 AI Bias: 高合法性投机、高自重、低跨派系整合。 来源 已核锚点：../source audit.md audit sm 0213，../source audit.md audit sm 0214，../source audit.md audit sm 0215，../source audit.md audit sm 0216，../source audit.md audit sm 0217。 待辨析 称监国的日级日期和朱亨嘉到梧州、返桂林、送福州的具体顺序。 靖江王支系谱系和《明季南略》谱系写法需按《明史》世表、宗室档和地方志复核。 其在广西实际控制范围、党羽名单、檄调狼兵是否有具体响应仍需补证。"
 }

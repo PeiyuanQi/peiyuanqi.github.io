@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-jiuyi",
   "title": "贺九仪 / He Jiuyi",
-  "sourcePath": "references/southern-ming/people/he-jiuyi.md",
+  "sourcePath": "references/southern-ming/people/he-jiuyi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-jiuyi/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "贺九仪 / He Jiuyi portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-jiuyi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.he_jiuyi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>贺九仪，孙可望部将，1651 年奉命入南宁护驾并迫使永历朝廷承认秦王封号，是孙可望事实摄政结构进入永历小朝廷的关键执行者之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1651 年与张明志等率兵赴南宁护卫永历，同时胁迫朝廷改认孙可望秦封。</li><li>秦封争议中，杨鼎和、严起恒等朝臣死亡；杨畏知后因劾奏贺九仪等被孙可望处死。</li><li>1651 年末南宁失守前后，贺九仪对朝廷是否移往滇黔具有实际压力和护卫职责。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：执行型强硬军将，以军事护卫之名施加政治压力。</li><li>适合作为“保护者的胁迫能力”在人物关系图中的代表。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 南宁护驾压力、秦封被迫承认、朝臣清洗。</li><li><code>AI Bias</code>: 高执行服从、高威吓、低制度妥协。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0090</code>，<code>../source-audit.md#audit-sm-0091</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>贺九仪、贺九义等写法和是否为同一人需后续校勘。</li><li>1660 年以后相关记载需另行接入。</li></ul>",
   "plainText": "贺九仪 / He Jiuyi Stable draft ID: person.he jiuyi Status: anchored seed profile 身份 贺九仪，孙可望部将，1651 年奉命入南宁护驾并迫使永历朝廷承认秦王封号，是孙可望事实摄政结构进入永历小朝廷的关键执行者之一。 生平和主要事迹 1651 年与张明志等率兵赴南宁护卫永历，同时胁迫朝廷改认孙可望秦封。 秦封争议中，杨鼎和、严起恒等朝臣死亡；杨畏知后因劾奏贺九仪等被孙可望处死。 1651 年末南宁失守前后，贺九仪对朝廷是否移往滇黔具有实际压力和护卫职责。 性格、评价和行为模式提取 行为模式：执行型强硬军将，以军事护卫之名施加政治压力。 适合作为“保护者的胁迫能力”在人物关系图中的代表。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 南宁护驾压力、秦封被迫承认、朝臣清洗。 AI Bias: 高执行服从、高威吓、低制度妥协。 来源 已核锚点：../source audit.md audit sm 0090，../source audit.md audit sm 0091。 待辨析 贺九仪、贺九义等写法和是否为同一人需后续校勘。 1660 年以后相关记载需另行接入。"
 }

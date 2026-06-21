@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-rubi",
   "title": "李如碧 / Li Rubi",
-  "sourcePath": "references/southern-ming/people/li-rubi.md",
+  "sourcePath": "references/southern-ming/people/li-rubi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-rubi/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local profile; the likeness is not authenticated.",
+    "alt": "李如碧 / Li Rubi portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-rubi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_rubi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李如碧，南明公安伯，1659 年滇西北和丽江边外降清链条中的人物之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记清兵还至云南后，公安伯李如碧与马宝、马惟兴、吴子金/吴子圣、高启隆等先后降清。</li><li>《南明史稿》把李如碧列入自丽江边外降清的名单。</li><li>顾诚《南明史》进一步概括李如碧等撤至滇西北鹤庆、剑川、丽江、兰州一带后先后降清，并记顺治十七年七月清方把投降明军分作十营，李如碧为十营总兵之一；顾诚脚注提示《庭闻录》有李如柏异写。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：边地残军失去统合后，随滇西北降将网络转入清方编组。</li><li>当前不作个人忠诚评价；重点是从“南明公安伯”到“清方十营总兵”的军政转换。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 滇西北降将网络。</li><li><code>State Modifier Source</code>: 清方招抚和降将编营。</li><li><code>Conversion</code>: 李如碧/李如柏异写待校。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0300</code>，<code>../source-audit.md#audit-sm-0305</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李如碧/李如柏是否同一写法、公安伯爵号来源、所属兵力、丽江边外路线和十营编组细节需清方资料和地方志复核。</li></ul>",
   "plainText": "李如碧 / Li Rubi Stable draft ID: person.li rubi Status: anchored seed profile 身份 李如碧，南明公安伯，1659 年滇西北和丽江边外降清链条中的人物之一。 生平和主要事迹 《小腆紀年》记清兵还至云南后，公安伯李如碧与马宝、马惟兴、吴子金/吴子圣、高启隆等先后降清。 《南明史稿》把李如碧列入自丽江边外降清的名单。 顾诚《南明史》进一步概括李如碧等撤至滇西北鹤庆、剑川、丽江、兰州一带后先后降清，并记顺治十七年七月清方把投降明军分作十营，李如碧为十营总兵之一；顾诚脚注提示《庭闻录》有李如柏异写。 性格、评价和行为模式提取 行为模式：边地残军失去统合后，随滇西北降将网络转入清方编组。 当前不作个人忠诚评价；重点是从“南明公安伯”到“清方十营总兵”的军政转换。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 滇西北降将网络。 State Modifier Source: 清方招抚和降将编营。 Conversion: 李如碧/李如柏异写待校。 来源 已核锚点：../source audit.md audit sm 0300，../source audit.md audit sm 0305，../source audit.md audit sm 0306。 待辨析 李如碧/李如柏是否同一写法、公安伯爵号来源、所属兵力、丽江边外路线和十营编组细节需清方资料和地方志复核。"
 }

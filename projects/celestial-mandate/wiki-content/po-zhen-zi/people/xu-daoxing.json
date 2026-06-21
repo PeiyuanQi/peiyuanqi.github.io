@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xu-daoxing",
   "title": "徐道兴 / Xu Daoxing",
-  "sourcePath": "references/southern-ming/people/xu-daoxing.md",
+  "sourcePath": "references/southern-ming/people/xu-daoxing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xu-daoxing/portrait.png",
+    "caption": "AI generated game concept art informed by local textual notes; it is not an authenticated likeness or evidence source.",
+    "alt": "徐道兴 / Xu Daoxing portrait concept art",
+    "sourcePath": "references/southern-ming/people/xu-daoxing/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.xu_daoxing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐道兴，《小腆紀年》所见署师宗州事人物。来源称其睢州人，以经历署师宗州事。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记孙可旺陷明师宗，署知州徐道兴死。</li><li>同源详写徐道兴在曲靖被屠后劝士民避难、拒绝迎大西将领而被杀；这些言辞和场景只作忠烈记忆层。</li><li>本地 CBDB 精确名查询见 <code>徐道興 c_personid=129966</code>，记睢州人、廪监生，任官字段含知州和云南都司经历，来源含史语所人名权威 016263、明人传记资料索引 4910、CText 298430 和广西府志 section_id=70187。</li><li>维基文库《明史》卷二百九十五同样记徐道兴字士惟、睢州人，以经历署师宗州事，孙可望陷师宗后死；页面未校对，字和署任性质仍需点校本/地方志复核。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：代理地方官在地方陷落时承担守土责任的记忆层。</li><li>不把单一来源中的对白直接转成稳定性格字段。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 师宗陷落/地方死节名单层。</li><li><code>Place Disambiguation</code>: 师宗需在云南曲靖府州县网络下定位。</li><li><code>External Authority Candidate</code>: CBDB <code>129966</code> 可作署知州/经历身份的候选权威入口。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0410</code>：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。</li><li><code>../source-audit.md#audit-sm-0413</code>：本地 CBDB 所见广通、姚州、师宗地方死节人物的同名消歧线索。</li><li><code>../source-audit.md#audit-sm-0425</code>：维基文库《明史》卷二百九十五所见师宗徐道兴层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐道兴字号、署任性质、CBDB <code>129966</code> 与地方志条关系、师宗州县层级、死亡日序和地方志记载待校。</li></ul>",
   "plainText": "徐道兴 / Xu Daoxing Stable draft ID: person.xu daoxing Status: anchored seed profile 身份 徐道兴，《小腆紀年》所见署师宗州事人物。来源称其睢州人，以经历署师宗州事。 生平和主要事迹 《小腆紀年》记孙可旺陷明师宗，署知州徐道兴死。 同源详写徐道兴在曲靖被屠后劝士民避难、拒绝迎大西将领而被杀；这些言辞和场景只作忠烈记忆层。 本地 CBDB 精确名查询见 徐道興 c personid=129966，记睢州人、廪监生，任官字段含知州和云南都司经历，来源含史语所人名权威 016263、明人传记资料索引 4910、CText 298430 和广西府志 section id=70187。 维基文库《明史》卷二百九十五同样记徐道兴字士惟、睢州人，以经历署师宗州事，孙可望陷师宗后死；页面未校对，字和署任性质仍需点校本/地方志复核。 性格、评价和行为模式提取 行为模式：代理地方官在地方陷落时承担守土责任的记忆层。 不把单一来源中的对白直接转成稳定性格字段。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 师宗陷落/地方死节名单层。 Place Disambiguation: 师宗需在云南曲靖府州县网络下定位。 External Authority Candidate: CBDB 129966 可作署知州/经历身份的候选权威入口。 来源 ../source audit.md audit sm 0410：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。 ../source audit.md audit sm 0413：本地 CBDB 所见广通、姚州、师宗地方死节人物的同名消歧线索。 ../source audit.md audit sm 0425：维基文库《明史》卷二百九十五所见师宗徐道兴层。 待辨析 徐道兴字号、署任性质、CBDB 129966 与地方志条关系、师宗州县层级、死亡日序和地方志记载待校。"
 }

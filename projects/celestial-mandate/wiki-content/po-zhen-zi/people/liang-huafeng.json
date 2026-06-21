@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liang-huafeng",
   "title": "梁化凤 / Liang Huafeng",
-  "sourcePath": "references/southern-ming/people/liang-huafeng.md",
+  "sourcePath": "references/southern-ming/people/liang-huafeng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liang-huafeng/portrait.png",
+    "caption": "AI generated game concept art. The likeness is not authenticated and should not be used as historical evidence.",
+    "alt": "梁化凤 / Liang Huafeng portrait concept art",
+    "sourcePath": "references/southern-ming/people/liang-huafeng/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>梁化凤，清方崇明总兵，1659 年南京战役中增援江宁并参与击败郑成功。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年郑成功进逼南京时，梁化凤由崇明绕道赴援。</li><li>南京城下战斗中，梁化凤夜由凤仪门穴城、毁墙袭余新营，成为清方反击郑军的重要将领；袭营路径和战斗细节仍需清方档案与地方志复核。</li><li>南京败后郑成功攻崇明未克，材料记梁化凤固守不下。</li><li>战后清方以“江南之捷破成功者，崇明总兵梁化凤也”上报，并擢升其职。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>材料中的梁化凤是清方把握战机、实施突击的节点人物。顾诚同时对其战后掠夺和奴态有强烈评价；研究层可记录评价线索，但进入游戏数据时应区分军事作用和道德评价。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Commander</code>: 南京救援和骑兵反击。</li><li><code>Divergence Gate</code>: 清方援军是否及时入城。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0126</code>：南京城下失利和梁化凤反击。</li><li><code>../source-audit.md#audit-sm-0371</code>：南京围城、梁化凤夜袭和郑军败退。</li><li><code>../source-audit.md#audit-sm-0372</code>：崇明未克和梁化凤固守线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>梁化凤行军路线、凤仪门袭营路径、出击日序、崇明守御细节和战后升赏需清方档案与地方材料校。</li></ul>",
   "plainText": "梁化凤 / Liang Huafeng 身份 梁化凤，清方崇明总兵，1659 年南京战役中增援江宁并参与击败郑成功。 生平和主要事迹 1659 年郑成功进逼南京时，梁化凤由崇明绕道赴援。 南京城下战斗中，梁化凤夜由凤仪门穴城、毁墙袭余新营，成为清方反击郑军的重要将领；袭营路径和战斗细节仍需清方档案与地方志复核。 南京败后郑成功攻崇明未克，材料记梁化凤固守不下。 战后清方以“江南之捷破成功者，崇明总兵梁化凤也”上报，并擢升其职。 性格、评价和行为模式 材料中的梁化凤是清方把握战机、实施突击的节点人物。顾诚同时对其战后掠夺和奴态有强烈评价；研究层可记录评价线索，但进入游戏数据时应区分军事作用和道德评价。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Qing Commander: 南京救援和骑兵反击。 Divergence Gate: 清方援军是否及时入城。 来源 ../source audit.md audit sm 0126：南京城下失利和梁化凤反击。 ../source audit.md audit sm 0371：南京围城、梁化凤夜袭和郑军败退。 ../source audit.md audit sm 0372：崇明未克和梁化凤固守线索。 待辨析 梁化凤行军路线、凤仪门袭营路径、出击日序、崇明守御细节和战后升赏需清方档案与地方材料校。"
 }

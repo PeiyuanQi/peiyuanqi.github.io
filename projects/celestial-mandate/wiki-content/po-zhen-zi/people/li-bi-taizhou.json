@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-bi-taizhou",
   "title": "李必（台州） / Li Bi",
-  "sourcePath": "references/southern-ming/people/li-bi-taizhou.md",
+  "sourcePath": "references/southern-ming/people/li-bi-taizhou/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-bi-taizhou/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page, not an authenticated likeness or evidence source.",
+    "alt": "李必（台州） / Li Bi portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-bi-taizhou/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>李必，1657 年台州清方总镇，郑成功北上台州线中出降。为避免同名混淆，文件名暂标 <code>taizhou</code>。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《閩海紀要》《海上見聞錄》记郑成功攻台州，马信遣人招降后，清总镇李必出城降。</li><li>1658 年羊山风灾后，《海上見聞錄》记郑成功因北将谣言和军心问题，命张五军谕水武营朴/卜世用、火武营魏标、中权镇李必、奇兵镇张魁等解职；此李必是否即 1657 年台州降将待校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其为台州守将出降节点。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Defection/Surrender</code>: 台州总镇出降。</li><li><code>Campaign Node</code>: 郑氏台州外线。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0361</code>：1657 年台州招降和李必出降。</li><li><code>../source-audit.md#audit-sm-0368</code>：1658 年北将谣言后李必等被解职。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李必职衔、降郑后处置、是否与后续同名人物混同需继续校。</li></ul>",
   "plainText": "李必（台州） / Li Bi Status: seed profile; identity pending. 身份 李必，1657 年台州清方总镇，郑成功北上台州线中出降。为避免同名混淆，文件名暂标 taizhou。 生平和主要事迹 1657 年《閩海紀要》《海上見聞錄》记郑成功攻台州，马信遣人招降后，清总镇李必出城降。 1658 年羊山风灾后，《海上見聞錄》记郑成功因北将谣言和军心问题，命张五军谕水武营朴/卜世用、火武营魏标、中权镇李必、奇兵镇张魁等解职；此李必是否即 1657 年台州降将待校。 性格、评价和行为模式提取 当前只记录其为台州守将出降节点。 著作或文本 未见。 游戏数据线索 Defection/Surrender: 台州总镇出降。 Campaign Node: 郑氏台州外线。 来源 ../source audit.md audit sm 0361：1657 年台州招降和李必出降。 ../source audit.md audit sm 0368：1658 年北将谣言后李必等被解职。 待辨析 李必职衔、降郑后处置、是否与后续同名人物混同需继续校。"
 }

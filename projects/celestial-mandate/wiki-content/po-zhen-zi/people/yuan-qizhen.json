@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yuan-qizhen",
   "title": "袁起振 / Yuan Qizhen",
-  "sourcePath": "references/southern-ming/people/yuan-qizhen.md",
+  "sourcePath": "references/southern-ming/people/yuan-qizhen/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yuan-qizhen/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness and not an evidence source.",
+    "alt": "袁起振 / Yuan Qizhen portrait concept art",
+    "sourcePath": "references/southern-ming/people/yuan-qizhen/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yuan_qizhen</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>袁起振，1659 年郑氏南京战役中江北招抚线索人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年六月郑军克瓜洲、镇江后，《閩海紀要》记郑成功令张煌言、杨朝栋招抚江南，袁起振招抚江北。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只能作为招抚/文书链人物，不足以评价其长期身份。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Outreach</code>: 江北招抚。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0370</code>：袁起振招抚江北线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>袁起振职衔、招抚范围、响应州县和后续去向需张煌言材料、地方志和清方档案互校。</li></ul>",
   "plainText": "袁起振 / Yuan Qizhen Stable draft ID: person.yuan qizhen Status: anchored seed profile 身份 袁起振，1659 年郑氏南京战役中江北招抚线索人物。 生平和主要事迹 1659 年六月郑军克瓜洲、镇江后，《閩海紀要》记郑成功令张煌言、杨朝栋招抚江南，袁起振招抚江北。 性格、评价和行为模式提取 当前只能作为招抚/文书链人物，不足以评价其长期身份。 著作或文本 未见。 游戏数据线索 Political Outreach: 江北招抚。 来源 ../source audit.md audit sm 0370：袁起振招抚江北线索。 待辨析 袁起振职衔、招抚范围、响应州县和后续去向需张煌言材料、地方志和清方档案互校。"
 }

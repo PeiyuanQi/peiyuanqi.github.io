@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__mu-zhongxian",
   "title": "沐中显 / Mu Zhongxian",
-  "sourcePath": "references/southern-ming/people/mu-zhongxian.md",
+  "sourcePath": "references/southern-ming/people/mu-zhongxian/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/mu-zhongxian/portrait.png",
+    "caption": "AI generated game concept art; style inspired only. The likeness is not authenticated and must not be treated as a historical evidence source.",
+    "alt": "沐中显 / Mu Zhongxian portrait concept art",
+    "sourcePath": "references/southern-ming/people/mu-zhongxian/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>沐中显，《南明野史》所见沐天波之子，在大西余部与沐氏合作线中作为入营沟通人物出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1647 年八月，《南明野史》记沐天波得杨畏知书仍不敢信，遣其子沐中显至营，表示只求守永昌。</li><li>刘文秀等以国公礼待沐中显，并遣二十骑送归、归还沐氏世宝。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作沐氏与大西集团建立互信的使者/人质式沟通节点，不作独立性格判断。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Negotiation Channel</code>: 沐氏和大西集团合作承认链。</li><li><code>Continuity Anchor</code>: 沐氏世镇象征资源仍可被新军政集团吸纳。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0387</code>：《南明野史》所见沐中显至营、刘文秀礼待和沐氏世宝归还线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>沐中显谱系、是否为沐天波亲子、入营时间、沐氏世宝内容和后续去向需沐氏谱牒与云南地方志校。</li></ul>",
   "plainText": "沐中显 / Mu Zhongxian Status: anchored seed profile; identity pending. 身份 沐中显，《南明野史》所见沐天波之子，在大西余部与沐氏合作线中作为入营沟通人物出现。 生平和主要事迹 1647 年八月，《南明野史》记沐天波得杨畏知书仍不敢信，遣其子沐中显至营，表示只求守永昌。 刘文秀等以国公礼待沐中显，并遣二十骑送归、归还沐氏世宝。 性格、评价和行为模式提取 当前只作沐氏与大西集团建立互信的使者/人质式沟通节点，不作独立性格判断。 著作或文本 未见。 游戏数据线索 Negotiation Channel: 沐氏和大西集团合作承认链。 Continuity Anchor: 沐氏世镇象征资源仍可被新军政集团吸纳。 来源 ../source audit.md audit sm 0387：《南明野史》所见沐中显至营、刘文秀礼待和沐氏世宝归还线索。 待辨析 沐中显谱系、是否为沐天波亲子、入营时间、沐氏世宝内容和后续去向需沐氏谱牒与云南地方志校。"
 }

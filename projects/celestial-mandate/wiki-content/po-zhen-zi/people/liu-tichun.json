@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-tichun",
   "title": "刘体纯 / 刘体仁 / Liu Tichun",
-  "sourcePath": "references/southern-ming/people/liu-tichun.md",
+  "sourcePath": "references/southern-ming/people/liu-tichun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-tichun/portrait.png",
+    "caption": "This is AI generated game concept art informed by the local person page and late Ming mountain command visual grammar; it is not an authenticated likeness or evidence source.",
+    "alt": "刘体纯 / 刘体仁 / Liu Tichun portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-tichun/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>刘体纯，夔东十三家和忠贞营相关将领。部分材料写作“刘体仁”，本资料库暂作异写待校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1653-1654 年前后，清方奏报把刘体纯与郝摇旗、袁宗第等列为房县、保康、竹山、竹溪一带山地力量。</li><li>1658 年清军西南总攻时，刘体纯参与或被纳入永历方面联络夔东、川东明军进攻重庆的计划。</li><li>顾诚材料记文安之统领刘体纯、袁宗第、李来亨、塔天宝、党守素等沿长江两岸陆路前进，以配合水师攻重庆。</li><li>1663-1664 年夔东尾声中，刘体纯/刘体仁败亡线索是研究下限争议的一部分，但本资料库暂只作尾声边界记录。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>材料呈现其为夔东抗清系统中愿意响应永历危局、进行外线牵制的将领。其行为模式偏向山地据守与应召出击之间的摇摆。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Kuidong Commander</code>: 夔东十三家联动。</li><li><code>Divergence Gate</code>: 夔东水陆合击是否同步。</li><li><code>Post-1662 Boundary</code>: 夔东尾声关键人物。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0120</code>：夔东十三家进攻重庆与三谭内变。</li><li><code>../source-audit.md#audit-sm-0250</code>：1653-1654 房竹山地分布。</li><li><code>../source-audit.md#audit-sm-0251</code>：1658 夔东、川东分守清单。</li><li><code>../source-audit.md#audit-sm-0253</code>：1663-1664 夔东尾声边界。</li><li><code>../source-audit.md#audit-sm-0276</code>：1662 后夔东三省会剿、东线反击和茅麓山尾声。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘体纯/刘体仁写法、与忠贞营旧部关系和 1662 后去向需另校。</li></ul>",
   "plainText": "刘体纯 / 刘体仁 / Liu Tichun 身份 刘体纯，夔东十三家和忠贞营相关将领。部分材料写作“刘体仁”，本资料库暂作异写待校。 生平和主要事迹 1653 1654 年前后，清方奏报把刘体纯与郝摇旗、袁宗第等列为房县、保康、竹山、竹溪一带山地力量。 1658 年清军西南总攻时，刘体纯参与或被纳入永历方面联络夔东、川东明军进攻重庆的计划。 顾诚材料记文安之统领刘体纯、袁宗第、李来亨、塔天宝、党守素等沿长江两岸陆路前进，以配合水师攻重庆。 1663 1664 年夔东尾声中，刘体纯/刘体仁败亡线索是研究下限争议的一部分，但本资料库暂只作尾声边界记录。 性格、评价和行为模式 材料呈现其为夔东抗清系统中愿意响应永历危局、进行外线牵制的将领。其行为模式偏向山地据守与应召出击之间的摇摆。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Kuidong Commander: 夔东十三家联动。 Divergence Gate: 夔东水陆合击是否同步。 Post 1662 Boundary: 夔东尾声关键人物。 来源 ../source audit.md audit sm 0120：夔东十三家进攻重庆与三谭内变。 ../source audit.md audit sm 0250：1653 1654 房竹山地分布。 ../source audit.md audit sm 0251：1658 夔东、川东分守清单。 ../source audit.md audit sm 0253：1663 1664 夔东尾声边界。 ../source audit.md audit sm 0276：1662 后夔东三省会剿、东线反击和茅麓山尾声。 待辨析 刘体纯/刘体仁写法、与忠贞营旧部关系和 1662 后去向需另校。"
 }

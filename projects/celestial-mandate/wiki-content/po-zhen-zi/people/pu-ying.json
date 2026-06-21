@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__pu-ying",
   "title": "蒲缨 / Pu Ying",
-  "sourcePath": "references/southern-ming/people/pu-ying.md",
+  "sourcePath": "references/southern-ming/people/pu-ying/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/pu-ying/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local profile; not an authenticated likeness or evidence source.",
+    "alt": "蒲缨 / Pu Ying portrait concept art",
+    "sourcePath": "references/southern-ming/people/pu-ying/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.pu_ying</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>蒲缨，南明绥宁伯，永历入缅后随行或仍在行在附近活动的人物之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记永历入缅后，蒲缨与沐天波、王启隆曾谋奉永历出缅，走护腊撒、孟艮以就李定国军；此议因马吉翔表态阻却而散。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：在流亡行在内部曾参与主动脱困方案，但当前材料不足以判断其个人主导程度。</li><li>该条更适合先作为“内部策应节点”保存，不宜据此扩展为完整忠奸评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Divergence Gate</code>: 入缅后内部出逃/奉驾路线是否成行。</li><li><code>Communication System</code>: 近臣阻隔与行在内部决策失败。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/yongli-burma-terminal-network-1659-1662.md</code>：终局中内部出缅设想失败的总入口。</li><li><code>../events/yongli-flight-to-burma-1659.md</code>：永历入缅。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0302</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>蒲缨此前履历、绥宁伯爵号来源、与沐天波/王启隆的关系，以及后续是否在咒水之难中遇害，需继续核对。</li></ul>",
   "plainText": "蒲缨 / Pu Ying Stable draft ID: person.pu ying Status: anchored seed profile 身份 蒲缨，南明绥宁伯，永历入缅后随行或仍在行在附近活动的人物之一。 生平和主要事迹 《小腆紀年》记永历入缅后，蒲缨与沐天波、王启隆曾谋奉永历出缅，走护腊撒、孟艮以就李定国军；此议因马吉翔表态阻却而散。 性格、评价和行为模式提取 行为模式：在流亡行在内部曾参与主动脱困方案，但当前材料不足以判断其个人主导程度。 该条更适合先作为“内部策应节点”保存，不宜据此扩展为完整忠奸评价。 著作或文本 未见已核著作。 游戏数据线索 Divergence Gate: 入缅后内部出逃/奉驾路线是否成行。 Communication System: 近臣阻隔与行在内部决策失败。 相关事件 ../events/yongli burma terminal network 1659 1662.md：终局中内部出缅设想失败的总入口。 ../events/yongli flight to burma 1659.md：永历入缅。 来源 已核锚点：../source audit.md audit sm 0302。 待辨析 蒲缨此前履历、绥宁伯爵号来源、与沐天波/王启隆的关系，以及后续是否在咒水之难中遇害，需继续核对。"
 }

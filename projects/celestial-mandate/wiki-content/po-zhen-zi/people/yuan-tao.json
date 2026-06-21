@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yuan-tao",
   "title": "袁韬 / Yuan Tao",
-  "sourcePath": "references/southern-ming/people/yuan-tao.md",
+  "sourcePath": "references/southern-ming/people/yuan-tao/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yuan-tao/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness and not an evidence source.",
+    "alt": "袁韬 / Yuan Tao portrait concept art",
+    "sourcePath": "references/southern-ming/people/yuan-tao/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yuan_tao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>袁韬，南明定虏侯或地方军政人物，材料中见于川南势力和 1659 年降清名单。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1651 年刘文秀入川时，袁韬与武大定等川南地方势力相关。</li><li>《南明史稿》记 1659 年清兵还云南后，定虏侯袁韬与武大定、祁自贵、马得鸣、武国用、史文等畔降于清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料显示其从川南地方势力线进入 1659 年降清名单；不据此补全完整履历。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 川南地方军政和 1659 年降清链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0089</code>，<code>../source-audit.md#audit-sm-0300</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>袁韬爵号、川南势力范围、与刘文秀入川关系、1659 年降清后去向需继续校。</li></ul>",
   "plainText": "袁韬 / Yuan Tao Stable draft ID: person.yuan tao Status: anchored seed profile 身份 袁韬，南明定虏侯或地方军政人物，材料中见于川南势力和 1659 年降清名单。 生平和主要事迹 1651 年刘文秀入川时，袁韬与武大定等川南地方势力相关。 《南明史稿》记 1659 年清兵还云南后，定虏侯袁韬与武大定、祁自贵、马得鸣、武国用、史文等畔降于清。 性格、评价和行为模式提取 当前材料显示其从川南地方势力线进入 1659 年降清名单；不据此补全完整履历。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 川南地方军政和 1659 年降清链。 来源 已核锚点：../source audit.md audit sm 0089，../source audit.md audit sm 0300。 待辨析 袁韬爵号、川南势力范围、与刘文秀入川关系、1659 年降清后去向需继续校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xu-wenjue",
   "title": "徐文爵 / Xu Wenjue",
-  "sourcePath": "references/southern-ming/people/xu-wenjue.md",
+  "sourcePath": "references/southern-ming/people/xu-wenjue/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xu-wenjue/portrait.png",
+    "caption": "AI generated game concept art. It is not an authenticated likeness or evidence source.",
+    "alt": "徐文爵 / Xu Wenjue portrait concept art",
+    "sourcePath": "references/southern-ming/people/xu-wenjue/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.xu_wenjue</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐文爵，徐弘基之子，《南疆繹史》卷十一中见为嗣魏国公职的南京勋臣支系人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南疆繹史》称徐弘基乞休后以徐文爵嗣职。</li><li>传文又记徐弘基被害时，徐文爵“方就傅，奋起敌杀数人；卒被害”。此为强烈死难叙事层，不能直接写成已校定战斗细节。</li><li>本地 CBDB 20260530 对 <code>徐文爵</code> 无直接主名或别名命中；这是弱否定，只提示继续转向徐氏谱牒、地方志和点校本。</li><li>《小腆紀年》称徐文爵年十五，与徐弘基吴江起兵遇害同死；徐鼒按语又认为《明史》把徐允爵袭职误置为徐文爵嗣，须作为承袭异文处理。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Family Link</code>: 徐弘基家族和弘光南京勋臣承袭链。</li><li><code>Memory Layer</code>: 南都覆亡后徐氏支系死难记忆。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0433</code>：维基文库《南疆繹史》所见徐弘基、徐文爵、徐仁爵层。</li><li><code>../source-audit.md#audit-sm-0437</code>：本地 CBDB 所见徐文爵无直接命中。</li><li><code>../source-audit.md#audit-sm-0440</code>：本地《小腆紀年》《南明史稿》所见徐文爵吴江死难和徐允爵承袭错置层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐文爵年龄、嗣职时间、遇害地点、死亡细节、与徐允爵的承袭分合和 CBDB 无命中原因需徐氏谱牒、地方志和点校本互校。</li></ul>",
   "plainText": "徐文爵 / Xu Wenjue Stable draft ID: person.xu wenjue Status: seed profile 身份 徐文爵，徐弘基之子，《南疆繹史》卷十一中见为嗣魏国公职的南京勋臣支系人物。 生平和主要事迹 《南疆繹史》称徐弘基乞休后以徐文爵嗣职。 传文又记徐弘基被害时，徐文爵“方就傅，奋起敌杀数人；卒被害”。此为强烈死难叙事层，不能直接写成已校定战斗细节。 本地 CBDB 20260530 对 徐文爵 无直接主名或别名命中；这是弱否定，只提示继续转向徐氏谱牒、地方志和点校本。 《小腆紀年》称徐文爵年十五，与徐弘基吴江起兵遇害同死；徐鼒按语又认为《明史》把徐允爵袭职误置为徐文爵嗣，须作为承袭异文处理。 游戏数据线索 Family Link: 徐弘基家族和弘光南京勋臣承袭链。 Memory Layer: 南都覆亡后徐氏支系死难记忆。 来源 ../source audit.md audit sm 0433：维基文库《南疆繹史》所见徐弘基、徐文爵、徐仁爵层。 ../source audit.md audit sm 0437：本地 CBDB 所见徐文爵无直接命中。 ../source audit.md audit sm 0440：本地《小腆紀年》《南明史稿》所见徐文爵吴江死难和徐允爵承袭错置层。 待辨析 徐文爵年龄、嗣职时间、遇害地点、死亡细节、与徐允爵的承袭分合和 CBDB 无命中原因需徐氏谱牒、地方志和点校本互校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yu-cheng-zheng",
   "title": "余程（郑氏） / Yu Cheng",
-  "sourcePath": "references/southern-ming/people/yu-cheng-zheng.md",
+  "sourcePath": "references/southern-ming/people/yu-cheng-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yu-cheng-zheng/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated and should not be treated as evidence.",
+    "alt": "余程（郑氏） / Yu Cheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/yu-cheng-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>余程，郑成功系统将领，1657 年闽安复失线中的战死人物。为避免同名混淆，文件名暂标 <code>zheng</code>。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《閩海紀要》记清兵复闽安镇，明前提督右镇余程战死。</li><li>《海上見聞錄》1658 年条亦记清方攻罗星塔/闽安时，前提督右镇余程守顶寨战死；此与《閩海紀要》1657 年条需作为年份异文继续校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前仅能确认其为闽安守御战死节点。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Fortification Defense</code>: 闽安镇。</li><li><code>Martyr/Death Node</code>: 战死，待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0361</code>：1657 年闽安复失和余程战死。</li><li><code>../source-audit.md#audit-sm-0365</code>：《海上見聞錄》1658 年条所见余程守顶寨战死。</li></ul>\n<h3>待辨析</h3>\n<ul><li>余程职衔、所属镇营、战死日和《海上見聞錄》后文罗星塔失守细节之间的关系需继续校。</li></ul>",
   "plainText": "余程（郑氏） / Yu Cheng Status: seed profile; identity pending. 身份 余程，郑成功系统将领，1657 年闽安复失线中的战死人物。为避免同名混淆，文件名暂标 zheng。 生平和主要事迹 1657 年《閩海紀要》记清兵复闽安镇，明前提督右镇余程战死。 《海上見聞錄》1658 年条亦记清方攻罗星塔/闽安时，前提督右镇余程守顶寨战死；此与《閩海紀要》1657 年条需作为年份异文继续校。 性格、评价和行为模式提取 当前仅能确认其为闽安守御战死节点。 著作或文本 未见。 游戏数据线索 Fortification Defense: 闽安镇。 Martyr/Death Node: 战死，待校。 来源 ../source audit.md audit sm 0361：1657 年闽安复失和余程战死。 ../source audit.md audit sm 0365：《海上見聞錄》1658 年条所见余程守顶寨战死。 待辨析 余程职衔、所属镇营、战死日和《海上見聞錄》后文罗星塔失守细节之间的关系需继续校。"
 }

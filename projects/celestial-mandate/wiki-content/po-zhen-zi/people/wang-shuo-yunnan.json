@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-shuo-yunnan",
   "title": "王朔（云南沙定洲线） / Wang Shuo",
-  "sourcePath": "references/southern-ming/people/wang-shuo-yunnan.md",
+  "sourcePath": "references/southern-ming/people/wang-shuo-yunnan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-shuo-yunnan/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local text; the likeness is not authenticated",
+    "alt": "王朔（云南沙定洲线） / Wang Shuo portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-shuo-yunnan/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>王朔，《南明野史》所见沙定洲部党，出现在大理、蒙化方向战事中。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》记沙定洲至楚雄不能入后，遣其党王朔、李日芳等分攻大理、蒙化。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作沙定洲部党和分兵方向线索，不展开个人评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Field Force</code>: 沙定洲部队分兵大理、蒙化。</li><li><code>Identity Disambiguation</code>: 王朔同名风险高，需保留事件限定。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0386</code>：《南明野史》所见王朔、李日芳攻大理蒙化线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王朔职衔、战事结果、是否与其他同名人物有关需地方志校。</li></ul>",
   "plainText": "王朔（云南沙定洲线） / Wang Shuo Status: anchored seed profile; identity pending. 身份 王朔，《南明野史》所见沙定洲部党，出现在大理、蒙化方向战事中。 生平和主要事迹 《南明野史》记沙定洲至楚雄不能入后，遣其党王朔、李日芳等分攻大理、蒙化。 性格、评价和行为模式提取 当前只作沙定洲部党和分兵方向线索，不展开个人评价。 著作或文本 未见。 游戏数据线索 Field Force: 沙定洲部队分兵大理、蒙化。 Identity Disambiguation: 王朔同名风险高，需保留事件限定。 来源 ../source audit.md audit sm 0386：《南明野史》所见王朔、李日芳攻大理蒙化线索。 待辨析 王朔职衔、战事结果、是否与其他同名人物有关需地方志校。"
 }

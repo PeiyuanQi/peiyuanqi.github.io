@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__gui-zhuang",
   "title": "归庄 / Gui Zhuang",
-  "sourcePath": "references/southern-ming/people/gui-zhuang.md",
+  "sourcePath": "references/southern-ming/people/gui-zhuang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/gui-zhuang/portrait.png",
+    "caption": "AI-generated game concept art; not an authenticated likeness.",
+    "alt": "归庄 / Gui Zhuang portrait concept art",
+    "sourcePath": "references/southern-ming/people/gui-zhuang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.gui_zhuang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>归庄，字玄恭，昆山人。与顾炎武齐名，资料中称“归奇顾怪”。本轮先记录其参与昆山拒守线索。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆纪年》记归庄与顾炎武、吴其沆等佐杨永言起事。</li><li>昆山城陷后，归庄与杨永言、顾炎武等遁去；材料称其后来亡命为僧装，称普明头陀。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：士人参与地方抗清失败后转入隐匿身份。</li><li>评价层：后世文名与昆山抗清记忆互相叠加，需分开处理。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>著作待专题整理。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Network Node</code>: 昆山士人抗清网络。</li><li><code>Unresolved Claim</code>: 失败后身份隐匿和逃亡路线。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0193</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>昆山事件中的具体行动、逃亡路线和后续活动需年谱、文集和地方志补证。</li></ul>",
   "plainText": "归庄 / Gui Zhuang Stable draft ID: person.gui zhuang Status: anchored seed profile 身份 归庄，字玄恭，昆山人。与顾炎武齐名，资料中称“归奇顾怪”。本轮先记录其参与昆山拒守线索。 生平和主要事迹 《小腆纪年》记归庄与顾炎武、吴其沆等佐杨永言起事。 昆山城陷后，归庄与杨永言、顾炎武等遁去；材料称其后来亡命为僧装，称普明头陀。 性格、评价和行为模式提取 行为模式：士人参与地方抗清失败后转入隐匿身份。 评价层：后世文名与昆山抗清记忆互相叠加，需分开处理。 著作或文本 著作待专题整理。 游戏数据线索 Network Node: 昆山士人抗清网络。 Unresolved Claim: 失败后身份隐匿和逃亡路线。 来源 已核锚点：../source audit.md audit sm 0193。 待辨析 昆山事件中的具体行动、逃亡路线和后续活动需年谱、文集和地方志补证。"
 }

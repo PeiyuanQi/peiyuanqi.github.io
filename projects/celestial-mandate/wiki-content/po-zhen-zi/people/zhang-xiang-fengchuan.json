@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhang-xiang-fengchuan",
   "title": "张祥（封川线） / Zhang Xiang, Fengchuan Line",
-  "sourcePath": "references/southern-ming/people/zhang-xiang-fengchuan.md",
+  "sourcePath": "references/southern-ming/people/zhang-xiang-fengchuan/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_xiang_fengchuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张祥，1649 年程峋遇害事件中出现的人物。为避免同名混淆，当前文件名暂以“封川线”消歧。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记程峋往见李赤心途中，在封川/江中被张祥所杀。</li><li>同条还保存一种异文，称李元胤因憎恨程峋召忠贞营入行在而使张祥杀之；当前不作主使定论。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只能作为程峋遇害执行者或相关责任人记录；其身份和动机待核。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见可归属文本。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 中枢使者遇害、地方军镇阻断命令链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0243</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张祥身份、所属、杀害程峋的具体地点、是否受李元胤指使均待多源核验。</li></ul>",
   "plainText": "张祥（封川线） / Zhang Xiang, Fengchuan Line Stable draft ID: person.zhang xiang fengchuan Status: anchored seed profile 身份 张祥，1649 年程峋遇害事件中出现的人物。为避免同名混淆，当前文件名暂以“封川线”消歧。 生平和主要事迹 《小腆紀年》记程峋往见李赤心途中，在封川/江中被张祥所杀。 同条还保存一种异文，称李元胤因憎恨程峋召忠贞营入行在而使张祥杀之；当前不作主使定论。 性格、评价和行为模式提取 当前只能作为程峋遇害执行者或相关责任人记录；其身份和动机待核。 著作或文本 未见可归属文本。 游戏数据线索 Report Fact: 中枢使者遇害、地方军镇阻断命令链。 来源 已核锚点：../source audit.md audit sm 0243；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 张祥身份、所属、杀害程峋的具体地点、是否受李元胤指使均待多源核验。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-sixing",
   "title": "李嗣兴 / Li Sixing",
-  "sourcePath": "references/southern-ming/people/li-sixing.md",
+  "sourcePath": "references/southern-ming/people/li-sixing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-sixing/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local Southern Ming dossier evidence, not an authenticated likeness or evidence source.",
+    "alt": "李嗣兴 / Li Sixing portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-sixing/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_sixing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李嗣兴，李定国世子，1662 年李定国死后西南余部继承和降清线索中的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>白文选部离开时，李定国曾命李嗣兴尾随观察但不得动武；黑门限/黑门坎几乎冲突时，李定国制止李嗣兴强攻。</li><li>李定国临终托孤靳统武，命李嗣兴拜其为养父。</li><li>李定国死后，李嗣兴最终降清并交出册、宝和元帅印等线索。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：继承者在父辈忠诚遗命、残军现实压力和清方安置之间摇摆。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Authority Transition</code>: 李定国死后的残军继承失败。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0140</code>，<code>../source-audit.md#audit-sm-0141</code>，<code>../source-audit.md#audit-sm-0309</code>，<code>../source-audit.md#audit-sm-0310</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>降清日序、清方授职和后续履历需补。</li></ul>",
   "plainText": "李嗣兴 / Li Sixing Stable draft ID: person.li sixing Status: anchored seed profile 身份 李嗣兴，李定国世子，1662 年李定国死后西南余部继承和降清线索中的人物。 生平和主要事迹 白文选部离开时，李定国曾命李嗣兴尾随观察但不得动武；黑门限/黑门坎几乎冲突时，李定国制止李嗣兴强攻。 李定国临终托孤靳统武，命李嗣兴拜其为养父。 李定国死后，李嗣兴最终降清并交出册、宝和元帅印等线索。 性格、评价和行为模式提取 行为模式：继承者在父辈忠诚遗命、残军现实压力和清方安置之间摇摆。 著作或文本 未见。 游戏数据线索 Authority Transition: 李定国死后的残军继承失败。 来源 已核锚点：../source audit.md audit sm 0140，../source audit.md audit sm 0141，../source audit.md audit sm 0309，../source audit.md audit sm 0310。 待辨析 降清日序、清方授职和后续履历需补。"
 }

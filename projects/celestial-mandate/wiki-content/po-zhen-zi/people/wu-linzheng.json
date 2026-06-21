@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wu-linzheng",
   "title": "吴麟征 / Wu Linzheng",
-  "sourcePath": "references/southern-ming/people/wu-linzheng.md",
+  "sourcePath": "references/southern-ming/people/wu-linzheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wu-linzheng/portrait.png",
+    "caption": "AI generated game concept art informed by local written evidence and shared roster art direction; it is not an authenticated likeness or evidence source.",
+    "alt": "吴麟征 / Wu Linzheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/wu-linzheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wu_linzheng</code><br />Status: Phase 1 起点低可见度人物；职衔异文待校。</p></blockquote>\n<h3>身份</h3>\n<p>吴麟征，《小腆纪年》记为吏科都给事中，并在注中保存太常寺卿、大理卿、大司马等后续或异文职衔问题。Phase 1 起点链中，他是支持召吴三桂入卫、反对因事后追责而迟疑的言官/朝议接口。</p>\n<h3>已核时间线</h3>\n<div class=\"wiki-table-wrap\"><table><thead><tr><th>时间</th><th>地点</th><th>事件</th><th>建模意义</th></tr></thead><tbody><tr><td>崇祯十七年正月至三月间</td><td>北京</td><td>与王永吉、杨鹗等请撤宁远总兵吴三桂入卫；诸书日序有异文。</td><td><code>UrgentCourtDissent</code>。</td></tr><tr><td>崇祯十七年春</td><td>北京</td><td>在陈演、魏藻德等担忧弃地后患时，吴麟征争言时势紧急，不可只顾后患。</td><td><code>DecisionLatencyBreaker</code>。</td></tr></tbody></table></div>\n<h3>性格、评价和行为模式</h3>\n<ul><li>可写成有急迫感、愿意顶住事后追责风险的朝议人物。</li><li>但当前材料不足以把他扩成完整改革派、完整守城指挥者或稳定派系角色。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>CourtWarning</code>: 提醒玩家/AI 当前不决将错失窗口。</li><li><code>ProtocolPressure</code>: 在内阁风险规避之外提供反向压力。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0503</code>。</li><li><code>data/era-packages/southern-ming/source-notes/xiaotian-jinian-wu-sangui-recall-delay-wu-xiang-consultation-1644.json</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>甲申正月、三月初七和守城时期职衔异文；后续死难或守城细节需要《明季北略》《传信录》《大行骖乘篇》等互校。</li></ul>",
   "plainText": "吴麟征 / Wu Linzheng Stable draft ID: person.wu linzheng Status: Phase 1 起点低可见度人物；职衔异文待校。 身份 吴麟征，《小腆纪年》记为吏科都给事中，并在注中保存太常寺卿、大理卿、大司马等后续或异文职衔问题。Phase 1 起点链中，他是支持召吴三桂入卫、反对因事后追责而迟疑的言官/朝议接口。 已核时间线 时间 地点 事件 建模意义 崇祯十七年正月至三月间 北京 与王永吉、杨鹗等请撤宁远总兵吴三桂入卫；诸书日序有异文。 UrgentCourtDissent。 崇祯十七年春 北京 在陈演、魏藻德等担忧弃地后患时，吴麟征争言时势紧急，不可只顾后患。 DecisionLatencyBreaker。 性格、评价和行为模式 可写成有急迫感、愿意顶住事后追责风险的朝议人物。 但当前材料不足以把他扩成完整改革派、完整守城指挥者或稳定派系角色。 游戏数据线索 CourtWarning: 提醒玩家/AI 当前不决将错失窗口。 ProtocolPressure: 在内阁风险规避之外提供反向压力。 来源 ../source audit.md audit sm 0503。 data/era packages/southern ming/source notes/xiaotian jinian wu sangui recall delay wu xiang consultation 1644.json。 待辨析 甲申正月、三月初七和守城时期职衔异文；后续死难或守城细节需要《明季北略》《传信录》《大行骖乘篇》等互校。"
 }

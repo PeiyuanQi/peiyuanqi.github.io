@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-jiugao",
   "title": "刘九皋 / Liu Jiugao",
-  "sourcePath": "references/southern-ming/people/liu-jiugao.md",
+  "sourcePath": "references/southern-ming/people/liu-jiugao/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-jiugao/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness or evidence source",
+    "alt": "刘九皋 / Liu Jiugao portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-jiugao/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_jiugao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘九皋，CText《臺灣鄭氏始末》卷三所见郑氏-永历册封和会师江南文书链人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《臺灣鄭氏始末》卷三记郑成功遣杨廷世、刘九皋请秦王、晋王修好，意在会师进取。</li><li>同卷又记永历遣漳平伯周金汤偕杨廷世、刘九皋赍诏至思明州，封郑成功延平王、赐尚方剑，并由郑成功进谢表和会师江南疏。</li><li>《臺灣鄭氏始末》卷二另见“宦者刘九皋”向郑成功报告孔有德攻陷广西多府和永历迁徙危局；未证同人前，本页只作同名待辨析提示，不把两条线合并为同一履历。</li><li>当前只据这一组整理本文书链建种子页，不推断其官职、生卒和后续履历。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>资料不足以评价个人性格。</li><li>行为模式：跨海册封和会师联络链中的使者/同行人。</li><li>同名风险：可能存在宦者刘九皋与会师/册封链刘九皋同人或异人两种可能，待校。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Diplomacy</code>: 郑氏与永历行在的册封和会师江南文书链。</li><li><code>Communication System</code>: 思明州、永历行在、复命路线的交通阻力。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0334</code>：CText《臺灣鄭氏始末》卷三所见杨廷世、刘九皋、周金汤和徐孚远文书链。</li><li><code>../source-audit.md#audit-sm-0337</code>：CText《臺灣鄭氏始末》卷二所见宦者刘九皋报告广西危局，同名待辨析。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘九皋官职、路线、是否与卷二宦者刘九皋同人，以及 1657-1658 年具体往返日序需郑氏材料、清方档案和永历行在材料校。</li></ul>",
   "plainText": "刘九皋 / Liu Jiugao Stable draft ID: person.liu jiugao Status: anchored seed profile 身份 刘九皋，CText《臺灣鄭氏始末》卷三所见郑氏 永历册封和会师江南文书链人物。 生平和主要事迹 《臺灣鄭氏始末》卷三记郑成功遣杨廷世、刘九皋请秦王、晋王修好，意在会师进取。 同卷又记永历遣漳平伯周金汤偕杨廷世、刘九皋赍诏至思明州，封郑成功延平王、赐尚方剑，并由郑成功进谢表和会师江南疏。 《臺灣鄭氏始末》卷二另见“宦者刘九皋”向郑成功报告孔有德攻陷广西多府和永历迁徙危局；未证同人前，本页只作同名待辨析提示，不把两条线合并为同一履历。 当前只据这一组整理本文书链建种子页，不推断其官职、生卒和后续履历。 性格、评价和行为模式提取 资料不足以评价个人性格。 行为模式：跨海册封和会师联络链中的使者/同行人。 同名风险：可能存在宦者刘九皋与会师/册封链刘九皋同人或异人两种可能，待校。 著作或文本 未见。 游戏数据线索 Diplomacy: 郑氏与永历行在的册封和会师江南文书链。 Communication System: 思明州、永历行在、复命路线的交通阻力。 来源 ../source audit.md audit sm 0334：CText《臺灣鄭氏始末》卷三所见杨廷世、刘九皋、周金汤和徐孚远文书链。 ../source audit.md audit sm 0337：CText《臺灣鄭氏始末》卷二所见宦者刘九皋报告广西危局，同名待辨析。 待辨析 刘九皋官职、路线、是否与卷二宦者刘九皋同人，以及 1657 1658 年具体往返日序需郑氏材料、清方档案和永历行在材料校。"
 }

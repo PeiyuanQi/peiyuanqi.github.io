@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zheng-yunyuan",
   "title": "郑允元 / Zheng Yunyuan",
-  "sourcePath": "references/southern-ming/people/zheng-yunyuan.md",
+  "sourcePath": "references/southern-ming/people/zheng-yunyuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zheng-yunyuan/portrait.png",
+    "caption": "AI generated game concept art from the local person profile; not an authenticated likeness and not a historical evidence source.",
+    "alt": "郑允元 / Zheng Yunyuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/zheng-yunyuan/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>郑允元，永历安龙朝臣或勋臣。顾诚材料中作武安伯，《明季南略》追赠层也列其名。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>安龙密诏网络中，郑允元建议在周官出使前遣开马吉翔，以免机密走漏。</li><li>1654 年三月前后卷入密诏案处置链。</li><li>1657 年后追赠记忆层中被列为安龙死难忠臣之一。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“风险识别型参与者”：其建议说明安龙朝廷内部已意识到马吉翔是关键泄密风险。</li><li>其行动偏向保密和人员隔离，而非公开清议。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Actor</code>: 密诏网络中的保密建议者。</li><li><code>Risk Factor</code>: 马吉翔/庞天寿内线风险。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0247</code>：安龙密诏李定国、泄密追查和三月处置链。</li><li><code>../source-audit.md#audit-sm-0248</code>：十八先生姓名、诏书名单和追赠名单异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>郑允元官爵、是否为武安伯、处置方式和追赠职衔需继续校。</li></ul>",
   "plainText": "郑允元 / Zheng Yunyuan 身份 郑允元，永历安龙朝臣或勋臣。顾诚材料中作武安伯，《明季南略》追赠层也列其名。 生平与主要事迹 安龙密诏网络中，郑允元建议在周官出使前遣开马吉翔，以免机密走漏。 1654 年三月前后卷入密诏案处置链。 1657 年后追赠记忆层中被列为安龙死难忠臣之一。 性格、评价与行为模式 可作为“风险识别型参与者”：其建议说明安龙朝廷内部已意识到马吉翔是关键泄密风险。 其行动偏向保密和人员隔离，而非公开清议。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Political Actor: 密诏网络中的保密建议者。 Risk Factor: 马吉翔/庞天寿内线风险。 来源 ../source audit.md audit sm 0247：安龙密诏李定国、泄密追查和三月处置链。 ../source audit.md audit sm 0248：十八先生姓名、诏书名单和追赠名单异文。 待辨析 郑允元官爵、是否为武安伯、处置方式和追赠职衔需继续校。"
 }

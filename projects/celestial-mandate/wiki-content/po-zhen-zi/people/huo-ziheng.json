@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__huo-ziheng",
   "title": "霍子衡 / Huo Ziheng",
-  "sourcePath": "references/southern-ming/people/huo-ziheng.md",
+  "sourcePath": "references/southern-ming/people/huo-ziheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/huo-ziheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page. The likeness is not authenticated.",
+    "alt": "霍子衡 / Huo Ziheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/huo-ziheng/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>霍子衡，绍武政权覆灭和广州陷落线中的死节名单层人物。现有锚点只支持其在李成栋袭取广州、绍武覆灭后被列入死节或死难记忆层；具体职衔、死法、地点和同死名单仍待校。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>1646 年十二月前后，清方李成栋乘广州防务混乱袭取广州，绍武政权迅速覆灭。</li><li>相关锚点将霍子衡列入绍武覆灭后的死节人物层，同时提示朱聿𨮁、苏观生、霍子衡等人的死法、被捕地点和死节地点均需分源记录。</li><li>目前不把霍子衡写入确定死法或确定地点，只作为广州陷落人物网络中的待校死难节点。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“广州覆灭死节记忆”种子：其价值在绍武短命政权的崩溃成本和地方忠烈记忆。</li><li>未直接打开更细传记前，不抽取个人性格或行为模式。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Martyrdom Memory</code>: 广州陷落后的死节/死难记忆。</li><li><code>Collapse Cost</code>: 绍武政权覆灭的人员损失和地方情感后果。</li><li><code>Evidence Risk</code>: 死法、地点、职衔和名单来源待校。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/shaowu-yongli-rivalry-1646.md</code>：绍武、永历并立与广州覆灭。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0153</code>：1646 年李成栋袭取广州和绍武政权覆灭。</li></ul>\n<h3>待辨析</h3>\n<ul><li>霍子衡的身份职衔、是否为绍武朝臣或广州地方人物、被捕与死亡地点、死亡方式、是否见于地方志或忠烈传，以及同名单层次需继续核。</li></ul>",
   "plainText": "霍子衡 / Huo Ziheng 身份 霍子衡，绍武政权覆灭和广州陷落线中的死节名单层人物。现有锚点只支持其在李成栋袭取广州、绍武覆灭后被列入死节或死难记忆层；具体职衔、死法、地点和同死名单仍待校。 生平与主要事迹 1646 年十二月前后，清方李成栋乘广州防务混乱袭取广州，绍武政权迅速覆灭。 相关锚点将霍子衡列入绍武覆灭后的死节人物层，同时提示朱聿𨮁、苏观生、霍子衡等人的死法、被捕地点和死节地点均需分源记录。 目前不把霍子衡写入确定死法或确定地点，只作为广州陷落人物网络中的待校死难节点。 性格、评价与行为模式 可作为“广州覆灭死节记忆”种子：其价值在绍武短命政权的崩溃成本和地方忠烈记忆。 未直接打开更细传记前，不抽取个人性格或行为模式。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Martyrdom Memory: 广州陷落后的死节/死难记忆。 Collapse Cost: 绍武政权覆灭的人员损失和地方情感后果。 Evidence Risk: 死法、地点、职衔和名单来源待校。 相关事件 ../events/shaowu yongli rivalry 1646.md：绍武、永历并立与广州覆灭。 来源 ../source audit.md audit sm 0153：1646 年李成栋袭取广州和绍武政权覆灭。 待辨析 霍子衡的身份职衔、是否为绍武朝臣或广州地方人物、被捕与死亡地点、死亡方式、是否见于地方志或忠烈传，以及同名单层次需继续核。"
 }

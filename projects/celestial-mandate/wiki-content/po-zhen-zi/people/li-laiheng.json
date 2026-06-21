@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-laiheng",
   "title": "李来亨 / Li Laiheng",
-  "sourcePath": "references/southern-ming/people/li-laiheng.md",
+  "sourcePath": "references/southern-ming/people/li-laiheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-laiheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local notes; not an authenticated likeness or evidence source.",
+    "alt": "李来亨 / Li Laiheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-laiheng/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>李来亨，夔东十三家相关将领，南明后期和 1662 后尾声中的关键人物之一。当前材料把其放在七连坪山地簇、1658 重庆牵制网络和 1663-1664 夔东尾声三条线上。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年，李来亨被列入夔东、川东抗清力量网络，永历方面希望其与文安之、刘体纯、袁宗第等响应重庆牵制计划。</li><li>1653-1654 年前后，洪承畴奏报把李来亨、马重禧、党守素、李世威等列在七连坪一带，说明其不是单一战役人物，而是山地据点网络中的核心节点。</li><li>顾诚提示清方揭帖未必完整列出全部参战部队，李来亨是否直接参加重庆之役的具体程度需谨慎。</li><li>1663-1664 年夔东尾声中，李来亨部在茅麓山坚持到最后；这属于主范围 1662-06-01 之后的尾声扩展线索。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料支撑“夔东系统重要力量”的身份，不足以单独评价其 1658 年战术行为。后续 1662 后夔东尾声需要另补。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Kuidong Commander</code>: 夔东后续尾声关键人物。</li><li><code>Scope Boundary</code>: 1662 后是否纳入尾声扩展。</li><li><code>Force Cluster</code>: 七连坪簇。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0120</code>：夔东重庆战役及参战名单待校。</li><li><code>../source-audit.md#audit-sm-0250</code>：七连坪山地分布。</li><li><code>../source-audit.md#audit-sm-0251</code>：1658 夔东、川东分守清单。</li><li><code>../source-audit.md#audit-sm-0253</code>：1663-1664 夔东尾声边界。</li><li><code>../source-audit.md#audit-sm-0276</code>：1662 后夔东三省会剿、东线反击和茅麓山尾声。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李来亨 1658 年是否直接参战、与郝永忠/王光兴等留守夔东基地的分工需清方揭帖和夔东材料校。</li></ul>",
   "plainText": "李来亨 / Li Laiheng 身份 李来亨，夔东十三家相关将领，南明后期和 1662 后尾声中的关键人物之一。当前材料把其放在七连坪山地簇、1658 重庆牵制网络和 1663 1664 夔东尾声三条线上。 生平和主要事迹 1658 年，李来亨被列入夔东、川东抗清力量网络，永历方面希望其与文安之、刘体纯、袁宗第等响应重庆牵制计划。 1653 1654 年前后，洪承畴奏报把李来亨、马重禧、党守素、李世威等列在七连坪一带，说明其不是单一战役人物，而是山地据点网络中的核心节点。 顾诚提示清方揭帖未必完整列出全部参战部队，李来亨是否直接参加重庆之役的具体程度需谨慎。 1663 1664 年夔东尾声中，李来亨部在茅麓山坚持到最后；这属于主范围 1662 06 01 之后的尾声扩展线索。 性格、评价和行为模式 当前材料支撑“夔东系统重要力量”的身份，不足以单独评价其 1658 年战术行为。后续 1662 后夔东尾声需要另补。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Kuidong Commander: 夔东后续尾声关键人物。 Scope Boundary: 1662 后是否纳入尾声扩展。 Force Cluster: 七连坪簇。 来源 ../source audit.md audit sm 0120：夔东重庆战役及参战名单待校。 ../source audit.md audit sm 0250：七连坪山地分布。 ../source audit.md audit sm 0251：1658 夔东、川东分守清单。 ../source audit.md audit sm 0253：1663 1664 夔东尾声边界。 ../source audit.md audit sm 0276：1662 后夔东三省会剿、东线反击和茅麓山尾声。 待辨析 李来亨 1658 年是否直接参战、与郝永忠/王光兴等留守夔东基地的分工需清方揭帖和夔东材料校。"
 }

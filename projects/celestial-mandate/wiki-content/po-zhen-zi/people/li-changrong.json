@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-changrong",
   "title": "李常荣 / Li Changrong",
-  "sourcePath": "references/southern-ming/people/li-changrong.md",
+  "sourcePath": "references/southern-ming/people/li-changrong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-changrong/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local notes; not an authenticated likeness or evidence source.",
+    "alt": "李常荣 / Li Changrong portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-changrong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_changrong</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李常荣，文村抗清基地末局相关总兵人物。本轮主要记录其在文村战役中的降清线索。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚叙文村末局时，明总兵李常荣向清方投降。</li><li>清实录作“李尝荣”一类写法，需与李常荣是否同一人继续校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料不足以展开人格评价。</li><li>行为模式：据点覆灭时的投降节点，可用于区分王兴死节、周金汤被俘和部分将领归顺。</li></ul>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Collapse Marker</code>: 文村末局降清。</li><li><code>Unresolved Claim</code>: 李常荣/李尝荣写法和身份。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0189</code>：文村围困、王兴自焚和李常荣降清。</li><li><code>../source-audit.md#audit-sm-0271</code>：文村围困、王兴自焚和异文记忆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李常荣姓名写法、职衔、所部和降清后去向需清实录与地方材料核验。</li></ul>",
   "plainText": "李常荣 / Li Changrong Stable draft ID: person.li changrong Status: anchored seed profile 身份 李常荣，文村抗清基地末局相关总兵人物。本轮主要记录其在文村战役中的降清线索。 生平和主要事迹 顾诚叙文村末局时，明总兵李常荣向清方投降。 清实录作“李尝荣”一类写法，需与李常荣是否同一人继续校。 性格、评价和行为模式提取 当前材料不足以展开人格评价。 行为模式：据点覆灭时的投降节点，可用于区分王兴死节、周金汤被俘和部分将领归顺。 著作或文本 未见。 游戏数据线索 Collapse Marker: 文村末局降清。 Unresolved Claim: 李常荣/李尝荣写法和身份。 来源 ../source audit.md audit sm 0189：文村围困、王兴自焚和李常荣降清。 ../source audit.md audit sm 0271：文村围困、王兴自焚和异文记忆层。 待辨析 李常荣姓名写法、职衔、所部和降清后去向需清实录与地方材料核验。"
 }

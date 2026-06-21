@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-suiqiu",
   "title": "黎遂球 / Li Suiqiu",
-  "sourcePath": "references/southern-ming/people/li-suiqiu.md",
+  "sourcePath": "references/southern-ming/people/li-suiqiu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-suiqiu/portrait.png",
+    "caption": "This is AI generated game concept art informed by the local person page; it is not an authenticated likeness or evidence source.",
+    "alt": "黎遂球 / Li Suiqiu portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-suiqiu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_suiqiu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>黎遂球，赣州守御中与龚棻共同关联罗明受水师的文职人物，官作兵部主事。赣州/忠诚府陷落时死难。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>与龚棻等组织或招抚罗明受水师，用作赣州水陆并击方案的一部分。</li><li>章江水师被清军夜袭焚毁后，赣州外援协同失败。</li><li>赣州陷落时，黎遂球列入死难官绅名单；永历后续祠祭材料也将其纳入忠诚府死难记忆。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料不足以独立提取性格；可作为“水师方案文职组织者”和“死节记忆人物”处理。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 章江水师、水陆协同失败、忠诚府死节记忆。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0220</code>，<code>../source-audit.md#audit-sm-0221</code>，<code>../source-audit.md#audit-sm-0222</code>。</li><li>相关事件：<code>../events/ganzhou-defense-1646.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黎遂球官职、籍贯、与龚棻和罗明受的具体关系、死难方式和祠祭源流。</li></ul>",
   "plainText": "黎遂球 / Li Suiqiu Stable draft ID: person.li suiqiu Status: anchored seed profile 身份 黎遂球，赣州守御中与龚棻共同关联罗明受水师的文职人物，官作兵部主事。赣州/忠诚府陷落时死难。 生平和主要事迹 与龚棻等组织或招抚罗明受水师，用作赣州水陆并击方案的一部分。 章江水师被清军夜袭焚毁后，赣州外援协同失败。 赣州陷落时，黎遂球列入死难官绅名单；永历后续祠祭材料也将其纳入忠诚府死难记忆。 性格、评价和行为模式提取 当前材料不足以独立提取性格；可作为“水师方案文职组织者”和“死节记忆人物”处理。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 章江水师、水陆协同失败、忠诚府死节记忆。 来源 已核锚点：../source audit.md audit sm 0220，../source audit.md audit sm 0221，../source audit.md audit sm 0222。 相关事件：../events/ganzhou defense 1646.md。 待辨析 黎遂球官职、籍贯、与龚棻和罗明受的具体关系、死难方式和祠祭源流。"
 }

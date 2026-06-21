@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yan-qiheng",
   "title": "严起恒 / Yan Qiheng",
-  "sourcePath": "references/southern-ming/people/yan-qiheng.md",
+  "sourcePath": "references/southern-ming/people/yan-qiheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yan-qiheng/portrait.png",
+    "caption": "AI generated game concept art grounded in local written notes; it is not an authenticated likeness or an evidence source.",
+    "alt": "严起恒 / Yan Qiheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/yan-qiheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yan_qiheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>严起恒，永历朝大学士，南宁危局中反对孙可望秦封压力的核心朝臣之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>永历朝廷流亡广西期间任大学士，并参与南宁行在政务。</li><li>1651 年贺九仪、张明志入南宁后，严起恒因反对挟封而死亡。</li><li>顾诚采用钱秉镫系统材料，倾向认为其为负气自杀；其他南明史籍有被击杀、推水等异文。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：重朝廷封爵秩序和天子名分，面对事实军事压力时选择极端抗议。</li><li>其死亡显示永历朝臣已不能凭制度程序约束孙可望体系。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>疏文、任职记录待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 秦封争议、朝臣恐惧、合法性受制。</li><li><code>Uncertainty</code>: 死因应保留 contested，不可直接写成单一版本。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0090</code>，<code>../source-audit.md#audit-sm-0174</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>死因、具体日期和同死/同被害朝臣名单需对《爝火录》《滇缅录》《所知录》等逐源校。</li></ul>",
   "plainText": "严起恒 / Yan Qiheng Stable draft ID: person.yan qiheng Status: anchored seed profile 身份 严起恒，永历朝大学士，南宁危局中反对孙可望秦封压力的核心朝臣之一。 生平和主要事迹 永历朝廷流亡广西期间任大学士，并参与南宁行在政务。 1651 年贺九仪、张明志入南宁后，严起恒因反对挟封而死亡。 顾诚采用钱秉镫系统材料，倾向认为其为负气自杀；其他南明史籍有被击杀、推水等异文。 性格、评价和行为模式提取 行为模式：重朝廷封爵秩序和天子名分，面对事实军事压力时选择极端抗议。 其死亡显示永历朝臣已不能凭制度程序约束孙可望体系。 著作或文本 疏文、任职记录待补。 游戏数据线索 State Modifier Source: 秦封争议、朝臣恐惧、合法性受制。 Uncertainty: 死因应保留 contested，不可直接写成单一版本。 来源 已核锚点：../source audit.md audit sm 0090，../source audit.md audit sm 0174。 待辨析 死因、具体日期和同死/同被害朝臣名单需对《爝火录》《滇缅录》《所知录》等逐源校。"
 }

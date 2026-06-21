@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhu-yunzi",
   "title": "通山王朱蕴釨 / Zhu Yunzi",
-  "sourcePath": "references/southern-ming/people/zhu-yunzi.md",
+  "sourcePath": "references/southern-ming/people/zhu-yunzi/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhu_yunzi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱蕴釨，通山王名义人物。顾诚《南明史》引鲁可藻《岭表纪年》和瞿式耜《贤王宜优异疏》说明，郝永忠营中曾有宗藩人物，且通城王蕴舒、通山王蕴釨等写法存在异文。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>永历二年前后，材料显示郝永忠营中出现通山王朱蕴釨和东安王朱盛蒗等宗藩人物。</li><li>瞿式耜曾为朱蕴釨等宗藩待遇或袭封问题上疏，反映南明宗藩安置和谱系辨认已经非常紊乱。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料只足以作为宗藩名义和身份消歧条目，不宜提取个人行为模式。</p>\n<h3>著作或文本</h3>\n<p>未见个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Identity Disambiguation</code>: 通城王蕴舒 / 通山王蕴釨异写。</li><li><code>Legitimacy Token</code>: 郝永忠营中宗藩身份资源。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0275</code>：韩王朱璟溧、郝摇旗营和“定武”讹传拆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>通山王/通城王异写、谱系、是否与楚藩疏裔相关，以及瞿式耜上疏原文需进一步核验。</li></ul>",
   "plainText": "通山王朱蕴釨 / Zhu Yunzi Stable draft ID: person.zhu yunzi Status: anchored seed profile 身份 朱蕴釨，通山王名义人物。顾诚《南明史》引鲁可藻《岭表纪年》和瞿式耜《贤王宜优异疏》说明，郝永忠营中曾有宗藩人物，且通城王蕴舒、通山王蕴釨等写法存在异文。 生平和主要事迹 永历二年前后，材料显示郝永忠营中出现通山王朱蕴釨和东安王朱盛蒗等宗藩人物。 瞿式耜曾为朱蕴釨等宗藩待遇或袭封问题上疏，反映南明宗藩安置和谱系辨认已经非常紊乱。 性格、评价和行为模式 当前材料只足以作为宗藩名义和身份消歧条目，不宜提取个人行为模式。 著作或文本 未见个人著作。 游戏数据线索 Identity Disambiguation: 通城王蕴舒 / 通山王蕴釨异写。 Legitimacy Token: 郝永忠营中宗藩身份资源。 来源 ../source audit.md audit sm 0275：韩王朱璟溧、郝摇旗营和“定武”讹传拆层。 待辨析 通山王/通城王异写、谱系、是否与楚藩疏裔相关，以及瞿式耜上疏原文需进一步核验。"
 }

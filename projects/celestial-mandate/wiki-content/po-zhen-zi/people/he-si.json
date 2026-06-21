@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-si",
   "title": "何思 / He Si",
-  "sourcePath": "references/southern-ming/people/he-si.md",
+  "sourcePath": "references/southern-ming/people/he-si/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-si/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "何思 / He Si portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-si/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.he_si</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>何思，《小腆紀年》所见姚州知州。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记姚州知州何思、举人席上珍、金世鼎起兵拒孙可旺，不克而死。</li><li>同源称何思被执后不屈死；具体战斗和处置细节需地方志校。</li><li>本地 CBDB 精确名查询命中多条“何思”记录，其中含明代进士、天津/楚雄/定襄地方志等线索；当前没有一条足以直接证明即《小腆紀年》姚州知州何思。</li><li>维基文库《明史》卷二百九十五作“土知州何思”，与既有“姚州知州”写法需并列待校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：州级地方官组织抵抗的名单层。</li><li>不从单一忠烈叙事抽取性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 姚州地方抵抗/死节名单层。</li><li><code>Identity Disambiguation</code>: 何思同名密集，暂不挂单一 CBDB ID。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0410</code>：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。</li><li><code>../source-audit.md#audit-sm-0413</code>：本地 CBDB 所见广通、姚州、师宗地方死节人物的同名消歧线索。</li><li><code>../source-audit.md#audit-sm-0424</code>：维基文库《明史》卷二百九十五所见姚州何思、席上珍、金世鼎层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>何思任职为姚州知州或土知州、姚州范围、CBDB 同名记录关系、抵抗规模和死节细节待校。</li></ul>",
   "plainText": "何思 / He Si Stable draft ID: person.he si Status: anchored seed profile 身份 何思，《小腆紀年》所见姚州知州。 生平和主要事迹 《小腆紀年》记姚州知州何思、举人席上珍、金世鼎起兵拒孙可旺，不克而死。 同源称何思被执后不屈死；具体战斗和处置细节需地方志校。 本地 CBDB 精确名查询命中多条“何思”记录，其中含明代进士、天津/楚雄/定襄地方志等线索；当前没有一条足以直接证明即《小腆紀年》姚州知州何思。 维基文库《明史》卷二百九十五作“土知州何思”，与既有“姚州知州”写法需并列待校。 性格、评价和行为模式提取 行为模式：州级地方官组织抵抗的名单层。 不从单一忠烈叙事抽取性格。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 姚州地方抵抗/死节名单层。 Identity Disambiguation: 何思同名密集，暂不挂单一 CBDB ID。 来源 ../source audit.md audit sm 0410：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。 ../source audit.md audit sm 0413：本地 CBDB 所见广通、姚州、师宗地方死节人物的同名消歧线索。 ../source audit.md audit sm 0424：维基文库《明史》卷二百九十五所见姚州何思、席上珍、金世鼎层。 待辨析 何思任职为姚州知州或土知州、姚州范围、CBDB 同名记录关系、抵抗规模和死节细节待校。"
 }

@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhao-mo",
   "title": "赵默 / Zhao Mo",
-  "sourcePath": "references/southern-ming/people/zhao-mo.md",
+  "sourcePath": "references/southern-ming/people/zhao-mo/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhao_mo</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>赵默，皮熊女婿，永历被执后皮熊死节线索中的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记赵默在皮熊被执后也被执，令其具供；赵默书绝命词，与皮熊相关死节线索一并遇害。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可作为皮熊死节叙述的亲属/文书节点，不足以建立完整人物评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>绝命词见《小腆紀年》叙述提及，原文未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Memory Layer</code>: 亲属连带死节和绝命词线索。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0313</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>赵默身份、职衔、绝命词原文、被执地点和死亡经过需继续校。</li></ul>",
   "plainText": "赵默 / Zhao Mo Stable draft ID: person.zhao mo Status: anchored seed profile 身份 赵默，皮熊女婿，永历被执后皮熊死节线索中的人物。 生平和主要事迹 《小腆紀年》记赵默在皮熊被执后也被执，令其具供；赵默书绝命词，与皮熊相关死节线索一并遇害。 性格、评价和行为模式提取 当前只可作为皮熊死节叙述的亲属/文书节点，不足以建立完整人物评价。 著作或文本 绝命词见《小腆紀年》叙述提及，原文未见。 游戏数据线索 Memory Layer: 亲属连带死节和绝命词线索。 来源 已核锚点：../source audit.md audit sm 0313。 待辨析 赵默身份、职衔、绝命词原文、被执地点和死亡经过需继续校。"
 }

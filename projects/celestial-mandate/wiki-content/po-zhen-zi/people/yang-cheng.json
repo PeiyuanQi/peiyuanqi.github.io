@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-cheng",
   "title": "杨成 / Yang Cheng",
-  "sourcePath": "references/southern-ming/people/yang-cheng.md",
+  "sourcePath": "references/southern-ming/people/yang-cheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-cheng/portrait.png",
+    "caption": "AI generated game concept art informed by local textual notes; it is not an authenticated likeness or evidence source.",
+    "alt": "杨成 / Yang Cheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-cheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yang_cheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨成，南明总兵或降将，顾诚《南明史》在 1659-1660 年降清概括中记其名。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚《南明史》记王会、总兵杨成、赵武、史文、邓望功等率众四千一百余人降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其为顾诚所据清方投诚概括中的降将节点，不宜推断完整履历。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 降将率众投诚链。</li><li><code>State Modifier Source</code>: 清方招抚和编营。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杨成官职、所部人数、是否进入十营编组和原始清方奏报需继续直查。</li></ul>",
   "plainText": "杨成 / Yang Cheng Stable draft ID: person.yang cheng Status: anchored seed profile 身份 杨成，南明总兵或降将，顾诚《南明史》在 1659 1660 年降清概括中记其名。 生平和主要事迹 顾诚《南明史》记王会、总兵杨成、赵武、史文、邓望功等率众四千一百余人降清。 性格、评价和行为模式提取 当前只可记录其为顾诚所据清方投诚概括中的降将节点，不宜推断完整履历。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 降将率众投诚链。 State Modifier Source: 清方招抚和编营。 来源 已核锚点：../source audit.md audit sm 0306。 待辨析 杨成官职、所部人数、是否进入十营编组和原始清方奏报需继续直查。"
 }

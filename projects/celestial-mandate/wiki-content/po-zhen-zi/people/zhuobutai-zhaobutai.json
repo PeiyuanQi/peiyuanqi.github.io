@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhuobutai-zhaobutai",
   "title": "卓布泰 / 赵布泰 / Zhuobutai",
-  "sourcePath": "references/southern-ming/people/zhuobutai-zhaobutai.md",
+  "sourcePath": "references/southern-ming/people/zhuobutai-zhaobutai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhuobutai-zhaobutai/portrait.png",
+    "caption": "AI generated game concept art from local profile text only; not an authenticated likeness or evidence source.",
+    "alt": "卓布泰 / 赵布泰 / Zhuobutai portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhuobutai-zhaobutai/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>卓布泰，清方征南将军，1658 年由广西方向进入贵州并参与入滇。顾诚《南明史》正文多作“赵布泰”，同段引文和《小腆紀年》作“卓布泰”，本资料库暂合并为同一待校人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年，奉清廷命南下湖南、广西方向，会合洪承畴、线国安等部，取道南丹、那地、独山、都匀入黔。</li><li>杨老堡会议后，南路由其统率本部及线国安、张国柱等军，由都匀西攻安龙、黄草坝入滇。</li><li>磨盘山战役后，清廷追责西南战事损失，顾诚材料记征南将军赵布泰被革职。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料主要呈现其为清军南路推进者。其名字在不同来源中的写法差异本身很重要，不能在数据中静默归一。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Commander</code>: 广西-贵州-安龙/黄草坝入滇路线。</li><li><code>Naming Risk</code>: 赵布泰/卓布泰异写需进入别名字段。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0116</code>：分路任命与名字异写。</li><li><code>../source-audit.md#audit-sm-0117</code>：广西入黔和独山、都匀方向。</li><li><code>../source-audit.md#audit-sm-0118</code>：杨老堡会议后的南路入滇。</li><li><code>../source-audit.md#audit-sm-0121</code>：磨盘山后清方处分线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>“赵布泰”是否为转写、误写或另有汉名需清实录、满文档案和人物传记校正。</li></ul>",
   "plainText": "卓布泰 / 赵布泰 / Zhuobutai 身份 卓布泰，清方征南将军，1658 年由广西方向进入贵州并参与入滇。顾诚《南明史》正文多作“赵布泰”，同段引文和《小腆紀年》作“卓布泰”，本资料库暂合并为同一待校人物。 生平和主要事迹 1658 年，奉清廷命南下湖南、广西方向，会合洪承畴、线国安等部，取道南丹、那地、独山、都匀入黔。 杨老堡会议后，南路由其统率本部及线国安、张国柱等军，由都匀西攻安龙、黄草坝入滇。 磨盘山战役后，清廷追责西南战事损失，顾诚材料记征南将军赵布泰被革职。 性格、评价和行为模式 当前材料主要呈现其为清军南路推进者。其名字在不同来源中的写法差异本身很重要，不能在数据中静默归一。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Qing Commander: 广西 贵州 安龙/黄草坝入滇路线。 Naming Risk: 赵布泰/卓布泰异写需进入别名字段。 来源 ../source audit.md audit sm 0116：分路任命与名字异写。 ../source audit.md audit sm 0117：广西入黔和独山、都匀方向。 ../source audit.md audit sm 0118：杨老堡会议后的南路入滇。 ../source audit.md audit sm 0121：磨盘山后清方处分线索。 待辨析 “赵布泰”是否为转写、误写或另有汉名需清实录、满文档案和人物传记校正。"
 }

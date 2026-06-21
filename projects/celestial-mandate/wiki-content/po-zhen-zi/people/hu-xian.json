@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__hu-xian",
   "title": "胡显 / Hu Xian",
-  "sourcePath": "references/southern-ming/people/hu-xian.md",
+  "sourcePath": "references/southern-ming/people/hu-xian/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/hu-xian/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page; not an authenticated likeness or evidence source.",
+    "alt": "胡显 / Hu Xian portrait concept art",
+    "sourcePath": "references/southern-ming/people/hu-xian/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.hu_xian</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>胡显，南明兵科官员或侍郎线索人物，1659 年降清名单中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记少卿刘泌、兵科胡显等一百五十九人先后降清，并附徐鼒对降表污染的按语。</li><li>《南明史稿》同阶段记侍郎胡显等畔降于清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其被两源列入降清名单；兵科/侍郎职衔差异需待校。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本轮已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Actor</code>: 1659 年文臣降清链。</li><li><code>Uncertainty</code>: 职衔异文和降表污染。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0299</code>，<code>../source-audit.md#audit-sm-0300</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>胡显官职、是否实际降清、清方授职和与同名人物混同需继续校。</li></ul>",
   "plainText": "胡显 / Hu Xian Stable draft ID: person.hu xian Status: anchored seed profile 身份 胡显，南明兵科官员或侍郎线索人物，1659 年降清名单中出现。 生平和主要事迹 《小腆紀年》记少卿刘泌、兵科胡显等一百五十九人先后降清，并附徐鼒对降表污染的按语。 《南明史稿》同阶段记侍郎胡显等畔降于清。 性格、评价和行为模式提取 当前只可记录其被两源列入降清名单；兵科/侍郎职衔差异需待校。 著作或文本 未见本轮已核著作。 游戏数据线索 Political Actor: 1659 年文臣降清链。 Uncertainty: 职衔异文和降表污染。 来源 已核锚点：../source audit.md audit sm 0299，../source audit.md audit sm 0300。 待辨析 胡显官职、是否实际降清、清方授职和与同名人物混同需继续校。"
 }

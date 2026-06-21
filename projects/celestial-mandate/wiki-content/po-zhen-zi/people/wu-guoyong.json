@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wu-guoyong",
   "title": "武国用 / Wu Guoyong",
-  "sourcePath": "references/southern-ming/people/wu-guoyong.md",
+  "sourcePath": "references/southern-ming/people/wu-guoyong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wu-guoyong/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local textual evidence; this is not an authenticated likeness or evidence source.",
+    "alt": "武国用 / Wu Guoyong portrait concept art",
+    "sourcePath": "references/southern-ming/people/wu-guoyong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wu_guoyong</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>武国用，南明总兵，1659 年清兵还云南后的降清名单人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年清兵还云南后，总兵武国用与祁自贵、马得鸣、史文等畔降于清。</li><li>同源稍后又记四川方向有总兵武国用等投诚线索，是否同一阶段同一人需继续核。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其为降清名单节点，不作完整履历判断。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 1659 年滇西/云南降清链。</li><li><code>Uncertainty</code>: 同名或同人多条降清线索待校。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0300</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>武国用官职、所属部队、是否与四川嘉定/芦山投诚线同人和后续授职需继续校。</li></ul>",
   "plainText": "武国用 / Wu Guoyong Stable draft ID: person.wu guoyong Status: anchored seed profile 身份 武国用，南明总兵，1659 年清兵还云南后的降清名单人物。 生平和主要事迹 《南明史稿》记 1659 年清兵还云南后，总兵武国用与祁自贵、马得鸣、史文等畔降于清。 同源稍后又记四川方向有总兵武国用等投诚线索，是否同一阶段同一人需继续核。 性格、评价和行为模式提取 当前只可记录其为降清名单节点，不作完整履历判断。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 1659 年滇西/云南降清链。 Uncertainty: 同名或同人多条降清线索待校。 来源 已核锚点：../source audit.md audit sm 0300。 待辨析 武国用官职、所属部队、是否与四川嘉定/芦山投诚线同人和后续授职需继续校。"
 }

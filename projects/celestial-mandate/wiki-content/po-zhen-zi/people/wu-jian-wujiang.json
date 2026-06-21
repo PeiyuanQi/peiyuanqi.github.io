@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wu-jian-wujiang",
   "title": "吴鉴 / Wu Jian",
-  "sourcePath": "references/southern-ming/people/wu-jian-wujiang.md",
+  "sourcePath": "references/southern-ming/people/wu-jian-wujiang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wu-jian-wujiang/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local textual evidence; this is not an authenticated likeness or evidence source.",
+    "alt": "吴鉴 / Wu Jian portrait concept art",
+    "sourcePath": "references/southern-ming/people/wu-jian-wujiang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wu_jian_wujiang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>吴鉴，字子仪，吴江诸生。1645 年吴江降清后入县庭骂朱国佐，被送苏州杀害。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>吴江县丞朱国佐以城降清后，吴鉴徒手入县庭斥骂。</li><li>朱国佐将吴鉴执送苏州，吴鉴在胥门学士街遇害。</li><li>吴易闻讯后起兵，擒朱国佐交吴鉴父吴汝延杀祭，吴鉴之死成为吴易起兵的直接触发。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：低阶士人以公开辱骂降官表达拒降，成为地方动员的象征触发。</li><li>风险特征：象征性行动迅速导致清方/降官处置，也激化后续报复链条。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Trigger</code>: 吴江起兵触发事件。</li><li><code>State Modifier Source</code>: 拒降士人死难、地方愤怒。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0203</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>吴鉴父吴汝延、胥门学士街地点和遇害日需地方志核验。</li></ul>",
   "plainText": "吴鉴 / Wu Jian Stable draft ID: person.wu jian wujiang Status: anchored seed profile 身份 吴鉴，字子仪，吴江诸生。1645 年吴江降清后入县庭骂朱国佐，被送苏州杀害。 生平和主要事迹 吴江县丞朱国佐以城降清后，吴鉴徒手入县庭斥骂。 朱国佐将吴鉴执送苏州，吴鉴在胥门学士街遇害。 吴易闻讯后起兵，擒朱国佐交吴鉴父吴汝延杀祭，吴鉴之死成为吴易起兵的直接触发。 性格、评价和行为模式提取 行为模式：低阶士人以公开辱骂降官表达拒降，成为地方动员的象征触发。 风险特征：象征性行动迅速导致清方/降官处置，也激化后续报复链条。 著作或文本 未见已核著作。 游戏数据线索 Political Trigger: 吴江起兵触发事件。 State Modifier Source: 拒降士人死难、地方愤怒。 来源 已核锚点：../source audit.md audit sm 0203。 待辨析 吴鉴父吴汝延、胥门学士街地点和遇害日需地方志核验。"
 }

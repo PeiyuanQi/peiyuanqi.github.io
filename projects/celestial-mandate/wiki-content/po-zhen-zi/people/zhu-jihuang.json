@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhu-jihuang",
   "title": "朱集璜 / Zhu Jihuang",
-  "sourcePath": "references/southern-ming/people/zhu-jihuang.md",
+  "sourcePath": "references/southern-ming/people/zhu-jihuang/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhu_jihuang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱集璜，字以发，昆山岁贡生。1645 年昆山拒守核心士绅之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>南京陷落后，昆山士民议拒守，朱集璜与周室瑜、陈大任、陶瑊等响应。</li><li>昆山义兵斩清方接管人物阎茂才，推旧将王佐才为兵主，迎旧令杨永言入城拒守。</li><li>城陷后，朱集璜被执不屈遇害；《小腆纪年》也记其投河死说，具体死法需校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：县域士绅动员和守城协助者。</li><li>记忆层：其门人、家属和同难者名单显示昆山事件有强烈地方忠义记忆。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Militia Mobilization</code>: 昆山县域士绅守御。</li><li><code>Unresolved Claim</code>: 朱集璜死法和城陷日。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0193</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>死法、门人名单、与顾炎武/归庄/杨永言的具体分工需逐源校。</li></ul>",
   "plainText": "朱集璜 / Zhu Jihuang Stable draft ID: person.zhu jihuang Status: anchored seed profile 身份 朱集璜，字以发，昆山岁贡生。1645 年昆山拒守核心士绅之一。 生平和主要事迹 南京陷落后，昆山士民议拒守，朱集璜与周室瑜、陈大任、陶瑊等响应。 昆山义兵斩清方接管人物阎茂才，推旧将王佐才为兵主，迎旧令杨永言入城拒守。 城陷后，朱集璜被执不屈遇害；《小腆纪年》也记其投河死说，具体死法需校。 性格、评价和行为模式提取 行为模式：县域士绅动员和守城协助者。 记忆层：其门人、家属和同难者名单显示昆山事件有强烈地方忠义记忆。 著作或文本 未见已核著作。 游戏数据线索 Militia Mobilization: 昆山县域士绅守御。 Unresolved Claim: 朱集璜死法和城陷日。 来源 已核锚点：../source audit.md audit sm 0193。 待辨析 死法、门人名单、与顾炎武/归庄/杨永言的具体分工需逐源校。"
 }

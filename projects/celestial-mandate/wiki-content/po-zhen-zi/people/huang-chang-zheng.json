@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__huang-chang-zheng",
   "title": "黄昌 / Huang Chang",
-  "sourcePath": "references/southern-ming/people/huang-chang-zheng.md",
+  "sourcePath": "references/southern-ming/people/huang-chang-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/huang-chang-zheng/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page; not an authenticated likeness or evidence source.",
+    "alt": "黄昌 / Huang Chang portrait concept art",
+    "sourcePath": "references/southern-ming/people/huang-chang-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.huang_chang_zheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>黄昌，郑成功系统援剿左镇人物，1660 年海门迎敌名单人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1660 年五月初三，《海上見聞錄》记郑成功亲督前提督黄廷、右武卫周全斌、援剿左镇黄昌、右镇林顺、正戎旗镇杨富等在海门准备迎敌。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为海门战役部署名单人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Battle Roster</code>: 海门迎敌。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0373</code>：1660 年海门准备迎敌部署。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黄昌职衔、是否参与五月初十主战和后续去向需另校。</li></ul>",
   "plainText": "黄昌 / Huang Chang Stable draft ID: person.huang chang zheng Status: anchored seed profile 身份 黄昌，郑成功系统援剿左镇人物，1660 年海门迎敌名单人物。 生平和主要事迹 1660 年五月初三，《海上見聞錄》记郑成功亲督前提督黄廷、右武卫周全斌、援剿左镇黄昌、右镇林顺、正戎旗镇杨富等在海门准备迎敌。 性格、评价和行为模式提取 当前只可记录为海门战役部署名单人物。 著作或文本 未见。 游戏数据线索 Battle Roster: 海门迎敌。 来源 ../source audit.md audit sm 0373：1660 年海门准备迎敌部署。 待辨析 黄昌职衔、是否参与五月初十主战和后续去向需另校。"
 }

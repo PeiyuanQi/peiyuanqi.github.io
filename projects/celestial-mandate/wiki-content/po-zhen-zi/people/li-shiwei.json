@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-shiwei",
   "title": "李世威 / Li Shiwei",
-  "sourcePath": "references/southern-ming/people/li-shiwei.md",
+  "sourcePath": "references/southern-ming/people/li-shiwei/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-shiwei/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local Southern Ming dossier evidence, not an authenticated likeness or evidence source.",
+    "alt": "李世威 / Li Shiwei portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-shiwei/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>李世威，夔东七连坪山地簇人物。洪承畴奏报把其与李来亨、马重禧、党守素等并列，位于七连坪等处。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1653-1654 年前后，清方湖广情报记李世威与李来亨、马重禧、党守素等活动于七连坪一带。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料只足以记录其为七连坪簇成员，不宜扩写评价。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Kuidong Commander</code>: 七连坪簇人物。</li><li><code>Uncertainty</code>: 后续是否仍在夔东十三家名单中需校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0250</code>：1653-1654 七连坪山地分布。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李世威与其他李姓大顺余部、李来亨系统关系和后续去向需校。</li></ul>",
   "plainText": "李世威 / Li Shiwei 身份 李世威，夔东七连坪山地簇人物。洪承畴奏报把其与李来亨、马重禧、党守素等并列，位于七连坪等处。 生平和主要事迹 1653 1654 年前后，清方湖广情报记李世威与李来亨、马重禧、党守素等活动于七连坪一带。 性格、评价和行为模式 当前材料只足以记录其为七连坪簇成员，不宜扩写评价。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Kuidong Commander: 七连坪簇人物。 Uncertainty: 后续是否仍在夔东十三家名单中需校。 来源 ../source audit.md audit sm 0250：1653 1654 七连坪山地分布。 待辨析 李世威与其他李姓大顺余部、李来亨系统关系和后续去向需校。"
 }

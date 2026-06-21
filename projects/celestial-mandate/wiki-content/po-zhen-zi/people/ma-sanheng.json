@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__ma-sanheng",
   "title": "麻三衡 / Ma Sanheng",
-  "sourcePath": "references/southern-ming/people/ma-sanheng.md",
+  "sourcePath": "references/southern-ming/people/ma-sanheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/ma-sanheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page. This is not an authenticated likeness or evidence source.",
+    "alt": "麻三衡 / Ma Sanheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/ma-sanheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.ma_sanheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>麻三衡，字孟璇，宣城人，布政使麻溶之孙。1645 年宁国支线中与吴太平、阮恒、阮善长、刘鼎甲、胡天球、冯百家号称七家军。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>金声举兵绩溪后，麻三衡与邱祖德、钱龙文、沈寿荛等在宁国方向响应。</li><li>旧籍称诸军中麻三衡部最强，驻兵稽亭，常临阵在前。</li><li>后稽亭山寨被清方攻破，麻三衡被获，旧籍记其赋绝命诗，杀于南京或江宁；七家军多死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方诸生转化为武力首领，以小团体联盟形成义军品牌。</li><li>能力特征：材料强调其个人勇武和前锋形象，但具体战绩需要清方战报、地方志和传记互校。</li><li>风险特征：据点化山寨在清军集中进剿下脆弱；“七家军”名单和规模不能直接等同七支独立军队。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>旧籍提及绝命诗，文本未在本轮核定。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 稽亭七家军是否能维持宁国义军侧翼。</li><li><code>State Modifier Source</code>: 士绅武装、山寨据点、义军声望。</li><li><code>Data Uncertainty</code>: 七家军人数、成员、职衔和战绩需保留不确定性。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0199</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>字形“孟璇”与《小腆纪年》异体字、七家军全员结局、稽亭现代位置和死难日期需继续核验。</li></ul>",
   "plainText": "麻三衡 / Ma Sanheng Stable draft ID: person.ma sanheng Status: anchored seed profile 身份 麻三衡，字孟璇，宣城人，布政使麻溶之孙。1645 年宁国支线中与吴太平、阮恒、阮善长、刘鼎甲、胡天球、冯百家号称七家军。 生平和主要事迹 金声举兵绩溪后，麻三衡与邱祖德、钱龙文、沈寿荛等在宁国方向响应。 旧籍称诸军中麻三衡部最强，驻兵稽亭，常临阵在前。 后稽亭山寨被清方攻破，麻三衡被获，旧籍记其赋绝命诗，杀于南京或江宁；七家军多死。 性格、评价和行为模式提取 行为模式：地方诸生转化为武力首领，以小团体联盟形成义军品牌。 能力特征：材料强调其个人勇武和前锋形象，但具体战绩需要清方战报、地方志和传记互校。 风险特征：据点化山寨在清军集中进剿下脆弱；“七家军”名单和规模不能直接等同七支独立军队。 著作或文本 旧籍提及绝命诗，文本未在本轮核定。 游戏数据线索 Historical Candidate: 稽亭七家军是否能维持宁国义军侧翼。 State Modifier Source: 士绅武装、山寨据点、义军声望。 Data Uncertainty: 七家军人数、成员、职衔和战绩需保留不确定性。 来源 已核锚点：../source audit.md audit sm 0199。 待辨析 字形“孟璇”与《小腆纪年》异体字、七家军全员结局、稽亭现代位置和死难日期需继续核验。"
 }

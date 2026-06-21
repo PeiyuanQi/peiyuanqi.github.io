@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-zhong-anlong",
   "title": "杨钟 / 杨锺 / Yang Zhong",
-  "sourcePath": "references/southern-ming/people/yang-zhong-anlong.md",
+  "sourcePath": "references/southern-ming/people/yang-zhong-anlong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-zhong-anlong/portrait.png",
+    "caption": "AI generated game concept art, style inspired by local textual notes; not an authenticated likeness or evidence source.",
+    "alt": "杨钟 / 杨锺 / Yang Zhong portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-zhong-anlong/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>杨钟，安龙十八先生案相关人物。顾诚按语指出相关旧籍中存在“杨钟”“林钟”“杨忠”等异写；《明季南略》追赠层作“杨锺”。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>1654 年三月前后列入密诏案处置层。</li><li>1657 年追赠层列名，并获得大理寺正卿一类追赠。</li><li>顾诚按语以瞿式耜永历三年奏疏证明“杨钟”名可见，提示其他写法可能误。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>当前重点是姓名校勘。不要把杨钟、杨锺、林钟、杨忠拆成多个已证人物，也不要未校即选择唯一标准名进入 curated data。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>待查瞿式耜相关奏疏和本人材料。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Name Variant</code>: 杨钟/杨锺/林钟/杨忠。</li><li><code>Roster Candidate</code>: 十八先生案名单候选。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0279</code>：十八先生案的审讯、首从划分和处置层次。</li><li><code>../source-audit.md#audit-sm-0280</code>：十八先生追赠、祠庙和地方记忆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>标准姓名、官职、是否可由瞿式耜奏疏建立更早履历，以及南笼府志墓碑写法需继续校。</li></ul>",
   "plainText": "杨钟 / 杨锺 / Yang Zhong 身份 杨钟，安龙十八先生案相关人物。顾诚按语指出相关旧籍中存在“杨钟”“林钟”“杨忠”等异写；《明季南略》追赠层作“杨锺”。 生平与主要事迹 1654 年三月前后列入密诏案处置层。 1657 年追赠层列名，并获得大理寺正卿一类追赠。 顾诚按语以瞿式耜永历三年奏疏证明“杨钟”名可见，提示其他写法可能误。 性格、评价与行为模式 当前重点是姓名校勘。不要把杨钟、杨锺、林钟、杨忠拆成多个已证人物，也不要未校即选择唯一标准名进入 curated data。 著作或相关文本 待查瞿式耜相关奏疏和本人材料。 游戏数据线索 Name Variant: 杨钟/杨锺/林钟/杨忠。 Roster Candidate: 十八先生案名单候选。 来源 ../source audit.md audit sm 0279：十八先生案的审讯、首从划分和处置层次。 ../source audit.md audit sm 0280：十八先生追赠、祠庙和地方记忆层。 待辨析 标准姓名、官职、是否可由瞿式耜奏疏建立更早履历，以及南笼府志墓碑写法需继续校。"
 }

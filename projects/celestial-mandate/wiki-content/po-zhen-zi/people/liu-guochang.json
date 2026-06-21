@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-guochang",
   "title": "刘国昌 / Liu Guochang",
-  "sourcePath": "references/southern-ming/people/liu-guochang.md",
+  "sourcePath": "references/southern-ming/people/liu-guochang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-guochang/portrait.png",
+    "caption": "AI generated game concept art. The likeness is not authenticated and must not be used as historical evidence.",
+    "alt": "刘国昌 / Liu Guochang portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-guochang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_guochang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘国昌，忠贞营/大顺余部将领，顾诚据诸源称其在 1650 年入粤东援广州过程中被广东、广西军镇指为“反”，后长期在粤北山区抗清。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>属忠贞营系统，常与高一功、党守素、刘世俊等大顺余部人物并见。</li><li>1650 年高一功、党守素等提出东救广州后，刘国昌部入广东方向。</li><li>在四会、阳山、英德、乳源等地活动，被南明勋镇和清方材料用“白毛毡”等称呼描述。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：边缘化的强武装集团；对朝廷有抗清意愿，但与地方勋镇、士绅官僚互不信任。</li><li>顾诚倾向认为“刘国昌反”是南明军阀排挤忠贞营的说法，进入数据时应保留争议。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Divergence Gate</code>: 忠贞营能否被朝廷正式整编并用于东救广州。</li><li><code>State Modifier Source</code>: 大顺余部受排斥、粤北山地抗清、内战消耗。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0092</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘国昌与刘希尧、刘芳亮、刘世俊等姓名和部属关系需逐源分清。</li><li>“白毛毡”不应直接作为个人绰号进入 curated data。</li></ul>",
   "plainText": "刘国昌 / Liu Guochang Stable draft ID: person.liu guochang Status: anchored seed profile 身份 刘国昌，忠贞营/大顺余部将领，顾诚据诸源称其在 1650 年入粤东援广州过程中被广东、广西军镇指为“反”，后长期在粤北山区抗清。 生平和主要事迹 属忠贞营系统，常与高一功、党守素、刘世俊等大顺余部人物并见。 1650 年高一功、党守素等提出东救广州后，刘国昌部入广东方向。 在四会、阳山、英德、乳源等地活动，被南明勋镇和清方材料用“白毛毡”等称呼描述。 性格、评价和行为模式提取 行为模式：边缘化的强武装集团；对朝廷有抗清意愿，但与地方勋镇、士绅官僚互不信任。 顾诚倾向认为“刘国昌反”是南明军阀排挤忠贞营的说法，进入数据时应保留争议。 著作或文本 未见已核著作。 游戏数据线索 Divergence Gate: 忠贞营能否被朝廷正式整编并用于东救广州。 State Modifier Source: 大顺余部受排斥、粤北山地抗清、内战消耗。 来源 已核锚点：../source audit.md audit sm 0092。 待辨析 刘国昌与刘希尧、刘芳亮、刘世俊等姓名和部属关系需逐源分清。 “白毛毡”不应直接作为个人绰号进入 curated data。"
 }

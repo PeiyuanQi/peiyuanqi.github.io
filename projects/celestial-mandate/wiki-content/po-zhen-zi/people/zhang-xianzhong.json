@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-xianzhong",
   "title": "张献忠 / Zhang Xianzhong",
-  "sourcePath": "references/southern-ming/people/zhang-xianzhong.md",
+  "sourcePath": "references/southern-ming/people/zhang-xianzhong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-xianzhong/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local profile only. It is not an authenticated likeness or historical evidence.",
+    "alt": "张献忠 / Zhang Xianzhong portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-xianzhong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_xianzhong</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张献忠，大西政权领袖。其死亡后，大西余部成为永历后期重要军事力量。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>明末农民战争核心人物之一，入蜀建立大西政权。</li><li>1647 年前后死亡后，孙可望、李定国、刘文秀、艾能奇等余部转入云贵政治军事格局。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>张献忠本人多与四川战争、暴力统治和大西政权建立相关。</li><li>对 1644-1662 南明数据更重要的是其余部如何转化为永历朝廷后期支柱。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>大西政权文书待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Authority</code>: 大西。</li><li><code>Continuity Anchor</code>: 大西余部、军政集团转化、西南军事资源。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0006</code>。</li><li>顾诚：《南明史》，大西余部和西南相关章节，<code>references/southern-ming/books/gu-cheng-nanming-shi-guangming-2011.epub</code>。</li><li>Wikisource《明季南略》，西南和大西余部相关条目，<code>references/southern-ming/primary-sources/wikisource/mingji-nanlue-wikisource-2026-06-04.epub</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张献忠死亡日期、地点和各部继承关系需独立核对。</li></ul>",
   "plainText": "张献忠 / Zhang Xianzhong Stable draft ID: person.zhang xianzhong Status: seed profile 身份 张献忠，大西政权领袖。其死亡后，大西余部成为永历后期重要军事力量。 生平和主要事迹 明末农民战争核心人物之一，入蜀建立大西政权。 1647 年前后死亡后，孙可望、李定国、刘文秀、艾能奇等余部转入云贵政治军事格局。 性格、评价和行为模式提取 张献忠本人多与四川战争、暴力统治和大西政权建立相关。 对 1644 1662 南明数据更重要的是其余部如何转化为永历朝廷后期支柱。 著作或文本 大西政权文书待补。 游戏数据线索 Authority: 大西。 Continuity Anchor: 大西余部、军政集团转化、西南军事资源。 来源 已核锚点：../source audit.md audit sm 0006。 顾诚：《南明史》，大西余部和西南相关章节，references/southern ming/books/gu cheng nanming shi guangming 2011.epub。 Wikisource《明季南略》，西南和大西余部相关条目，references/southern ming/primary sources/wikisource/mingji nanlue wikisource 2026 06 04.epub。 待辨析 张献忠死亡日期、地点和各部继承关系需独立核对。"
 }

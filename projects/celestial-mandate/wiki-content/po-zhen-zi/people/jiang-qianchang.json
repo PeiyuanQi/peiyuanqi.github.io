@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__jiang-qianchang",
   "title": "蒋乾昌 / Jiang Qianchang",
-  "sourcePath": "references/southern-ming/people/jiang-qianchang.md",
+  "sourcePath": "references/southern-ming/people/jiang-qianchang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/jiang-qianchang/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated.",
+    "alt": "蒋乾昌 / Jiang Qianchang portrait concept art",
+    "sourcePath": "references/southern-ming/people/jiang-qianchang/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>蒋乾昌，永历安龙朝臣。顾诚材料中作礼部祠祭司员外郎，是安龙密敕文本拟稿者之一；《明季南略》追赠层作“蒋干昌”。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>吴贞毓主持安龙密议后，命蒋乾昌拟密敕稿。</li><li>1654 年密诏事发后，蒋乾昌被列为从犯处置。</li><li>1657 年后追赠层中继续出现，但姓名写法作蒋干昌。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“文书执行者”种子：不一定是战略主谋，但其拟稿动作使密谋具备正式文书形态。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Scribe</code>: 敕稿拟定。</li><li><code>Name Variant</code>: 蒋乾昌/蒋干昌。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0247</code>：安龙密诏李定国、泄密追查和三月处置链。</li><li><code>../source-audit.md#audit-sm-0248</code>：十八先生姓名、诏书名单和追赠名单异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>姓名正字、官职、处置方式和追赠职衔需继续校。</li></ul>",
   "plainText": "蒋乾昌 / Jiang Qianchang 身份 蒋乾昌，永历安龙朝臣。顾诚材料中作礼部祠祭司员外郎，是安龙密敕文本拟稿者之一；《明季南略》追赠层作“蒋干昌”。 生平与主要事迹 吴贞毓主持安龙密议后，命蒋乾昌拟密敕稿。 1654 年密诏事发后，蒋乾昌被列为从犯处置。 1657 年后追赠层中继续出现，但姓名写法作蒋干昌。 性格、评价与行为模式 可作为“文书执行者”种子：不一定是战略主谋，但其拟稿动作使密谋具备正式文书形态。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Court Scribe: 敕稿拟定。 Name Variant: 蒋乾昌/蒋干昌。 来源 ../source audit.md audit sm 0247：安龙密诏李定国、泄密追查和三月处置链。 ../source audit.md audit sm 0248：十八先生姓名、诏书名单和追赠名单异文。 待辨析 姓名正字、官职、处置方式和追赠职衔需继续校。"
 }

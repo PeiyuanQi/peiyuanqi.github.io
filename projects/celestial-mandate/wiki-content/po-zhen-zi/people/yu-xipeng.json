@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yu-xipeng",
   "title": "余锡朋 / Yu Xipeng",
-  "sourcePath": "references/southern-ming/people/yu-xipeng.md",
+  "sourcePath": "references/southern-ming/people/yu-xipeng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yu-xipeng/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated and should not be treated as evidence.",
+    "alt": "余锡朋 / Yu Xipeng portrait concept art",
+    "sourcePath": "references/southern-ming/people/yu-xipeng/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>余锡朋，《南明野史》所见沙定洲袭取昆明前的诱因人物之一，后又在沐氏与大西合作线中被处置。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》记饶希之、余锡朋等欠骗沐天波金宝无以偿，往来各土司营中夸称沐氏富厚。</li><li>1647 年八月沐氏与大西余部合作线中，《南明野史》又记车裂余锡朋、徐中和等以谢国人。</li><li>本地 CBDB 对 <code>余錫朋/余锡朋</code> 在主名和别名表中无直接命中；这只是弱否定，不能证明人物不存在。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作旧籍中的诱因与追责线索，不据单一材料定性其为主要责任人。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Corruption Pressure</code>: 沐氏财富和地方商贸债务。</li><li><code>Retribution Memory</code>: 大西/沐氏合作后的追责表演。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0385</code>：《南明野史》所见余锡朋夸沐氏富厚线索。</li><li><code>../source-audit.md#audit-sm-0387</code>：《南明野史》所见余锡朋被处置线索。</li><li><code>../source-audit.md#audit-sm-0418</code>：本地 CBDB 所见余锡朋无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>余锡朋身份、徐中和同案、处置时间和罪名需云南地方志校；CBDB 无直接命中只提示转向地方志。</li></ul>",
   "plainText": "余锡朋 / Yu Xipeng Status: anchored seed profile; identity pending. 身份 余锡朋，《南明野史》所见沙定洲袭取昆明前的诱因人物之一，后又在沐氏与大西合作线中被处置。 生平和主要事迹 《南明野史》记饶希之、余锡朋等欠骗沐天波金宝无以偿，往来各土司营中夸称沐氏富厚。 1647 年八月沐氏与大西余部合作线中，《南明野史》又记车裂余锡朋、徐中和等以谢国人。 本地 CBDB 对 余錫朋/余锡朋 在主名和别名表中无直接命中；这只是弱否定，不能证明人物不存在。 性格、评价和行为模式提取 当前只作旧籍中的诱因与追责线索，不据单一材料定性其为主要责任人。 著作或文本 未见。 游戏数据线索 Corruption Pressure: 沐氏财富和地方商贸债务。 Retribution Memory: 大西/沐氏合作后的追责表演。 来源 ../source audit.md audit sm 0385：《南明野史》所见余锡朋夸沐氏富厚线索。 ../source audit.md audit sm 0387：《南明野史》所见余锡朋被处置线索。 ../source audit.md audit sm 0418：本地 CBDB 所见余锡朋无直接命中。 待辨析 余锡朋身份、徐中和同案、处置时间和罪名需云南地方志校；CBDB 无直接命中只提示转向地方志。"
 }

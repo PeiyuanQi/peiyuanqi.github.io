@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yuan-pengnian",
   "title": "袁彭年 / Yuan Pengnian",
-  "sourcePath": "references/southern-ming/people/yuan-pengnian.md",
+  "sourcePath": "references/southern-ming/people/yuan-pengnian/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yuan-pengnian/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness and not an evidence source.",
+    "alt": "袁彭年 / Yuan Pengnian portrait concept art",
+    "sourcePath": "references/southern-ming/people/yuan-pengnian/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yuan_pengnian</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>袁彭年，明末官员，清入广后曾任广东布政使，李成栋广东反正中被顾诚视为核心文官参与者之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>崇祯、弘光、隆武时期有仕宦经历，清入闽后曾降清并任广东学道、布政使等职。</li><li>1648 年李成栋反正前后，利用省级行政、财政职位参与密谋或策动，为李成栋反正提供文官和钱粮层面的支撑。</li><li>后在永历朝中成为被称为“五虎”的争议性权臣集团之一，需后续专题处理。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：行政财政枢纽、反复仕宦、派系操作。</li><li>对建模有用的是“文官可控制财政和印信”：反正不只是军队剪辫，还需要布政系统、府库和文书系统转向。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>奏疏、诰命、广东布政相关文书待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 李成栋反正密谋、广东财政转向。</li><li><code>Actor Pattern</code>: 高政治操作力、高派系风险。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0082</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>袁彭年在李成栋反正中的实际功劳、后续“五虎”争议和清方再入广时表现需继续校。</li></ul>",
   "plainText": "袁彭年 / Yuan Pengnian Stable draft ID: person.yuan pengnian Status: anchored seed profile 身份 袁彭年，明末官员，清入广后曾任广东布政使，李成栋广东反正中被顾诚视为核心文官参与者之一。 生平和主要事迹 崇祯、弘光、隆武时期有仕宦经历，清入闽后曾降清并任广东学道、布政使等职。 1648 年李成栋反正前后，利用省级行政、财政职位参与密谋或策动，为李成栋反正提供文官和钱粮层面的支撑。 后在永历朝中成为被称为“五虎”的争议性权臣集团之一，需后续专题处理。 性格、评价和行为模式提取 行为模式：行政财政枢纽、反复仕宦、派系操作。 对建模有用的是“文官可控制财政和印信”：反正不只是军队剪辫，还需要布政系统、府库和文书系统转向。 著作或文本 奏疏、诰命、广东布政相关文书待补。 游戏数据线索 Historical Candidate: 李成栋反正密谋、广东财政转向。 Actor Pattern: 高政治操作力、高派系风险。 来源 已核锚点：../source audit.md audit sm 0082。 待辨析 袁彭年在李成栋反正中的实际功劳、后续“五虎”争议和清方再入广时表现需继续校。"
 }

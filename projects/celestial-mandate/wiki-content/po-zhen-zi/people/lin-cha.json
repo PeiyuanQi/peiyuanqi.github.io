@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-cha",
   "title": "林察 / Lin Cha",
-  "sourcePath": "references/southern-ming/people/lin-cha.md",
+  "sourcePath": "references/southern-ming/people/lin-cha/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-cha/portrait.png",
+    "caption": "AI generated game concept art. The likeness is not authenticated and should not be used as historical evidence.",
+    "alt": "林察 / Lin Cha portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-cha/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.lin_cha</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>林察，1654 年郑成功派往广东支援新会战役的水陆师主将之一；早年绍武政权线也有同名人物，身份连续性需继续校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1646 年广州绍武政权建立时，材料中出现总兵林察参与拥立或广州军务；该人物是否与 1654 年郑氏系统林察为同一人，仍需身份校勘。</li><li>1654 年十月后，郑成功派林察为水陆总督，周瑞为水师统领，率师南下广东名义上支援李定国。</li><li>《閩海紀要》《海上見聞錄》也记 1654 年郑成功遣林察、周瑞、王秀奇、苏茂等南下勤王，奉表行在并持书会李定国，可与新会迟援线互校。</li><li>林察部行动极慢，十二月中旬仅至平海、大鹏、佛堂门等广东海面节点，未能在新会决战前抵达战场。</li><li>战后郑成功对林察、周瑞等处理轻重不一，顾诚将其作为郑成功迟援/虚援判断的重要线索。</li><li>1655 年本地《閩海紀要》《海上見聞錄》记林察、周瑞、王秀奇、苏茂等南下回军，称李定国已败退梧州，郑成功责罚有差。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前资料只能把林察作为郑氏系统执行者和迟援节点处理。</li><li>若同绍武政权拥立线的林察为同一人，则其履历跨广州绍武和郑氏海上系统，需另立人物辨析。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route/Flow</code>: 厦门、铜山、南澳、平海、大鹏、佛堂门、新会。</li><li><code>State Modifier Source</code>: 郑氏迟援、海上支援不落实。</li><li><code>Open Identity</code>: 与 1646 绍武拥立人物林察是否同一人。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0100</code>，<code>../source-audit.md#audit-sm-0150</code>，<code>../source-audit.md#audit-sm-0152</code>，<code>../source-audit.md#audit-sm-0351</code>，<code>../source-audit.md#audit-sm-0353</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林察身份连续性、爵号、出师军令、停泊路线和战后处分需继续校。</li></ul>",
   "plainText": "林察 / Lin Cha Stable draft ID: person.lin cha Status: anchored seed profile 身份 林察，1654 年郑成功派往广东支援新会战役的水陆师主将之一；早年绍武政权线也有同名人物，身份连续性需继续校。 生平和主要事迹 1646 年广州绍武政权建立时，材料中出现总兵林察参与拥立或广州军务；该人物是否与 1654 年郑氏系统林察为同一人，仍需身份校勘。 1654 年十月后，郑成功派林察为水陆总督，周瑞为水师统领，率师南下广东名义上支援李定国。 《閩海紀要》《海上見聞錄》也记 1654 年郑成功遣林察、周瑞、王秀奇、苏茂等南下勤王，奉表行在并持书会李定国，可与新会迟援线互校。 林察部行动极慢，十二月中旬仅至平海、大鹏、佛堂门等广东海面节点，未能在新会决战前抵达战场。 战后郑成功对林察、周瑞等处理轻重不一，顾诚将其作为郑成功迟援/虚援判断的重要线索。 1655 年本地《閩海紀要》《海上見聞錄》记林察、周瑞、王秀奇、苏茂等南下回军，称李定国已败退梧州，郑成功责罚有差。 性格、评价和行为模式提取 当前资料只能把林察作为郑氏系统执行者和迟援节点处理。 若同绍武政权拥立线的林察为同一人，则其履历跨广州绍武和郑氏海上系统，需另立人物辨析。 著作或文本 待补。 游戏数据线索 Route/Flow: 厦门、铜山、南澳、平海、大鹏、佛堂门、新会。 State Modifier Source: 郑氏迟援、海上支援不落实。 Open Identity: 与 1646 绍武拥立人物林察是否同一人。 来源 已核锚点：../source audit.md audit sm 0100，../source audit.md audit sm 0150，../source audit.md audit sm 0152，../source audit.md audit sm 0351，../source audit.md audit sm 0353。 待辨析 林察身份连续性、爵号、出师军令、停泊路线和战后处分需继续校。"
 }

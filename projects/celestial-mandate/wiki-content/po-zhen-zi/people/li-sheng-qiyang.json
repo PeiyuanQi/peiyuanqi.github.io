@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-sheng-qiyang",
   "title": "李升 / Li Sheng",
-  "sourcePath": "references/southern-ming/people/li-sheng-qiyang.md",
+  "sourcePath": "references/southern-ming/people/li-sheng-qiyang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-sheng-qiyang/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local profile; the likeness is not authenticated.",
+    "alt": "李升 / Li Sheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-sheng-qiyang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_sheng_qiyang</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李升，蕲阳王李文忠后裔，《南疆繹史》卷十一列入勋戚、世禄诸臣传。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>传文称李升甲申时年十四，向史可法自陈愿为前锋勤王，并赴扬州参军事。</li><li>南都亡后，传文记其避入天台山为僧；丙戌鲁监国入海后，悲愤而死。这一层可补扬州、鲁监国入海和勋戚后裔流散记忆。</li><li>本地 CBDB 20260530 精确名查询有多条 <code>李升</code> 同名记录，时代和身份跨度很大，暂未见能直接证明为甲申十四岁、从史可法的李文忠后裔者。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event</code>: 史可法扬州网络、鲁监国入海后的士人/勋戚反应。</li><li><code>Memory Layer</code>: 少年勋裔勤王与出家隐遁叙事。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0434</code>：维基文库《南疆繹史》所见李升、李锡祚、李锡贡、刘永锡层。</li><li><code>../source-audit.md#audit-sm-0438</code>：本地 CBDB 所见李升同名风险。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李升年龄、扬州参军事身份、诗句、天台山出家、死亡过程和 CBDB 同名记录需史可法材料、李氏谱牒、地方志和点校本互校。</li></ul>",
   "plainText": "李升 / Li Sheng Stable draft ID: person.li sheng qiyang Status: seed profile 身份 李升，蕲阳王李文忠后裔，《南疆繹史》卷十一列入勋戚、世禄诸臣传。 生平和主要事迹 传文称李升甲申时年十四，向史可法自陈愿为前锋勤王，并赴扬州参军事。 南都亡后，传文记其避入天台山为僧；丙戌鲁监国入海后，悲愤而死。这一层可补扬州、鲁监国入海和勋戚后裔流散记忆。 本地 CBDB 20260530 精确名查询有多条 李升 同名记录，时代和身份跨度很大，暂未见能直接证明为甲申十四岁、从史可法的李文忠后裔者。 游戏数据线索 Event: 史可法扬州网络、鲁监国入海后的士人/勋戚反应。 Memory Layer: 少年勋裔勤王与出家隐遁叙事。 来源 ../source audit.md audit sm 0434：维基文库《南疆繹史》所见李升、李锡祚、李锡贡、刘永锡层。 ../source audit.md audit sm 0438：本地 CBDB 所见李升同名风险。 待辨析 李升年龄、扬州参军事身份、诗句、天台山出家、死亡过程和 CBDB 同名记录需史可法材料、李氏谱牒、地方志和点校本互校。"
 }

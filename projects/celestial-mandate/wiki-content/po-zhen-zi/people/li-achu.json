@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-achu",
   "title": "李阿楚 / Li Achu",
-  "sourcePath": "references/southern-ming/people/li-achu.md",
+  "sourcePath": "references/southern-ming/people/li-achu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-achu/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page, not an authenticated likeness or evidence source.",
+    "alt": "李阿楚 / Li Achu portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-achu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_achu</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>李阿楚，《小腆紀年》《南明野史》所见沙定洲部目，驻守临安一线。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记孙可旺大败沙定洲于革泥关后，沙定洲部将李阿楚驻临安，孙可旺使李定国分兵袭之，穴地置炮崩城，李阿楚赴火死。</li><li>《南明野史》也记定国攻临安时，定洲部目李阿楚拒战甚力，城陷后赴火死；同段屠戮数字和惨烈描写属于高风险来源记忆层。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：沙定洲残部在临安方向的地方守将。</li><li>不把“拒战甚力”直接转成稳定能力值；不采屠戮数字为定量事实。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 李定国攻临安/沙定洲残部防御。</li><li><code>High-Risk Claim</code>: 临安攻城方式、火死和屠戮范围必须待地方志与清方材料互校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0399</code>：《小腆紀年》所见革泥关、临安地道置炮和迤东分路。</li><li><code>../source-audit.md#audit-sm-0387</code>：《南明野史》所见 1647 年李定国取临安、开远/乐新改名和杨畏知约法层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李阿楚身份、职衔、临安守城日序、死亡方式和同名风险待《临安府志》《阿迷州志》《石屏州志》等复核。</li></ul>",
   "plainText": "李阿楚 / Li Achu Stable draft ID: person.li achu Status: anchored seed profile; identity pending. 身份 李阿楚，《小腆紀年》《南明野史》所见沙定洲部目，驻守临安一线。 生平和主要事迹 《小腆紀年》记孙可旺大败沙定洲于革泥关后，沙定洲部将李阿楚驻临安，孙可旺使李定国分兵袭之，穴地置炮崩城，李阿楚赴火死。 《南明野史》也记定国攻临安时，定洲部目李阿楚拒战甚力，城陷后赴火死；同段屠戮数字和惨烈描写属于高风险来源记忆层。 性格、评价和行为模式提取 行为模式：沙定洲残部在临安方向的地方守将。 不把“拒战甚力”直接转成稳定能力值；不采屠戮数字为定量事实。 著作或文本 未见。 游戏数据线索 Event Participant: 李定国攻临安/沙定洲残部防御。 High Risk Claim: 临安攻城方式、火死和屠戮范围必须待地方志与清方材料互校。 来源 ../source audit.md audit sm 0399：《小腆紀年》所见革泥关、临安地道置炮和迤东分路。 ../source audit.md audit sm 0387：《南明野史》所见 1647 年李定国取临安、开远/乐新改名和杨畏知约法层。 待辨析 李阿楚身份、职衔、临安守城日序、死亡方式和同名风险待《临安府志》《阿迷州志》《石屏州志》等复核。"
 }

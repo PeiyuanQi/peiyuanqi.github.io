@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-jingyuan",
   "title": "张京元 / Zhang Jingyuan",
-  "sourcePath": "references/southern-ming/people/zhang-jingyuan.md",
+  "sourcePath": "references/southern-ming/people/zhang-jingyuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-jingyuan/portrait.png",
+    "caption": "AI generated game concept art, style inspired from profile.md and local source audit anchors; not an authenticated likeness and not a historical evidence source.",
+    "alt": "张京元 / Zhang Jingyuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-jingyuan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_jingyuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张京元，《明季南略》卷十七所见曲靖守城人物。来源称其为监纪通判，驻札曲靖。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明季南略》卷十七记张京元与朱寿琳、孔思诚、孙守约等同在曲靖守城链条中。</li><li>来源未在已开段落中给出其单独结局；当前只作曲靖攻守参与者种子页。</li><li>本地 CBDB 有两条 <code>張京元</code> 明人记录：一条为余姚万历丙戌科进士线索，一条为泰兴、史语所人名权威 018399、明清进士题名录索引 404 和南京户部浙江司郎中线索；目前均不能证明为《明季南略》所见曲靖监纪通判。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>暂不提取性格或忠逆判断。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 曲靖防御。</li><li><code>Office Layer</code>: 监纪通判职任可用于守城文武结构研究。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0406</code>：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。</li><li><code>../source-audit.md#audit-sm-0417</code>：本地 CBDB 所见张京元同名记录和曲靖身份未证层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张京元职任、曲靖守城中的实际职责、城陷后结局和同名异人需继续校；CBDB 同名记录先作误连风险，不进入外部 ID 字段。</li></ul>",
   "plainText": "张京元 / Zhang Jingyuan Stable draft ID: person.zhang jingyuan Status: anchored seed profile 身份 张京元，《明季南略》卷十七所见曲靖守城人物。来源称其为监纪通判，驻札曲靖。 生平和主要事迹 《明季南略》卷十七记张京元与朱寿琳、孔思诚、孙守约等同在曲靖守城链条中。 来源未在已开段落中给出其单独结局；当前只作曲靖攻守参与者种子页。 本地 CBDB 有两条 張京元 明人记录：一条为余姚万历丙戌科进士线索，一条为泰兴、史语所人名权威 018399、明清进士题名录索引 404 和南京户部浙江司郎中线索；目前均不能证明为《明季南略》所见曲靖监纪通判。 性格、评价和行为模式提取 暂不提取性格或忠逆判断。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 曲靖防御。 Office Layer: 监纪通判职任可用于守城文武结构研究。 来源 ../source audit.md audit sm 0406：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。 ../source audit.md audit sm 0417：本地 CBDB 所见张京元同名记录和曲靖身份未证层。 待辨析 张京元职任、曲靖守城中的实际职责、城陷后结局和同名异人需继续校；CBDB 同名记录先作误连风险，不进入外部 ID 字段。"
 }

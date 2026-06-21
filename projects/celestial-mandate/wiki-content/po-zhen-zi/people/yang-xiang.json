@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-xiang",
   "title": "杨祥 / Yang Xiang",
-  "sourcePath": "references/southern-ming/people/yang-xiang.md",
+  "sourcePath": "references/southern-ming/people/yang-xiang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-xiang/portrait.png",
+    "caption": "AI generated game concept art based on local written evidence; the likeness is not authenticated and this image is not a historical evidence source.",
+    "alt": "杨祥 / Yang Xiang portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-xiang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yang_xiang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨祥，李定国派往安龙的传宣参将，1656 年迎驾前携密疏入安龙。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年正月，受李定国派遣，身藏密疏前往安龙。</li><li>在离安龙约五十里的板屯江一带被刘镇国部兵擒获，解送白文选。</li><li>白文选明知其真实来意而放行，使杨祥得以入城呈递李定国密疏。</li><li>完成传递后改装由山路回报李定国。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：秘密交通和宫廷联络执行者。</li><li>适合作为“密使被截获但被关键将领放行”的低层高影响节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 李定国密疏入安龙。</li><li><code>State Modifier Source</code>: 白文选态度暴露、永历等待救驾信心上升。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0107</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杨祥入宫是否经庞天寿引见，各书说法不一，需继续校。</li><li>郭之奇遇难条另有“总兵杨祥”，暂列为 <code>yang-xiang-guo-zhiqi.md</code>；二者同名但未证同人，不可合并。</li></ul>",
   "plainText": "杨祥 / Yang Xiang Stable draft ID: person.yang xiang Status: anchored seed profile 身份 杨祥，李定国派往安龙的传宣参将，1656 年迎驾前携密疏入安龙。 生平和主要事迹 1656 年正月，受李定国派遣，身藏密疏前往安龙。 在离安龙约五十里的板屯江一带被刘镇国部兵擒获，解送白文选。 白文选明知其真实来意而放行，使杨祥得以入城呈递李定国密疏。 完成传递后改装由山路回报李定国。 性格、评价和行为模式提取 行为模式：秘密交通和宫廷联络执行者。 适合作为“密使被截获但被关键将领放行”的低层高影响节点。 著作或文本 未见已核著作。 游戏数据线索 Historical Candidate: 李定国密疏入安龙。 State Modifier Source: 白文选态度暴露、永历等待救驾信心上升。 来源 已核锚点：../source audit.md audit sm 0107。 待辨析 杨祥入宫是否经庞天寿引见，各书说法不一，需继续校。 郭之奇遇难条另有“总兵杨祥”，暂列为 yang xiang guo zhiqi.md；二者同名但未证同人，不可合并。"
 }

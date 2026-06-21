@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__mangbai",
   "title": "莽白 / Mangbai",
-  "sourcePath": "references/southern-ming/people/mangbai.md",
+  "sourcePath": "references/southern-ming/people/mangbai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/mangbai/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page. This is not an authenticated likeness or evidence source.",
+    "alt": "莽白 / Mangbai portrait concept art",
+    "sourcePath": "references/southern-ming/people/mangbai/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.mangbai</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>莽白，又作莽猛白等，1661 年缅甸阿瓦王权政变后自立的缅甸国王。顾诚材料将中文名莽白、莽猛白与外文 Pye/Pye Min 等对应并列处理，但当前仍需缅甸本土资料校证。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1661 年发动宫廷政变，取代旧王；旧王平德勒/Pindale、莽达喇等名称也存在跨语种和中文异写问题。</li><li>因清方压力、明军多次入缅救驾和永历随行朝廷处境恶化，随后卷入咒水之难；新王索取贺礼、永历君臣拒贺，是关系恶化的重要叙事节点。</li><li>咒水之难后，永历小朝廷实际瓦解；清军入缅压力下，缅方最终交出永历父子。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：外部王权在清方威胁、边境军事风险和流亡皇帝政治价值之间权衡。</li><li>当前材料以中文史料和顾诚转引外文研究为主，不足以完整评价缅甸内部政治动机。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Diplomacy</code>: 缅甸王权、流亡朝廷、清方军事威慑。</li><li><code>Divergence Gate</code>: 缅方是否继续庇护或交出永历。</li><li><code>Conversion</code>: 莽白/Pye、平德勒/Pindale、莽达喇等名号先作待校对应。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0137</code>，<code>../source-audit.md#audit-sm-0138</code>，<code>../source-audit.md#audit-sm-0261</code>，<code>../source-audit.md#audit-sm-0262</code>，<code>../source-audit.md#audit-sm-0264</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>缅甸语姓名、Pye/摆岷等外文对应、政变日期和缅甸本土资料需补。</li></ul>",
   "plainText": "莽白 / Mangbai Stable draft ID: person.mangbai Status: anchored seed profile 身份 莽白，又作莽猛白等，1661 年缅甸阿瓦王权政变后自立的缅甸国王。顾诚材料将中文名莽白、莽猛白与外文 Pye/Pye Min 等对应并列处理，但当前仍需缅甸本土资料校证。 生平和主要事迹 1661 年发动宫廷政变，取代旧王；旧王平德勒/Pindale、莽达喇等名称也存在跨语种和中文异写问题。 因清方压力、明军多次入缅救驾和永历随行朝廷处境恶化，随后卷入咒水之难；新王索取贺礼、永历君臣拒贺，是关系恶化的重要叙事节点。 咒水之难后，永历小朝廷实际瓦解；清军入缅压力下，缅方最终交出永历父子。 性格、评价和行为模式提取 行为模式：外部王权在清方威胁、边境军事风险和流亡皇帝政治价值之间权衡。 当前材料以中文史料和顾诚转引外文研究为主，不足以完整评价缅甸内部政治动机。 著作或文本 未见。 游戏数据线索 Diplomacy: 缅甸王权、流亡朝廷、清方军事威慑。 Divergence Gate: 缅方是否继续庇护或交出永历。 Conversion: 莽白/Pye、平德勒/Pindale、莽达喇等名号先作待校对应。 来源 已核锚点：../source audit.md audit sm 0137，../source audit.md audit sm 0138，../source audit.md audit sm 0261，../source audit.md audit sm 0262，../source audit.md audit sm 0264。 待辨析 缅甸语姓名、Pye/摆岷等外文对应、政变日期和缅甸本土资料需补。"
 }

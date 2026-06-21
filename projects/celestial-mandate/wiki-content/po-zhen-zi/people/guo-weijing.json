@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__guo-weijing",
   "title": "郭维经 / Guo Weijing",
-  "sourcePath": "references/southern-ming/people/guo-weijing.md",
+  "sourcePath": "references/southern-ming/people/guo-weijing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/guo-weijing/portrait.png",
+    "caption": "AI-generated game concept art; not an authenticated likeness.",
+    "alt": "郭维经 / Guo Weijing portrait concept art",
+    "sourcePath": "references/southern-ming/people/guo-weijing/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.guo_weijing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>郭维经，隆武时期文臣，赣州守御后期以尚书、督师/总理恢剿等身份进入赣州线。1646 年赣州陷落时入嵯峨寺自焚。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>隆武朝廷命郭维经募兵援赣州；《小腆紀年》记其与御史姚奇胤沿路召募入赣。</li><li>赣州外援溃散后，郭维经与万元吉、杨廷麟等留守城中。</li><li>赣州/忠诚府陷落时入嵯峨寺自焚死。</li><li>其子郭应铨、郭应衡、郭应煜等在江西后续抗清中也有死难记忆，需另校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：后期增援型文臣，依靠募兵和名望补充濒危城防。</li><li>其死节使赣州事件从单一军城失守变成高密度士绅、文臣殉难记忆。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 赣州援军募集、忠诚府死节记忆。</li><li><code>Report Fact</code>: 郭维经入嵯峨寺自焚死。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0220</code>，<code>../source-audit.md#audit-sm-0221</code>，<code>../source-audit.md#audit-sm-0222</code>。</li><li>相关事件：<code>../events/ganzhou-defense-1646.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>郭维经入赣时间、所募兵数、具体官衔和子侄后续死难需继续校。</li></ul>",
   "plainText": "郭维经 / Guo Weijing Stable draft ID: person.guo weijing Status: anchored seed profile 身份 郭维经，隆武时期文臣，赣州守御后期以尚书、督师/总理恢剿等身份进入赣州线。1646 年赣州陷落时入嵯峨寺自焚。 生平和主要事迹 隆武朝廷命郭维经募兵援赣州；《小腆紀年》记其与御史姚奇胤沿路召募入赣。 赣州外援溃散后，郭维经与万元吉、杨廷麟等留守城中。 赣州/忠诚府陷落时入嵯峨寺自焚死。 其子郭应铨、郭应衡、郭应煜等在江西后续抗清中也有死难记忆，需另校。 性格、评价和行为模式提取 行为模式：后期增援型文臣，依靠募兵和名望补充濒危城防。 其死节使赣州事件从单一军城失守变成高密度士绅、文臣殉难记忆。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 赣州援军募集、忠诚府死节记忆。 Report Fact: 郭维经入嵯峨寺自焚死。 来源 已核锚点：../source audit.md audit sm 0220，../source audit.md audit sm 0221，../source audit.md audit sm 0222。 相关事件：../events/ganzhou defense 1646.md。 待辨析 郭维经入赣时间、所募兵数、具体官衔和子侄后续死难需继续校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__han-ying-zheng",
   "title": "韩英（郑氏） / Han Ying",
-  "sourcePath": "references/southern-ming/people/han-ying-zheng.md",
+  "sourcePath": "references/southern-ming/people/han-ying-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/han-ying-zheng/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness and not an evidence source.",
+    "alt": "韩英（郑氏） / Han Ying portrait concept art",
+    "sourcePath": "references/southern-ming/people/han-ying-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>韩英，郑成功系统将领，1657 年闽安镇、罗星塔轮守名单中出现。为避免与同名人物混淆，文件名暂标 <code>zheng</code>。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《海上見聞錄》记万礼督正兵镇韩英、左冲洪善、右冲杨朝栋等轮守闽安镇、罗星塔等处。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前仅能确认其为郑氏福州门户守御节点。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Fortification Garrison</code>: 闽安镇、罗星塔。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0359</code>：1657 年闽安镇、罗星塔轮守名单。</li></ul>\n<h3>待辨析</h3>\n<ul><li>韩英职名、所属镇营、是否与其他同名韩英混同及后续经历需校。</li></ul>",
   "plainText": "韩英（郑氏） / Han Ying Status: seed profile; identity pending. 身份 韩英，郑成功系统将领，1657 年闽安镇、罗星塔轮守名单中出现。为避免与同名人物混淆，文件名暂标 zheng。 生平和主要事迹 1657 年《海上見聞錄》记万礼督正兵镇韩英、左冲洪善、右冲杨朝栋等轮守闽安镇、罗星塔等处。 性格、评价和行为模式提取 当前仅能确认其为郑氏福州门户守御节点。 著作或文本 未见。 游戏数据线索 Fortification Garrison: 闽安镇、罗星塔。 来源 ../source audit.md audit sm 0359：1657 年闽安镇、罗星塔轮守名单。 待辨析 韩英职名、所属镇营、是否与其他同名韩英混同及后续经历需校。"
 }
