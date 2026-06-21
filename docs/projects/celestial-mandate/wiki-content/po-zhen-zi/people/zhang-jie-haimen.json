@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-jie-haimen",
   "title": "张捷（海门） / Zhang Jie",
-  "sourcePath": "references/southern-ming/people/zhang-jie-haimen.md",
+  "sourcePath": "references/southern-ming/people/zhang-jie-haimen/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-jie-haimen/portrait.png",
+    "caption": "AI generated game concept art, style inspired from profile.md; not an authenticated likeness and not a historical evidence source.",
+    "alt": "张捷（海门） / Zhang Jie portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-jie-haimen/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>张捷，1657 年海门卫清方守将，郑成功北上台州/海门线中的守城人物。为避免同名混淆，文件名暂标 <code>haimen</code>。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《海上見聞錄》记郑成功遣万礼攻海门卫，又令监督李继宁入城招谕清守将张捷；郑军随后攻破城墙入城，文本保存“男女无少长皆屠之”的高风险屠城记忆。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其为海门卫守将和招谕对象；不据单一郑氏叙事评定守城责任。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Siege Node</code>: 海门卫。</li><li><code>High-Risk Claim</code>: 屠城记忆和守将结局。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0361</code>：1657 年海门卫攻城、张捷招谕和屠城记忆。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张捷职衔、是否出降或战死、海门屠城规模和地方志/清方记录需继续校。</li></ul>",
   "plainText": "张捷（海门） / Zhang Jie Status: seed profile; identity pending. 身份 张捷，1657 年海门卫清方守将，郑成功北上台州/海门线中的守城人物。为避免同名混淆，文件名暂标 haimen。 生平和主要事迹 1657 年《海上見聞錄》记郑成功遣万礼攻海门卫，又令监督李继宁入城招谕清守将张捷；郑军随后攻破城墙入城，文本保存“男女无少长皆屠之”的高风险屠城记忆。 性格、评价和行为模式提取 当前只记录其为海门卫守将和招谕对象；不据单一郑氏叙事评定守城责任。 著作或文本 未见。 游戏数据线索 Siege Node: 海门卫。 High Risk Claim: 屠城记忆和守将结局。 来源 ../source audit.md audit sm 0361：1657 年海门卫攻城、张捷招谕和屠城记忆。 待辨析 张捷职衔、是否出降或战死、海门屠城规模和地方志/清方记录需继续校。"
 }

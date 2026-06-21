@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhu-guozuo",
   "title": "朱国佐 / Zhu Guozuo",
-  "sourcePath": "references/southern-ming/people/zhu-guozuo.md",
+  "sourcePath": "references/southern-ming/people/zhu-guozuo/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhu_guozuo</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱国佐，吴江县丞。1645 年清方进入吴江时以城降清，是吴易长白荡起兵的触发人物之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>清方徇吴江时，朱国佐以城降。</li><li>吴鉴入县庭斥骂朱国佐，被其执送苏州遇害。</li><li>吴易起兵后擒朱国佐，交吴鉴父吴汝延杀以祭吴鉴。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：基层降附官员成为地方士人和义军报复对象。</li><li>资料状态：当前只可确认其在吴江降清和吴易起兵触发链中的角色。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Trigger</code>: 县丞降清和地方拒降冲突。</li><li><code>State Modifier Source</code>: 降官引发的地方愤怒。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0203</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>朱国佐姓名是否与顾诚材料“朱廷佐”同一，原任职和死亡细节需继续校。</li></ul>",
   "plainText": "朱国佐 / Zhu Guozuo Stable draft ID: person.zhu guozuo Status: anchored seed profile 身份 朱国佐，吴江县丞。1645 年清方进入吴江时以城降清，是吴易长白荡起兵的触发人物之一。 生平和主要事迹 清方徇吴江时，朱国佐以城降。 吴鉴入县庭斥骂朱国佐，被其执送苏州遇害。 吴易起兵后擒朱国佐，交吴鉴父吴汝延杀以祭吴鉴。 性格、评价和行为模式提取 行为模式：基层降附官员成为地方士人和义军报复对象。 资料状态：当前只可确认其在吴江降清和吴易起兵触发链中的角色。 著作或文本 未见已核著作。 游戏数据线索 Political Trigger: 县丞降清和地方拒降冲突。 State Modifier Source: 降官引发的地方愤怒。 来源 已核锚点：../source audit.md audit sm 0203。 待辨析 朱国佐姓名是否与顾诚材料“朱廷佐”同一，原任职和死亡细节需继续校。"
 }

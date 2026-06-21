@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-sheng",
   "title": "张胜 / Zhang Sheng",
-  "sourcePath": "references/southern-ming/people/zhang-sheng.md",
+  "sourcePath": "references/southern-ming/people/zhang-sheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-sheng/portrait.png",
+    "caption": "AI generated game concept art grounded in profile.md; it is not an authenticated likeness or evidence source.",
+    "alt": "张胜 / Zhang Sheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-sheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_sheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张胜，孙可望亲信将领，1657 年奉命袭取昆明，失败后被擒处死。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年孙可望内犯云南时，向孙可望表示可单独擒拿李定国。</li><li>奉命率武大定、马宝等铁骑七千走小路袭昆明，企图配合王尚礼等内应。</li><li>交水败报先入昆明，王尚礼被控制，张胜被迫退军。</li><li>在浑水塘遇李定国回援军，马宝阵后倒戈，张胜败逃。</li><li>过沾益后被旧部李承爵擒获，解至昆明处斩。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：冒进突袭型将领，依赖内应和突袭窗口。</li><li>其失败显示孙可望计划的关键弱点：前线倒戈会使奇袭转为孤军。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 张胜袭昆明失败。</li><li><code>Divergence Gate</code>: 昆明内应是否发动、马宝是否倒戈。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0112</code>，<code>../source-audit.md#audit-sm-0113</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张胜爵号、部众规模、浑水塘位置和被擒日需继续校。</li></ul>",
   "plainText": "张胜 / Zhang Sheng Stable draft ID: person.zhang sheng Status: anchored seed profile 身份 张胜，孙可望亲信将领，1657 年奉命袭取昆明，失败后被擒处死。 生平和主要事迹 1657 年孙可望内犯云南时，向孙可望表示可单独擒拿李定国。 奉命率武大定、马宝等铁骑七千走小路袭昆明，企图配合王尚礼等内应。 交水败报先入昆明，王尚礼被控制，张胜被迫退军。 在浑水塘遇李定国回援军，马宝阵后倒戈，张胜败逃。 过沾益后被旧部李承爵擒获，解至昆明处斩。 性格、评价和行为模式提取 行为模式：冒进突袭型将领，依赖内应和突袭窗口。 其失败显示孙可望计划的关键弱点：前线倒戈会使奇袭转为孤军。 著作或文本 未见已核著作。 游戏数据线索 Historical Candidate: 张胜袭昆明失败。 Divergence Gate: 昆明内应是否发动、马宝是否倒戈。 来源 已核锚点：../source audit.md audit sm 0112，../source audit.md audit sm 0113。 待辨析 张胜爵号、部众规模、浑水塘位置和被擒日需继续校。"
 }

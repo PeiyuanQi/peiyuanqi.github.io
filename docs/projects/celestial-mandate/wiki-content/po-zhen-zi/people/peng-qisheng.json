@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__peng-qisheng",
   "title": "彭期生 / Peng Qisheng",
-  "sourcePath": "references/southern-ming/people/peng-qisheng.md",
+  "sourcePath": "references/southern-ming/people/peng-qisheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/peng-qisheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the person page only. The likeness is not authenticated.",
+    "alt": "彭期生 / Peng Qisheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/peng-qisheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.peng_qisheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>彭期生，字观民，海盐人，赣州/忠诚府陷落时死难官绅之一；顾诚材料称其为太常寺卿兼守道，且提示其为彭孙贻之父。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记其曾以兵备佥事驻吉安，吉安失后走赣州，并同杨廷麟招降峒蛮，加太常卿。</li><li>赣州陷落时，彭期生冠带自经死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方守道/文臣随赣州守御共同死节。</li><li>可作为忠诚府死难记忆和江浙士人入赣支援的节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作；其家族材料和彭孙贻相关文集待查。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 忠诚府陷落死难名单成员。</li><li><code>State Modifier Source</code>: 忠诚府死节记忆。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0221</code>。</li><li>相关事件：<code>../events/ganzhou-defense-1646.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>彭期生官职、与彭孙贻家族材料、招降峒蛮过程和死法源流。</li></ul>",
   "plainText": "彭期生 / Peng Qisheng Stable draft ID: person.peng qisheng Status: anchored seed profile 身份 彭期生，字观民，海盐人，赣州/忠诚府陷落时死难官绅之一；顾诚材料称其为太常寺卿兼守道，且提示其为彭孙贻之父。 生平和主要事迹 《小腆紀年》记其曾以兵备佥事驻吉安，吉安失后走赣州，并同杨廷麟招降峒蛮，加太常卿。 赣州陷落时，彭期生冠带自经死。 性格、评价和行为模式提取 行为模式：地方守道/文臣随赣州守御共同死节。 可作为忠诚府死难记忆和江浙士人入赣支援的节点。 著作或文本 未见已核著作；其家族材料和彭孙贻相关文集待查。 游戏数据线索 Report Fact: 忠诚府陷落死难名单成员。 State Modifier Source: 忠诚府死节记忆。 来源 已核锚点：../source audit.md audit sm 0221。 相关事件：../events/ganzhou defense 1646.md。 待辨析 彭期生官职、与彭孙贻家族材料、招降峒蛮过程和死法源流。"
 }

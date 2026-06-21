@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-xinhe",
   "title": "张心和 / Zhang Xinhe",
-  "sourcePath": "references/southern-ming/people/zhang-xinhe.md",
+  "sourcePath": "references/southern-ming/people/zhang-xinhe/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-xinhe/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local profile only. It is not an authenticated likeness or historical evidence.",
+    "alt": "张心和 / Zhang Xinhe portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-xinhe/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_xinhe</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张心和，李定国派往暹罗联络的兵部主事。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚《南明史》记暹罗使者来联络李定国后，李定国派兵部主事张心和等十余人同往暹罗联络。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：外部路线和外交联络末端人物；其任务说明李定国在永历终局前仍尝试借暹罗路线重建行动空间。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Diplomacy</code>: 暹罗联络、外部休整和反攻设想。</li><li><code>Route/Flow</code>: 滇缅边境至暹罗的通信支线。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/yongli-burma-terminal-network-1659-1662.md</code>：终局中张心和赴暹罗联络和外部备用路线的总入口。</li><li><code>../events/li-dingguo-death-bai-wenxuan-surrender-1661-1662.md</code>：白文选降清与李定国之死。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0310</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张心和履历、赴暹罗结果、同行十余人姓名和暹罗侧记录需补。</li></ul>",
   "plainText": "张心和 / Zhang Xinhe Stable draft ID: person.zhang xinhe Status: anchored seed profile 身份 张心和，李定国派往暹罗联络的兵部主事。 生平和主要事迹 顾诚《南明史》记暹罗使者来联络李定国后，李定国派兵部主事张心和等十余人同往暹罗联络。 性格、评价和行为模式提取 行为模式：外部路线和外交联络末端人物；其任务说明李定国在永历终局前仍尝试借暹罗路线重建行动空间。 著作或文本 未见。 游戏数据线索 Diplomacy: 暹罗联络、外部休整和反攻设想。 Route/Flow: 滇缅边境至暹罗的通信支线。 相关事件 ../events/yongli burma terminal network 1659 1662.md：终局中张心和赴暹罗联络和外部备用路线的总入口。 ../events/li dingguo death bai wenxuan surrender 1661 1662.md：白文选降清与李定国之死。 来源 已核锚点：../source audit.md audit sm 0310。 待辨析 张心和履历、赴暹罗结果、同行十余人姓名和暹罗侧记录需补。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xiao-shixian-yongchang",
   "title": "萧时显（永昌/大理） / Xiao Shixian, Yongchang-Dali",
-  "sourcePath": "references/southern-ming/people/xiao-shixian-yongchang.md",
+  "sourcePath": "references/southern-ming/people/xiao-shixian-yongchang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xiao-shixian-yongchang/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated.",
+    "alt": "萧时显（永昌/大理） / Xiao Shixian, Yongchang-Dali portrait concept art",
+    "sourcePath": "references/southern-ming/people/xiao-shixian-yongchang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.xiao_shixian_yongchang</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>萧时显，维基文库《明史》卷二百九十五所见故永昌府同知，解任后寓居大理。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明史》卷二百九十五记萧时显为故永昌府同知，解任后因道路阻隔寓居大理，在大理/太和城陷层中自经。</li><li>本地 CBDB 20260530 有 <code>蕭時顯 c_personid=133337</code>，地址字段见大理府/大理，任官字段为永昌军民府府同知，可作强候选权威入口。</li><li>当前只作永昌-大理流寓官员死事线索；履历和死亡细节需点校本及地方志复核。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：解任流寓官员在战乱中进入当地死事记忆。</li><li>不从单一忠义传扩展性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 大理/太和陷落死事层。</li><li><code>Mobility</code>: 解任后道阻寓居大理。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0422</code>：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。</li><li><code>../source-audit.md#audit-sm-0426</code>：本地 CBDB 所见萧时显强候选权威。</li></ul>\n<h3>待辨析</h3>\n<ul><li>萧时显永昌府同知履历、解任原因、寓居大理时间、地方志记载和 <code>c_personid=133337</code> 外部 ID 使用待校。</li></ul>",
   "plainText": "萧时显（永昌/大理） / Xiao Shixian, Yongchang Dali Stable draft ID: person.xiao shixian yongchang Status: anchored seed profile; identity pending. 身份 萧时显，维基文库《明史》卷二百九十五所见故永昌府同知，解任后寓居大理。 生平和主要事迹 《明史》卷二百九十五记萧时显为故永昌府同知，解任后因道路阻隔寓居大理，在大理/太和城陷层中自经。 本地 CBDB 20260530 有 蕭時顯 c personid=133337，地址字段见大理府/大理，任官字段为永昌军民府府同知，可作强候选权威入口。 当前只作永昌 大理流寓官员死事线索；履历和死亡细节需点校本及地方志复核。 性格、评价和行为模式提取 行为模式：解任流寓官员在战乱中进入当地死事记忆。 不从单一忠义传扩展性格。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 大理/太和陷落死事层。 Mobility: 解任后道阻寓居大理。 来源 ../source audit.md audit sm 0422：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。 ../source audit.md audit sm 0426：本地 CBDB 所见萧时显强候选权威。 待辨析 萧时显永昌府同知履历、解任原因、寓居大理时间、地方志记载和 c personid=133337 外部 ID 使用待校。"
 }

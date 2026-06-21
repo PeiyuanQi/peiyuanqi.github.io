@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xu-yong-xiangtan",
   "title": "徐勇（湘潭线） / Xu Yong, Xiangtan Line",
-  "sourcePath": "references/southern-ming/people/xu-yong-xiangtan.md",
+  "sourcePath": "references/southern-ming/people/xu-yong-xiangtan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xu-yong-xiangtan/portrait.png",
+    "caption": "AI generated game concept art. It is not an authenticated likeness or evidence source.",
+    "alt": "徐勇（湘潭线） / Xu Yong, Xiangtan Line portrait concept art",
+    "sourcePath": "references/southern-ming/people/xu-yong-xiangtan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.xu_yong_xiangtan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐勇，《小腆紀年》湘潭事件中出现的降将；该来源称其旧隶何腾蛟麾下。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649 年正月湘潭失陷时，《小腆紀年》记徐勇以轻骑侦知何腾蛟孤处湘潭空城，率兵入城，旧属身份使其向何腾蛟罗拜劝降；何腾蛟大骂后被拥去。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可作为“旧部/降将侦知并接触主帅”的战场情报节点，不应扩写为完整传记或道德定性。</li><li>若进入游戏研究数据，可用于表达降将网络、旧部识别和危局中信息泄露的风险。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 徐勇侦知何腾蛟独处湘潭空城并入城劝降。</li><li><code>Actor Pattern</code>: 旧部关系可能在降清后转化为侦察、劝降或捕获优势。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0237</code>；事件文件 <code>../events/xiangtan-fall-he-tengjiao-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐勇身份、降清经过、是否另见清方或地方志材料，以及与何腾蛟麾下旧部的关系需补。</li></ul>",
   "plainText": "徐勇（湘潭线） / Xu Yong, Xiangtan Line Stable draft ID: person.xu yong xiangtan Status: anchored seed profile 身份 徐勇，《小腆紀年》湘潭事件中出现的降将；该来源称其旧隶何腾蛟麾下。 生平和主要事迹 1649 年正月湘潭失陷时，《小腆紀年》记徐勇以轻骑侦知何腾蛟孤处湘潭空城，率兵入城，旧属身份使其向何腾蛟罗拜劝降；何腾蛟大骂后被拥去。 性格、评价和行为模式提取 当前只可作为“旧部/降将侦知并接触主帅”的战场情报节点，不应扩写为完整传记或道德定性。 若进入游戏研究数据，可用于表达降将网络、旧部识别和危局中信息泄露的风险。 著作或文本 待补。 游戏数据线索 Report Fact: 徐勇侦知何腾蛟独处湘潭空城并入城劝降。 Actor Pattern: 旧部关系可能在降清后转化为侦察、劝降或捕获优势。 来源 已核锚点：../source audit.md audit sm 0237；事件文件 ../events/xiangtan fall he tengjiao 1649.md。 待辨析 徐勇身份、降清经过、是否另见清方或地方志材料，以及与何腾蛟麾下旧部的关系需补。"
 }

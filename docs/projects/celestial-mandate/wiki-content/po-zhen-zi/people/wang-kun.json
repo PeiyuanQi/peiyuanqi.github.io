@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-kun",
   "title": "王坤 / Wang Kun",
-  "sourcePath": "references/southern-ming/people/wang-kun.md",
+  "sourcePath": "references/southern-ming/people/wang-kun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-kun/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "王坤 / Wang Kun portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-kun/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_kun</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>王坤，永历初期司礼监太监，影响肇庆、梧州、桂林和武冈流亡线中的行在决策。其角色体现永历朝廷近侍过滤和皇帝安全焦虑对战略地点选择的影响。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1646 年永历肇庆监国后，参与或推动朝廷在压力下出奔梧州、西走等决策链。</li><li>1647 年桂林危局中，被材料呈现为推动永历继续入楚/湖南、离开桂林的近侍之一。</li><li>刘承胤早期曾逐王坤，显示武冈兵权和内廷近侍之间存在竞争关系；但永历最终仍在近侍和武将压力下转向全州、武冈。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：近侍过滤、避险优先、对皇帝行止有放大影响。</li><li>游戏建模中可作为“宫廷信息/行动过滤层”：不必拥有独立军队，也能通过恐惧、奏报和接近皇帝影响迁移决策。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 近侍避险、行在流亡化、桂林守土方案受阻。</li><li><code>AI Bias</code>: 高避险、高近侍影响、低守土倾向。</li><li><code>Report Fact</code>: 王坤对出奔和入楚建议的影响应与马吉翔、刘承胤、战场压力分开记录。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0149</code>，<code>../source-audit.md#audit-sm-0154</code>，<code>../source-audit.md#audit-sm-0157</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王坤在 1646 梧州出奔、1647 桂林去留和武冈迁移中的具体发言、时间和责任权重。</li><li>与马吉翔、庞天寿、周鼎瀚等近侍/内臣的关系。</li><li>刘承胤逐王坤事件的时间、原因和后续影响。</li></ul>",
   "plainText": "王坤 / Wang Kun Stable draft ID: person.wang kun Status: anchored seed profile 身份 王坤，永历初期司礼监太监，影响肇庆、梧州、桂林和武冈流亡线中的行在决策。其角色体现永历朝廷近侍过滤和皇帝安全焦虑对战略地点选择的影响。 生平和主要事迹 1646 年永历肇庆监国后，参与或推动朝廷在压力下出奔梧州、西走等决策链。 1647 年桂林危局中，被材料呈现为推动永历继续入楚/湖南、离开桂林的近侍之一。 刘承胤早期曾逐王坤，显示武冈兵权和内廷近侍之间存在竞争关系；但永历最终仍在近侍和武将压力下转向全州、武冈。 性格、评价和行为模式提取 行为模式：近侍过滤、避险优先、对皇帝行止有放大影响。 游戏建模中可作为“宫廷信息/行动过滤层”：不必拥有独立军队，也能通过恐惧、奏报和接近皇帝影响迁移决策。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 近侍避险、行在流亡化、桂林守土方案受阻。 AI Bias: 高避险、高近侍影响、低守土倾向。 Report Fact: 王坤对出奔和入楚建议的影响应与马吉翔、刘承胤、战场压力分开记录。 来源 已核锚点：../source audit.md audit sm 0149，../source audit.md audit sm 0154，../source audit.md audit sm 0157。 待辨析 王坤在 1646 梧州出奔、1647 桂林去留和武冈迁移中的具体发言、时间和责任权重。 与马吉翔、庞天寿、周鼎瀚等近侍/内臣的关系。 刘承胤逐王坤事件的时间、原因和后续影响。"
 }

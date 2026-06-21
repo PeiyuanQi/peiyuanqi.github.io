@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-tianyun",
   "title": "贺天云 / He Tianyun",
-  "sourcePath": "references/southern-ming/people/he-tianyun.md",
+  "sourcePath": "references/southern-ming/people/he-tianyun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-tianyun/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local He Tianyun person page. This is not an authenticated likeness or evidence source.",
+    "alt": "贺天云 / He Tianyun portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-tianyun/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.he_tianyun</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>贺天云，南明将领，材料中见于刘文秀四川经营和 1659 年澜沧江外降清链。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年刘文秀经营四川时，贺天云与祁三升、狄三品、杨威、郑守豹等进嘉定方向。</li><li>《南明史稿》记 1659 年五月，贺天云与马宝、塔新策、刘偁、徐廷威、李贵等自澜沧江外降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其从四川经营部将线，后来进入澜沧江外降清名单；不据此判断其个人动机。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 四川经营支线、澜沧江外降清链。</li><li><code>State Modifier Source</code>: 边地残军瓦解。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0111</code>，<code>../source-audit.md#audit-sm-0305</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>贺天云官职、所属部队、1656 至 1659 年间履历和降清后去向需继续校。</li></ul>",
   "plainText": "贺天云 / He Tianyun Stable draft ID: person.he tianyun Status: anchored seed profile 身份 贺天云，南明将领，材料中见于刘文秀四川经营和 1659 年澜沧江外降清链。 生平和主要事迹 1656 年刘文秀经营四川时，贺天云与祁三升、狄三品、杨威、郑守豹等进嘉定方向。 《南明史稿》记 1659 年五月，贺天云与马宝、塔新策、刘偁、徐廷威、李贵等自澜沧江外降清。 性格、评价和行为模式提取 当前只可记录其从四川经营部将线，后来进入澜沧江外降清名单；不据此判断其个人动机。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 四川经营支线、澜沧江外降清链。 State Modifier Source: 边地残军瓦解。 来源 已核锚点：../source audit.md audit sm 0111，../source audit.md audit sm 0305。 待辨析 贺天云官职、所属部队、1656 至 1659 年间履历和降清后去向需继续校。"
 }

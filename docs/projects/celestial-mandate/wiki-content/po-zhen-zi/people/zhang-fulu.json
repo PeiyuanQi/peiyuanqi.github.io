@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-fulu",
   "title": "张福禄 / Zhang Fulu",
-  "sourcePath": "references/southern-ming/people/zhang-fulu.md",
+  "sourcePath": "references/southern-ming/people/zhang-fulu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-fulu/portrait.png",
+    "caption": "AI generated game concept art, style inspired from profile.md; this is not an authenticated likeness or evidence source.",
+    "alt": "张福禄 / Zhang Fulu portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-fulu/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>张福禄，永历帝身边内监，安龙密诏李定国救驾的核心内廷参与者之一。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>永历私下商议摆脱孙可望控制时，张福禄与全为国参与密议。</li><li>张福禄、全为国建议联络徐极、林青阳、胡士瑞、张镌、蔡氏等忠贞可靠者。</li><li>密敕拟成后，张福禄等持入宫内钤盖皇帝之宝。</li><li>1654 年三月前后被列为首犯之一遭处置；1657 年追赠层涉及其亲属恩荫。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“内廷通道掌握者”：在外廷受控时，内监能接触皇帝、宝玺和密敕传递。</li><li>其行动同时说明孙可望控制并未完全切断永历内廷的微弱自主性。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>无。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Channel</code>: 内廷、宝玺、密敕。</li><li><code>Divergence Gate</code>: 内廷通道是否被孙可望系统侦破。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0247</code>：安龙密诏李定国、泄密追查和三月处置链。</li><li><code>../source-audit.md#audit-sm-0248</code>：十八先生姓名、诏书名单和追赠名单异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张福禄职司、处刑方式、是否进入“十八先生”核心计数需逐源校。</li></ul>",
   "plainText": "张福禄 / Zhang Fulu 身份 张福禄，永历帝身边内监，安龙密诏李定国救驾的核心内廷参与者之一。 生平与主要事迹 永历私下商议摆脱孙可望控制时，张福禄与全为国参与密议。 张福禄、全为国建议联络徐极、林青阳、胡士瑞、张镌、蔡氏等忠贞可靠者。 密敕拟成后，张福禄等持入宫内钤盖皇帝之宝。 1654 年三月前后被列为首犯之一遭处置；1657 年追赠层涉及其亲属恩荫。 性格、评价与行为模式 可作为“内廷通道掌握者”：在外廷受控时，内监能接触皇帝、宝玺和密敕传递。 其行动同时说明孙可望控制并未完全切断永历内廷的微弱自主性。 著作或相关文本 无。 游戏数据线索 Court Channel: 内廷、宝玺、密敕。 Divergence Gate: 内廷通道是否被孙可望系统侦破。 来源 ../source audit.md audit sm 0247：安龙密诏李定国、泄密追查和三月处置链。 ../source audit.md audit sm 0248：十八先生姓名、诏书名单和追赠名单异文。 待辨析 张福禄职司、处刑方式、是否进入“十八先生”核心计数需逐源校。"
 }

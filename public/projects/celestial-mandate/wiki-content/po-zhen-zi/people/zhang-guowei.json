@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-guowei",
   "title": "张国维 / Zhang Guowei",
-  "sourcePath": "references/southern-ming/people/zhang-guowei.md",
+  "sourcePath": "references/southern-ming/people/zhang-guowei/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-guowei/portrait.png",
+    "caption": "AI generated game concept art, style inspired from profile.md; this is not an authenticated likeness or evidence source.",
+    "alt": "张国维 / Zhang Guowei portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-guowei/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_guowei</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张国维，弘光旧臣，浙东鲁监国体系中的关键组织者之一。杭州降清后，他参与迎鲁王朱以海监国，并在绍兴、钱塘江一线整合义师。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>弘光时曾任戎政尚书；因与马士英不合归里。</li><li>南京、杭州相继失守后，在浙东收集义勇，与郑遵谦、熊汝霖、孙嘉绩、陈函辉、宋之溥、柯夏卿等合谋迎鲁王朱以海监国。</li><li>鲁监国移绍兴后，张国维任大学士并督师江上；《明季南略》记其试图以尚方剑统一诸军。</li><li>隆武诏令传至浙东后，张国维劝鲁监国体系不要仓促退居藩服，成为闽浙并立的重要主张者。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方士绅/旧臣网络组织者，重在把分散义师转化为临时 authority。</li><li>与潞王形成对照：张国维没有宗藩身份，却能提供组织、动员和解释框架。</li><li>其局限也很明显：浙东诸军各治一军，不相统一，后续难以抵御清军和内部离散。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>奏疏、书信和浙东义师相关文集待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>CharacterProfile</code>: 高组织能力、士绅网络、正统政治解释者。</li><li><code>State Modifier Source</code>: 浙东义师整合、鲁监国绍兴行在。</li><li><code>Divergence Gate</code>: 诸军是否能统一指挥，闽浙是否能协调。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0068</code>，<code>../source-audit.md#audit-sm-0069</code>。</li><li>相关事件：<code>../events/hangzhou-lu-zhedong-regency-1645.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张国维归里原因、迎鲁王过程、尚方剑实际指挥效果和死节经过。</li></ul>",
   "plainText": "张国维 / Zhang Guowei Stable draft ID: person.zhang guowei Status: anchored seed profile 身份 张国维，弘光旧臣，浙东鲁监国体系中的关键组织者之一。杭州降清后，他参与迎鲁王朱以海监国，并在绍兴、钱塘江一线整合义师。 生平和主要事迹 弘光时曾任戎政尚书；因与马士英不合归里。 南京、杭州相继失守后，在浙东收集义勇，与郑遵谦、熊汝霖、孙嘉绩、陈函辉、宋之溥、柯夏卿等合谋迎鲁王朱以海监国。 鲁监国移绍兴后，张国维任大学士并督师江上；《明季南略》记其试图以尚方剑统一诸军。 隆武诏令传至浙东后，张国维劝鲁监国体系不要仓促退居藩服，成为闽浙并立的重要主张者。 性格、评价和行为模式提取 行为模式：地方士绅/旧臣网络组织者，重在把分散义师转化为临时 authority。 与潞王形成对照：张国维没有宗藩身份，却能提供组织、动员和解释框架。 其局限也很明显：浙东诸军各治一军，不相统一，后续难以抵御清军和内部离散。 著作或文本 奏疏、书信和浙东义师相关文集待补。 游戏数据线索 CharacterProfile: 高组织能力、士绅网络、正统政治解释者。 State Modifier Source: 浙东义师整合、鲁监国绍兴行在。 Divergence Gate: 诸军是否能统一指挥，闽浙是否能协调。 来源 已核锚点：../source audit.md audit sm 0068，../source audit.md audit sm 0069。 相关事件：../events/hangzhou lu zhedong regency 1645.md。 待辨析 张国维归里原因、迎鲁王过程、尚方剑实际指挥效果和死节经过。"
 }

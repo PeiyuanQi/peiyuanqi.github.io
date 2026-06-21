@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-shun-zheng",
   "title": "李顺（郑氏） / Li Shun",
-  "sourcePath": "references/southern-ming/people/li-shun-zheng.md",
+  "sourcePath": "references/southern-ming/people/li-shun-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-shun-zheng/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local Southern Ming dossier evidence, not an authenticated likeness or evidence source.",
+    "alt": "李顺（郑氏） / Li Shun portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-shun-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>李顺，郑成功系统人物，1657 年与施举同往浙江招集松门向导。为避免同名混淆，文件名暂标 <code>zheng</code>。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《海上見聞錄》记施举同李顺往浙江等处，招集松门一带渔民，作为进长江向导；施举随后遇风陷没，李顺后续未在本锚点说明。</li><li>1658 年《海上見聞錄》记郑成功从舟山赴羊山前，问引港官李顺水程；李顺说明舟山至羊山一日可至，并提及当地海神/风浪禁忌，后郑军在羊山遭风灾。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前仅能确认其参与长江行动前的向导招集。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route Intelligence</code>: 松门渔民、长江向导。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0359</code>：1657 年施举、李顺招集松门向导。</li><li><code>../source-audit.md#audit-sm-0367</code>：1658 年李顺引港和羊山风灾前水程判断。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李顺身份、引港官职、1657 招向导和 1658 羊山水程判断是否同一人，以及后续是否参与 1658-1659 长江行动需继续校。</li></ul>",
   "plainText": "李顺（郑氏） / Li Shun Status: seed profile; identity pending. 身份 李顺，郑成功系统人物，1657 年与施举同往浙江招集松门向导。为避免同名混淆，文件名暂标 zheng。 生平和主要事迹 1657 年《海上見聞錄》记施举同李顺往浙江等处，招集松门一带渔民，作为进长江向导；施举随后遇风陷没，李顺后续未在本锚点说明。 1658 年《海上見聞錄》记郑成功从舟山赴羊山前，问引港官李顺水程；李顺说明舟山至羊山一日可至，并提及当地海神/风浪禁忌，后郑军在羊山遭风灾。 性格、评价和行为模式提取 当前仅能确认其参与长江行动前的向导招集。 著作或文本 未见。 游戏数据线索 Route Intelligence: 松门渔民、长江向导。 来源 ../source audit.md audit sm 0359：1657 年施举、李顺招集松门向导。 ../source audit.md audit sm 0367：1658 年李顺引港和羊山风灾前水程判断。 待辨析 李顺身份、引港官职、1657 招向导和 1658 羊山水程判断是否同一人，以及后续是否参与 1658 1659 长江行动需继续校。"
 }

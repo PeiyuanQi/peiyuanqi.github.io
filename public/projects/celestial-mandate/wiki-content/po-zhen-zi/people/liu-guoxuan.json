@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-guoxuan",
   "title": "刘国轩 / Liu Guoxuan",
-  "sourcePath": "references/southern-ming/people/liu-guoxuan.md",
+  "sourcePath": "references/southern-ming/people/liu-guoxuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-guoxuan/portrait.png",
+    "caption": "AI generated game concept art. The likeness is not authenticated and must not be used as historical evidence.",
+    "alt": "刘国轩 / Liu Guoxuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-guoxuan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_guoxuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘国轩，郑氏系统将领，在取台湾战役和郑经继承冲突材料中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《海上见闻录》记围台湾城时，马信、刘国轩率弓箭手击退出城夺炮的荷兰方人员。</li><li>《海上見聞錄》在 1654 年漳州归郑线中记千总刘国轩同魏标、朴世用等约期献城归降，郑成功后以刘国轩为护卫后镇；这为刘国轩入郑氏系统提供早期节点。</li><li>郑成功死后，《海上见闻录》记郑世袭、黄昭一方拔刘国轩管镇事；郑经入台时，刘国轩兵继至攻击郑经营后，后续具体立场转变需校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只支撑其为郑氏军事骨干和继承冲突中的营镇人物，不作完整评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Battle Role</code>: 围台湾城攻守。</li><li><code>Authority Transition</code>: 郑氏继承冲突中的军事营镇。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0351</code>，<code>../source-audit.md#audit-sm-0315</code>，<code>../source-audit.md#audit-sm-0318</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘国轩军职、继承冲突中的实际立场和后续郑氏台湾履历需继续校。</li></ul>",
   "plainText": "刘国轩 / Liu Guoxuan Stable draft ID: person.liu guoxuan Status: anchored seed profile 身份 刘国轩，郑氏系统将领，在取台湾战役和郑经继承冲突材料中出现。 生平和主要事迹 《海上见闻录》记围台湾城时，马信、刘国轩率弓箭手击退出城夺炮的荷兰方人员。 《海上見聞錄》在 1654 年漳州归郑线中记千总刘国轩同魏标、朴世用等约期献城归降，郑成功后以刘国轩为护卫后镇；这为刘国轩入郑氏系统提供早期节点。 郑成功死后，《海上见闻录》记郑世袭、黄昭一方拔刘国轩管镇事；郑经入台时，刘国轩兵继至攻击郑经营后，后续具体立场转变需校。 性格、评价和行为模式提取 当前材料只支撑其为郑氏军事骨干和继承冲突中的营镇人物，不作完整评价。 著作或文本 未见。 游戏数据线索 Battle Role: 围台湾城攻守。 Authority Transition: 郑氏继承冲突中的军事营镇。 来源 已核锚点：../source audit.md audit sm 0351，../source audit.md audit sm 0315，../source audit.md audit sm 0318。 待辨析 刘国轩军职、继承冲突中的实际立场和后续郑氏台湾履历需继续校。"
 }

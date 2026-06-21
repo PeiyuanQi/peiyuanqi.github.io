@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-qifeng-zheng",
   "title": "王起俸 / Wang Qifeng",
-  "sourcePath": "references/southern-ming/people/wang-qifeng-zheng.md",
+  "sourcePath": "references/southern-ming/people/wang-qifeng-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-qifeng-zheng/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "王起俸 / Wang Qifeng portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-qifeng-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_qifeng_zheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>王起俸，郑氏崇明攻城线索人物。文件名用 <code>qifeng</code> 仅作拼音近似，避免与其他王氏人物混淆。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年八月郑成功攻崇明，《海上見聞錄》记韩英登梯受创，监中王起俸亦伤。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为崇明攻城伤亡名单人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Siege Roster</code>: 崇明攻城伤亡。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0372</code>：崇明未克、韩英和王起俸伤亡线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王起俸姓名读音、职任、伤情和后续去向需郑氏原书与地方志互校。</li></ul>",
   "plainText": "王起俸 / Wang Qifeng Stable draft ID: person.wang qifeng zheng Status: anchored seed profile 身份 王起俸，郑氏崇明攻城线索人物。文件名用 qifeng 仅作拼音近似，避免与其他王氏人物混淆。 生平和主要事迹 1659 年八月郑成功攻崇明，《海上見聞錄》记韩英登梯受创，监中王起俸亦伤。 性格、评价和行为模式提取 当前只可记录为崇明攻城伤亡名单人物。 著作或文本 未见。 游戏数据线索 Siege Roster: 崇明攻城伤亡。 来源 ../source audit.md audit sm 0372：崇明未克、韩英和王起俸伤亡线索。 待辨析 王起俸姓名读音、职任、伤情和后续去向需郑氏原书与地方志互校。"
 }

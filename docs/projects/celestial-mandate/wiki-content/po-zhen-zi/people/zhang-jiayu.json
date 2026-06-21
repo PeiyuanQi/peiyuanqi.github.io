@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-jiayu",
   "title": "张家玉 / Zhang Jiayu",
-  "sourcePath": "references/southern-ming/people/zhang-jiayu.md",
+  "sourcePath": "references/southern-ming/people/zhang-jiayu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-jiayu/portrait.png",
+    "caption": "AI generated game concept art, style inspired from profile.md; not an authenticated likeness and not a historical evidence source.",
+    "alt": "张家玉 / Zhang Jiayu portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-jiayu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_jiayu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张家玉，广东东莞一带抗清人物，永历初期广东义师代表之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>隆武时期曾任郑彩军监军，出杉关援江西；清军入闽后回广东募兵。</li><li>1647 年与韩如璜等在东莞起兵，短期内攻取东莞、新安、龙门等地，并在博罗、连平、长宁、归善、增城等县域转战。</li><li>后在增城附近战败投水身亡；《明季南略》作六月败死，与其他材料日序有差异。</li><li>其活动显示广东地方抗清在县域之间扩散，但难以转化为长期控制。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：快速县域扩张、地方网络动员、军事持续力不足。</li><li>游戏建模可作为广东局部抗清的高爆发、低续航节点。</li><li>张家玉有隆武、郑彩、江西和广东多重连接，是把隆武失败后的残余官军经验带回广东义师的一类人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>诗文、地方志传记待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 东莞、龙门、增城线的义师兴亡。</li><li><code>State Modifier Source</code>: 广东东部士绅义师、县域控制波动。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0015</code>，<code>../source-audit.md#audit-sm-0071</code>，<code>../source-audit.md#audit-sm-0077</code>。</li><li>相关事件：<code>../events/guangdong-yishi-1647.md</code>，<code>../events/longwu-resource-jiangxi-1645-1646.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>东莞起兵日、龙门攻取日、增城战败日需原始编年与地方志交叉校对。</li><li>《明季南略》六月败死说与顾诚/《小腆纪年》十月增城死节线需专题校订。</li></ul>",
   "plainText": "张家玉 / Zhang Jiayu Stable draft ID: person.zhang jiayu Status: anchored seed profile 身份 张家玉，广东东莞一带抗清人物，永历初期广东义师代表之一。 生平和主要事迹 隆武时期曾任郑彩军监军，出杉关援江西；清军入闽后回广东募兵。 1647 年与韩如璜等在东莞起兵，短期内攻取东莞、新安、龙门等地，并在博罗、连平、长宁、归善、增城等县域转战。 后在增城附近战败投水身亡；《明季南略》作六月败死，与其他材料日序有差异。 其活动显示广东地方抗清在县域之间扩散，但难以转化为长期控制。 性格、评价和行为模式提取 行为模式：快速县域扩张、地方网络动员、军事持续力不足。 游戏建模可作为广东局部抗清的高爆发、低续航节点。 张家玉有隆武、郑彩、江西和广东多重连接，是把隆武失败后的残余官军经验带回广东义师的一类人物。 著作或文本 诗文、地方志传记待补。 游戏数据线索 Historical Candidate: 东莞、龙门、增城线的义师兴亡。 State Modifier Source: 广东东部士绅义师、县域控制波动。 来源 已核锚点：../source audit.md audit sm 0015，../source audit.md audit sm 0071，../source audit.md audit sm 0077。 相关事件：../events/guangdong yishi 1647.md，../events/longwu resource jiangxi 1645 1646.md。 待辨析 东莞起兵日、龙门攻取日、增城战败日需原始编年与地方志交叉校对。 《明季南略》六月败死说与顾诚/《小腆纪年》十月增城死节线需专题校订。"
 }

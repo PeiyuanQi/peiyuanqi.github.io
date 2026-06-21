@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__quan-weiguo",
   "title": "全为国 / Quan Weiguo",
-  "sourcePath": "references/southern-ming/people/quan-weiguo.md",
+  "sourcePath": "references/southern-ming/people/quan-weiguo/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/quan-weiguo/portrait.png",
+    "caption": "AI generated game concept art based on local textual evidence; this is not an authenticated likeness or evidence source.",
+    "alt": "全为国 / Quan Weiguo portrait concept art",
+    "sourcePath": "references/southern-ming/people/quan-weiguo/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>全为国，永历帝身边内监，安龙密诏李定国救驾的核心内廷参与者之一。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>与张福禄一同参与永历私下密议，建议联络徐极、林青阳、胡士瑞、张镌、蔡氏等朝臣。</li><li>参与密敕传递前的内廷钤印环节。</li><li>1654 年三月前后被列入处置链；1657 年追赠层涉及其亲属恩荫。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“内廷风险承担者”：其政治影响来自接近皇帝和宝玺，而非公开官职。</li><li>与张福禄并列时，应保留二人分别建档，避免把内监群体合并成一个匿名通道。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>无。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Channel</code>: 皇帝私议、宝玺、密敕。</li><li><code>Risk Model</code>: 内廷参与使密诏具备形式合法性，也加大被指控为“盗宝矫诏”的风险。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0247</code>：安龙密诏李定国、泄密追查和三月处置链。</li><li><code>../source-audit.md#audit-sm-0248</code>：十八先生姓名、诏书名单和追赠名单异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>全为国具体职司、亲属恩荫和处置方式需继续校。</li></ul>",
   "plainText": "全为国 / Quan Weiguo 身份 全为国，永历帝身边内监，安龙密诏李定国救驾的核心内廷参与者之一。 生平与主要事迹 与张福禄一同参与永历私下密议，建议联络徐极、林青阳、胡士瑞、张镌、蔡氏等朝臣。 参与密敕传递前的内廷钤印环节。 1654 年三月前后被列入处置链；1657 年追赠层涉及其亲属恩荫。 性格、评价与行为模式 可作为“内廷风险承担者”：其政治影响来自接近皇帝和宝玺，而非公开官职。 与张福禄并列时，应保留二人分别建档，避免把内监群体合并成一个匿名通道。 著作或相关文本 无。 游戏数据线索 Court Channel: 皇帝私议、宝玺、密敕。 Risk Model: 内廷参与使密诏具备形式合法性，也加大被指控为“盗宝矫诏”的风险。 来源 ../source audit.md audit sm 0247：安龙密诏李定国、泄密追查和三月处置链。 ../source audit.md audit sm 0248：十八先生姓名、诏书名单和追赠名单异文。 待辨析 全为国具体职司、亲属恩荫和处置方式需继续校。"
 }

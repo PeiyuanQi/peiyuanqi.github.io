@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-yongxi",
   "title": "刘永锡 / Liu Yongxi",
-  "sourcePath": "references/southern-ming/people/liu-yongxi.md",
+  "sourcePath": "references/southern-ming/people/liu-yongxi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-yongxi/portrait.png",
+    "caption": "This is AI generated game concept art informed by local text notes about Liu Yongxi's Liu Kongzhao family link, Lu Regent maritime force layer, and disputed Chongming/Zhoushan death memory. It is not an authenticated likeness or evidence source.",
+    "alt": "刘永锡 / Liu Yongxi portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-yongxi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_yongxi</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘永锡，诚意伯刘孔昭之子，见于《南疆繹史》卷十一和长江口海师记忆层。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南疆繹史》卷十一称刘孔昭子刘永锡航海从鲁监国或海师，参与赴崇明之役。</li><li>传文记其败后与徐仁爵同日死。此为公开文本死难层，须和张名振、张煌言、崇明战役材料互校。</li><li>本地 CBDB 20260530 有两条 <code>劉永錫</code> 主名记录，一条为元人层，一条为魏县、教谕/知县线索；目前均不能直接证明为刘孔昭之子和崇明海师人物。</li><li>《小腆紀年》在崇明战败条引《南疆繹史》作刘永锡与徐仁爵同日死，又据汪光复《航海遗闻》疑刘永锡死于舟山；《南明史稿》舟山陷条也列刘永锡死，死地须两存。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Family Link</code>: 刘孔昭支系。</li><li><code>Event</code>: 鲁监国海师、张名振攻崇明或长江口行动。</li><li>Related dossier: <code>../events/hereditary-nobles-lineages-1644-1655.md</code>。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0434</code>：维基文库《南疆繹史》所见李升、李锡祚、李锡贡、刘永锡层。</li><li><code>../source-audit.md#audit-sm-0438</code>：本地 CBDB 所见刘永锡同名风险。</li><li><code>../source-audit.md#audit-sm-0444</code>：本地《小腆紀年》《南明史稿》所见刘永锡崇明/舟山死地异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘永锡随行对象、崇明战役年份、与徐仁爵同日死的细节、舟山死地异文和 CBDB 同名记录需张名振材料、鲁监国材料、舟山材料和刘氏家族材料互校。</li></ul>",
   "plainText": "刘永锡 / Liu Yongxi Stable draft ID: person.liu yongxi Status: seed profile 身份 刘永锡，诚意伯刘孔昭之子，见于《南疆繹史》卷十一和长江口海师记忆层。 生平和主要事迹 《南疆繹史》卷十一称刘孔昭子刘永锡航海从鲁监国或海师，参与赴崇明之役。 传文记其败后与徐仁爵同日死。此为公开文本死难层，须和张名振、张煌言、崇明战役材料互校。 本地 CBDB 20260530 有两条 劉永錫 主名记录，一条为元人层，一条为魏县、教谕/知县线索；目前均不能直接证明为刘孔昭之子和崇明海师人物。 《小腆紀年》在崇明战败条引《南疆繹史》作刘永锡与徐仁爵同日死，又据汪光复《航海遗闻》疑刘永锡死于舟山；《南明史稿》舟山陷条也列刘永锡死，死地须两存。 游戏数据线索 Family Link: 刘孔昭支系。 Event: 鲁监国海师、张名振攻崇明或长江口行动。 Related dossier: ../events/hereditary nobles lineages 1644 1655.md。 来源 ../source audit.md audit sm 0434：维基文库《南疆繹史》所见李升、李锡祚、李锡贡、刘永锡层。 ../source audit.md audit sm 0438：本地 CBDB 所见刘永锡同名风险。 ../source audit.md audit sm 0444：本地《小腆紀年》《南明史稿》所见刘永锡崇明/舟山死地异文。 待辨析 刘永锡随行对象、崇明战役年份、与徐仁爵同日死的细节、舟山死地异文和 CBDB 同名记录需张名振材料、鲁监国材料、舟山材料和刘氏家族材料互校。"
 }

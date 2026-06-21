@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__qu-yongshou",
   "title": "瞿永寿 / Qu Yongshou",
-  "sourcePath": "references/southern-ming/people/qu-yongshou.md",
+  "sourcePath": "references/southern-ming/people/qu-yongshou/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/qu-yongshou/portrait.png",
+    "caption": "AI generated game concept art based on local textual evidence; this is not an authenticated likeness or evidence source.",
+    "alt": "瞿永寿 / Qu Yongshou portrait concept art",
+    "sourcePath": "references/southern-ming/people/qu-yongshou/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>瞿永寿，1657 年金乡卫清方守将，见郑氏温州/金乡取粮线。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《海上見聞錄》记张英、万礼督舟师至温州，议攻金乡卫，清守将瞿永寿献城降，郑军遂取粮回。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其为地方守将献城节点，不展开性格评价。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Defection/Surrender</code>: 沿海卫所守将献城。</li><li><code>Supply Node</code>: 温州、金乡卫取粮。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0359</code>：1657 年温州金乡行动和瞿永寿献城。</li></ul>\n<h3>待辨析</h3>\n<ul><li>瞿永寿身份、官职、献城动机、金乡卫地望和后续处置需地方志、清方记录和郑氏材料校。</li></ul>",
   "plainText": "瞿永寿 / Qu Yongshou Status: seed profile; identity pending. 身份 瞿永寿，1657 年金乡卫清方守将，见郑氏温州/金乡取粮线。 生平和主要事迹 1657 年《海上見聞錄》记张英、万礼督舟师至温州，议攻金乡卫，清守将瞿永寿献城降，郑军遂取粮回。 性格、评价和行为模式提取 当前只记录其为地方守将献城节点，不展开性格评价。 著作或文本 未见。 游戏数据线索 Defection/Surrender: 沿海卫所守将献城。 Supply Node: 温州、金乡卫取粮。 来源 ../source audit.md audit sm 0359：1657 年温州金乡行动和瞿永寿献城。 待辨析 瞿永寿身份、官职、献城动机、金乡卫地望和后续处置需地方志、清方记录和郑氏材料校。"
 }

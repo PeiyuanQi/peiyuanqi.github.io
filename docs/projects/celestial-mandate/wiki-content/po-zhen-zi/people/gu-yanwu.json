@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__gu-yanwu",
   "title": "顾炎武 / Gu Yanwu",
-  "sourcePath": "references/southern-ming/people/gu-yanwu.md",
+  "sourcePath": "references/southern-ming/people/gu-yanwu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/gu-yanwu/portrait.png",
+    "caption": "AI-generated game concept art; not an authenticated likeness.",
+    "alt": "顾炎武 / Gu Yanwu portrait concept art",
+    "sourcePath": "references/southern-ming/people/gu-yanwu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.gu_yanwu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>顾炎武，昆山人，明末清初学者。南明资料库中先记录其参与昆山拒守和江南地方抗清网络的早期线索。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆纪年》将顾炎武列入 1645 年昆山起兵拒守参与者之一，与归庄、吴其沆等佐杨永言起事。</li><li>昆山城陷后，材料记顾炎武与杨永言、归庄等遁去；其后学术和抗清活动需另立专题。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：士人参与县域抗清后转入长期隐遁、游历和学术记忆。</li><li>本轮只支撑昆山事件中的参与线索，不把后世完整思想史评价写入游戏事实。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>顾炎武著作和年谱需后续专题整理；本轮仅引用昆山事件线索。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Character Continuity</code>: 早期地方抗清参与者，后续可作为记忆、学术和士人网络节点。</li><li><code>Unresolved Claim</code>: 昆山事件中的具体行动和后续逃亡路线。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0193</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>顾炎武在昆山事件中的实际职能、与归庄的分工、顾谱日期和《明季南略》异文需继续校。</li></ul>",
   "plainText": "顾炎武 / Gu Yanwu Stable draft ID: person.gu yanwu Status: anchored seed profile 身份 顾炎武，昆山人，明末清初学者。南明资料库中先记录其参与昆山拒守和江南地方抗清网络的早期线索。 生平和主要事迹 《小腆纪年》将顾炎武列入 1645 年昆山起兵拒守参与者之一，与归庄、吴其沆等佐杨永言起事。 昆山城陷后，材料记顾炎武与杨永言、归庄等遁去；其后学术和抗清活动需另立专题。 性格、评价和行为模式提取 行为模式：士人参与县域抗清后转入长期隐遁、游历和学术记忆。 本轮只支撑昆山事件中的参与线索，不把后世完整思想史评价写入游戏事实。 著作或文本 顾炎武著作和年谱需后续专题整理；本轮仅引用昆山事件线索。 游戏数据线索 Character Continuity: 早期地方抗清参与者，后续可作为记忆、学术和士人网络节点。 Unresolved Claim: 昆山事件中的具体行动和后续逃亡路线。 来源 已核锚点：../source audit.md audit sm 0193。 待辨析 顾炎武在昆山事件中的实际职能、与归庄的分工、顾谱日期和《明季南略》异文需继续校。"
 }

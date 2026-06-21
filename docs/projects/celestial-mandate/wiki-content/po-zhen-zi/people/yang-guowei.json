@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-guowei",
   "title": "杨国威 / Yang Guowei",
-  "sourcePath": "references/southern-ming/people/yang-guowei.md",
+  "sourcePath": "references/southern-ming/people/yang-guowei/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-guowei/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local historical notes; not an authenticated likeness or evidence source.",
+    "alt": "杨国威 / Yang Guowei portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-guowei/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yang_guowei</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨国威，朱亨嘉自立事件中的广西武职人物。《小腆紀年》称朱亨嘉以其党总兵杨国威为大将军，焦琏一度在其麾下为旗鼓/中军官。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年朱亨嘉在桂林自称监国后，被任为大将军。</li><li>朱亨嘉败返桂林后，焦琏在杨国威系统中秘密同瞿式耜联络，成为擒朱亨嘉的内应通道。</li><li>陈邦傅、焦琏擒朱亨嘉时，杨国威一并被擒送福州，后伏诛。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料中杨国威主要体现为朱亨嘉军事化自立的执行者和名义武力核心。</li><li>其系统内部被焦琏穿透，说明朱亨嘉政权的军事控制并不稳固。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 宗藩自立的武职支撑、内部渗透风险。</li><li><code>Report Fact</code>: 杨国威被任为大将军并最终伏诛。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0213</code>，<code>../source-audit.md#audit-sm-0215</code>，<code>../source-audit.md#audit-sm-0216</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杨国威原职、籍贯、与焦琏的真实上下级关系和伏诛日期需继续校。</li></ul>",
   "plainText": "杨国威 / Yang Guowei Stable draft ID: person.yang guowei Status: anchored seed profile 身份 杨国威，朱亨嘉自立事件中的广西武职人物。《小腆紀年》称朱亨嘉以其党总兵杨国威为大将军，焦琏一度在其麾下为旗鼓/中军官。 生平和主要事迹 1645 年朱亨嘉在桂林自称监国后，被任为大将军。 朱亨嘉败返桂林后，焦琏在杨国威系统中秘密同瞿式耜联络，成为擒朱亨嘉的内应通道。 陈邦傅、焦琏擒朱亨嘉时，杨国威一并被擒送福州，后伏诛。 性格、评价和行为模式提取 当前材料中杨国威主要体现为朱亨嘉军事化自立的执行者和名义武力核心。 其系统内部被焦琏穿透，说明朱亨嘉政权的军事控制并不稳固。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 宗藩自立的武职支撑、内部渗透风险。 Report Fact: 杨国威被任为大将军并最终伏诛。 来源 已核锚点：../source audit.md audit sm 0213，../source audit.md audit sm 0215，../source audit.md audit sm 0216。 待辨析 杨国威原职、籍贯、与焦琏的真实上下级关系和伏诛日期需继续校。"
 }

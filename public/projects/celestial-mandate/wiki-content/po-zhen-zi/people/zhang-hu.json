@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-hu",
   "title": "张虎 / Zhang Hu",
-  "sourcePath": "references/southern-ming/people/zhang-hu.md",
+  "sourcePath": "references/southern-ming/people/zhang-hu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-hu/portrait.png",
+    "caption": "AI generated game concept art, style inspired from profile.md; not an authenticated likeness and not a historical evidence source.",
+    "alt": "张虎 / Zhang Hu portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-hu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhang_hu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>张虎，孙可望亲信，1656 年被永历朝廷封淳化伯，秦晋和解失败和交水后清算中的关键人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年永历入昆明后，被封淳化伯。</li><li>与白文选同赴贵阳劝孙可望和解时，向孙可望报告昆明可攻、李定国兵少等情形，并自称在昆明只是伪受封爵。</li><li>交水后从云南逃回贵州，刘文秀擒获后槛送昆明，处以磔刑。《明季南略》还记黔中文武把“犯阙”责任归于张虎、方于宣二人。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：高忠诚于孙可望、善于传递内部情报、低妥协。</li><li>可作为“使者倒向原主导致和解失败”的人物样本。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 秦晋和解失败、昆明情报外泄、交水后清算。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0110</code>，<code>../source-audit.md#audit-sm-0115</code>，<code>../source-audit.md#audit-sm-0295</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张虎是否参与具体行刺/刺杀传闻，以及其处死日需继续核。</li></ul>",
   "plainText": "张虎 / Zhang Hu Stable draft ID: person.zhang hu Status: anchored seed profile 身份 张虎，孙可望亲信，1656 年被永历朝廷封淳化伯，秦晋和解失败和交水后清算中的关键人物。 生平和主要事迹 1656 年永历入昆明后，被封淳化伯。 与白文选同赴贵阳劝孙可望和解时，向孙可望报告昆明可攻、李定国兵少等情形，并自称在昆明只是伪受封爵。 交水后从云南逃回贵州，刘文秀擒获后槛送昆明，处以磔刑。《明季南略》还记黔中文武把“犯阙”责任归于张虎、方于宣二人。 性格、评价和行为模式提取 行为模式：高忠诚于孙可望、善于传递内部情报、低妥协。 可作为“使者倒向原主导致和解失败”的人物样本。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 秦晋和解失败、昆明情报外泄、交水后清算。 来源 已核锚点：../source audit.md audit sm 0110，../source audit.md audit sm 0115，../source audit.md audit sm 0295。 待辨析 张虎是否参与具体行刺/刺杀传闻，以及其处死日需继续核。"
 }

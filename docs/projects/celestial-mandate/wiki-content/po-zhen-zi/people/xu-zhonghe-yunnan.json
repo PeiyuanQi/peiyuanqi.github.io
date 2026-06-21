@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xu-zhonghe-yunnan",
   "title": "徐中和（云南沙定洲线） / Xu Zhonghe, Yunnan Sha Dingzhou Line",
-  "sourcePath": "references/southern-ming/people/xu-zhonghe-yunnan.md",
+  "sourcePath": "references/southern-ming/people/xu-zhonghe-yunnan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xu-zhonghe-yunnan/portrait.png",
+    "caption": "AI generated game concept art grounded in local written notes; it is not an authenticated likeness or an evidence source.",
+    "alt": "徐中和（云南沙定洲线） / Xu Zhonghe, Yunnan Sha Dingzhou Line portrait concept art",
+    "sourcePath": "references/southern-ming/people/xu-zhonghe-yunnan/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>徐中和，《南明野史》所见 1647 年沐氏与大西余部合作后被处置的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》记 1647 年八月四将军入鹤庆、丽江后，沐氏与大西余部建立合作线索；同段又记余锡朋、徐中和等被车裂以谢国人。</li><li>该处置方式和罪名均属高风险叙事层，当前只记录其作为沙定洲之乱善后中的被处置人物出现。</li><li>本地 CBDB 精确名 <code>徐中和 c_personid=312253</code> 为长兴、嘉靖二十九年进士和 Wikidata Q45574977 线索，目前不能证明为云南沙定洲善后人物。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>不据单一旧籍判断其罪责、阵营或性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Post-Rebellion Settlement</code>: 沙定洲之乱善后、旧内应/诱因人物处置。</li><li><code>Contested Claim</code>: 处置方式、罪名和时间待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0387</code>：《南明野史》所见余锡朋、徐中和等被处置线索。</li><li><code>../source-audit.md#audit-sm-0418</code>：本地 CBDB 所见徐中和同名记录和云南身份未证层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐中和身份、与余锡朋关系、是否参与沙定洲内应或诱因、处置时间和方式需地方志校；CBDB <code>312253</code> 先作同名风险，不作本页外部 ID。</li></ul>",
   "plainText": "徐中和（云南沙定洲线） / Xu Zhonghe, Yunnan Sha Dingzhou Line Status: anchored seed profile; identity pending. 身份 徐中和，《南明野史》所见 1647 年沐氏与大西余部合作后被处置的人物。 生平和主要事迹 《南明野史》记 1647 年八月四将军入鹤庆、丽江后，沐氏与大西余部建立合作线索；同段又记余锡朋、徐中和等被车裂以谢国人。 该处置方式和罪名均属高风险叙事层，当前只记录其作为沙定洲之乱善后中的被处置人物出现。 本地 CBDB 精确名 徐中和 c personid=312253 为长兴、嘉靖二十九年进士和 Wikidata Q45574977 线索，目前不能证明为云南沙定洲善后人物。 性格、评价和行为模式提取 不据单一旧籍判断其罪责、阵营或性格。 著作或文本 未见。 游戏数据线索 Post Rebellion Settlement: 沙定洲之乱善后、旧内应/诱因人物处置。 Contested Claim: 处置方式、罪名和时间待校。 来源 ../source audit.md audit sm 0387：《南明野史》所见余锡朋、徐中和等被处置线索。 ../source audit.md audit sm 0418：本地 CBDB 所见徐中和同名记录和云南身份未证层。 待辨析 徐中和身份、与余锡朋关系、是否参与沙定洲内应或诱因、处置时间和方式需地方志校；CBDB 312253 先作同名风险，不作本页外部 ID。"
 }

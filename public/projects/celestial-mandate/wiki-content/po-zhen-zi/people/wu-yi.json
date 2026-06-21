@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wu-yi",
   "title": "吴易 / Wu Yi",
-  "sourcePath": "references/southern-ming/people/wu-yi.md",
+  "sourcePath": "references/southern-ming/people/wu-yi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wu-yi/portrait.png",
+    "caption": "AI generated game concept art informed by local textual notes; it is not an authenticated likeness or evidence source.",
+    "alt": "吴易 / Wu Yi portrait concept art",
+    "sourcePath": "references/southern-ming/people/wu-yi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wu_yi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>吴易，字日生，号朔清，吴江人。弘光时期曾被史可法题授职方主事；弘光覆亡后在太湖、长白荡一带起兵抗清。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年六月后，吴江县丞朱国佐降清、诸生吴鉴被杀，吴易起兵，屯长白荡，出没五湖、三泖之间。</li><li>材料记其初起规模不大，但迅速聚众，并计擒松江盗首沈潘，收其部众和船只；这显示其义军同时承担抗清和整合地方治安的功能。</li><li>《小腆纪年》记隆武方面授其兵部右侍郎、总督江南诸军，后进兵部尚书、忠义伯；鲁监国也遥授长兴伯。</li><li>顾诚据清方材料强调吴易利用清军不习水战、太湖水域辽阔和航路复杂给清军造成沉重压力；1646 年六月前后在嘉善访故人时被告发，解杭州遇害。</li><li>吴易姓名有吴易、吴昜、吴日生等写法；本资料库暂用顾诚和近人校勘倾向的“吴易”，保留异文。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：水乡游击、地方秩序维护和复明授权叠加。</li><li>能力特征：善用湖荡、水路和伏击；能够把地方愤怒、船只和小股武装组织成持续压力。</li><li>风险特征：高度依赖地方隐匿、熟人网络和保密，一旦被告发或离开核心水域，安全性急降。</li><li>资料风险：旧籍战果数字、草人诱敌、斩将数和血水等细节需要同清方档案分层，不作量化事实。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route</code>: 太湖-长白荡-吴江-苏州水乡网络。</li><li><code>Historical Candidate</code>: 吴易能否整合太湖义师并接应松江/舟山线。</li><li><code>State Modifier Source</code>: 湖荡游击压力、清方水战不适应、地方秩序和义军纪律差异。</li><li><code>Identity Disambiguation</code>: 吴易/吴昜、吴旦/朱旦、周瑞/周毓祥/倪曼青。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0194</code>；<code>../source-audit.md#audit-sm-0203</code>；<code>../source-audit.md#audit-sm-0204</code>；<code>../source-audit.md#audit-sm-0206</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>吴易具体被捕和遇害日、长白荡现代地望、各次战斗战果数字、吴旦/朱旦和周瑞/倪曼青/周毓祥等部将异名需继续校。</li></ul>",
   "plainText": "吴易 / Wu Yi Stable draft ID: person.wu yi Status: anchored seed profile 身份 吴易，字日生，号朔清，吴江人。弘光时期曾被史可法题授职方主事；弘光覆亡后在太湖、长白荡一带起兵抗清。 生平和主要事迹 1645 年六月后，吴江县丞朱国佐降清、诸生吴鉴被杀，吴易起兵，屯长白荡，出没五湖、三泖之间。 材料记其初起规模不大，但迅速聚众，并计擒松江盗首沈潘，收其部众和船只；这显示其义军同时承担抗清和整合地方治安的功能。 《小腆纪年》记隆武方面授其兵部右侍郎、总督江南诸军，后进兵部尚书、忠义伯；鲁监国也遥授长兴伯。 顾诚据清方材料强调吴易利用清军不习水战、太湖水域辽阔和航路复杂给清军造成沉重压力；1646 年六月前后在嘉善访故人时被告发，解杭州遇害。 吴易姓名有吴易、吴昜、吴日生等写法；本资料库暂用顾诚和近人校勘倾向的“吴易”，保留异文。 性格、评价和行为模式提取 行为模式：水乡游击、地方秩序维护和复明授权叠加。 能力特征：善用湖荡、水路和伏击；能够把地方愤怒、船只和小股武装组织成持续压力。 风险特征：高度依赖地方隐匿、熟人网络和保密，一旦被告发或离开核心水域，安全性急降。 资料风险：旧籍战果数字、草人诱敌、斩将数和血水等细节需要同清方档案分层，不作量化事实。 著作或文本 未见已核著作。 游戏数据线索 Route: 太湖 长白荡 吴江 苏州水乡网络。 Historical Candidate: 吴易能否整合太湖义师并接应松江/舟山线。 State Modifier Source: 湖荡游击压力、清方水战不适应、地方秩序和义军纪律差异。 Identity Disambiguation: 吴易/吴昜、吴旦/朱旦、周瑞/周毓祥/倪曼青。 来源 已核锚点：../source audit.md audit sm 0194；../source audit.md audit sm 0203；../source audit.md audit sm 0204；../source audit.md audit sm 0206。 待辨析 吴易具体被捕和遇害日、长白荡现代地望、各次战斗战果数字、吴旦/朱旦和周瑞/倪曼青/周毓祥等部将异名需继续校。"
 }

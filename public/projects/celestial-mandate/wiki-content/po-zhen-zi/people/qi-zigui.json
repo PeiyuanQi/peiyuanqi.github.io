@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__qi-zigui",
   "title": "祁自贵 / Qi Zigui",
-  "sourcePath": "references/southern-ming/people/qi-zigui.md",
+  "sourcePath": "references/southern-ming/people/qi-zigui/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/qi-zigui/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated.",
+    "alt": "祁自贵 / Qi Zigui portrait concept art",
+    "sourcePath": "references/southern-ming/people/qi-zigui/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.qi_zigui</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>祁自贵，南明将军，1659 年清兵还云南后的降清名单人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年清兵还云南后，祁自贵与马得鸣、武国用、史文等畔降于清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其为降清名单中的将军节点，不作个人评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 1659 年滇西/云南降清链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0300</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>祁自贵官职、所属部队、姓名异写和后续授职需继续校。</li></ul>",
   "plainText": "祁自贵 / Qi Zigui Stable draft ID: person.qi zigui Status: anchored seed profile 身份 祁自贵，南明将军，1659 年清兵还云南后的降清名单人物。 生平和主要事迹 《南明史稿》记 1659 年清兵还云南后，祁自贵与马得鸣、武国用、史文等畔降于清。 性格、评价和行为模式提取 当前只可记录其为降清名单中的将军节点，不作个人评价。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 1659 年滇西/云南降清链。 来源 已核锚点：../source audit.md audit sm 0300。 待辨析 祁自贵官职、所属部队、姓名异写和后续授职需继续校。"
 }

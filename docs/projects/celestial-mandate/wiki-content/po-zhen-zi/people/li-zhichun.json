@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-zhichun",
   "title": "李之椿 / Li Zhichun",
-  "sourcePath": "references/southern-ming/people/li-zhichun.md",
+  "sourcePath": "references/southern-ming/people/li-zhichun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-zhichun/portrait.png",
+    "caption": "AI generated style inspired game concept art based on the local person page. This is not an authenticated likeness or evidence source.",
+    "alt": "李之椿 / Li Zhichun portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-zhichun/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_zhichun</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李之椿，鲁监国系统人物，1653-1654 年长江会师地下网络参与者之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚叙述中列为鲁监国政权都察院左都御史、加督师大学士衔，参与钱谦益、姚志卓等长江会师密谋网络。</li><li>当前资料只把他作为地下网络和鲁监国系统高层联络节点记录。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>暂不做性格评价。</li><li>建模价值在于表示鲁监国系统并非只有海师武将，也有文官/督师名义参与联络。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Relation Memory</code>: 鲁监国文官高层、张名振海师、江南地下网络。</li><li><code>State Modifier Source</code>: 长江会师计划的政治背书。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0102</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李之椿官职、具体任务、是否参与文书往返和后续结局需继续核。</li></ul>",
   "plainText": "李之椿 / Li Zhichun Stable draft ID: person.li zhichun Status: anchored seed profile 身份 李之椿，鲁监国系统人物，1653 1654 年长江会师地下网络参与者之一。 生平和主要事迹 顾诚叙述中列为鲁监国政权都察院左都御史、加督师大学士衔，参与钱谦益、姚志卓等长江会师密谋网络。 当前资料只把他作为地下网络和鲁监国系统高层联络节点记录。 性格、评价和行为模式提取 暂不做性格评价。 建模价值在于表示鲁监国系统并非只有海师武将，也有文官/督师名义参与联络。 著作或文本 待补。 游戏数据线索 Relation Memory: 鲁监国文官高层、张名振海师、江南地下网络。 State Modifier Source: 长江会师计划的政治背书。 来源 已核锚点：../source audit.md audit sm 0102。 待辨析 李之椿官职、具体任务、是否参与文书往返和后续结局需继续核。"
 }

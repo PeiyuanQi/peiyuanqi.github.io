@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-kai",
   "title": "何楷 / He Kai",
-  "sourcePath": "references/southern-ming/people/he-kai.md",
+  "sourcePath": "references/southern-ming/people/he-kai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-kai/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "何楷 / He Kai portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-kai/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.he_kai</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>何楷，隆武朝廷文臣，曾任户部尚书等职。隆武初期因朝班和礼法问题与郑芝龙集团冲突，劾奏郑芝龙、郑鸿逵“无人臣礼”后遭郑氏势力报复，途中被截耳。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>隆武政权建立后，何楷被纳入朝廷文臣班底，顾诚材料列其为户部尚书。</li><li>隆武朝廷试图以礼制和文臣秩序提升朝廷威望时，郑芝龙、郑鸿逵凭拥立和军事实力挑战朝班秩序。</li><li>何楷上疏劾奏郑氏兄弟当廷失礼，隆武嘉奖其直言；之后何楷遭郑氏刁难，被迫请归。</li><li>顾诚据《榕村续语录》等记何楷途中被郑芝龙所派部将截耳；《明季南略》也记“何楷与芝龙争朝班不合，乞归；中途盗截其耳”。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：以礼制、朝班和财政官僚秩序对抗地方资源型强人。</li><li>对游戏建模是“制度型文臣制衡点”：他能提升朝廷合法性和礼法秩序，但缺乏武力保护时容易遭资源控制者打击。</li><li>何楷事件能体现隆武朝廷的脆弱性：皇帝可以嘉奖直言，却无法保护关键文臣免遭郑氏报复。</li></ul>\n<h3>著作或文本</h3>\n<p>相关奏疏、文集和年谱待查。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Institutional Constraint</code>: 朝廷礼法和文臣秩序对郑氏军政集团的制衡尝试。</li><li><code>Report Fact</code>: 何楷被截耳可作为隆武名义权威受挟制的强信号，但细节需保留异文。</li><li><code>Personality Lead</code>: 直言、守礼制、风险承担高。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0070</code>。</li><li>相关事件：<code>../events/longwu-resource-jiangxi-1645-1646.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>何楷在隆武朝具体职衔、任免日序和此前弘光朝履历。</li><li>截耳事件的执行者、郑芝龙直接指使程度，以及《榕村续语录》所记“原意邀杀”说法的源流。</li><li>何楷归乡后的后续活动和著述。</li></ul>",
   "plainText": "何楷 / He Kai Stable draft ID: person.he kai Status: anchored seed profile 身份 何楷，隆武朝廷文臣，曾任户部尚书等职。隆武初期因朝班和礼法问题与郑芝龙集团冲突，劾奏郑芝龙、郑鸿逵“无人臣礼”后遭郑氏势力报复，途中被截耳。 生平和主要事迹 隆武政权建立后，何楷被纳入朝廷文臣班底，顾诚材料列其为户部尚书。 隆武朝廷试图以礼制和文臣秩序提升朝廷威望时，郑芝龙、郑鸿逵凭拥立和军事实力挑战朝班秩序。 何楷上疏劾奏郑氏兄弟当廷失礼，隆武嘉奖其直言；之后何楷遭郑氏刁难，被迫请归。 顾诚据《榕村续语录》等记何楷途中被郑芝龙所派部将截耳；《明季南略》也记“何楷与芝龙争朝班不合，乞归；中途盗截其耳”。 性格、评价和行为模式提取 行为模式：以礼制、朝班和财政官僚秩序对抗地方资源型强人。 对游戏建模是“制度型文臣制衡点”：他能提升朝廷合法性和礼法秩序，但缺乏武力保护时容易遭资源控制者打击。 何楷事件能体现隆武朝廷的脆弱性：皇帝可以嘉奖直言，却无法保护关键文臣免遭郑氏报复。 著作或文本 相关奏疏、文集和年谱待查。 游戏数据线索 Institutional Constraint: 朝廷礼法和文臣秩序对郑氏军政集团的制衡尝试。 Report Fact: 何楷被截耳可作为隆武名义权威受挟制的强信号，但细节需保留异文。 Personality Lead: 直言、守礼制、风险承担高。 来源 已核锚点：../source audit.md audit sm 0070。 相关事件：../events/longwu resource jiangxi 1645 1646.md。 待辨析 何楷在隆武朝具体职衔、任免日序和此前弘光朝履历。 截耳事件的执行者、郑芝龙直接指使程度，以及《榕村续语录》所记“原意邀杀”说法的源流。 何楷归乡后的后续活动和著述。"
 }

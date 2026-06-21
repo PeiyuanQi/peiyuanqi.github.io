@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-wuzou",
   "title": "何吾驺 / He Wuzou",
-  "sourcePath": "references/southern-ming/people/he-wuzou.md",
+  "sourcePath": "references/southern-ming/people/he-wuzou/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-wuzou/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local He Wuzou person page. This is not an authenticated likeness or evidence source.",
+    "alt": "何吾驺 / He Wuzou portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-wuzou/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.he_wuzou</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>何吾驺，广东香山人，明末大学士。隆武、永历、绍武和广东反正线中均有争议性活动，是广州士绅政治的重要人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>隆武覆亡前后曾向两广方向传递消息，影响桂王朱由榔继统的判断。</li><li>绍武/永历并立时，其是否参与绍武政权在材料中存在异文。</li><li>1648 年李成栋广东反正前后，顾诚据多种材料认为何吾驺参与暗中策动或赞决反正。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：旧阁臣、地方士绅网络、政治风向与派系争议。</li><li>评价高度分裂：有材料强调其扶明作用，也有南明内部党争材料攻击其降清或趋附。建模时应拆分“实际行动”和“敌对派系评价”。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>书信、传记、相关争议材料待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 桂王继统联络、李成栋反正策动。</li><li><code>State Modifier Source</code>: 广东士绅政治、派系声望争议。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0054</code>，<code>../source-audit.md#audit-sm-0082</code>，<code>../source-audit.md#audit-sm-0149</code>，<code>../source-audit.md#audit-sm-0150</code>，<code>../source-audit.md#audit-sm-0153</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>何吾驺是否参与绍武、是否曾出仕清方、在李成栋反正中的真实权重需逐源辨析。</li></ul>",
   "plainText": "何吾驺 / He Wuzou Stable draft ID: person.he wuzou Status: anchored seed profile 身份 何吾驺，广东香山人，明末大学士。隆武、永历、绍武和广东反正线中均有争议性活动，是广州士绅政治的重要人物。 生平和主要事迹 隆武覆亡前后曾向两广方向传递消息，影响桂王朱由榔继统的判断。 绍武/永历并立时，其是否参与绍武政权在材料中存在异文。 1648 年李成栋广东反正前后，顾诚据多种材料认为何吾驺参与暗中策动或赞决反正。 性格、评价和行为模式提取 行为模式：旧阁臣、地方士绅网络、政治风向与派系争议。 评价高度分裂：有材料强调其扶明作用，也有南明内部党争材料攻击其降清或趋附。建模时应拆分“实际行动”和“敌对派系评价”。 著作或文本 书信、传记、相关争议材料待补。 游戏数据线索 Historical Candidate: 桂王继统联络、李成栋反正策动。 State Modifier Source: 广东士绅政治、派系声望争议。 来源 已核锚点：../source audit.md audit sm 0054，../source audit.md audit sm 0082，../source audit.md audit sm 0149，../source audit.md audit sm 0150，../source audit.md audit sm 0153。 待辨析 何吾驺是否参与绍武、是否曾出仕清方、在李成栋反正中的真实权重需逐源辨析。"
 }

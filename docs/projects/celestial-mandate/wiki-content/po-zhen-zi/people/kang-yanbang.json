@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__kang-yanbang",
   "title": "康彦邦 / Kang Yanbang",
-  "sourcePath": "references/southern-ming/people/kang-yanbang.md",
+  "sourcePath": "references/southern-ming/people/kang-yanbang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/kang-yanbang/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated and must not be treated as historical evidence",
+    "alt": "康彦邦 / Kang Yanbang portrait concept art",
+    "sourcePath": "references/southern-ming/people/kang-yanbang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.kang_yanbang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>康彦邦，郑成功系统神武营人物，1660 年厦金布防中驻崎尾。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1660 年四月厦金布防时，《海上見聞錄》记郑成功令神武营康彦邦扎崎尾，兼管神武一带地方。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为厦金防区名单人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Coastal Defense</code>: 崎尾、神武一带防守。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0373</code>：1660 年厦金布防。</li></ul>\n<h3>待辨析</h3>\n<ul><li>康彦邦职衔、崎尾和神武地望、后续去向需另校。</li></ul>",
   "plainText": "康彦邦 / Kang Yanbang Stable draft ID: person.kang yanbang Status: anchored seed profile 身份 康彦邦，郑成功系统神武营人物，1660 年厦金布防中驻崎尾。 生平和主要事迹 1660 年四月厦金布防时，《海上見聞錄》记郑成功令神武营康彦邦扎崎尾，兼管神武一带地方。 性格、评价和行为模式提取 当前只可记录为厦金防区名单人物。 著作或文本 未见。 游戏数据线索 Coastal Defense: 崎尾、神武一带防守。 来源 ../source audit.md audit sm 0373：1660 年厦金布防。 待辨析 康彦邦职衔、崎尾和神武地望、后续去向需另校。"
 }

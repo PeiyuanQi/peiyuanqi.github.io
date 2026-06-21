@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-zu-zheng-taiwan",
   "title": "杨祖（郑氏台湾线） / Yang Zu",
-  "sourcePath": "references/southern-ming/people/yang-zu-zheng-taiwan.md",
+  "sourcePath": "references/southern-ming/people/yang-zu-zheng-taiwan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-zu-zheng-taiwan/portrait.png",
+    "caption": "AI generated game concept art, style inspired by local textual notes; not an authenticated likeness or evidence source.",
+    "alt": "杨祖（郑氏台湾线） / Yang Zu portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-zu-zheng-taiwan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yang_zu_zheng_taiwan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨祖，《臺灣鄭氏始末》卷四所见郑氏台湾战事人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《臺灣鄭氏始末》卷四记 1661 年七月阿得苟聚众欲救荷兰方，杨祖与战败死。</li><li>当前只据此条建种子页；不与其他同名杨祖自动合并。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前资料不足以评价个人性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Local Conflict</code>: 台湾社寨/荷兰方救援与郑氏围城压力。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0329</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杨祖身份、军职、死亡地点和同名人物关系需继续校。</li></ul>",
   "plainText": "杨祖（郑氏台湾线） / Yang Zu Stable draft ID: person.yang zu zheng taiwan Status: anchored seed profile 身份 杨祖，《臺灣鄭氏始末》卷四所见郑氏台湾战事人物。 生平和主要事迹 《臺灣鄭氏始末》卷四记 1661 年七月阿得苟聚众欲救荷兰方，杨祖与战败死。 当前只据此条建种子页；不与其他同名杨祖自动合并。 性格、评价和行为模式提取 当前资料不足以评价个人性格。 著作或文本 未见。 游戏数据线索 Local Conflict: 台湾社寨/荷兰方救援与郑氏围城压力。 来源 已核锚点：../source audit.md audit sm 0329。 待辨析 杨祖身份、军职、死亡地点和同名人物关系需继续校。"
 }

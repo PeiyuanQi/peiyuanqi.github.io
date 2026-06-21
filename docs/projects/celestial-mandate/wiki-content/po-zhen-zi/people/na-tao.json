@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__na-tao",
   "title": "那焘 / Na Tao",
-  "sourcePath": "references/southern-ming/people/na-tao.md",
+  "sourcePath": "references/southern-ming/people/na-tao/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/na-tao/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local textual research; not an authenticated likeness or evidence source.",
+    "alt": "那焘 / Na Tao portrait concept art",
+    "sourcePath": "references/southern-ming/people/na-tao/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.na_tao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>那焘，那嵩之子，元江土知府承袭者，1659 年元江抗清参与者。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>永历入缅前后承袭元江知府线索，与那嵩共同参与元江复明举事。</li><li>清军围攻元江后，随那嵩合家自焚。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只支撑其作为那氏父子抗清链条中的继承节点。</li><li>行为模式：土司家族共同承担地方军事和政治风险。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Family Node</code>: 那氏父子。</li><li><code>Historical Candidate</code>: 元江抗清。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0132</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>“那焘”姓名写法、承袭时间和与元江土司谱系关系需地方志校。</li></ul>",
   "plainText": "那焘 / Na Tao Stable draft ID: person.na tao Status: anchored seed profile 身份 那焘，那嵩之子，元江土知府承袭者，1659 年元江抗清参与者。 生平和主要事迹 永历入缅前后承袭元江知府线索，与那嵩共同参与元江复明举事。 清军围攻元江后，随那嵩合家自焚。 性格、评价和行为模式提取 当前材料只支撑其作为那氏父子抗清链条中的继承节点。 行为模式：土司家族共同承担地方军事和政治风险。 著作或文本 未见已核著作。 游戏数据线索 Family Node: 那氏父子。 Historical Candidate: 元江抗清。 来源 已核锚点：../source audit.md audit sm 0132。 待辨析 “那焘”姓名写法、承袭时间和与元江土司谱系关系需地方志校。"
 }

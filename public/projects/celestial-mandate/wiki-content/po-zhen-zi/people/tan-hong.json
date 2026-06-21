@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__tan-hong",
   "title": "谭弘 / 谭宏 / Tan Hong",
-  "sourcePath": "references/southern-ming/people/tan-hong.md",
+  "sourcePath": "references/southern-ming/people/tan-hong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/tan-hong/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local textual research; the likeness is not authenticated",
+    "alt": "谭弘 / 谭宏 / Tan Hong portrait concept art",
+    "sourcePath": "references/southern-ming/people/tan-hong/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>谭弘，川东“三谭”之一，部分材料写作“谭宏”。1658 年重庆之役后随谭诣降清，清方后封慕义侯。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年重庆之役中，谭弘与谭文、谭诣同属川东三谭系统。</li><li>谭诣刺杀谭文并降清后，谭弘在其引导下向清军投降。</li><li>清廷后封谭弘为慕义侯。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料中的谭弘是三谭内变的跟随者或共谋者，但其主动性低于谭诣，需待清方揭帖和明方材料核。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Defection</code>: 重庆之役连锁投降。</li><li><code>Naming Risk</code>: 谭弘/谭宏异写。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0120</code>：夔东重庆战役和三谭内变。</li></ul>\n<h3>待辨析</h3>\n<ul><li>谭弘/谭宏写法、爵号、是否预先与谭诣密谋需继续校。</li></ul>",
   "plainText": "谭弘 / 谭宏 / Tan Hong 身份 谭弘，川东“三谭”之一，部分材料写作“谭宏”。1658 年重庆之役后随谭诣降清，清方后封慕义侯。 生平和主要事迹 1658 年重庆之役中，谭弘与谭文、谭诣同属川东三谭系统。 谭诣刺杀谭文并降清后，谭弘在其引导下向清军投降。 清廷后封谭弘为慕义侯。 性格、评价和行为模式 当前材料中的谭弘是三谭内变的跟随者或共谋者，但其主动性低于谭诣，需待清方揭帖和明方材料核。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Defection: 重庆之役连锁投降。 Naming Risk: 谭弘/谭宏异写。 来源 ../source audit.md audit sm 0120：夔东重庆战役和三谭内变。 待辨析 谭弘/谭宏写法、爵号、是否预先与谭诣密谋需继续校。"
 }

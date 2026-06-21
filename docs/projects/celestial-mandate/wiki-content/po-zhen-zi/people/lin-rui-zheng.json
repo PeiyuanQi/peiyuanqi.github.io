@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-rui-zheng",
   "title": "林瑞（郑氏） / Lin Rui",
-  "sourcePath": "references/southern-ming/people/lin-rui-zheng.md",
+  "sourcePath": "references/southern-ming/people/lin-rui-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-rui-zheng/portrait.png",
+    "caption": "This is AI generated game concept art informed by local text notes about Lin Rui's 1661 Zheng expedition roster presence in the first sailing toward Penghu/Taiwan. It is not an authenticated likeness or evidence source.",
+    "alt": "林瑞（郑氏） / Lin Rui portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-rui-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>林瑞，郑成功取台湾首程名单中出现的郑氏人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1661 年二月，《海上見聞錄》记郑成功祭江后，令周全斌、何义、陈蟒、马信、杨富、萧拱宸、黄昭、陈泽、吴豪、林瑞、张志等首程先行，守澎湖。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为取台首程/澎湖线索名单人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Expedition Roster</code>: 1661 年取台首程诸将。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0378</code>：1661 年二月取台首程和林瑞线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林瑞姓名、军职、是否同其他林姓郑氏将领相关、守澎湖实际职责和后续去向需郑氏材料互校。</li></ul>",
   "plainText": "林瑞（郑氏） / Lin Rui Status: anchored seed profile; identity pending. 身份 林瑞，郑成功取台湾首程名单中出现的郑氏人物。 生平和主要事迹 1661 年二月，《海上見聞錄》记郑成功祭江后，令周全斌、何义、陈蟒、马信、杨富、萧拱宸、黄昭、陈泽、吴豪、林瑞、张志等首程先行，守澎湖。 性格、评价和行为模式提取 当前只可记录为取台首程/澎湖线索名单人物。 著作或文本 未见。 游戏数据线索 Expedition Roster: 1661 年取台首程诸将。 来源 ../source audit.md audit sm 0378：1661 年二月取台首程和林瑞线索。 待辨析 林瑞姓名、军职、是否同其他林姓郑氏将领相关、守澎湖实际职责和后续去向需郑氏材料互校。"
 }

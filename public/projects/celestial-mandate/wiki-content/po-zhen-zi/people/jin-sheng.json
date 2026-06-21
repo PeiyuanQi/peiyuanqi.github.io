@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__jin-sheng",
   "title": "金声 / Jin Sheng",
-  "sourcePath": "references/southern-ming/people/jin-sheng.md",
+  "sourcePath": "references/southern-ming/people/jin-sheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/jin-sheng/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated and must not be treated as historical evidence",
+    "alt": "金声 / Jin Sheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/jin-sheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.jin_sheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>金声，字正希，休宁人，崇祯戊辰进士。南明时期在徽州、绩溪方向组织抗清义军，后被执至南京遇害。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>南京陷落后，金声与门人江天一纠练义勇，奉太祖像拜哭谋起兵。</li><li>江天一建议以绩溪孔道为重，筑丛山关，分守六岭，宁国、泾县、温璜、吴应箕等方向相应。</li><li>清方经间道入绩溪后，金声、江天一被执；材料记二人在南京拒降遇害。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：士绅名望转化为山地防线和府县响应。</li><li>能力特征：能够号召徽州士民、门人和周边义军；强调保护地方民众。</li><li>记忆层：后世关于尸立、洪承畴受惊等叙述应作为忠义记忆，不直接当作事实层。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本轮已核著作条目；需后续补金声文集和地方志。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Militia Mobilization</code>: 徽州士绅与山地关隘防御。</li><li><code>Route</code>: 绩溪-丛山关-宁国-泾县山路。</li><li><code>State Modifier Source</code>: 徽州忠义动员和清方招抚压力。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0195</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>十三寨、六岭、新岭、黄澍角色、遇害日期和家族殉义人数需多源校。</li></ul>",
   "plainText": "金声 / Jin Sheng Stable draft ID: person.jin sheng Status: anchored seed profile 身份 金声，字正希，休宁人，崇祯戊辰进士。南明时期在徽州、绩溪方向组织抗清义军，后被执至南京遇害。 生平和主要事迹 南京陷落后，金声与门人江天一纠练义勇，奉太祖像拜哭谋起兵。 江天一建议以绩溪孔道为重，筑丛山关，分守六岭，宁国、泾县、温璜、吴应箕等方向相应。 清方经间道入绩溪后，金声、江天一被执；材料记二人在南京拒降遇害。 性格、评价和行为模式提取 行为模式：士绅名望转化为山地防线和府县响应。 能力特征：能够号召徽州士民、门人和周边义军；强调保护地方民众。 记忆层：后世关于尸立、洪承畴受惊等叙述应作为忠义记忆，不直接当作事实层。 著作或文本 未见本轮已核著作条目；需后续补金声文集和地方志。 游戏数据线索 Militia Mobilization: 徽州士绅与山地关隘防御。 Route: 绩溪 丛山关 宁国 泾县山路。 State Modifier Source: 徽州忠义动员和清方招抚压力。 来源 已核锚点：../source audit.md audit sm 0195。 待辨析 十三寨、六岭、新岭、黄澍角色、遇害日期和家族殉义人数需多源校。"
 }

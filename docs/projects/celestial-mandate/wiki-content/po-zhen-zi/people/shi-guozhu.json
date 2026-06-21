@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__shi-guozhu",
   "title": "石国柱 / Shi Guozhu",
-  "sourcePath": "references/southern-ming/people/shi-guozhu.md",
+  "sourcePath": "references/southern-ming/people/shi-guozhu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/shi-guozhu/portrait.png",
+    "caption": "AI generated game concept art informed by local written evidence and shared roster art direction; it is not an authenticated likeness or evidence source.",
+    "alt": "石国柱 / Shi Guozhu portrait concept art",
+    "sourcePath": "references/southern-ming/people/shi-guozhu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.shi_guozhu</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>石国柱，清方入缅追索永历行动中的执行层将领之一。当前材料仅显示其在 1661 年吴三桂、爱星阿入缅推进链中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1661 年随清方入缅行动，和马宁、祁三升、马宝、高启隆、马惟兴等推进至木邦方向，向缅方施压交出永历君臣。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其作为清方执行层将领，不做性格评价。</p>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 清方入缅前锋/偏师节点。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0264</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>石国柱官职、所属兵力、分路关系和后续履历需清方资料校。</li></ul>",
   "plainText": "石国柱 / Shi Guozhu Stable draft ID: person.shi guozhu Status: seed profile 身份 石国柱，清方入缅追索永历行动中的执行层将领之一。当前材料仅显示其在 1661 年吴三桂、爱星阿入缅推进链中出现。 生平和主要事迹 1661 年随清方入缅行动，和马宁、祁三升、马宝、高启隆、马惟兴等推进至木邦方向，向缅方施压交出永历君臣。 性格、评价和行为模式提取 当前只记录其作为清方执行层将领，不做性格评价。 著作或文本 待补。 游戏数据线索 Military Actor: 清方入缅前锋/偏师节点。 来源 已核锚点：../source audit.md audit sm 0264。 待辨析 石国柱官职、所属兵力、分路关系和后续履历需清方资料校。"
 }

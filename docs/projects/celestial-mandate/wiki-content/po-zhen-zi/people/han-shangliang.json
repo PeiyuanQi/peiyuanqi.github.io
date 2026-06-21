@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__han-shangliang",
   "title": "韩尚亮 / Han Shangliang",
-  "sourcePath": "references/southern-ming/people/han-shangliang.md",
+  "sourcePath": "references/southern-ming/people/han-shangliang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/han-shangliang/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness and not an evidence source.",
+    "alt": "韩尚亮 / Han Shangliang portrait concept art",
+    "sourcePath": "references/southern-ming/people/han-shangliang/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile.</p></blockquote>\n<h3>身份</h3>\n<p>韩尚亮，清方泉州城守，1656 年被命统率各湾船只出泉州港攻郑氏两岛。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年四月，《海上見聞錄》记清庶子王调各湾船只，令泉州城守韩尚亮统率出泉州港；郑氏诸镇出围头迎击，清船遇风散坏。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为清方海上进攻两岛的执行人物。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Naval Pressure</code>: 泉州港出师、围头方向。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0356</code>：1656 年揭阳败事、围头海战和海澄叛前责任链。</li></ul>\n<h3>待辨析</h3>\n<ul><li>韩尚亮职名、船队规模、围头战果和后续去向需清方材料校。</li></ul>",
   "plainText": "韩尚亮 / Han Shangliang Status: seed profile. 身份 韩尚亮，清方泉州城守，1656 年被命统率各湾船只出泉州港攻郑氏两岛。 生平和主要事迹 1656 年四月，《海上見聞錄》记清庶子王调各湾船只，令泉州城守韩尚亮统率出泉州港；郑氏诸镇出围头迎击，清船遇风散坏。 性格、评价和行为模式提取 当前只作为清方海上进攻两岛的执行人物。 著作或文本 未见本轮材料记录。 游戏数据线索 Qing Naval Pressure: 泉州港出师、围头方向。 来源 ../source audit.md audit sm 0356：1656 年揭阳败事、围头海战和海澄叛前责任链。 待辨析 韩尚亮职名、船队规模、围头战果和后续去向需清方材料校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wan-fuyuan",
   "title": "万服远 / Wan Fuyuan",
-  "sourcePath": "references/southern-ming/people/wan-fuyuan.md",
+  "sourcePath": "references/southern-ming/people/wan-fuyuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wan-fuyuan/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local textual research; this is not an authenticated likeness or evidence source.",
+    "alt": "万服远 / Wan Fuyuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/wan-fuyuan/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>万服远，《南明野史》所见万氏、沙氏诸子和阿迷/蒙自土司继承链中的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》在解释沙定洲势力形成时，将万服远列入万氏和沙氏诸子相关的继承、婚姻和地方武力网络。</li><li>当前只可确认其在该旧籍叙事层出现，不能据此确定其政治立场、亲属关系或行动责任。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>不作性格或忠逆评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Identity Disambiguation</code>: 万氏家族、阿迷州土司和沙氏土司关系待拆分。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0384</code>：《南明野史》所见万氏、沙氏诸子和万服远线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>万服远身份、与万氏关系、姓名异文和土司职任需地方志校。</li></ul>",
   "plainText": "万服远 / Wan Fuyuan Status: anchored seed profile; identity pending. 身份 万服远，《南明野史》所见万氏、沙氏诸子和阿迷/蒙自土司继承链中的人物。 生平和主要事迹 《南明野史》在解释沙定洲势力形成时，将万服远列入万氏和沙氏诸子相关的继承、婚姻和地方武力网络。 当前只可确认其在该旧籍叙事层出现，不能据此确定其政治立场、亲属关系或行动责任。 性格、评价和行为模式提取 不作性格或忠逆评价。 著作或文本 未见。 游戏数据线索 Identity Disambiguation: 万氏家族、阿迷州土司和沙氏土司关系待拆分。 来源 ../source audit.md audit sm 0384：《南明野史》所见万氏、沙氏诸子和万服远线索。 待辨析 万服远身份、与万氏关系、姓名异文和土司职任需地方志校。"
 }

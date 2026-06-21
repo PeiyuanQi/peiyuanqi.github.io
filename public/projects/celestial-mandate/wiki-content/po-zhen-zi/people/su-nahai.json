@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__su-nahai",
   "title": "苏纳海 / Su Nahai",
-  "sourcePath": "references/southern-ming/people/su-nahai.md",
+  "sourcePath": "references/southern-ming/people/su-nahai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/su-nahai/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local text evidence only; not an authenticated likeness or evidence source",
+    "alt": "苏纳海 / Su Nahai portrait concept art",
+    "sourcePath": "references/southern-ming/people/su-nahai/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>苏纳海，清方迁界和福建沿海政策线索人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1661 年，《海上見聞錄》记清方命户部尚书苏纳海至闽，推动沿海居民迁入内地、焚弃海边村庄田宅并设界防守；同条又记苏纳海归后荐同安总镇施琅为水师提督、移镇海澄。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可作为清方迁界政策和施琅任用线索人物处理，不据郑氏材料单独评价其政策责任。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Policy Pressure</code>: 迁界、禁海和海上补给切断。</li><li><code>Qing Naval Appointment</code>: 推荐施琅为水师提督线索。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0382</code>：1661 年迁界、苏纳海至闽和荐施琅线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>苏纳海职衔、具体奏议、迁界执行范围、死亡/流离数字和荐任施琅的清方档案依据需清实录、奏疏和地方志互校。</li></ul>",
   "plainText": "苏纳海 / Su Nahai Status: anchored seed profile; identity pending. 身份 苏纳海，清方迁界和福建沿海政策线索人物。 生平和主要事迹 1661 年，《海上見聞錄》记清方命户部尚书苏纳海至闽，推动沿海居民迁入内地、焚弃海边村庄田宅并设界防守；同条又记苏纳海归后荐同安总镇施琅为水师提督、移镇海澄。 性格、评价和行为模式提取 当前只可作为清方迁界政策和施琅任用线索人物处理，不据郑氏材料单独评价其政策责任。 著作或文本 未见。 游戏数据线索 Qing Policy Pressure: 迁界、禁海和海上补给切断。 Qing Naval Appointment: 推荐施琅为水师提督线索。 来源 ../source audit.md audit sm 0382：1661 年迁界、苏纳海至闽和荐施琅线索。 待辨析 苏纳海职衔、具体奏议、迁界执行范围、死亡/流离数字和荐任施琅的清方档案依据需清实录、奏疏和地方志互校。"
 }

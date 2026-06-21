@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__ma-siliang",
   "title": "马思良 / Ma Siliang",
-  "sourcePath": "references/southern-ming/people/ma-siliang.md",
+  "sourcePath": "references/southern-ming/people/ma-siliang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/ma-siliang/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page. This is not an authenticated likeness or evidence source.",
+    "alt": "马思良 / Ma Siliang portrait concept art",
+    "sourcePath": "references/southern-ming/people/ma-siliang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.ma_siliang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>马思良，李定国亲属或部将，李定国死后余部降清线索中的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>李定国死后，马思良不服靳统武节制，与胡顺都、王道亨等走向降清；其与李定国的表弟关系和具体部属仍需校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：核心领袖死后，中层将领对继承秩序不服，推动残军瓦解。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Loyalty Fracture</code>: 李定国死后的西南残军分裂。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0141</code>，<code>../source-audit.md#audit-sm-0310</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>与李定国亲属关系、部属规模和降清后去向需补。</li></ul>",
   "plainText": "马思良 / Ma Siliang Stable draft ID: person.ma siliang Status: anchored seed profile 身份 马思良，李定国亲属或部将，李定国死后余部降清线索中的人物。 生平和主要事迹 李定国死后，马思良不服靳统武节制，与胡顺都、王道亨等走向降清；其与李定国的表弟关系和具体部属仍需校。 性格、评价和行为模式提取 行为模式：核心领袖死后，中层将领对继承秩序不服，推动残军瓦解。 著作或文本 未见。 游戏数据线索 Loyalty Fracture: 李定国死后的西南残军分裂。 来源 已核锚点：../source audit.md audit sm 0141，../source audit.md audit sm 0310。 待辨析 与李定国亲属关系、部属规模和降清后去向需补。"
 }

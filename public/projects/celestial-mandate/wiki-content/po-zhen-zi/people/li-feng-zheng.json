@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-feng-zheng",
   "title": "李凤 / Li Feng",
-  "sourcePath": "references/southern-ming/people/li-feng-zheng.md",
+  "sourcePath": "references/southern-ming/people/li-feng-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-feng-zheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local notes; not an authenticated likeness or evidence source.",
+    "alt": "李凤 / Li Feng portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-feng-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_feng_zheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李凤，1659 年镇江克复后地方接收线索人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年六月镇江克复后，《海上見聞錄》列冯澄世、李凤、林若霖分任地方职的线索。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为郑氏短期接收镇江后的地方职任人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Occupation Administration</code>: 镇江地方接收。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0370</code>：镇江克复后地方职任线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李凤职衔、管辖范围、任命是否实际执行和战后去向需地方志、郑氏原书和清方材料校。</li></ul>",
   "plainText": "李凤 / Li Feng Stable draft ID: person.li feng zheng Status: anchored seed profile 身份 李凤，1659 年镇江克复后地方接收线索人物。 生平和主要事迹 1659 年六月镇江克复后，《海上見聞錄》列冯澄世、李凤、林若霖分任地方职的线索。 性格、评价和行为模式提取 当前只可记录为郑氏短期接收镇江后的地方职任人物。 著作或文本 未见。 游戏数据线索 Occupation Administration: 镇江地方接收。 来源 ../source audit.md audit sm 0370：镇江克复后地方职任线索。 待辨析 李凤职衔、管辖范围、任命是否实际执行和战后去向需地方志、郑氏原书和清方材料校。"
 }

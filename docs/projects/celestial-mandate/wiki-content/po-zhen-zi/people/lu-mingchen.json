@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lu-mingchen",
   "title": "卢明臣 / Lu Mingchen",
-  "sourcePath": "references/southern-ming/people/lu-mingchen.md",
+  "sourcePath": "references/southern-ming/people/lu-mingchen/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lu-mingchen/portrait.png",
+    "caption": "AI generated game concept art, not an authenticated likeness or evidence source.",
+    "alt": "卢明臣 / Lu Mingchen portrait concept art",
+    "sourcePath": "references/southern-ming/people/lu-mingchen/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.lu_mingchen</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>卢明臣，或作卢名臣，刘文秀部将，1655 年常德之役水师主将。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1655 年随刘文秀、冯双礼东攻湖广。</li><li>率水师沿沅江进取桃源，随后至常德城下。</li><li>常德城下遭清军伏击，中箭落水而死，水师几乎覆没。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：前锋/水师突入型将领，承担高风险先导任务。</li><li>其战死使刘文秀常德计划迅速失去士气和协同基础。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 卢明臣水师覆没。</li><li><code>State Modifier Source</code>: 水陆协同失败、刘文秀东出受挫。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0105</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>卢明臣/卢名臣写法、具体死地和清方所记“赴水死”细节需继续校。</li></ul>",
   "plainText": "卢明臣 / Lu Mingchen Stable draft ID: person.lu mingchen Status: anchored seed profile 身份 卢明臣，或作卢名臣，刘文秀部将，1655 年常德之役水师主将。 生平和主要事迹 1655 年随刘文秀、冯双礼东攻湖广。 率水师沿沅江进取桃源，随后至常德城下。 常德城下遭清军伏击，中箭落水而死，水师几乎覆没。 性格、评价和行为模式提取 行为模式：前锋/水师突入型将领，承担高风险先导任务。 其战死使刘文秀常德计划迅速失去士气和协同基础。 著作或文本 未见已核著作。 游戏数据线索 Historical Candidate: 卢明臣水师覆没。 State Modifier Source: 水陆协同失败、刘文秀东出受挫。 来源 已核锚点：../source audit.md audit sm 0105。 待辨析 卢明臣/卢名臣写法、具体死地和清方所记“赴水死”细节需继续校。"
 }

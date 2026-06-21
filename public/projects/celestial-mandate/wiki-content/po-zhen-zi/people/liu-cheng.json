@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-cheng",
   "title": "刘偁 / Liu Cheng",
-  "sourcePath": "references/southern-ming/people/liu-cheng.md",
+  "sourcePath": "references/southern-ming/people/liu-cheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-cheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the person page; not an authenticated likeness or evidence source.",
+    "alt": "刘偁 / Liu Cheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-cheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_cheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘偁，南明将军，1659 年澜沧江外降清链和后续清方降将编营中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年五月，刘偁与马宝、塔新策、徐廷威、李贵、贺天云等自澜沧江外降清。</li><li>顾诚《南明史》记顺治十七年七月清方把投降明军分作十营，刘偁为十营总兵之一。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其作为降将编组节点，不宜据单源名单推定其此前履历。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 澜沧江外降清链。</li><li><code>State Modifier Source</code>: 降将十营编组。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0305</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘偁姓名读音、异写、军职来源、所属兵力和后续十营履历需继续校。</li></ul>",
   "plainText": "刘偁 / Liu Cheng Stable draft ID: person.liu cheng Status: anchored seed profile 身份 刘偁，南明将军，1659 年澜沧江外降清链和后续清方降将编营中出现。 生平和主要事迹 《南明史稿》记 1659 年五月，刘偁与马宝、塔新策、徐廷威、李贵、贺天云等自澜沧江外降清。 顾诚《南明史》记顺治十七年七月清方把投降明军分作十营，刘偁为十营总兵之一。 性格、评价和行为模式提取 当前只可记录其作为降将编组节点，不宜据单源名单推定其此前履历。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 澜沧江外降清链。 State Modifier Source: 降将十营编组。 来源 已核锚点：../source audit.md audit sm 0305，../source audit.md audit sm 0306。 待辨析 刘偁姓名读音、异写、军职来源、所属兵力和后续十营履历需继续校。"
 }

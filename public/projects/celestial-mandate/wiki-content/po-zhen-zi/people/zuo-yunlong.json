@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zuo-yunlong",
   "title": "左云龙 / Zuo Yunlong",
-  "sourcePath": "references/southern-ming/people/zuo-yunlong.md",
+  "sourcePath": "references/southern-ming/people/zuo-yunlong/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zuo_yunlong</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>左云龙，清方瓜洲战役相关将领，1659 年六月在瓜洲战中阵亡。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年六月郑成功攻瓜洲时，《閩海紀要》《海上見聞錄》均记左云龙死或阵斩。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前仅能记录为瓜洲战役阵亡人物，不外推评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Battle Casualty</code>: 瓜洲战清方将领阵亡。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0370</code>：瓜洲战与左云龙阵亡。</li></ul>\n<h3>待辨析</h3>\n<ul><li>左云龙职衔、所属部队、阵亡方式和清方追赠/处分线索需另校。</li></ul>",
   "plainText": "左云龙 / Zuo Yunlong Stable draft ID: person.zuo yunlong Status: anchored seed profile 身份 左云龙，清方瓜洲战役相关将领，1659 年六月在瓜洲战中阵亡。 生平和主要事迹 1659 年六月郑成功攻瓜洲时，《閩海紀要》《海上見聞錄》均记左云龙死或阵斩。 性格、评价和行为模式提取 当前仅能记录为瓜洲战役阵亡人物，不外推评价。 著作或文本 未见。 游戏数据线索 Battle Casualty: 瓜洲战清方将领阵亡。 来源 ../source audit.md audit sm 0370：瓜洲战与左云龙阵亡。 待辨析 左云龙职衔、所属部队、阵亡方式和清方追赠/处分线索需另校。"
 }

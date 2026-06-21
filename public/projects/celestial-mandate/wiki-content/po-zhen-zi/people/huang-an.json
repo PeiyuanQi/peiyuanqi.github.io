@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__huang-an",
   "title": "黄安 / Huang An",
-  "sourcePath": "references/southern-ming/people/huang-an.md",
+  "sourcePath": "references/southern-ming/people/huang-an/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/huang-an/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page; not an authenticated likeness or evidence source.",
+    "alt": "黄安 / Huang An portrait concept art",
+    "sourcePath": "references/southern-ming/people/huang-an/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.huang_an</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>黄安，郑氏系统将领，本轮主要记录其与南京战役、台湾战役和郑经继承相关的军事节点。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年南京/长江战役中，黄安泊三叉河口；梁化凤夜袭后郑军败退，材料记黄安以水师断后。该节点说明其在郑氏撤退和舰队保全中具有前线作用，但断后细节仍需互校。</li><li>1661 年郑成功取台湾时，黄安在后续援军、军职调整和郑经接续材料中出现；本地《海上見聞錄》记黄安、刘俊、颜望忠、陈瑞、胡靖、陈璋等二程到台，又记大肚社冲突中黄安、陈瑞等攻破之。《臺灣鄭氏始末》卷四则另记黄安、颜望忠等率师继进，后在阿得苟社群冲突、鯤身合攻和东都城守抚众中反复出现。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料不足以评价人格。</li><li>行为模式暂记为：郑氏海上军事执行者，在战败撤退、台湾转进和继承稳定中均有线索。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 南京战役后撤、取台湾、郑经继承。</li><li><code>State Modifier Source</code>: 郑氏舰队和军事骨干连续性。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0031</code>，<code>../source-audit.md#audit-sm-0037</code>，<code>../source-audit.md#audit-sm-0143</code>，<code>../source-audit.md#audit-sm-0256</code>，<code>../source-audit.md#audit-sm-0257</code>，<code>../source-audit.md#audit-sm-0328</code>，<code>../source-audit.md#audit-sm-0329</code>，<code>../source-audit.md#audit-sm-0371</code>，<code>../source-audit.md#audit-sm-0381</code>，<code>../source-audit.md#audit-sm-0382</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黄安具体军职、南京断后细节、台湾战役角色、大肚社/阿得苟冲突中的责任、城守抚众职责和郑经继承中的行动。</li></ul>",
   "plainText": "黄安 / Huang An Stable draft ID: person.huang an Status: anchored seed profile 身份 黄安，郑氏系统将领，本轮主要记录其与南京战役、台湾战役和郑经继承相关的军事节点。 生平和主要事迹 1659 年南京/长江战役中，黄安泊三叉河口；梁化凤夜袭后郑军败退，材料记黄安以水师断后。该节点说明其在郑氏撤退和舰队保全中具有前线作用，但断后细节仍需互校。 1661 年郑成功取台湾时，黄安在后续援军、军职调整和郑经接续材料中出现；本地《海上見聞錄》记黄安、刘俊、颜望忠、陈瑞、胡靖、陈璋等二程到台，又记大肚社冲突中黄安、陈瑞等攻破之。《臺灣鄭氏始末》卷四则另记黄安、颜望忠等率师继进，后在阿得苟社群冲突、鯤身合攻和东都城守抚众中反复出现。 性格、评价和行为模式提取 当前材料不足以评价人格。 行为模式暂记为：郑氏海上军事执行者，在战败撤退、台湾转进和继承稳定中均有线索。 著作或文本 待补。 游戏数据线索 Historical Candidate: 南京战役后撤、取台湾、郑经继承。 State Modifier Source: 郑氏舰队和军事骨干连续性。 来源 已核锚点：../source audit.md audit sm 0031，../source audit.md audit sm 0037，../source audit.md audit sm 0143，../source audit.md audit sm 0256，../source audit.md audit sm 0257，../source audit.md audit sm 0328，../source audit.md audit sm 0329，../source audit.md audit sm 0371，../source audit.md audit sm 0381，../source audit.md audit sm 0382。 待辨析 黄安具体军职、南京断后细节、台湾战役角色、大肚社/阿得苟冲突中的责任、城守抚众职责和郑经继承中的行动。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lu-yongming",
   "title": "禄永命 / Lu Yongming",
-  "sourcePath": "references/southern-ming/people/lu-yongming.md",
+  "sourcePath": "references/southern-ming/people/lu-yongming/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lu-yongming/portrait.png",
+    "caption": "AI generated game concept art informed by local written evidence and shared roster art direction; it is not an authenticated likeness or evidence source.",
+    "alt": "禄永命 / Lu Yongming portrait concept art",
+    "sourcePath": "references/southern-ming/people/lu-yongming/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.lu_yongming</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>禄永命，宁州土司系统人物。沙定洲袭取昆明后，参与保护沐天波出奔的土司节点。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年吾必奎乱时，禄永命被沐天波调集参与平乱。</li><li>沙定洲袭取昆明后，顾诚主线记沐天波出奔途中由龙在田、禄永命保护至楚雄。</li><li>《南明野史》记禄永命在省城巷战拒沙军，又在宁州失守时死；死节日序和地点须待校。</li><li>顾诚注释又引地方志称禄永命曾与沙定洲力战，护沐天波西去；细节包括年齿、兵数和仓山驻扎等，仍需地方志校。</li><li>《南明史稿》卷十把宁州禄永命兵列入土兵条目，可作其地方兵源身份旁证；兵数和具体从属关系仍需地方志校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：在土司网络分裂时仍支持沐氏的地方武力节点。</li><li>游戏建模中可作为“沐氏仍能动员部分土司”的证据，而非独立战区统帅。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Continuity Anchor</code>: 沐天波仍保有部分土司支持。</li><li><code>Divergence Gate</code>: 支持沐氏的土司是否能及时护送沐天波和重建楚雄防线。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0207</code>；<code>../source-audit.md#audit-sm-0208</code>；<code>../source-audit.md#audit-sm-0385</code>；<code>../source-audit.md#audit-sm-0386</code>；<code>../source-audit.md#audit-sm-0397</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>禄永命年龄、所部规模、驻扎地点、具体护送路线、宁州失守和死亡方式需回澂江府志、滇南外史等地方志复核。</li></ul>",
   "plainText": "禄永命 / Lu Yongming Stable draft ID: person.lu yongming Status: anchored seed profile 身份 禄永命，宁州土司系统人物。沙定洲袭取昆明后，参与保护沐天波出奔的土司节点。 生平和主要事迹 1645 年吾必奎乱时，禄永命被沐天波调集参与平乱。 沙定洲袭取昆明后，顾诚主线记沐天波出奔途中由龙在田、禄永命保护至楚雄。 《南明野史》记禄永命在省城巷战拒沙军，又在宁州失守时死；死节日序和地点须待校。 顾诚注释又引地方志称禄永命曾与沙定洲力战，护沐天波西去；细节包括年齿、兵数和仓山驻扎等，仍需地方志校。 《南明史稿》卷十把宁州禄永命兵列入土兵条目，可作其地方兵源身份旁证；兵数和具体从属关系仍需地方志校。 性格、评价和行为模式提取 行为模式：在土司网络分裂时仍支持沐氏的地方武力节点。 游戏建模中可作为“沐氏仍能动员部分土司”的证据，而非独立战区统帅。 著作或文本 未见已核著作。 游戏数据线索 Continuity Anchor: 沐天波仍保有部分土司支持。 Divergence Gate: 支持沐氏的土司是否能及时护送沐天波和重建楚雄防线。 来源 已核锚点：../source audit.md audit sm 0207；../source audit.md audit sm 0208；../source audit.md audit sm 0385；../source audit.md audit sm 0386；../source audit.md audit sm 0397。 待辨析 禄永命年龄、所部规模、驻扎地点、具体护送路线、宁州失守和死亡方式需回澂江府志、滇南外史等地方志复核。"
 }

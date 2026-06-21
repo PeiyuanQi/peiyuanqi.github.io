@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yao-qiyin",
   "title": "姚奇胤 / Yao Qiyin",
-  "sourcePath": "references/southern-ming/people/yao-qiyin.md",
+  "sourcePath": "references/southern-ming/people/yao-qiyin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yao-qiyin/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness or evidence source",
+    "alt": "姚奇胤 / Yao Qiyin portrait concept art",
+    "sourcePath": "references/southern-ming/people/yao-qiyin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yao_qiyin</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>姚奇胤，字有仆，钱塘人，崇祯癸未进士。赣州守御中随郭维经募兵入赣，城破时死难。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>曾知南海县，后授主事、改御史。</li><li>赣州围急时，与郭维经沿路召募入赣。</li><li>赣州陷落时，《小腆紀年》记其亦入嵯峨寺自焚死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：文臣募兵入援、危城死节。</li><li>可作为赣州事件中“外来文臣增援者”节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 赣州援兵募集、忠诚府死节记忆。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0220</code>，<code>../source-audit.md#audit-sm-0221</code>。</li><li>相关事件：<code>../events/ganzhou-defense-1646.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>姚奇胤入赣兵数、与郭维经关系、死法和祠祭名单写法。</li></ul>",
   "plainText": "姚奇胤 / Yao Qiyin Stable draft ID: person.yao qiyin Status: anchored seed profile 身份 姚奇胤，字有仆，钱塘人，崇祯癸未进士。赣州守御中随郭维经募兵入赣，城破时死难。 生平和主要事迹 曾知南海县，后授主事、改御史。 赣州围急时，与郭维经沿路召募入赣。 赣州陷落时，《小腆紀年》记其亦入嵯峨寺自焚死。 性格、评价和行为模式提取 行为模式：文臣募兵入援、危城死节。 可作为赣州事件中“外来文臣增援者”节点。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 赣州援兵募集、忠诚府死节记忆。 来源 已核锚点：../source audit.md audit sm 0220，../source audit.md audit sm 0221。 相关事件：../events/ganzhou defense 1646.md。 待辨析 姚奇胤入赣兵数、与郭维经关系、死法和祠祭名单写法。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__qian-bangqi",
   "title": "钱邦芑 / Qian Bangqi",
-  "sourcePath": "references/southern-ming/people/qian-bangqi.md",
+  "sourcePath": "references/southern-ming/people/qian-bangqi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/qian-bangqi/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated.",
+    "alt": "钱邦芑 / Qian Bangqi portrait concept art",
+    "sourcePath": "references/southern-ming/people/qian-bangqi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.qian_bangqi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>钱邦芑，明末清初士人和永历体系相关旧臣，在川黔、西南士人网络与孙可望劝进压力之间具有象征性位置。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>在孙可望谋取更高名号和后续禅受压力中，旧籍把钱邦芑写成“川、黔人望所归”的人物，孙可望一度试图召其入朝以降低反对。</li><li>《明季南略》记钱邦芑拒绝入朝、祝发为僧，随后孙可望虽怒而未能立即处置；安龙十八先生案后人情汹汹，禅受之谋受阻。</li><li>交水后，方于宣试图以纠集义旅擒孙可望向朝廷自效；《明季南略》记钱邦芑以其曾为孙可望修史、劝进而反讽，显示钱邦芑也参与了败后政治评价。</li><li>1659 年降清名单中出现钱邦芑姓名的线索必须谨慎处理：《小腆紀年》徐鼒按语明确指出，钱邦芑实以僧终，降表列名可能是仓促填列仕滇者姓名，不代表其本人降清。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<ul><li>可作为“士人声望阻力”种子：没有直接掌握军队，但其不合作会削弱孙可望把事实权力包装成新正统的可行性。</li><li>建模时不宜把他简化为武装反对者；更像合法性和舆论层面的阻滞节点。交水后，他还可作为“评价旧劝进者”的声望型审判节点。</li><li>其“被列入降表但被后源辨误”的案例，也适合作为人物数据中的反误列/名单污染样本。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>诗文、祝发材料待专门校；本资料库不录长篇原文。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Legitimacy Resistance</code>: 士人声望抵抗劝进。</li><li><code>State Modifier Source</code>: 禅受未成、川黔士人网络不合作。</li><li><code>Post-Defeat Accountability</code>: 以士人评价追索劝进责任。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0288</code>：《明季南略》《南明野史》所见禅受未成的两种叙事。</li><li><code>../source-audit.md#audit-sm-0295</code>：《明季南略》所见张虎伏诛、方于宣追责和钱邦芑反讽。</li><li><code>../source-audit.md#audit-sm-0299</code>：《小腆紀年》所见 1659 年闰三月降表和钱邦芑误列问题。</li></ul>\n<h3>待辨析</h3>\n<ul><li>钱邦芑在永历朝廷、川黔士人网络和孙可望系统之间的实际职衔、活动地点、是否与其他钱氏人物混淆，以及降表误列的原始名单来源，需文集、地方志和《入云南始末》继续核。</li></ul>",
   "plainText": "钱邦芑 / Qian Bangqi Stable draft ID: person.qian bangqi Status: anchored seed profile 身份 钱邦芑，明末清初士人和永历体系相关旧臣，在川黔、西南士人网络与孙可望劝进压力之间具有象征性位置。 生平和主要事迹 在孙可望谋取更高名号和后续禅受压力中，旧籍把钱邦芑写成“川、黔人望所归”的人物，孙可望一度试图召其入朝以降低反对。 《明季南略》记钱邦芑拒绝入朝、祝发为僧，随后孙可望虽怒而未能立即处置；安龙十八先生案后人情汹汹，禅受之谋受阻。 交水后，方于宣试图以纠集义旅擒孙可望向朝廷自效；《明季南略》记钱邦芑以其曾为孙可望修史、劝进而反讽，显示钱邦芑也参与了败后政治评价。 1659 年降清名单中出现钱邦芑姓名的线索必须谨慎处理：《小腆紀年》徐鼒按语明确指出，钱邦芑实以僧终，降表列名可能是仓促填列仕滇者姓名，不代表其本人降清。 性格、评价和行为模式 可作为“士人声望阻力”种子：没有直接掌握军队，但其不合作会削弱孙可望把事实权力包装成新正统的可行性。 建模时不宜把他简化为武装反对者；更像合法性和舆论层面的阻滞节点。交水后，他还可作为“评价旧劝进者”的声望型审判节点。 其“被列入降表但被后源辨误”的案例，也适合作为人物数据中的反误列/名单污染样本。 著作或文本 诗文、祝发材料待专门校；本资料库不录长篇原文。 游戏数据线索 Legitimacy Resistance: 士人声望抵抗劝进。 State Modifier Source: 禅受未成、川黔士人网络不合作。 Post Defeat Accountability: 以士人评价追索劝进责任。 来源 ../source audit.md audit sm 0288：《明季南略》《南明野史》所见禅受未成的两种叙事。 ../source audit.md audit sm 0295：《明季南略》所见张虎伏诛、方于宣追责和钱邦芑反讽。 ../source audit.md audit sm 0299：《小腆紀年》所见 1659 年闰三月降表和钱邦芑误列问题。 待辨析 钱邦芑在永历朝廷、川黔士人网络和孙可望系统之间的实际职衔、活动地点、是否与其他钱氏人物混淆，以及降表误列的原始名单来源，需文集、地方志和《入云南始末》继续核。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__hei-bangjun",
   "title": "黑邦俊 / Hei Bangjun",
-  "sourcePath": "references/southern-ming/people/hei-bangjun.md",
+  "sourcePath": "references/southern-ming/people/hei-bangjun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/hei-bangjun/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local Hei Bangjun person page. This is not an authenticated likeness or evidence source.",
+    "alt": "黑邦俊 / Hei Bangjun portrait concept art",
+    "sourcePath": "references/southern-ming/people/hei-bangjun/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>黑邦俊，1651 年南宁失守后永历帝入滇桂边界路线中的大西军接应节点人物。现有锚点只支持其与狄三品、高文贵等一同接应永历行在到皈朝、广南一线；职衔、部属关系和后续结局仍待校。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>1651 年十二月南宁失守后，永历君臣经新宁、濑湍、龙英、归顺、镇安等左江和滇桂边界路线逃亡。</li><li>顾诚整理层记狄三品、高文贵、黑邦俊等大西军在这一阶段接应永历行在，使其进入皈朝、广南，并随后转入安龙安排。</li><li>该角色目前主要用于定位“南宁危局转安龙受控行在”的路线接口，不宜据单一锚点扩展为完整传记。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“边界接应/护驾通道”种子：人物价值在路线、军事护送和孙可望系统接管行在之间。</li><li>现阶段不抽取性格评价；只保留行为节点和待校身份。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route Escort Node</code>: 南宁失守后接应永历行在进入滇桂边界。</li><li><code>Authority Handoff</code>: 从两广危局转入孙可望系统控制的通道节点。</li><li><code>Evidence Risk</code>: 职衔、直属关系和后续去向未定。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/yongli-nanning-crisis-1650-1651.md</code>：永历南宁危局。</li><li><code>../events/yongli-entry-anlong-1652.md</code>：永历入安龙。</li><li><code>../events/sun-kewang-enfeoffment-anlong-control-1650-1654.md</code>：孙可望封号链与安龙控制结构。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0245</code>：南宁失守至安龙路线、安龙改府和随驾规模。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黑邦俊的姓名异写、职衔、所属部队、与狄三品和高文贵的关系、接应地点、是否进入安龙后续控制网络，以及后续投降/死难/失载情况均待继续核。</li></ul>",
   "plainText": "黑邦俊 / Hei Bangjun 身份 黑邦俊，1651 年南宁失守后永历帝入滇桂边界路线中的大西军接应节点人物。现有锚点只支持其与狄三品、高文贵等一同接应永历行在到皈朝、广南一线；职衔、部属关系和后续结局仍待校。 生平与主要事迹 1651 年十二月南宁失守后，永历君臣经新宁、濑湍、龙英、归顺、镇安等左江和滇桂边界路线逃亡。 顾诚整理层记狄三品、高文贵、黑邦俊等大西军在这一阶段接应永历行在，使其进入皈朝、广南，并随后转入安龙安排。 该角色目前主要用于定位“南宁危局转安龙受控行在”的路线接口，不宜据单一锚点扩展为完整传记。 性格、评价与行为模式 可作为“边界接应/护驾通道”种子：人物价值在路线、军事护送和孙可望系统接管行在之间。 现阶段不抽取性格评价；只保留行为节点和待校身份。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Route Escort Node: 南宁失守后接应永历行在进入滇桂边界。 Authority Handoff: 从两广危局转入孙可望系统控制的通道节点。 Evidence Risk: 职衔、直属关系和后续去向未定。 相关事件 ../events/yongli nanning crisis 1650 1651.md：永历南宁危局。 ../events/yongli entry anlong 1652.md：永历入安龙。 ../events/sun kewang enfeoffment anlong control 1650 1654.md：孙可望封号链与安龙控制结构。 来源 ../source audit.md audit sm 0245：南宁失守至安龙路线、安龙改府和随驾规模。 待辨析 黑邦俊的姓名异写、职衔、所属部队、与狄三品和高文贵的关系、接应地点、是否进入安龙后续控制网络，以及后续投降/死难/失载情况均待继续核。"
 }

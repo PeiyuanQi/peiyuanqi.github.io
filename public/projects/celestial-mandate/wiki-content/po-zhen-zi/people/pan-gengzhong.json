@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__pan-gengzhong",
   "title": "潘庚钟 / Pan Gengzhong",
-  "sourcePath": "references/southern-ming/people/pan-gengzhong.md",
+  "sourcePath": "references/southern-ming/people/pan-gengzhong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/pan-gengzhong/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local textual research; not an authenticated likeness or evidence source.",
+    "alt": "潘庚钟 / Pan Gengzhong portrait concept art",
+    "sourcePath": "references/southern-ming/people/pan-gengzhong/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>潘庚钟，郑成功系统谋臣或吏官，1658-1659 年郑氏北上和南京战役中多次提出战略建议，南京败战中战死或殉难。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1655 年郑成功承制设六官时，《閩海紀要》《海上見聞錄》均列潘庚钟为吏官。</li><li>1658 年，潘庚钟主张郑成功从瓜洲、镇江取江南，以牵动闽、粤、黔、蜀。</li><li>1659 年南京战役中，潘庚钟曾建议暂据瓜洲、镇江、分扼淮扬诸郡，反对轻率进攻或受缓兵之计影响。</li><li>南京城下败战中，材料记潘庚钟督护卫战，至死不离主帅麾盖。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料呈现其为偏战略、谨慎、重视节点控制的谋臣，与甘辉“兵贵神速”的建议不完全相同，但同样反对被清方缓兵之计牵制。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Advisor</code>: 瓜镇、江南战略建议。</li><li><code>Divergence Gate</code>: 是否以瓜洲、镇江为稳固基地。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0352</code>：1655 年六官、两馆、思明州和宗室士绅安置。</li><li><code>../source-audit.md#audit-sm-0124</code>：1658 年北上前奏中的战略建议。</li><li><code>../source-audit.md#audit-sm-0126</code>：南京城下失利和潘庚钟结局。</li></ul>\n<h3>待辨析</h3>\n<ul><li>潘庚钟职名、死亡细节和建议文本需《小腆紀年》《先王实录》等郑氏材料校。</li></ul>",
   "plainText": "潘庚钟 / Pan Gengzhong 身份 潘庚钟，郑成功系统谋臣或吏官，1658 1659 年郑氏北上和南京战役中多次提出战略建议，南京败战中战死或殉难。 生平和主要事迹 1655 年郑成功承制设六官时，《閩海紀要》《海上見聞錄》均列潘庚钟为吏官。 1658 年，潘庚钟主张郑成功从瓜洲、镇江取江南，以牵动闽、粤、黔、蜀。 1659 年南京战役中，潘庚钟曾建议暂据瓜洲、镇江、分扼淮扬诸郡，反对轻率进攻或受缓兵之计影响。 南京城下败战中，材料记潘庚钟督护卫战，至死不离主帅麾盖。 性格、评价和行为模式 当前材料呈现其为偏战略、谨慎、重视节点控制的谋臣，与甘辉“兵贵神速”的建议不完全相同，但同样反对被清方缓兵之计牵制。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Advisor: 瓜镇、江南战略建议。 Divergence Gate: 是否以瓜洲、镇江为稳固基地。 来源 ../source audit.md audit sm 0352：1655 年六官、两馆、思明州和宗室士绅安置。 ../source audit.md audit sm 0124：1658 年北上前奏中的战略建议。 ../source audit.md audit sm 0126：南京城下失利和潘庚钟结局。 待辨析 潘庚钟职名、死亡细节和建议文本需《小腆紀年》《先王实录》等郑氏材料校。"
 }

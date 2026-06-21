@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__tang-nanjin",
   "title": "汤南金 / Tang Nanjin",
-  "sourcePath": "references/southern-ming/people/tang-nanjin.md",
+  "sourcePath": "references/southern-ming/people/tang-nanjin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/tang-nanjin/portrait.png",
+    "caption": "AI generated style inspired game concept art. No authenticated likeness is claimed.",
+    "alt": "汤南金 / Tang Nanjin portrait concept art",
+    "sourcePath": "references/southern-ming/people/tang-nanjin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.tang_nanjin</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>汤南金，汤和后裔，《南疆繹史》卷十一与常元亮并列为勋裔隐逸人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>传文称汤南金国变后隐居耕读，并与常元亮相友善。</li><li>又称其闻粤地尽失和永历入缅后绝食而死；其中戊戌和永历入缅之间存在纪年待校问题，不能直接作为确定日期。</li><li>本地 CBDB 20260530 对 <code>湯南金/汤南金</code> 无直接主名或别名命中；这是结构化数据库弱否定。</li><li>《小腆紀年》在常延龄疏劾阮大铖按语中附记汤南金，此处只补徐鼒整理层，仍需汤氏谱牒、诗文集和地方志校。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Memory Layer</code>: 南明后期终局消息引发的勋裔殉节/隐逸记忆。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0436</code>：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。</li><li><code>../source-audit.md#audit-sm-0439</code>：本地 CBDB 所见汤南金无直接命中。</li><li><code>../source-audit.md#audit-sm-0443</code>：本地《小腆紀年》常延龄按语中附记常元亮、汤南金层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>汤南金姓名、家世、绝食时间、“粤地尽失/永历入缅”的纪年矛盾和 CBDB 无命中原因需点校本、诗文集和地方志互校。</li></ul>",
   "plainText": "汤南金 / Tang Nanjin Stable draft ID: person.tang nanjin Status: seed profile 身份 汤南金，汤和后裔，《南疆繹史》卷十一与常元亮并列为勋裔隐逸人物。 生平和主要事迹 传文称汤南金国变后隐居耕读，并与常元亮相友善。 又称其闻粤地尽失和永历入缅后绝食而死；其中戊戌和永历入缅之间存在纪年待校问题，不能直接作为确定日期。 本地 CBDB 20260530 对 湯南金/汤南金 无直接主名或别名命中；这是结构化数据库弱否定。 《小腆紀年》在常延龄疏劾阮大铖按语中附记汤南金，此处只补徐鼒整理层，仍需汤氏谱牒、诗文集和地方志校。 游戏数据线索 Memory Layer: 南明后期终局消息引发的勋裔殉节/隐逸记忆。 来源 ../source audit.md audit sm 0436：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。 ../source audit.md audit sm 0439：本地 CBDB 所见汤南金无直接命中。 ../source audit.md audit sm 0443：本地《小腆紀年》常延龄按语中附记常元亮、汤南金层。 待辨析 汤南金姓名、家世、绝食时间、“粤地尽失/永历入缅”的纪年矛盾和 CBDB 无命中原因需点校本、诗文集和地方志互校。"
 }

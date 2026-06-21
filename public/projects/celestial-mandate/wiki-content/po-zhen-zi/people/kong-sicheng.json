@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__kong-sicheng",
   "title": "孔思诚 / Kong Sicheng",
-  "sourcePath": "references/southern-ming/people/kong-sicheng.md",
+  "sourcePath": "references/southern-ming/people/kong-sicheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/kong-sicheng/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page, not an authenticated likeness or evidence source.",
+    "alt": "孔思诚 / Kong Sicheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/kong-sicheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.kong_sicheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>孔思诚，《明季南略》卷十七所见曲靖守城人物。来源称其为总兵，与朱寿琳、孙守约、张京元等同驻曲靖。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明季南略》卷十七记大西军攻曲靖时，孔思诚在曲靖守御链条中出现。</li><li>同条在城陷后把孔思诚、孙守约等写作降。</li><li>当前仅作曲靖攻守中的旧籍种子人物；其是否确曾降、降后去向和职任均待校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>暂不提取性格；“降”字只作《明季南略》来源层。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 曲靖防御。</li><li><code>Identity Pending</code>: 曲靖总兵职任和后续归属待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0406</code>：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>孔思诚姓名、总兵职衔、是否投降及后续处置，需查曲靖府志、云南通志和其他南明旧籍。</li></ul>",
   "plainText": "孔思诚 / Kong Sicheng Stable draft ID: person.kong sicheng Status: anchored seed profile 身份 孔思诚，《明季南略》卷十七所见曲靖守城人物。来源称其为总兵，与朱寿琳、孙守约、张京元等同驻曲靖。 生平和主要事迹 《明季南略》卷十七记大西军攻曲靖时，孔思诚在曲靖守御链条中出现。 同条在城陷后把孔思诚、孙守约等写作降。 当前仅作曲靖攻守中的旧籍种子人物；其是否确曾降、降后去向和职任均待校。 性格、评价和行为模式提取 暂不提取性格；“降”字只作《明季南略》来源层。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 曲靖防御。 Identity Pending: 曲靖总兵职任和后续归属待校。 来源 ../source audit.md audit sm 0406：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。 待辨析 孔思诚姓名、总兵职衔、是否投降及后续处置，需查曲靖府志、云南通志和其他南明旧籍。"
 }

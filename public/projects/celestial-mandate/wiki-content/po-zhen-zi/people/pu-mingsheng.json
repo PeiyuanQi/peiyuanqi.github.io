@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__pu-mingsheng",
   "title": "普明声 / Pu Mingsheng",
-  "sourcePath": "references/southern-ming/people/pu-mingsheng.md",
+  "sourcePath": "references/southern-ming/people/pu-mingsheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/pu-mingsheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the person page only. The likeness is not authenticated.",
+    "alt": "普明声 / Pu Mingsheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/pu-mingsheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; name form pending.</p></blockquote>\n<h3>身份</h3>\n<p>普明声，《南明野史》所见阿迷州土司线人物；《明季南略》卷十二作普民升。其死后阿迷州土司网络与万氏、沙定洲关系相接，是沙定洲势力形成的旧籍前史节点。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》记普明声曾与沙源、吾必奎等奉调江西，破水乌之乱；后随傅宗龙入黔，水西变乱就抚。</li><li>其后授阿迷土知州，旧籍叙事称其骄蹇，并卷入崇祯五年前后阿迷战事。</li><li>《南明野史》记张继孟以计毒杀普明声；普明声死后，万氏据众，阿迷、沙氏诸子和沙定洲继承关系展开。</li><li>《明季南略》卷十二把这一前史写作“普民升之变”，又把其妻写作范氏，须作为姓名异文层，不直接替换《南明野史》与顾诚的普明声/普名声、万氏/万彩云写法。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作土司前史和阿迷继承链人物处理，不据《南明野史》的强烈道德化叙事直接评价其性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Tusi Network</code>: 阿迷州土司旧权力。</li><li><code>Succession Pressure</code>: 普明声死后，万氏和沙氏诸子控制链变化。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0384</code>：《南明野史》所见普明声、吾必奎、沙定洲和万氏婚姻继承前史。</li><li><code>../source-audit.md#audit-sm-0403</code>：《明季南略》卷十二所见普民升、范氏和沙亭州异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>普明声/普名声/普民升写法、阿迷土知州职任、死亡方式、张继孟毒杀叙事和与万氏/范氏关系需云南地方志校。</li></ul>",
   "plainText": "普明声 / Pu Mingsheng Status: anchored seed profile; name form pending. 身份 普明声，《南明野史》所见阿迷州土司线人物；《明季南略》卷十二作普民升。其死后阿迷州土司网络与万氏、沙定洲关系相接，是沙定洲势力形成的旧籍前史节点。 生平和主要事迹 《南明野史》记普明声曾与沙源、吾必奎等奉调江西，破水乌之乱；后随傅宗龙入黔，水西变乱就抚。 其后授阿迷土知州，旧籍叙事称其骄蹇，并卷入崇祯五年前后阿迷战事。 《南明野史》记张继孟以计毒杀普明声；普明声死后，万氏据众，阿迷、沙氏诸子和沙定洲继承关系展开。 《明季南略》卷十二把这一前史写作“普民升之变”，又把其妻写作范氏，须作为姓名异文层，不直接替换《南明野史》与顾诚的普明声/普名声、万氏/万彩云写法。 性格、评价和行为模式提取 当前只作土司前史和阿迷继承链人物处理，不据《南明野史》的强烈道德化叙事直接评价其性格。 著作或文本 未见。 游戏数据线索 Tusi Network: 阿迷州土司旧权力。 Succession Pressure: 普明声死后，万氏和沙氏诸子控制链变化。 来源 ../source audit.md audit sm 0384：《南明野史》所见普明声、吾必奎、沙定洲和万氏婚姻继承前史。 ../source audit.md audit sm 0403：《明季南略》卷十二所见普民升、范氏和沙亭州异文。 待辨析 普明声/普名声/普民升写法、阿迷土知州职任、死亡方式、张继孟毒杀叙事和与万氏/范氏关系需云南地方志校。"
 }

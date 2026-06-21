@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhu-cunwu",
   "title": "朱存梧 / Zhu Cunwu",
-  "sourcePath": "references/southern-ming/people/zhu-cunwu.md",
+  "sourcePath": "references/southern-ming/people/zhu-cunwu/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhu_cunwu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱存梧，顾诚《南明史》所引清初档案中的北方复明联络人物。其供词被用来说明韩王朱璟溧在郝摇旗营中以“一字王”身份活动，但并未建号称尊。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649 年前后，朱存梧曾至贵州投见永历，领取票札、空头札等，用于联络兵力。</li><li>1651 年，他到过郝摇旗据守的湖北房县山中，并与韩王朱璟溧相处约半年。</li><li>1656 年前后，他在河南洛阳地区秘密联络反清人士、准备起事，后被清方捕获，其供词成为“韩王并非定武皇帝”的重要旁证之一。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料只支持其为跨区域联络者：依托宗藩名义、票札和秘密串联，试图在清统治区内发动复明活动。</p>\n<h3>著作或文本</h3>\n<p>未见个人著作；相关内容来自清方审讯或题本材料，需直接核档。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Courier/Agent</code>: 北方秘密联络与票札传递。</li><li><code>Evidence Witness</code>: 作为韩王朱璟溧实际身份的旁证，而非政权建立证据。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0275</code>：韩王朱璟溧、郝摇旗营和“定武”讹传拆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>朱存梧宗藩谱系、洛阳起事计划细节、供词完整文本和被捕后结局需清档校核。</li></ul>",
   "plainText": "朱存梧 / Zhu Cunwu Stable draft ID: person.zhu cunwu Status: anchored seed profile 身份 朱存梧，顾诚《南明史》所引清初档案中的北方复明联络人物。其供词被用来说明韩王朱璟溧在郝摇旗营中以“一字王”身份活动，但并未建号称尊。 生平和主要事迹 1649 年前后，朱存梧曾至贵州投见永历，领取票札、空头札等，用于联络兵力。 1651 年，他到过郝摇旗据守的湖北房县山中，并与韩王朱璟溧相处约半年。 1656 年前后，他在河南洛阳地区秘密联络反清人士、准备起事，后被清方捕获，其供词成为“韩王并非定武皇帝”的重要旁证之一。 性格、评价和行为模式 当前材料只支持其为跨区域联络者：依托宗藩名义、票札和秘密串联，试图在清统治区内发动复明活动。 著作或文本 未见个人著作；相关内容来自清方审讯或题本材料，需直接核档。 游戏数据线索 Courier/Agent: 北方秘密联络与票札传递。 Evidence Witness: 作为韩王朱璟溧实际身份的旁证，而非政权建立证据。 来源 ../source audit.md audit sm 0275：韩王朱璟溧、郝摇旗营和“定武”讹传拆层。 待辨析 朱存梧宗藩谱系、洛阳起事计划细节、供词完整文本和被捕后结局需清档校核。"
 }

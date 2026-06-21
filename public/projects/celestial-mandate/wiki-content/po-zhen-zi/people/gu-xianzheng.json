@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__gu-xianzheng",
   "title": "顾咸正 / Gu Xianzheng",
-  "sourcePath": "references/southern-ming/people/gu-xianzheng.md",
+  "sourcePath": "references/southern-ming/people/gu-xianzheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/gu-xianzheng/portrait.png",
+    "caption": "AI-generated game concept art; not an authenticated likeness.",
+    "alt": "顾咸正 / Gu Xianzheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/gu-xianzheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.gu_xianzheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>顾咸正，字端木，号觙庵，昆山人。明末曾任延安府推官；清初归南后卷入吴胜兆、陈子龙等江南通海与内应网络。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>明末曾在陕西任官并有招抚、守城经历；清军入秦后归南隐居。</li><li>吴胜兆、陈子龙事败后，清方录其党姓名，顾咸正及相关人物被捕。</li><li>顾咸正、顾天逵等与侯氏、夏氏家族关系交织，曾托人向舟山黄斌卿方向递送通海文书；清方搜捕后遇害。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：退隐士绅参与通海内应网络。</li><li>风险特征：家族、姻亲、文书和海路联系人共同构成可被清方追索的证据链。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本轮已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Intelligence Risk</code>: 通海文书、内应名单和家族网络暴露。</li><li><code>Network Node</code>: 昆山-嘉定-松江-舟山联络链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0197</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>顾咸正、顾天逵、侯岐曾、侯玄瀞、夏完淳之间的亲缘/姻亲链需清方题本和家谱资料补证。</li></ul>",
   "plainText": "顾咸正 / Gu Xianzheng Stable draft ID: person.gu xianzheng Status: anchored seed profile 身份 顾咸正，字端木，号觙庵，昆山人。明末曾任延安府推官；清初归南后卷入吴胜兆、陈子龙等江南通海与内应网络。 生平和主要事迹 明末曾在陕西任官并有招抚、守城经历；清军入秦后归南隐居。 吴胜兆、陈子龙事败后，清方录其党姓名，顾咸正及相关人物被捕。 顾咸正、顾天逵等与侯氏、夏氏家族关系交织，曾托人向舟山黄斌卿方向递送通海文书；清方搜捕后遇害。 性格、评价和行为模式提取 行为模式：退隐士绅参与通海内应网络。 风险特征：家族、姻亲、文书和海路联系人共同构成可被清方追索的证据链。 著作或文本 未见本轮已核著作。 游戏数据线索 Intelligence Risk: 通海文书、内应名单和家族网络暴露。 Network Node: 昆山 嘉定 松江 舟山联络链。 来源 已核锚点：../source audit.md audit sm 0197。 待辨析 顾咸正、顾天逵、侯岐曾、侯玄瀞、夏完淳之间的亲缘/姻亲链需清方题本和家谱资料补证。"
 }

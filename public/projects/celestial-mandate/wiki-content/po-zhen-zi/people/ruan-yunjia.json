@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__ruan-yunjia",
   "title": "阮韵嘉 / Ruan Yunjia",
-  "sourcePath": "references/southern-ming/people/ruan-yunjia.md",
+  "sourcePath": "references/southern-ming/people/ruan-yunjia/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/ruan-yunjia/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local person page; the likeness is not authenticated",
+    "alt": "阮韵嘉 / Ruan Yunjia portrait concept art",
+    "sourcePath": "references/southern-ming/people/ruan-yunjia/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>阮韵嘉，《南明野史》所见沙定洲袭取昆明的内应人物之一，书中作都司。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》记沙定洲袭取黔国公府前，阴结都司阮韵嘉、张国用、袁士弘等为内应。</li><li>1647 年大西入昆明前后，《南明野史》又记黔国城中人执阮韵嘉、袁士弘，槛送楚雄伏诛。</li><li>本地 CBDB 对 <code>阮韻嘉/阮韵嘉</code> 在主名和别名表中无直接命中；这只是弱否定，不能证明人物不存在。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作内应/城内响应线索人物处理，不展开动机评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Insider Risk</code>: 省城内部军事官员与土司叛乱合谋。</li><li><code>Information Integrity</code>: 城内内应改变省城防御可信度。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0385</code>：1645 年沙定洲袭昆明和阮韵嘉内应线索。</li><li><code>../source-audit.md#audit-sm-0387</code>：1647 年阮韵嘉被执送楚雄伏诛线索。</li><li><code>../source-audit.md#audit-sm-0418</code>：本地 CBDB 所见阮韵嘉无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>阮韵嘉职衔、是否有异写、内应事实和伏诛地点需地方志与顾诚注释源校；CBDB 无直接命中只提示转向地方志。</li></ul>",
   "plainText": "阮韵嘉 / Ruan Yunjia Status: anchored seed profile; identity pending. 身份 阮韵嘉，《南明野史》所见沙定洲袭取昆明的内应人物之一，书中作都司。 生平和主要事迹 《南明野史》记沙定洲袭取黔国公府前，阴结都司阮韵嘉、张国用、袁士弘等为内应。 1647 年大西入昆明前后，《南明野史》又记黔国城中人执阮韵嘉、袁士弘，槛送楚雄伏诛。 本地 CBDB 对 阮韻嘉/阮韵嘉 在主名和别名表中无直接命中；这只是弱否定，不能证明人物不存在。 性格、评价和行为模式提取 当前只作内应/城内响应线索人物处理，不展开动机评价。 著作或文本 未见。 游戏数据线索 Insider Risk: 省城内部军事官员与土司叛乱合谋。 Information Integrity: 城内内应改变省城防御可信度。 来源 ../source audit.md audit sm 0385：1645 年沙定洲袭昆明和阮韵嘉内应线索。 ../source audit.md audit sm 0387：1647 年阮韵嘉被执送楚雄伏诛线索。 ../source audit.md audit sm 0418：本地 CBDB 所见阮韵嘉无直接命中。 待辨析 阮韵嘉职衔、是否有异写、内应事实和伏诛地点需地方志与顾诚注释源校；CBDB 无直接命中只提示转向地方志。"
 }

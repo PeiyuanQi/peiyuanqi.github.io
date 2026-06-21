@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__hei-yunxiang",
   "title": "黑云祥 / Hei Yunxiang",
-  "sourcePath": "references/southern-ming/people/hei-yunxiang.md",
+  "sourcePath": "references/southern-ming/people/hei-yunxiang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/hei-yunxiang/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local Hei Yunxiang person page. This is not an authenticated likeness or evidence source.",
+    "alt": "黑云祥 / Hei Yunxiang portrait concept art",
+    "sourcePath": "references/southern-ming/people/hei-yunxiang/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>黑云祥，1658 年《海上見聞錄》所见郑氏铁骑镇接管人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年六月郑成功北上浙江期间，《海上見聞錄》记铁骑镇巴臣兴病故，由黑云祥管镇事。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其接管铁骑镇节点，不推断其派系或能力。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Command Succession</code>: 巴臣兴病故后管镇事。</li><li><code>Zheng Cavalry/Elite Label</code>: 铁骑镇职名待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0367</code>：1658 年巴臣兴病故、黑云祥管镇。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黑云祥身份、铁骑镇性质、接任是否临时和后续履历需郑氏材料、清方记录互校。</li></ul>",
   "plainText": "黑云祥 / Hei Yunxiang Status: anchored seed profile; identity pending. 身份 黑云祥，1658 年《海上見聞錄》所见郑氏铁骑镇接管人物。 生平和主要事迹 1658 年六月郑成功北上浙江期间，《海上見聞錄》记铁骑镇巴臣兴病故，由黑云祥管镇事。 性格、评价和行为模式提取 当前只记录其接管铁骑镇节点，不推断其派系或能力。 著作或文本 未见。 游戏数据线索 Command Succession: 巴臣兴病故后管镇事。 Zheng Cavalry/Elite Label: 铁骑镇职名待校。 来源 ../source audit.md audit sm 0367：1658 年巴臣兴病故、黑云祥管镇。 待辨析 黑云祥身份、铁骑镇性质、接任是否临时和后续履历需郑氏材料、清方记录互校。"
 }

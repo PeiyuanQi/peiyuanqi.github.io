@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xu-anyuan",
   "title": "徐安远 / Xu Anyuan",
-  "sourcePath": "references/southern-ming/people/xu-anyuan.md",
+  "sourcePath": "references/southern-ming/people/xu-anyuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xu-anyuan/portrait.png",
+    "caption": "AI generated game concept art informed by local textual notes; it is not an authenticated likeness or evidence source.",
+    "alt": "徐安远 / Xu Anyuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/xu-anyuan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.xu_anyuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐安远，字世珍，武进人。太湖另一路义军人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆纪年》列徐安远与吴福之、任源邃、李总兵太湖支线相关。</li><li>《明季南略》记徐安远入太湖从黄蜚兵，兵败被杀。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方士人或武装人物转入太湖义军，可能与黄蜚部有联系。</li><li>资料状态：隶属关系需谨慎，不应直接归入吴易部。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Relation Memory</code>: 太湖义军和黄蜚部之间的可能联系。</li><li><code>Data Uncertainty</code>: 从属和死难地点待校。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0205</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐安远身份、与黄蜚关系、兵败地点和死亡日期需地方志核验。</li></ul>",
   "plainText": "徐安远 / Xu Anyuan Stable draft ID: person.xu anyuan Status: anchored seed profile 身份 徐安远，字世珍，武进人。太湖另一路义军人物。 生平和主要事迹 《小腆纪年》列徐安远与吴福之、任源邃、李总兵太湖支线相关。 《明季南略》记徐安远入太湖从黄蜚兵，兵败被杀。 性格、评价和行为模式提取 行为模式：地方士人或武装人物转入太湖义军，可能与黄蜚部有联系。 资料状态：隶属关系需谨慎，不应直接归入吴易部。 著作或文本 未见已核著作。 游戏数据线索 Relation Memory: 太湖义军和黄蜚部之间的可能联系。 Data Uncertainty: 从属和死难地点待校。 来源 已核锚点：../source audit.md audit sm 0205。 待辨析 徐安远身份、与黄蜚关系、兵败地点和死亡日期需地方志核验。"
 }

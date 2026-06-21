@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__gu-yuanjing",
   "title": "顾元镜 / Gu Yuanjing",
-  "sourcePath": "references/southern-ming/people/gu-yuanjing.md",
+  "sourcePath": "references/southern-ming/people/gu-yuanjing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/gu-yuanjing/portrait.png",
+    "caption": "AI-generated game concept art; not an authenticated likeness.",
+    "alt": "顾元镜 / Gu Yuanjing portrait concept art",
+    "sourcePath": "references/southern-ming/people/gu-yuanjing/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>顾元镜，广州绍武政权建立与覆灭线中的朝臣节点人物。现有锚点可支持其参与苏观生等在广州拥立朱聿𨮁，并在绍武覆灭后出现降清或被清方优礼的来源层说法；具体官职、参与程度和降清细节仍待校。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>1646 年隆武覆灭后，苏观生由南韶退入广州，联合顾元镜、王应华、林察等拥立续封唐王朱聿𨮁，建立绍武政权。</li><li>绍武政权与肇庆永历政权并立后，双方很快进入杀使和三水/三山口战事等内争。</li><li>清方李成栋袭取广州后，绍武政权覆灭；顾元镜在部分材料中与何吾驺等一同进入降清或被清方优礼层。该说法目前只作来源记忆，不写成定案。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“广州拥立集团朝臣”种子：其建模价值在于参与制造绍武 authority anchor，并加剧永历、绍武之间的 legitimacy contest。</li><li>现有材料不足以抽取个人性格；不宜把绍武并立责任单独压到顾元镜个人。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Faction Actor</code>: 广州绍武拥立集团成员。</li><li><code>Legitimacy Contest</code>: 参与将隆武弟系宗藩转化为广州政权旗号。</li><li><code>Evidence Risk</code>: 战后降清/优礼、官职和责任比例待校。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/shaowu-yongli-rivalry-1646.md</code>：绍武、永历并立与广州覆灭。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0055</code>：广州绍武政权建立。</li><li><code>../source-audit.md#audit-sm-0056</code>：绍武、永历内争与广州陷落。</li><li><code>../source-audit.md#audit-sm-0150</code>：1646 年广州绍武政权建立。</li><li><code>../source-audit.md#audit-sm-0153</code>：1646 年李成栋袭取广州和绍武政权覆灭。</li></ul>\n<h3>待辨析</h3>\n<ul><li>顾元镜的正式官职、与苏观生和王应华的分工、是否参与杀使或军事决策、广州陷落后降清/优礼的具体来源和日序，均需继续核。</li></ul>",
   "plainText": "顾元镜 / Gu Yuanjing 身份 顾元镜，广州绍武政权建立与覆灭线中的朝臣节点人物。现有锚点可支持其参与苏观生等在广州拥立朱聿𨮁，并在绍武覆灭后出现降清或被清方优礼的来源层说法；具体官职、参与程度和降清细节仍待校。 生平与主要事迹 1646 年隆武覆灭后，苏观生由南韶退入广州，联合顾元镜、王应华、林察等拥立续封唐王朱聿𨮁，建立绍武政权。 绍武政权与肇庆永历政权并立后，双方很快进入杀使和三水/三山口战事等内争。 清方李成栋袭取广州后，绍武政权覆灭；顾元镜在部分材料中与何吾驺等一同进入降清或被清方优礼层。该说法目前只作来源记忆，不写成定案。 性格、评价与行为模式 可作为“广州拥立集团朝臣”种子：其建模价值在于参与制造绍武 authority anchor，并加剧永历、绍武之间的 legitimacy contest。 现有材料不足以抽取个人性格；不宜把绍武并立责任单独压到顾元镜个人。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Faction Actor: 广州绍武拥立集团成员。 Legitimacy Contest: 参与将隆武弟系宗藩转化为广州政权旗号。 Evidence Risk: 战后降清/优礼、官职和责任比例待校。 相关事件 ../events/shaowu yongli rivalry 1646.md：绍武、永历并立与广州覆灭。 来源 ../source audit.md audit sm 0055：广州绍武政权建立。 ../source audit.md audit sm 0056：绍武、永历内争与广州陷落。 ../source audit.md audit sm 0150：1646 年广州绍武政权建立。 ../source audit.md audit sm 0153：1646 年李成栋袭取广州和绍武政权覆灭。 待辨析 顾元镜的正式官职、与苏观生和王应华的分工、是否参与杀使或军事决策、广州陷落后降清/优礼的具体来源和日序，均需继续核。"
 }

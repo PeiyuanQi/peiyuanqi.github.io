@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__mu-tianze",
   "title": "沐天泽 / Mu Tianze",
-  "sourcePath": "references/southern-ming/people/mu-tianze.md",
+  "sourcePath": "references/southern-ming/people/mu-tianze/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/mu-tianze/portrait.png",
+    "caption": "AI generated game concept art; style inspired only. The likeness is not authenticated and must not be treated as a historical evidence source.",
+    "alt": "沐天泽 / Mu Tianze portrait concept art",
+    "sourcePath": "references/southern-ming/people/mu-tianze/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>沐天泽，《南明野史》所见 1645 年沙定洲袭取昆明时遇害的沐氏人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》记沙定洲袭黔国公府后，沐天泽、沐天润遇害。</li><li>当前只可确认其作为沐氏亲属或府中人物在旧籍死难叙事中出现，具体亲属关系和死亡地点尚未独立校定。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>只作沐氏死难人物种子档，不作独立行为模式提取。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Martyrdom / Household Casualty</code>: 沙定洲袭府造成的沐氏家族损失。</li><li><code>Uncertainty</code>: 死难名单需与沐氏谱牒和云南地方志分层。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0385</code>：《南明野史》所见沐天泽、沐天润遇害线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>沐天泽与沐天波的亲属关系、死亡方式、地点和是否有追赠记忆需继续校。</li></ul>",
   "plainText": "沐天泽 / Mu Tianze Status: anchored seed profile; identity pending. 身份 沐天泽，《南明野史》所见 1645 年沙定洲袭取昆明时遇害的沐氏人物。 生平和主要事迹 《南明野史》记沙定洲袭黔国公府后，沐天泽、沐天润遇害。 当前只可确认其作为沐氏亲属或府中人物在旧籍死难叙事中出现，具体亲属关系和死亡地点尚未独立校定。 性格、评价和行为模式提取 只作沐氏死难人物种子档，不作独立行为模式提取。 著作或文本 未见。 游戏数据线索 Martyrdom / Household Casualty: 沙定洲袭府造成的沐氏家族损失。 Uncertainty: 死难名单需与沐氏谱牒和云南地方志分层。 来源 ../source audit.md audit sm 0385：《南明野史》所见沐天泽、沐天润遇害线索。 待辨析 沐天泽与沐天波的亲属关系、死亡方式、地点和是否有追赠记忆需继续校。"
 }

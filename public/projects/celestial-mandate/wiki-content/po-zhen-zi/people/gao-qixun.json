@@ -1,11 +1,12 @@
 {
   "id": "po-zhen-zi__people__gao-qixun",
   "title": "高其勋 / Gao Qixun",
-  "sourcePath": "references/southern-ming/people/gao-qixun.md",
+  "sourcePath": "references/southern-ming/people/gao-qixun/profile.md",
   "portrait": {
     "imagePath": "/wiki-content/po-zhen-zi/people/gao-qixun/portrait.png",
     "caption": "AI-generated game concept art; not an authenticated likeness.",
-    "alt": "高其勋 / Gao Qixun portrait concept art"
+    "alt": "高其勋 / Gao Qixun portrait concept art",
+    "sourcePath": "references/southern-ming/people/gao-qixun/portrait.md"
   },
   "html": "<blockquote><p>Stable draft ID: <code>person.gao_qixun</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>高其勋，《小腆紀年》所见武定参将。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》在杨畏知小传相邻条下记“沙贼陷明武定，参将高其勋死之”。</li><li>维基文库《明史》卷二百九十五作高其勛，记其字懋功、沔县人、武定府参将，沙定洲乱时守武定，城破死；页面未校对，字、籍贯和死法仍需点校本与地方志复核。</li><li>本地 CBDB 20260530 对 <code>高其勛/高其勋</code> 未见直接命中；这是弱否定，只提示转向武定府志、沔县材料和点校本。</li><li>当前只作武定陷落时的地方军事人物线索。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：府州县防御中的参将死难记忆层。</li><li>不从单一旧籍扩展性格或战斗细节。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 武定陷落。</li><li><code>Local Defense</code>: 地方参将/武定防线。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0420</code>：《小腆紀年》所见楚雄守御中王承宪、王承瑱、那钥、王克猷与高其勋线索。</li><li><code>../source-audit.md#audit-sm-0422</code>：维基文库《明史》卷二百九十五所见高其勛传记层。</li><li><code>../source-audit.md#audit-sm-0428</code>：本地 CBDB 所见高其勛无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>高其勋职衔、字、籍贯、武定陷落日序、是否与陶光胤、杨于陆同属一组地方防御记忆和明人传记索引原条待校。</li></ul>",
   "plainText": "高其勋 / Gao Qixun Stable draft ID: person.gao qixun Status: anchored seed profile; identity pending. 身份 高其勋，《小腆紀年》所见武定参将。 生平和主要事迹 《小腆紀年》在杨畏知小传相邻条下记“沙贼陷明武定，参将高其勋死之”。 维基文库《明史》卷二百九十五作高其勛，记其字懋功、沔县人、武定府参将，沙定洲乱时守武定，城破死；页面未校对，字、籍贯和死法仍需点校本与地方志复核。 本地 CBDB 20260530 对 高其勛/高其勋 未见直接命中；这是弱否定，只提示转向武定府志、沔县材料和点校本。 当前只作武定陷落时的地方军事人物线索。 性格、评价和行为模式提取 行为模式：府州县防御中的参将死难记忆层。 不从单一旧籍扩展性格或战斗细节。 著作或文本 未见。 游戏数据线索 Event Participant: 武定陷落。 Local Defense: 地方参将/武定防线。 来源 ../source audit.md audit sm 0420：《小腆紀年》所见楚雄守御中王承宪、王承瑱、那钥、王克猷与高其勋线索。 ../source audit.md audit sm 0422：维基文库《明史》卷二百九十五所见高其勛传记层。 ../source audit.md audit sm 0428：本地 CBDB 所见高其勛无直接命中。 待辨析 高其勋职衔、字、籍贯、武定陷落日序、是否与陶光胤、杨于陆同属一组地方防御记忆和明人传记索引原条待校。"

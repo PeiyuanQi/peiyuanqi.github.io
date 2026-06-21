@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__pang-tianshou",
   "title": "庞天寿 / Pang Tianshou",
-  "sourcePath": "references/southern-ming/people/pang-tianshou.md",
+  "sourcePath": "references/southern-ming/people/pang-tianshou/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/pang-tianshou/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local textual research; not an authenticated likeness or evidence source.",
+    "alt": "庞天寿 / Pang Tianshou portrait concept art",
+    "sourcePath": "references/southern-ming/people/pang-tianshou/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>庞天寿，永历安龙时期内廷太监，顾诚材料中为提督勇卫营者。安龙控制结构中，他与马吉翔、张应科等共同构成皇帝身边和孙可望派驻系统之间的联络层。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>安龙时期同马吉翔结纳孙可望方面，并与提塘官张应科等关系密切。</li><li>孙可望曾以札谕把朝廷内外机务部分委给马吉翔和庞天寿，强化二人在安龙的过滤权。</li><li>1654 年密诏事发后，顾诚叙述中庞天寿与郑国、王爱秀一同逼问和追查相关朝臣，是案件从秘密通信转为公开审讯的重要执行节点。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“内廷过滤者”种子：依附事实摄政者，利用皇帝近侍和营务身份放大信息控制。</li><li>其行为要同马吉翔、张应科等构成的安龙网络合看，不宜孤立写成单人阴谋。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Access Filter</code>: 内廷近侍控制奏报和通信。</li><li><code>Coercive Court Network</code>: 同马吉翔、张应科、郑国、王爱秀联动。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0246</code>：安龙供给、知府/提塘监视和通信限制。</li><li><code>../source-audit.md#audit-sm-0277</code>：安龙控制网络的内外节点。</li><li><code>../source-audit.md#audit-sm-0279</code>：十八先生案的审讯、首从划分和处置层次。</li></ul>\n<h3>待辨析</h3>\n<ul><li>庞天寿具体内廷职衔、勇卫营实权、与马吉翔责任轻重以及后续结局需继续校。</li></ul>",
   "plainText": "庞天寿 / Pang Tianshou 身份 庞天寿，永历安龙时期内廷太监，顾诚材料中为提督勇卫营者。安龙控制结构中，他与马吉翔、张应科等共同构成皇帝身边和孙可望派驻系统之间的联络层。 生平与主要事迹 安龙时期同马吉翔结纳孙可望方面，并与提塘官张应科等关系密切。 孙可望曾以札谕把朝廷内外机务部分委给马吉翔和庞天寿，强化二人在安龙的过滤权。 1654 年密诏事发后，顾诚叙述中庞天寿与郑国、王爱秀一同逼问和追查相关朝臣，是案件从秘密通信转为公开审讯的重要执行节点。 性格、评价与行为模式 可作为“内廷过滤者”种子：依附事实摄政者，利用皇帝近侍和营务身份放大信息控制。 其行为要同马吉翔、张应科等构成的安龙网络合看，不宜孤立写成单人阴谋。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Court Access Filter: 内廷近侍控制奏报和通信。 Coercive Court Network: 同马吉翔、张应科、郑国、王爱秀联动。 来源 ../source audit.md audit sm 0246：安龙供给、知府/提塘监视和通信限制。 ../source audit.md audit sm 0277：安龙控制网络的内外节点。 ../source audit.md audit sm 0279：十八先生案的审讯、首从划分和处置层次。 待辨析 庞天寿具体内廷职衔、勇卫营实权、与马吉翔责任轻重以及后续结局需继续校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__luo-quanbin",
   "title": "罗全斌 / Luo Quanbin",
-  "sourcePath": "references/southern-ming/people/luo-quanbin.md",
+  "sourcePath": "references/southern-ming/people/luo-quanbin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/luo-quanbin/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness or evidence source.",
+    "alt": "罗全斌 / Luo Quanbin portrait concept art",
+    "sourcePath": "references/southern-ming/people/luo-quanbin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.luo_quanbin</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>罗全斌，南明广东、广西边境线相关威海将军。本轮主要记录其在 1659 年广西边境支线崩解中的藏匿和降清线索。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年南宁、上思州等节点失守后，清方侦报称罗全斌藏于广西南宁府下属忠州。</li><li>清方采取招抚为先的策略后，罗全斌和部下兵将陆续出降。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料不足以评价人格。</li><li>行为模式：边境残军节点，在主力撤离和清方招抚压力下转向归顺。</li></ul>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Collapse Marker</code>: 广西边境州县和残军被招抚。</li><li><code>Route</code>: 南宁、忠州、龙州、凭祥一线。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0185</code>：南宁、上思州和边境州县失守。</li><li><code>../source-audit.md#audit-sm-0267</code>：南宁、上思州、滩宁寨和边境州县被清方接管。</li></ul>\n<h3>待辨析</h3>\n<ul><li>忠州现代对应、罗全斌官爵和归顺过程需地方志与清方材料补证；注意与同名人物区分。</li></ul>",
   "plainText": "罗全斌 / Luo Quanbin Stable draft ID: person.luo quanbin Status: anchored seed profile 身份 罗全斌，南明广东、广西边境线相关威海将军。本轮主要记录其在 1659 年广西边境支线崩解中的藏匿和降清线索。 生平和主要事迹 1659 年南宁、上思州等节点失守后，清方侦报称罗全斌藏于广西南宁府下属忠州。 清方采取招抚为先的策略后，罗全斌和部下兵将陆续出降。 性格、评价和行为模式提取 当前材料不足以评价人格。 行为模式：边境残军节点，在主力撤离和清方招抚压力下转向归顺。 著作或文本 未见。 游戏数据线索 Collapse Marker: 广西边境州县和残军被招抚。 Route: 南宁、忠州、龙州、凭祥一线。 来源 ../source audit.md audit sm 0185：南宁、上思州和边境州县失守。 ../source audit.md audit sm 0267：南宁、上思州、滩宁寨和边境州县被清方接管。 待辨析 忠州现代对应、罗全斌官爵和归顺过程需地方志与清方材料补证；注意与同名人物区分。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__ma-ning",
   "title": "马宁 / Ma Ning",
-  "sourcePath": "references/southern-ming/people/ma-ning.md",
+  "sourcePath": "references/southern-ming/people/ma-ning/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/ma-ning/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page. This is not an authenticated likeness or evidence source.",
+    "alt": "马宁 / Ma Ning portrait concept art",
+    "sourcePath": "references/southern-ming/people/ma-ning/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.ma_ning</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>马宁，清方总兵，吴三桂、爱星阿入缅追索永历时的前线将领之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1661 年随清方入缅行动，推进至木邦方向并向缅方施压；顾诚材料把他与石国柱、祁三升、马宝、高启隆、马惟兴等列为清方入缅执行链的一部分。</li><li>在追白文选、逼缅献永历的清方行动链中出现。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只记录其作为清方执行层将领，不做性格评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 清方入缅前锋/偏师节点。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0138</code>，<code>../source-audit.md#audit-sm-0140</code>，<code>../source-audit.md#audit-sm-0264</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>与石国柱、王辅臣等清方将领的分路关系需补。</li></ul>",
   "plainText": "马宁 / Ma Ning Stable draft ID: person.ma ning Status: anchored seed profile 身份 马宁，清方总兵，吴三桂、爱星阿入缅追索永历时的前线将领之一。 生平和主要事迹 1661 年随清方入缅行动，推进至木邦方向并向缅方施压；顾诚材料把他与石国柱、祁三升、马宝、高启隆、马惟兴等列为清方入缅执行链的一部分。 在追白文选、逼缅献永历的清方行动链中出现。 性格、评价和行为模式提取 当前只记录其作为清方执行层将领，不做性格评价。 著作或文本 待补。 游戏数据线索 Military Actor: 清方入缅前锋/偏师节点。 来源 已核锚点：../source audit.md audit sm 0138，../source audit.md audit sm 0140，../source audit.md audit sm 0264。 待辨析 与石国柱、王辅臣等清方将领的分路关系需补。"
 }

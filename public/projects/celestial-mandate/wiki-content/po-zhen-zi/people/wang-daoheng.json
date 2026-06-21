@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-daoheng",
   "title": "王道亨 / Wang Daoheng",
-  "sourcePath": "references/southern-ming/people/wang-daoheng.md",
+  "sourcePath": "references/southern-ming/people/wang-daoheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-daoheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local person page and shared Celestial Mandate portrait direction; the likeness is not authenticated",
+    "alt": "王道亨 / Wang Daoheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-daoheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_daoheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>王道亨，李定国死后余部降清线索中的总兵。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚《南明史》记李定国死后，王道亨与马思良、胡顺都等在前途暗淡时走向降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：在继承秩序断裂、军中前途暗淡时进入降清链条的中层军事节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Loyalty Fracture</code>: 李定国死后的西南残军分裂。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0310</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>职衔、所属部众、降清日序和清方授职需补。</li></ul>",
   "plainText": "王道亨 / Wang Daoheng Stable draft ID: person.wang daoheng Status: anchored seed profile 身份 王道亨，李定国死后余部降清线索中的总兵。 生平和主要事迹 顾诚《南明史》记李定国死后，王道亨与马思良、胡顺都等在前途暗淡时走向降清。 性格、评价和行为模式提取 行为模式：在继承秩序断裂、军中前途暗淡时进入降清链条的中层军事节点。 著作或文本 未见。 游戏数据线索 Loyalty Fracture: 李定国死后的西南残军分裂。 来源 已核锚点：../source audit.md audit sm 0310。 待辨析 职衔、所属部众、降清日序和清方授职需补。"
 }

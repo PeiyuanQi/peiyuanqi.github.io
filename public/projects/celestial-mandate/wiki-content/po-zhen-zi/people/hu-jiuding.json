@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__hu-jiuding",
   "title": "胡九鼎 / Hu Jiuding",
-  "sourcePath": "references/southern-ming/people/hu-jiuding.md",
+  "sourcePath": "references/southern-ming/people/hu-jiuding/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/hu-jiuding/portrait.png",
+    "caption": "AI generated game concept art based on the local person page; style inspired only, not an authenticated likeness or evidence source.",
+    "alt": "胡九鼎 / Hu Jiuding portrait concept art",
+    "sourcePath": "references/southern-ming/people/hu-jiuding/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.hu_jiuding</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>胡九鼎，1659 年建昌卫入罗次降清链条中的人物之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年六月，胡九鼎与王会、杨威、赵武、邓望功、万致元、王敬、韩天福、王朝兴、旷世宰等自建昌卫入罗次降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其为建昌卫入罗次降清名单节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 建昌卫入罗次降清链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0305</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>胡九鼎官职、所属兵力、姓名异写和后续去向需继续校。</li></ul>",
   "plainText": "胡九鼎 / Hu Jiuding Stable draft ID: person.hu jiuding Status: anchored seed profile 身份 胡九鼎，1659 年建昌卫入罗次降清链条中的人物之一。 生平和主要事迹 《南明史稿》记 1659 年六月，胡九鼎与王会、杨威、赵武、邓望功、万致元、王敬、韩天福、王朝兴、旷世宰等自建昌卫入罗次降清。 性格、评价和行为模式提取 当前只可记录其为建昌卫入罗次降清名单节点。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 建昌卫入罗次降清链。 来源 已核锚点：../source audit.md audit sm 0305。 待辨析 胡九鼎官职、所属兵力、姓名异写和后续去向需继续校。"
 }

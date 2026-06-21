@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhu-moulie",
   "title": "朱谋烈 / Zhu Moulie",
-  "sourcePath": "references/southern-ming/people/zhu-moulie.md",
+  "sourcePath": "references/southern-ming/people/zhu-moulie/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhu_moulie</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱谋烈，1649 年堵胤锡衡州、龙虎关撤退线中出现的地方人物，当前只见于旧籍线索。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》相关条目把朱谋烈放在曹志建、何图复和堵胤锡撤退线中，涉及地方军镇对堵胤锡随从的处置。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>信息过窄，暂不提取稳定性格；只作为撤退线人物名保留，避免与其他朱姓人物混同。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见可归属文本。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 堵胤锡撤退线人物名待校。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0241</code>，<code>../source-audit.md#audit-sm-0243</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>朱谋烈身份、官职、具体行为和是否与宗室/地方士绅有关待校。</li></ul>",
   "plainText": "朱谋烈 / Zhu Moulie Stable draft ID: person.zhu moulie Status: anchored seed profile 身份 朱谋烈，1649 年堵胤锡衡州、龙虎关撤退线中出现的地方人物，当前只见于旧籍线索。 生平和主要事迹 《小腆紀年》相关条目把朱谋烈放在曹志建、何图复和堵胤锡撤退线中，涉及地方军镇对堵胤锡随从的处置。 性格、评价和行为模式提取 信息过窄，暂不提取稳定性格；只作为撤退线人物名保留，避免与其他朱姓人物混同。 著作或文本 未见可归属文本。 游戏数据线索 Report Fact: 堵胤锡撤退线人物名待校。 来源 已核锚点：../source audit.md audit sm 0241，../source audit.md audit sm 0243；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 朱谋烈身份、官职、具体行为和是否与宗室/地方士绅有关待校。"
 }

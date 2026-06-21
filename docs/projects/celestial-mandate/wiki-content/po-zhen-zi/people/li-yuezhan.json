@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-yuezhan",
   "title": "黎岳詹 / Li Yuezhan",
-  "sourcePath": "references/southern-ming/people/li-yuezhan.md",
+  "sourcePath": "references/southern-ming/people/li-yuezhan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-yuezhan/portrait.png",
+    "caption": "AI generated style inspired game concept art based on the local person page. This is not an authenticated likeness or evidence source.",
+    "alt": "黎岳詹 / Li Yuezhan portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-yuezhan/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>黎岳詹，1657 年临海知县，郑成功北上台州线中降郑。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《閩海紀要》《海上見聞錄》记郑成功攻台州时，临海知县黎岳詹与李必、齐维藩等俱降。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其为地方文官降郑节点。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Civil Official Surrender</code>: 临海知县降郑。</li><li><code>Place Control</code>: 台州、临海。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0361</code>：1657 年台州招降和黎岳詹降。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黎岳詹姓名写法、官职履历、降后去向和地方志记载需继续校。</li></ul>",
   "plainText": "黎岳詹 / Li Yuezhan Status: seed profile; identity pending. 身份 黎岳詹，1657 年临海知县，郑成功北上台州线中降郑。 生平和主要事迹 1657 年《閩海紀要》《海上見聞錄》记郑成功攻台州时，临海知县黎岳詹与李必、齐维藩等俱降。 性格、评价和行为模式提取 当前只记录其为地方文官降郑节点。 著作或文本 未见。 游戏数据线索 Civil Official Surrender: 临海知县降郑。 Place Control: 台州、临海。 来源 ../source audit.md audit sm 0361：1657 年台州招降和黎岳詹降。 待辨析 黎岳詹姓名写法、官职履历、降后去向和地方志记载需继续校。"
 }

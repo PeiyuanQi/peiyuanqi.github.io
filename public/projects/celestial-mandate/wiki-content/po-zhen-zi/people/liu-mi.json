@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-mi",
   "title": "刘泌 / Liu Mi",
-  "sourcePath": "references/southern-ming/people/liu-mi.md",
+  "sourcePath": "references/southern-ming/people/liu-mi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-mi/portrait.png",
+    "caption": "This is AI generated game concept art informed by the local person page and late Ming official visual grammar; it is not an authenticated likeness or evidence source.",
+    "alt": "刘泌 / Liu Mi portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-mi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_mi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘泌，南明少卿，1659 年闰三月降表或降清名单中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记又有少卿刘泌、兵科胡显等一百五十九人先后降清。</li><li>徐鼒按语指出此条本《入云南始末》，并以钱邦芑误列为例，提示降表可能仓卒填列仕滇姓名，并非人人必定与闻其事。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只能记录其被列入 1659 年降清/降表名单；不可据单条名单定其实际投降细节。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本轮已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Uncertainty</code>: 降表列名和实际降清需拆分。</li><li><code>Political Actor</code>: 1659 年文臣降清名单。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0299</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘泌是否实际降清、官职、清方授职和与同名人物关系需继续校。</li></ul>",
   "plainText": "刘泌 / Liu Mi Stable draft ID: person.liu mi Status: anchored seed profile 身份 刘泌，南明少卿，1659 年闰三月降表或降清名单中出现。 生平和主要事迹 《小腆紀年》记又有少卿刘泌、兵科胡显等一百五十九人先后降清。 徐鼒按语指出此条本《入云南始末》，并以钱邦芑误列为例，提示降表可能仓卒填列仕滇姓名，并非人人必定与闻其事。 性格、评价和行为模式提取 当前只能记录其被列入 1659 年降清/降表名单；不可据单条名单定其实际投降细节。 著作或文本 未见本轮已核著作。 游戏数据线索 Uncertainty: 降表列名和实际降清需拆分。 Political Actor: 1659 年文臣降清名单。 来源 已核锚点：../source audit.md audit sm 0299。 待辨析 刘泌是否实际降清、官职、清方授职和与同名人物关系需继续校。"
 }

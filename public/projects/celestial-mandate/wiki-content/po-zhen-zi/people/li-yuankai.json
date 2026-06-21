@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-yuankai",
   "title": "李元开 / Li Yuankai",
-  "sourcePath": "references/southern-ming/people/li-yuankai.md",
+  "sourcePath": "references/southern-ming/people/li-yuankai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-yuankai/portrait.png",
+    "caption": "AI generated style inspired game concept art based on the local person page. This is not an authenticated likeness or evidence source.",
+    "alt": "李元开 / Li Yuankai portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-yuankai/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>李元开，安龙十八先生案相关人物。当前材料主要见顾诚所录处置名单和《明季南略》追赠层。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>1654 年三月前后列入密诏案处置层。</li><li>《明季南略》追赠层列李元开为侍读学士一类追赠对象。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>当前只能作为名单人物处理，不宜推断其在密诏文书链中的具体职能。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Roster Candidate</code>: 十八先生案名单候选。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0279</code>：十八先生案的审讯、首从划分和处置层次。</li><li><code>../source-audit.md#audit-sm-0280</code>：十八先生追赠、祠庙和地方记忆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>官职、生平、处置方式和追赠职衔需继续校。</li></ul>",
   "plainText": "李元开 / Li Yuankai 身份 李元开，安龙十八先生案相关人物。当前材料主要见顾诚所录处置名单和《明季南略》追赠层。 生平与主要事迹 1654 年三月前后列入密诏案处置层。 《明季南略》追赠层列李元开为侍读学士一类追赠对象。 性格、评价与行为模式 当前只能作为名单人物处理，不宜推断其在密诏文书链中的具体职能。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Roster Candidate: 十八先生案名单候选。 来源 ../source audit.md audit sm 0279：十八先生案的审讯、首从划分和处置层次。 ../source audit.md audit sm 0280：十八先生追赠、祠庙和地方记忆层。 待辨析 官职、生平、处置方式和追赠职衔需继续校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-jiading",
   "title": "林佳鼎 / Lin Jiading",
-  "sourcePath": "references/southern-ming/people/lin-jiading.md",
+  "sourcePath": "references/southern-ming/people/lin-jiading/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-jiading/portrait.png",
+    "caption": "This is AI generated game concept art informed by local text notes about Lin Jiading's Sanshui/Sanshankou command role and disputed defeat/death tradition. It is not an authenticated likeness or evidence source.",
+    "alt": "林佳鼎 / Lin Jiading portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-jiading/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.lin_jiading</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>林佳鼎，永历初广东学道/兵部右侍郎、督师三水方向人物。绍武、永历内争中参与永历方军事行动，三山口败没存在异文。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>永历朝廷同广州绍武政权宣谕失败后，林佳鼎被派往三水、三山口方向参与对广州军的作战。</li><li>材料显示其一度在三水方向获胜，随后因林察和四姓海上武力伪降、火攻、地形不利等因素在三山口方向败绩。</li><li>林佳鼎是否死于三山口，各源不一，须继续校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前可抽取为“初胜后轻进、情报判断不足”的战术风险节点，但这是基于事件叙述的低到中置信分析。</li><li>建模上适合做 <code>Battle Commander</code> 与 <code>False Surrender Vulnerability</code> 的候选，而非稳定高级军政人物。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未核到个人著述。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Actor</code>: 三水、三山口战事。</li><li><code>Divergence Gate</code>: 是否识破伪降、是否控制三水/三山口水陆节点。</li><li><code>Uncertainty</code>: 死亡与后续去向。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0152</code>：三水、三山口战事和林佳鼎败没异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林佳鼎官衔、籍贯、三水胜利日期、三山口败绩日期和是否死于此役。</li></ul>",
   "plainText": "林佳鼎 / Lin Jiading Stable draft ID: person.lin jiading Status: anchored seed profile 身份 林佳鼎，永历初广东学道/兵部右侍郎、督师三水方向人物。绍武、永历内争中参与永历方军事行动，三山口败没存在异文。 生平和主要事迹 永历朝廷同广州绍武政权宣谕失败后，林佳鼎被派往三水、三山口方向参与对广州军的作战。 材料显示其一度在三水方向获胜，随后因林察和四姓海上武力伪降、火攻、地形不利等因素在三山口方向败绩。 林佳鼎是否死于三山口，各源不一，须继续校。 性格、评价和行为模式提取 当前可抽取为“初胜后轻进、情报判断不足”的战术风险节点，但这是基于事件叙述的低到中置信分析。 建模上适合做 Battle Commander 与 False Surrender Vulnerability 的候选，而非稳定高级军政人物。 著作或文本 未核到个人著述。 游戏数据线索 Event Actor: 三水、三山口战事。 Divergence Gate: 是否识破伪降、是否控制三水/三山口水陆节点。 Uncertainty: 死亡与后续去向。 来源 ../source audit.md audit sm 0152：三水、三山口战事和林佳鼎败没异文。 待辨析 林佳鼎官衔、籍贯、三水胜利日期、三山口败绩日期和是否死于此役。"
 }

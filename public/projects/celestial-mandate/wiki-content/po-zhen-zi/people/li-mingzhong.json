@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-mingzhong",
   "title": "李明忠 / Li Mingzhong",
-  "sourcePath": "references/southern-ming/people/li-mingzhong.md",
+  "sourcePath": "references/southern-ming/people/li-mingzhong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-mingzhong/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local notes; not an authenticated likeness or evidence source.",
+    "alt": "李明忠 / Li Mingzhong portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-mingzhong/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>李明忠，绍武、永历内争中三水方向的永历方将领节点。现有锚点只支持其与林佳鼎等一度击败广州军；官职、籍贯、部属关系和后续结局仍待校。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>1646 年绍武、永历调解失败后，双方在三水、三山口方向交战。</li><li>永历方李明忠、林佳鼎等一度击败广州军，说明肇庆永历政权在短期内仍可调动地方军力应对广州绍武。</li><li>现有锚点没有独立说明李明忠是否参与后续三山口追击、火攻败局或广州陷落后的行动，暂不扩展。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“永历方局部反击将领”种子：人物价值在绍武/永历内战中的战场执行，而非独立政治决策。</li><li>现阶段不抽取性格评价。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Field Force Actor</code>: 永历方在三水方向的战斗节点。</li><li><code>Internal Conflict</code>: 南明继统内争中的己方军事资源消耗。</li><li><code>Evidence Risk</code>: 官职、实际指挥范围和后续去向未定。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/shaowu-yongli-rivalry-1646.md</code>：绍武、永历并立与广州覆灭。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0152</code>：1646 年三水、三山口战事和林佳鼎败没异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李明忠的官职、籍贯、与林佳鼎/彭燿/陈嘉谟等人的关系、三水战斗中的具体指挥范围，以及后续是否死难、降清或失载，均需继续核。</li></ul>",
   "plainText": "李明忠 / Li Mingzhong 身份 李明忠，绍武、永历内争中三水方向的永历方将领节点。现有锚点只支持其与林佳鼎等一度击败广州军；官职、籍贯、部属关系和后续结局仍待校。 生平与主要事迹 1646 年绍武、永历调解失败后，双方在三水、三山口方向交战。 永历方李明忠、林佳鼎等一度击败广州军，说明肇庆永历政权在短期内仍可调动地方军力应对广州绍武。 现有锚点没有独立说明李明忠是否参与后续三山口追击、火攻败局或广州陷落后的行动，暂不扩展。 性格、评价与行为模式 可作为“永历方局部反击将领”种子：人物价值在绍武/永历内战中的战场执行，而非独立政治决策。 现阶段不抽取性格评价。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Field Force Actor: 永历方在三水方向的战斗节点。 Internal Conflict: 南明继统内争中的己方军事资源消耗。 Evidence Risk: 官职、实际指挥范围和后续去向未定。 相关事件 ../events/shaowu yongli rivalry 1646.md：绍武、永历并立与广州覆灭。 来源 ../source audit.md audit sm 0152：1646 年三水、三山口战事和林佳鼎败没异文。 待辨析 李明忠的官职、籍贯、与林佳鼎/彭燿/陈嘉谟等人的关系、三水战斗中的具体指挥范围，以及后续是否死难、降清或失载，均需继续核。"
 }

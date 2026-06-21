@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-qingyang",
   "title": "林青阳 / Lin Qingyang",
-  "sourcePath": "references/southern-ming/people/lin-qingyang.md",
+  "sourcePath": "references/southern-ming/people/lin-qingyang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-qingyang/portrait.png",
+    "caption": "This is AI generated game concept art informed by local text notes about Lin Qingyang's Anlong secret edict envoy role under Sun Kewang's pressure network. It is not an authenticated likeness or evidence source.",
+    "alt": "林青阳 / Lin Qingyang portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-qingyang/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>林青阳，永历安龙朝臣。顾诚材料中作兵部武选司员外郎，安龙密诏李定国救驾的主要使者之一。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>在安龙受制时期，曾同徐极、胡士瑞、张镌、蔡氏等劾奏马吉翔、庞天寿依附孙可望。</li><li>1652 年十一月前后，以请假葬亲为名，身藏密敕前往李定国军中。</li><li>其出使半年音讯不明，促使 1653 年安龙朝廷再派周官探听。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“高风险密使”人物：以私人理由伪装公事，穿越受控区域，连接被控制的朝廷和外部军权。</li><li>行动风险极高，且失败会反噬整个朝臣网络。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作；核心材料为安龙密诏案叙述。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Envoy</code>: 密敕传递和救驾联络。</li><li><code>Divergence Gate</code>: 林青阳是否及时抵达李定国军中、是否被侦获。</li><li><code>Route Lead</code>: 安龙至李定国战区的秘密交通线待地图化。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0247</code>：安龙密诏李定国、泄密追查和三月处置链。</li><li><code>../source-audit.md#audit-sm-0249</code>：孙可望国主化、禅位压力和安龙傀儡化。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林青阳行程、是否进入处置名单、结局和相关官衔需继续逐源校。</li></ul>",
   "plainText": "林青阳 / Lin Qingyang 身份 林青阳，永历安龙朝臣。顾诚材料中作兵部武选司员外郎，安龙密诏李定国救驾的主要使者之一。 生平与主要事迹 在安龙受制时期，曾同徐极、胡士瑞、张镌、蔡氏等劾奏马吉翔、庞天寿依附孙可望。 1652 年十一月前后，以请假葬亲为名，身藏密敕前往李定国军中。 其出使半年音讯不明，促使 1653 年安龙朝廷再派周官探听。 性格、评价与行为模式 可作为“高风险密使”人物：以私人理由伪装公事，穿越受控区域，连接被控制的朝廷和外部军权。 行动风险极高，且失败会反噬整个朝臣网络。 著作或相关文本 暂未核到个人著作；核心材料为安龙密诏案叙述。 游戏数据线索 Envoy: 密敕传递和救驾联络。 Divergence Gate: 林青阳是否及时抵达李定国军中、是否被侦获。 Route Lead: 安龙至李定国战区的秘密交通线待地图化。 来源 ../source audit.md audit sm 0247：安龙密诏李定国、泄密追查和三月处置链。 ../source audit.md audit sm 0249：孙可望国主化、禅位压力和安龙傀儡化。 待辨析 林青阳行程、是否进入处置名单、结局和相关官衔需继续逐源校。"
 }

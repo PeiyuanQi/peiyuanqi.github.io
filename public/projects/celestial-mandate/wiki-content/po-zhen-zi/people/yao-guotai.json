@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yao-guotai",
   "title": "姚国泰 / Yao Guotai",
-  "sourcePath": "references/southern-ming/people/yao-guotai.md",
+  "sourcePath": "references/southern-ming/people/yao-guotai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yao-guotai/portrait.png",
+    "caption": "AI generated game concept art, style inspired by local textual notes; not an authenticated likeness or evidence source.",
+    "alt": "姚国泰 / Yao Guotai portrait concept art",
+    "sourcePath": "references/southern-ming/people/yao-guotai/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>姚国泰，1658 年《海上見聞錄》所见北镇人物，北将谣言后补援剿右镇。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年羊山风灾后，《海上見聞錄》记郑成功撤贺世明镇任，并处分朴/卜世用、魏标、李必、张魁等；惟北镇姚国泰补援剿右镇。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其在军心整顿后的补署位置，不推断其派系或能力。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Command Replacement</code>: 补援剿右镇。</li><li><code>Morale/Rumor Crisis</code>: 羊山风灾后军心整顿。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0368</code>：1658 年北将谣言后姚国泰补援剿右镇。</li></ul>\n<h3>待辨析</h3>\n<ul><li>姚国泰身份、北镇/援剿右镇职名、补署是否临时和后续履历需郑氏材料、清方记录互校。</li></ul>",
   "plainText": "姚国泰 / Yao Guotai Status: anchored seed profile; identity pending. 身份 姚国泰，1658 年《海上見聞錄》所见北镇人物，北将谣言后补援剿右镇。 生平和主要事迹 1658 年羊山风灾后，《海上見聞錄》记郑成功撤贺世明镇任，并处分朴/卜世用、魏标、李必、张魁等；惟北镇姚国泰补援剿右镇。 性格、评价和行为模式提取 当前只记录其在军心整顿后的补署位置，不推断其派系或能力。 著作或文本 未见。 游戏数据线索 Command Replacement: 补援剿右镇。 Morale/Rumor Crisis: 羊山风灾后军心整顿。 来源 ../source audit.md audit sm 0368：1658 年北将谣言后姚国泰补援剿右镇。 待辨析 姚国泰身份、北镇/援剿右镇职名、补署是否临时和后续履历需郑氏材料、清方记录互校。"
 }

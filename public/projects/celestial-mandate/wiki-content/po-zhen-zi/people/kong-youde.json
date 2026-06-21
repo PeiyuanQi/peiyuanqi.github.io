@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__kong-youde",
   "title": "孔有德 / Kong Youde",
-  "sourcePath": "references/southern-ming/people/kong-youde.md",
+  "sourcePath": "references/southern-ming/people/kong-youde/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/kong-youde/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page, not an authenticated likeness or evidence source.",
+    "alt": "孔有德 / Kong Youde portrait concept art",
+    "sourcePath": "references/southern-ming/people/kong-youde/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.kong_youde</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>孔有德，明末清初降清武将，清方定南王系统人物。南明语境中，他是广西、桂林方向的关键清方压力源。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>早年辽东军旅和降清经历待补。</li><li>1650 年广州再陷后，孔有德部进入桂林；瞿式耜、张同敞被俘后拒降，十二月遇害。</li><li>1652 年李定国反攻广西时，孔有德在桂林败局中自杀，广西一度恢复。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：降清旧将、重军事占领和招降压力，能以官爵和“识时务”话术劝降明臣。</li><li>在桂林叙事中，孔有德是“清方压服与招降”的执行者；与瞿式耜、张同敞的拒降构成强烈对照。</li><li>建模时可作为清方广西方向的高压节点，但其个人对白话劝降、礼遇或处刑的细节需按来源分层。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 清方广西军事压力、桂林陷落、招降压力。</li><li><code>Historical Candidate</code>: 桂林是否能守住、孔有德是否在 1652 年被李定国反攻击溃。</li><li><code>AI Bias</code>: 高军事压迫、高招降倾向、低对南明正统让步。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0088</code>，<code>../source-audit.md#audit-sm-0095</code>，<code>../source-audit.md#audit-sm-0169</code>，<code>../source-audit.md#audit-sm-0170</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>孔有德早年降清、爵号变化、1650 桂林处置链、1652 自杀经过和家属结局需对清方记录与南明材料细校。</li></ul>",
   "plainText": "孔有德 / Kong Youde Stable draft ID: person.kong youde Status: anchored seed profile 身份 孔有德，明末清初降清武将，清方定南王系统人物。南明语境中，他是广西、桂林方向的关键清方压力源。 生平和主要事迹 早年辽东军旅和降清经历待补。 1650 年广州再陷后，孔有德部进入桂林；瞿式耜、张同敞被俘后拒降，十二月遇害。 1652 年李定国反攻广西时，孔有德在桂林败局中自杀，广西一度恢复。 性格、评价和行为模式提取 行为模式：降清旧将、重军事占领和招降压力，能以官爵和“识时务”话术劝降明臣。 在桂林叙事中，孔有德是“清方压服与招降”的执行者；与瞿式耜、张同敞的拒降构成强烈对照。 建模时可作为清方广西方向的高压节点，但其个人对白话劝降、礼遇或处刑的细节需按来源分层。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 清方广西军事压力、桂林陷落、招降压力。 Historical Candidate: 桂林是否能守住、孔有德是否在 1652 年被李定国反攻击溃。 AI Bias: 高军事压迫、高招降倾向、低对南明正统让步。 来源 已核锚点：../source audit.md audit sm 0088，../source audit.md audit sm 0095，../source audit.md audit sm 0169，../source audit.md audit sm 0170。 待辨析 孔有德早年降清、爵号变化、1650 桂林处置链、1652 自杀经过和家属结局需对清方记录与南明材料细校。"
 }

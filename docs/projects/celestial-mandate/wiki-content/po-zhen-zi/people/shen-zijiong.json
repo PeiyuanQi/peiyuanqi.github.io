@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__shen-zijiong",
   "title": "沈自駉 / Shen Zijiong",
-  "sourcePath": "references/southern-ming/people/shen-zijiong.md",
+  "sourcePath": "references/southern-ming/people/shen-zijiong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/shen-zijiong/portrait.png",
+    "caption": "AI generated game concept art informed by local written evidence and shared roster art direction; it is not an authenticated likeness or evidence source.",
+    "alt": "沈自駉 / Shen Zijiong portrait concept art",
+    "sourcePath": "references/southern-ming/people/shen-zijiong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.shen_zijiong</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>沈自駉，字君牧，太湖水乡抗清支线人物。《小腆纪年》记其为沈自征之弟，名中“駉”字存在异体或误写提示。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>沈自征死后，沈自駉与沈自炳收其所藏渔船，集兵响应陆世钥。</li><li>本轮材料只支撑其参与太湖起兵和船只动员。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方家族船只资源进入抗清动员。</li><li>资料状态：姓名字形和身份仍需谨慎，不与其他沈氏人物合并。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Data Uncertainty</code>: 姓名字形和职衔待校。</li><li><code>Route/Water Network</code>: 太湖船只资源节点。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0202</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>“自駉”字形、是否为诸生、与沈自炳分工和结局需地方志核验。</li></ul>",
   "plainText": "沈自駉 / Shen Zijiong Stable draft ID: person.shen zijiong Status: anchored seed profile 身份 沈自駉，字君牧，太湖水乡抗清支线人物。《小腆纪年》记其为沈自征之弟，名中“駉”字存在异体或误写提示。 生平和主要事迹 沈自征死后，沈自駉与沈自炳收其所藏渔船，集兵响应陆世钥。 本轮材料只支撑其参与太湖起兵和船只动员。 性格、评价和行为模式提取 行为模式：地方家族船只资源进入抗清动员。 资料状态：姓名字形和身份仍需谨慎，不与其他沈氏人物合并。 著作或文本 未见已核著作。 游戏数据线索 Data Uncertainty: 姓名字形和职衔待校。 Route/Water Network: 太湖船只资源节点。 来源 已核锚点：../source audit.md audit sm 0202。 待辨析 “自駉”字形、是否为诸生、与沈自炳分工和结局需地方志核验。"
 }

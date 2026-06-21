@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yan-yingyuan",
   "title": "阎应元 / Yan Yingyuan",
-  "sourcePath": "references/southern-ming/people/yan-yingyuan.md",
+  "sourcePath": "references/southern-ming/people/yan-yingyuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yan-yingyuan/portrait.png",
+    "caption": "AI generated game concept art grounded in local written notes; it is not an authenticated likeness or an evidence source.",
+    "alt": "阎应元 / Yan Yingyuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/yan-yingyuan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yan_yingyuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>阎应元，顺天通州人，明末江阴典史。1645 年江阴抗清中被士民迎入城主持守御，城破后死难。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>崇祯朝曾任江阴典史，以捕盗、乡兵防御和黄田港抗海盗事迹见称。</li><li>弘光时曾升广东英德主簿，因道路阻隔未赴任，仍寓居江阴附近。</li><li>1645 年江阴因剃发令起事后，由陈明遇和士民迎入城中，分堡守门、整顿军械、组织丁壮和物资，成为守城核心指挥者。</li><li>清方和降将刘良佐反复劝降、攻城，阎应元坚持拒降；城破后被俘或自尽细节诸源略有差异，但不屈死难为本轮已核主线。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：低阶官吏但组织力强，能在地方危机中快速建立防御秩序。</li><li>评价层：顾诚和编年材料均突出其严明、有胆略、能动员民众；同时各种守城天数、战损和死难数字具有强记忆层色彩。</li><li>游戏建模可抽取为：高忠诚、高组织/守城能力、高地方动员；政治资源和外援极弱。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本人著作进入本轮核验。</li><li>相关文本入口包括《江阴城守纪》《江阴城守后纪》《明季南略》《小腆紀年》。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>PlayableRoleCard</code>: 地方守城型非中枢角色候选。</li><li><code>State Modifier Source</code>: 江阴地方动员、拒剃抗清、严明守城。</li><li><code>Report Fact</code>: 低阶地方官在高压下可能成为区域抵抗核心。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0043</code>，<code>../source-audit.md#audit-sm-0044</code>，<code>../source-audit.md#audit-sm-0046</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>死亡细节、尸身去向、自尽/被害叙述需要逐源校对。</li><li>守城天数、清方伤亡和江阴城内死难数字不得直接进入人物属性。</li></ul>",
   "plainText": "阎应元 / Yan Yingyuan Stable draft ID: person.yan yingyuan Status: anchored seed profile 身份 阎应元，顺天通州人，明末江阴典史。1645 年江阴抗清中被士民迎入城主持守御，城破后死难。 生平和主要事迹 崇祯朝曾任江阴典史，以捕盗、乡兵防御和黄田港抗海盗事迹见称。 弘光时曾升广东英德主簿，因道路阻隔未赴任，仍寓居江阴附近。 1645 年江阴因剃发令起事后，由陈明遇和士民迎入城中，分堡守门、整顿军械、组织丁壮和物资，成为守城核心指挥者。 清方和降将刘良佐反复劝降、攻城，阎应元坚持拒降；城破后被俘或自尽细节诸源略有差异，但不屈死难为本轮已核主线。 性格、评价和行为模式提取 行为模式：低阶官吏但组织力强，能在地方危机中快速建立防御秩序。 评价层：顾诚和编年材料均突出其严明、有胆略、能动员民众；同时各种守城天数、战损和死难数字具有强记忆层色彩。 游戏建模可抽取为：高忠诚、高组织/守城能力、高地方动员；政治资源和外援极弱。 著作或文本 未见本人著作进入本轮核验。 相关文本入口包括《江阴城守纪》《江阴城守后纪》《明季南略》《小腆紀年》。 游戏数据线索 PlayableRoleCard: 地方守城型非中枢角色候选。 State Modifier Source: 江阴地方动员、拒剃抗清、严明守城。 Report Fact: 低阶地方官在高压下可能成为区域抵抗核心。 来源 已核锚点：../source audit.md audit sm 0043，../source audit.md audit sm 0044，../source audit.md audit sm 0046。 待辨析 死亡细节、尸身去向、自尽/被害叙述需要逐源校对。 守城天数、清方伤亡和江阴城内死难数字不得直接进入人物属性。"
 }

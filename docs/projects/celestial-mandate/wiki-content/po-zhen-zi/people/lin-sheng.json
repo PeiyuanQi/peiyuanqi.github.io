@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-sheng",
   "title": "林胜 / Lin Sheng",
-  "sourcePath": "references/southern-ming/people/lin-sheng.md",
+  "sourcePath": "references/southern-ming/people/lin-sheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-sheng/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated.",
+    "alt": "林胜 / Lin Sheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-sheng/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>林胜，郑成功系统将领，1658 年鸥汀寨和 1659 年南京战役材料中均出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年黄梧叛海澄后，《海上見聞錄》记郑成功令甘辉、林胜、洪旭等各镇兵前往攻复；七月又记林胜随甘辉、周全斌、杨祖等十五镇北上闽安、福州方向。</li><li>1658 年郑成功编练铁人后，命林胜同左右虎卫南下攻许龙，许龙遁，澄海守将刘进忠降；四月南澳线中，林胜又请兵攻鸥汀坝，后与黄廷等攻破。</li><li>1659 年南京城下败战中，林胜参与战斗并在清军突击中覆没。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料显示林胜是郑军前线执行将领。鸥汀寨屠戮线索属于高敏感事件，需另作事件记忆层，不在本人物页展开。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Zheng Commander</code>: 鸥汀寨、南京战役。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0356</code>：1656 年揭阳败事、围头海战和海澄叛前责任链。</li><li><code>../source-audit.md#audit-sm-0357</code>：1656 年闽安、福州行动和舟山失守。</li><li><code>../source-audit.md#audit-sm-0364</code>：1658 年林胜攻许龙、澄海归郑。</li><li><code>../source-audit.md#audit-sm-0365</code>：1658 年南澳和鸥汀坝行动。</li><li><code>../source-audit.md#audit-sm-0124</code>：1658 年郑氏北上前后。</li><li><code>../source-audit.md#audit-sm-0126</code>：南京城下失利。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林胜职名、许龙/鸥汀坝行为和南京战死细节需多源校。</li></ul>",
   "plainText": "林胜 / Lin Sheng 身份 林胜，郑成功系统将领，1658 年鸥汀寨和 1659 年南京战役材料中均出现。 生平和主要事迹 1656 年黄梧叛海澄后，《海上見聞錄》记郑成功令甘辉、林胜、洪旭等各镇兵前往攻复；七月又记林胜随甘辉、周全斌、杨祖等十五镇北上闽安、福州方向。 1658 年郑成功编练铁人后，命林胜同左右虎卫南下攻许龙，许龙遁，澄海守将刘进忠降；四月南澳线中，林胜又请兵攻鸥汀坝，后与黄廷等攻破。 1659 年南京城下败战中，林胜参与战斗并在清军突击中覆没。 性格、评价和行为模式 当前材料显示林胜是郑军前线执行将领。鸥汀寨屠戮线索属于高敏感事件，需另作事件记忆层，不在本人物页展开。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Zheng Commander: 鸥汀寨、南京战役。 来源 ../source audit.md audit sm 0356：1656 年揭阳败事、围头海战和海澄叛前责任链。 ../source audit.md audit sm 0357：1656 年闽安、福州行动和舟山失守。 ../source audit.md audit sm 0364：1658 年林胜攻许龙、澄海归郑。 ../source audit.md audit sm 0365：1658 年南澳和鸥汀坝行动。 ../source audit.md audit sm 0124：1658 年郑氏北上前后。 ../source audit.md audit sm 0126：南京城下失利。 待辨析 林胜职名、许龙/鸥汀坝行为和南京战死细节需多源校。"
 }

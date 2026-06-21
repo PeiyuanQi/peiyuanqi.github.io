@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wei-zaode",
   "title": "魏藻德 / Wei Zaode",
-  "sourcePath": "references/southern-ming/people/wei-zaode.md",
+  "sourcePath": "references/southern-ming/people/wei-zaode/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wei-zaode/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated.",
+    "alt": "魏藻德 / Wei Zaode portrait concept art",
+    "sourcePath": "references/southern-ming/people/wei-zaode/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wei_zaode</code><br />Status: Phase 1 起点低可见度人物；内阁责任比例待校。</p></blockquote>\n<h3>身份</h3>\n<p>魏藻德，崇祯末阁臣。Phase 1 起点链中，他承担北京陷落前内阁迟疑、命令往返和防御窗口错失的一个人物接口。</p>\n<h3>已核时间线</h3>\n<div class=\"wiki-table-wrap\"><table><thead><tr><th>时间</th><th>地点</th><th>事件</th><th>建模意义</th></tr></thead><tbody><tr><td>崇祯十七年春</td><td>北京</td><td>崇祯帝示以撤关外城、召吴三桂入卫方案，魏藻德与陈演等不敢决，担忧日后因弃地获罪。</td><td><code>CabinetRiskAversion</code>。</td></tr><tr><td>崇祯十七年三月十八日前后</td><td>北京</td><td>《小腆纪年》另记杜勋入城交涉时，崇祯询问魏藻德是否决策，魏藻德默然无言；此处只作为北京末局不决风格旁证。</td><td><code>CourtInaction</code>，不得过度外推。</td></tr></tbody></table></div>\n<h3>性格、评价和行为模式</h3>\n<ul><li>可建模为末期中枢的保身、迟疑和不敢承担方案后果。</li><li>当前不定案其所有行为动机，也不把“默然”直接转为稳定人格数值。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>CourtInaction</code>: 危机中枢无法把警报转化为行动。</li><li><code>DecisionLatency</code>: 指令和授权在中枢停滞。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0503</code>。</li><li><code>data/era-packages/southern-ming/source-notes/xiaotian-jinian-wu-sangui-recall-delay-wu-xiang-consultation-1644.json</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>与陈演及其他阁臣的具体分工、杜勋交涉记录异文、北京陷落后处置和后世评价待校。</li></ul>",
   "plainText": "魏藻德 / Wei Zaode Stable draft ID: person.wei zaode Status: Phase 1 起点低可见度人物；内阁责任比例待校。 身份 魏藻德，崇祯末阁臣。Phase 1 起点链中，他承担北京陷落前内阁迟疑、命令往返和防御窗口错失的一个人物接口。 已核时间线 时间 地点 事件 建模意义 崇祯十七年春 北京 崇祯帝示以撤关外城、召吴三桂入卫方案，魏藻德与陈演等不敢决，担忧日后因弃地获罪。 CabinetRiskAversion。 崇祯十七年三月十八日前后 北京 《小腆纪年》另记杜勋入城交涉时，崇祯询问魏藻德是否决策，魏藻德默然无言；此处只作为北京末局不决风格旁证。 CourtInaction，不得过度外推。 性格、评价和行为模式 可建模为末期中枢的保身、迟疑和不敢承担方案后果。 当前不定案其所有行为动机，也不把“默然”直接转为稳定人格数值。 游戏数据线索 CourtInaction: 危机中枢无法把警报转化为行动。 DecisionLatency: 指令和授权在中枢停滞。 来源 ../source audit.md audit sm 0503。 data/era packages/southern ming/source notes/xiaotian jinian wu sangui recall delay wu xiang consultation 1644.json。 待辨析 与陈演及其他阁臣的具体分工、杜勋交涉记录异文、北京陷落后处置和后世评价待校。"
 }

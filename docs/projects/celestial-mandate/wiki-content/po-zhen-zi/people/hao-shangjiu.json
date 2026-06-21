@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__hao-shangjiu",
   "title": "郝尚久 / Hao Shangjiu",
-  "sourcePath": "references/southern-ming/people/hao-shangjiu.md",
+  "sourcePath": "references/southern-ming/people/hao-shangjiu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/hao-shangjiu/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness and not an evidence source.",
+    "alt": "郝尚久 / Hao Shangjiu portrait concept art",
+    "sourcePath": "references/southern-ming/people/hao-shangjiu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.hao_shangjiu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>郝尚久，1653 年广东战局中在潮州方向响应李定国入粤的地方军事人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1653 年李定国由广西入粤、围攻肇庆时，郝尚久在潮州方向起事响应。</li><li>郝尚久拘捕清方地方官，改用永历纪年，试图同李定国西线和郑成功海上力量形成东西呼应。</li><li>潮州线最终失败，郝尚久及其子郝尧自尽的线索需进一步校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式暂记为：地方军政力量在外部强军入境时重新站队，并试图用地方城寨和粮饷准备支撑长期抵抗。</li><li>其残暴、起事动机和与郑成功关系的评价材料复杂，暂不做最终性格判断。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 广东地方响应、潮州方向起事。</li><li><code>Historical Candidate</code>: 李定国广东战役的地方支援。</li><li><code>Divergence Gate</code>: 潮州响应能否与肇庆/新会西线打通。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0022</code>，<code>../source-audit.md#audit-sm-0099</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>郝尚久身份、兵力、起事日期、失败经过和地方网络需地方志、清方档案和广东专题材料校证；《小腆纪年》与顾诚校订日期不完全一致。</li></ul>",
   "plainText": "郝尚久 / Hao Shangjiu Stable draft ID: person.hao shangjiu Status: anchored seed profile 身份 郝尚久，1653 年广东战局中在潮州方向响应李定国入粤的地方军事人物。 生平和主要事迹 1653 年李定国由广西入粤、围攻肇庆时，郝尚久在潮州方向起事响应。 郝尚久拘捕清方地方官，改用永历纪年，试图同李定国西线和郑成功海上力量形成东西呼应。 潮州线最终失败，郝尚久及其子郝尧自尽的线索需进一步校。 性格、评价和行为模式提取 行为模式暂记为：地方军政力量在外部强军入境时重新站队，并试图用地方城寨和粮饷准备支撑长期抵抗。 其残暴、起事动机和与郑成功关系的评价材料复杂，暂不做最终性格判断。 著作或文本 待补。 游戏数据线索 State Modifier Source: 广东地方响应、潮州方向起事。 Historical Candidate: 李定国广东战役的地方支援。 Divergence Gate: 潮州响应能否与肇庆/新会西线打通。 来源 已核锚点：../source audit.md audit sm 0022，../source audit.md audit sm 0099。 待辨析 郝尚久身份、兵力、起事日期、失败经过和地方网络需地方志、清方档案和广东专题材料校证；《小腆纪年》与顾诚校订日期不完全一致。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-zhong-yongchun",
   "title": "林忠（永春义师） / Lin Zhong",
-  "sourcePath": "references/southern-ming/people/lin-zhong-yongchun.md",
+  "sourcePath": "references/southern-ming/people/lin-zhong-yongchun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-zhong-yongchun/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated.",
+    "alt": "林忠（永春义师） / Lin Zhong portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-zhong-yongchun/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>林忠，1658 年《海上見聞錄》所见永春义师人物，袭破永福县。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年《海上見聞錄》记永春义师林忠袭破永福县；随后清方李率泰发兵，并因檄黄梧兵未至而疑黄梧、分其辖下官兵入八旗。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其为永春义师节点，不推断其组织规模、身份背景或后续归属。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Local Resistance</code>: 永春义师。</li><li><code>Qing Response Trigger</code>: 永福县、李率泰发兵和黄梧兵权拆分线。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0364</code>：1658 年永春义师林忠袭破永福县。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林忠身份、永春义师规模、永福县地望和与郑氏主力的关系需地方志、清方记录和郑氏材料互校。</li></ul>",
   "plainText": "林忠（永春义师） / Lin Zhong Status: anchored seed profile; identity pending. 身份 林忠，1658 年《海上見聞錄》所见永春义师人物，袭破永福县。 生平和主要事迹 1658 年《海上見聞錄》记永春义师林忠袭破永福县；随后清方李率泰发兵，并因檄黄梧兵未至而疑黄梧、分其辖下官兵入八旗。 性格、评价和行为模式提取 当前只记录其为永春义师节点，不推断其组织规模、身份背景或后续归属。 著作或文本 未见。 游戏数据线索 Local Resistance: 永春义师。 Qing Response Trigger: 永福县、李率泰发兵和黄梧兵权拆分线。 来源 ../source audit.md audit sm 0364：1658 年永春义师林忠袭破永福县。 待辨析 林忠身份、永春义师规模、永福县地望和与郑氏主力的关系需地方志、清方记录和郑氏材料互校。"
 }

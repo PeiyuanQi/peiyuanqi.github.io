@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__huang-yuan-zheng",
   "title": "黄元（郑氏） / Huang Yuan",
-  "sourcePath": "references/southern-ming/people/huang-yuan-zheng.md",
+  "sourcePath": "references/southern-ming/people/huang-yuan-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/huang-yuan-zheng/portrait.png",
+    "caption": "AI generated game concept art based on local textual evidence; this is not an authenticated likeness or evidence source.",
+    "alt": "黄元（郑氏） / Huang Yuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/huang-yuan-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>黄元，郑成功系统护卫右镇或铜山守御人物，1656 年铜山防守中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年黄梧叛海澄后，《海上見聞錄》记郑成功以黄元、华栋守铜山。</li><li>1656 年十月，《閩海紀要》《海上見聞錄》均记清方攻铜山，为华栋、黄元击败。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为铜山守御节点，不作性格评价。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Rear Base Defense</code>: 铜山守御。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0358</code>：1656 年铜山守御、罗源宁德和护国岭退兵。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黄元职名、是否即黄元佐或另人、铜山战斗分工及后续去向需校。</li></ul>",
   "plainText": "黄元（郑氏） / Huang Yuan Status: seed profile; identity pending. 身份 黄元，郑成功系统护卫右镇或铜山守御人物，1656 年铜山防守中出现。 生平和主要事迹 1656 年黄梧叛海澄后，《海上見聞錄》记郑成功以黄元、华栋守铜山。 1656 年十月，《閩海紀要》《海上見聞錄》均记清方攻铜山，为华栋、黄元击败。 性格、评价和行为模式提取 当前只作为铜山守御节点，不作性格评价。 著作或文本 未见本轮材料记录。 游戏数据线索 Rear Base Defense: 铜山守御。 来源 ../source audit.md audit sm 0358：1656 年铜山守御、罗源宁德和护国岭退兵。 待辨析 黄元职名、是否即黄元佐或另人、铜山战斗分工及后续去向需校。"
 }

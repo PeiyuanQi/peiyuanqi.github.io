@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhu-changfang",
   "title": "朱常淓 / 潞王",
-  "sourcePath": "references/southern-ming/people/zhu-changfang.md",
+  "sourcePath": "references/southern-ming/people/zhu-changfang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhu-changfang/portrait.png",
+    "caption": "AI generated game concept art based on the local profile text; not an authenticated likeness or evidence source.",
+    "alt": "朱常淓 / 潞王 portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhu-changfang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.zhu_changfang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>朱常淓，潞王。弘光覆亡后在杭州一度被请监国，但未接受；清军入浙后降清。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>弘光初立前后，潞王曾是南都继统讨论中的重要候选。</li><li>弘光覆亡后，朱常淓在杭州，被部分臣民请为监国；《小腆纪年》记其不受，清军至杭州后开门率众降。</li><li>顾诚《南明史》把朱聿键离杭赴闽同潞王朱常淓已决定投降相联系，认为这是隆武继统形成的重要背景。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：高宗藩合法性、低危机承担能力。其价值在于说明“血统近”和“能成为权力中枢”不是同一件事。</li><li>对游戏建模，潞王适合作为一个失败的 <code>Continuity Anchor</code>：被期待承接正统，但不能形成抵抗 authority。</li><li>后世评价多带强烈道德批判；具体动机仍需和杭州地方材料、清方记录对读。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>暂无。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Continuity Anchor</code>: 潞王候选继统。</li><li><code>Historical Candidate</code>: 杭州监国失败、杭州降清。</li><li><code>Divergence Gate</code>: 潞王是否接受监国，杭州是否形成抵抗中心。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0066</code>。</li><li>相关事件：<code>../events/hangzhou-lu-zhedong-regency-1645.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>潞王拒绝监国的具体过程、太后是否泣拜、张秉贞/陈洪范等人的决策作用。</li><li>朱常淓后续被杀日期和清方处理需另补。</li></ul>",
   "plainText": "朱常淓 / 潞王 Stable draft ID: person.zhu changfang Status: anchored seed profile 身份 朱常淓，潞王。弘光覆亡后在杭州一度被请监国，但未接受；清军入浙后降清。 生平和主要事迹 弘光初立前后，潞王曾是南都继统讨论中的重要候选。 弘光覆亡后，朱常淓在杭州，被部分臣民请为监国；《小腆纪年》记其不受，清军至杭州后开门率众降。 顾诚《南明史》把朱聿键离杭赴闽同潞王朱常淓已决定投降相联系，认为这是隆武继统形成的重要背景。 性格、评价和行为模式提取 行为模式：高宗藩合法性、低危机承担能力。其价值在于说明“血统近”和“能成为权力中枢”不是同一件事。 对游戏建模，潞王适合作为一个失败的 Continuity Anchor：被期待承接正统，但不能形成抵抗 authority。 后世评价多带强烈道德批判；具体动机仍需和杭州地方材料、清方记录对读。 著作或文本 暂无。 游戏数据线索 Continuity Anchor: 潞王候选继统。 Historical Candidate: 杭州监国失败、杭州降清。 Divergence Gate: 潞王是否接受监国，杭州是否形成抵抗中心。 来源 已核锚点：../source audit.md audit sm 0066。 相关事件：../events/hangzhou lu zhedong regency 1645.md。 待辨析 潞王拒绝监国的具体过程、太后是否泣拜、张秉贞/陈洪范等人的决策作用。 朱常淓后续被杀日期和清方处理需另补。"
 }

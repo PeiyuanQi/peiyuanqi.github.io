@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__mao-ji-shiding",
   "title": "猫鸡实叮 / Maoji Shiding",
-  "sourcePath": "references/southern-ming/people/mao-ji-shiding.md",
+  "sourcePath": "references/southern-ming/people/mao-ji-shiding/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/mao-ji-shiding/portrait.png",
+    "caption": "AI generated game concept art, style inspired by local textual research only. This is not an authenticated likeness or evidence source.",
+    "alt": "猫鸡实叮 / Maoji Shiding portrait concept art",
+    "sourcePath": "references/southern-ming/people/mao-ji-shiding/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; source transliteration pending.</p></blockquote>\n<h3>身份</h3>\n<p>猫鸡实叮，《海上見聞錄》所见赤嵌守将音译名。现代身份、原文拼写和是否等同其他材料中的赤嵌守将名称均待校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1661 年四月鹿耳门登陆后，《海上見聞錄》记守赤嵌城夷长猫鸡实叮发炮，后因城孤无救，受杨朝栋招谕而率众出降。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作来源转写和赤嵌出降人物线索，不映射现代姓名，也不展开性格评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Foreign Fort Transition</code>: 赤嵌城守将出降。</li><li><code>Identity Disambiguation</code>: 音译名需 VOC/台湾资料校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0379</code>：1661 年赤嵌出降和猫鸡实叮线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>猫鸡实叮的原文姓名、职位、与《臺灣鄭氏始末》“苗难实丁”等写法关系、出降人数和条款需 VOC 资料、台湾地方史和郑氏材料互校。</li></ul>",
   "plainText": "猫鸡实叮 / Maoji Shiding Status: anchored seed profile; source transliteration pending. 身份 猫鸡实叮，《海上見聞錄》所见赤嵌守将音译名。现代身份、原文拼写和是否等同其他材料中的赤嵌守将名称均待校。 生平和主要事迹 1661 年四月鹿耳门登陆后，《海上見聞錄》记守赤嵌城夷长猫鸡实叮发炮，后因城孤无救，受杨朝栋招谕而率众出降。 性格、评价和行为模式提取 当前只作来源转写和赤嵌出降人物线索，不映射现代姓名，也不展开性格评价。 著作或文本 未见。 游戏数据线索 Foreign Fort Transition: 赤嵌城守将出降。 Identity Disambiguation: 音译名需 VOC/台湾资料校。 来源 ../source audit.md audit sm 0379：1661 年赤嵌出降和猫鸡实叮线索。 待辨析 猫鸡实叮的原文姓名、职位、与《臺灣鄭氏始末》“苗难实丁”等写法关系、出降人数和条款需 VOC 资料、台湾地方史和郑氏材料互校。"
 }

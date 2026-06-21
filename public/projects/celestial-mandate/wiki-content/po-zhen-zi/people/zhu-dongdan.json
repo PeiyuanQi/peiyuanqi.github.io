@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhu-dongdan",
   "title": "朱东旦 / Zhu Dongdan",
-  "sourcePath": "references/southern-ming/people/zhu-dongdan.md",
+  "sourcePath": "references/southern-ming/people/zhu-dongdan/profile.md",
   "html": "<h3>身份</h3>\n<p>朱东旦，永历安龙朝臣。顾诚材料中作兵部职方司主事，参与密敕缮写。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>吴贞毓主持安龙密议后，由朱东旦缮写密敕。</li><li>1654 年密诏事发后卷入处置链。</li><li>1657 年后追赠层中列入安龙死难忠臣之一。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“文书链关键节点”：其缮写行为连接皇帝宝玺、吴贞毓密议和林青阳出使。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Scribe</code>: 密敕缮写。</li><li><code>Risk Model</code>: 文书链越完整，形式合法性越强，事发后罪名也越集中于“盗宝矫诏”。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0247</code>：安龙密诏李定国、泄密追查和三月处置链。</li><li><code>../source-audit.md#audit-sm-0248</code>：十八先生姓名、诏书名单和追赠名单异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>朱东旦是否与其他朱姓宗室/官员混淆、官职和追赠职衔需继续校。</li></ul>",
   "plainText": "朱东旦 / Zhu Dongdan 身份 朱东旦，永历安龙朝臣。顾诚材料中作兵部职方司主事，参与密敕缮写。 生平与主要事迹 吴贞毓主持安龙密议后，由朱东旦缮写密敕。 1654 年密诏事发后卷入处置链。 1657 年后追赠层中列入安龙死难忠臣之一。 性格、评价与行为模式 可作为“文书链关键节点”：其缮写行为连接皇帝宝玺、吴贞毓密议和林青阳出使。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Court Scribe: 密敕缮写。 Risk Model: 文书链越完整，形式合法性越强，事发后罪名也越集中于“盗宝矫诏”。 来源 ../source audit.md audit sm 0247：安龙密诏李定国、泄密追查和三月处置链。 ../source audit.md audit sm 0248：十八先生姓名、诏书名单和追赠名单异文。 待辨析 朱东旦是否与其他朱姓宗室/官员混淆、官职和追赠职衔需继续校。"
 }

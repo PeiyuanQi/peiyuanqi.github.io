@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-bingyin",
   "title": "杨秉胤 / 杨秉允 / Yang Bingyin",
-  "sourcePath": "references/southern-ming/people/yang-bingyin.md",
+  "sourcePath": "references/southern-ming/people/yang-bingyin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-bingyin/portrait.png",
+    "caption": "AI generated game concept art informed by local textual notes; it is not an authenticated likeness or evidence source.",
+    "alt": "杨秉胤 / 杨秉允 / Yang Bingyin portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-bingyin/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>杨秉胤，一作杨秉允，达州方向夔东、川东分守人物。1658 年吴三桂入蜀背景中，《小腆纪年》作杨秉允，《明季南略》作杨秉胤，并把其与徐邦定等列于达州。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年，吴三桂经过重庆、继续入黔时，达州有杨秉允/杨秉胤等连兵分守。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料只支持“达州节点防守者”身份，不足以展开个人评价。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Kuidong Commander</code>: 达州簇人物。</li><li><code>Alias</code>: 杨秉胤 / 杨秉允。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0251</code>：1658 夔东、川东分守清单。</li></ul>\n<h3>待辨析</h3>\n<ul><li>名字写法、封爵、与达州地方势力和徐邦定的关系需校。</li></ul>",
   "plainText": "杨秉胤 / 杨秉允 / Yang Bingyin 身份 杨秉胤，一作杨秉允，达州方向夔东、川东分守人物。1658 年吴三桂入蜀背景中，《小腆纪年》作杨秉允，《明季南略》作杨秉胤，并把其与徐邦定等列于达州。 生平和主要事迹 1658 年，吴三桂经过重庆、继续入黔时，达州有杨秉允/杨秉胤等连兵分守。 性格、评价和行为模式 当前材料只支持“达州节点防守者”身份，不足以展开个人评价。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Kuidong Commander: 达州簇人物。 Alias: 杨秉胤 / 杨秉允。 来源 ../source audit.md audit sm 0251：1658 夔东、川东分守清单。 待辨析 名字写法、封爵、与达州地方势力和徐邦定的关系需校。"
 }

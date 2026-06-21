@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wu-dading",
   "title": "武大定 / Wu Dading",
-  "sourcePath": "references/southern-ming/people/wu-dading.md",
+  "sourcePath": "references/southern-ming/people/wu-dading/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wu-dading/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page; not an authenticated likeness or evidence source.",
+    "alt": "武大定 / Wu Dading portrait concept art",
+    "sourcePath": "references/southern-ming/people/wu-dading/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wu_dading</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>武大定，明末清初四川嘉定、青神一带地方军政割据人物，1651 年刘文秀入川时成为大西军整编川南的主要对手之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>盘踞嘉定、青神一带，与袁韬等地方势力相关。</li><li>1651 年刘文秀入川时，武大定率军赴雅州并派精锐防守荣经方向。</li><li>刘文秀在荣经/鹿角坝击败其精锐后，武大定逃回嘉定，又在追击压力下逃走。</li><li>《南明史稿》记 1659 年清兵还云南后，临潼侯武大定与扶纲、尹三聘、袁韬、祁自贵、马得鸣、武国用、史文等畔降于清；该条可能说明其后期进入滇西/云南降清链，但与 1651 年川南武大定是否完全同一人仍需继续校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：川南地方割据自保，不愿接受孙可望体系会盟/改编。</li><li>在游戏数据中应作为地方军阀节点，不应误作稳定南明中央资源。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 川南割据、四川通道阻滞、刘文秀整编压力。</li><li><code>Historical Candidate</code>: 武大定是否被击败或被礼待招回。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0087</code>，<code>../source-audit.md#audit-sm-0300</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>现有旧索引曾误作“吴大定”；本资料库按顾诚和《小腆紀年》写作“武大定”。</li><li>后续归附、逃亡和家属处置需补。</li><li>1651 年川南武大定、1657 年袭昆明线武大定和 1659 年临潼侯武大定是否为同一人，爵号和后续清方授职需继续校。</li></ul>",
   "plainText": "武大定 / Wu Dading Stable draft ID: person.wu dading Status: anchored seed profile 身份 武大定，明末清初四川嘉定、青神一带地方军政割据人物，1651 年刘文秀入川时成为大西军整编川南的主要对手之一。 生平和主要事迹 盘踞嘉定、青神一带，与袁韬等地方势力相关。 1651 年刘文秀入川时，武大定率军赴雅州并派精锐防守荣经方向。 刘文秀在荣经/鹿角坝击败其精锐后，武大定逃回嘉定，又在追击压力下逃走。 《南明史稿》记 1659 年清兵还云南后，临潼侯武大定与扶纲、尹三聘、袁韬、祁自贵、马得鸣、武国用、史文等畔降于清；该条可能说明其后期进入滇西/云南降清链，但与 1651 年川南武大定是否完全同一人仍需继续校。 性格、评价和行为模式提取 行为模式：川南地方割据自保，不愿接受孙可望体系会盟/改编。 在游戏数据中应作为地方军阀节点，不应误作稳定南明中央资源。 著作或文本 未见已核著作。 游戏数据线索 State Modifier Source: 川南割据、四川通道阻滞、刘文秀整编压力。 Historical Candidate: 武大定是否被击败或被礼待招回。 来源 已核锚点：../source audit.md audit sm 0087，../source audit.md audit sm 0300。 待辨析 现有旧索引曾误作“吴大定”；本资料库按顾诚和《小腆紀年》写作“武大定”。 后续归附、逃亡和家属处置需补。 1651 年川南武大定、1657 年袭昆明线武大定和 1659 年临潼侯武大定是否为同一人，爵号和后续清方授职需继续校。"
 }

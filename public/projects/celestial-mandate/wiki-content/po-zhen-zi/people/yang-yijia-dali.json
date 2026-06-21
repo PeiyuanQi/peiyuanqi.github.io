@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-yijia-dali",
   "title": "杨一甲（大理） / Yang Yijia, Dali",
-  "sourcePath": "references/southern-ming/people/yang-yijia-dali.md",
+  "sourcePath": "references/southern-ming/people/yang-yijia-dali/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-yijia-dali/portrait.png",
+    "caption": "AI generated game concept art based on local written evidence; the likeness is not authenticated and this image is not a historical evidence source.",
+    "alt": "杨一甲（大理） / Yang Yijia, Dali portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-yijia-dali/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yang_yijia_dali</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>杨一甲，维基文库《明史》卷二百九十五所见杨明盛之子。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明史》卷二百九十五在大理/太和同死层中列杨明盛及其子一甲同死。</li><li>本地 CBDB 20260530 对 <code>楊一甲/杨一甲</code> 未见直接命中；这是弱否定，不证明其不存在。</li><li>当前只作家属同死名单层；姓名字形、年龄、身份和具体死亡情形未校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>仅保留家属同死来源层，不提取性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Kinship Candidate</code>: 杨明盛之子。</li><li><code>Event Participant</code>: 大理/太和陷落死事层。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0422</code>：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。</li><li><code>../source-audit.md#audit-sm-0428</code>：本地 CBDB 所见杨一甲无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>“一甲”是否为名、字形是否有异文、与杨明盛关系、地方志记载和明人传记索引原条待校。</li></ul>",
   "plainText": "杨一甲（大理） / Yang Yijia, Dali Stable draft ID: person.yang yijia dali Status: anchored seed profile; identity pending. 身份 杨一甲，维基文库《明史》卷二百九十五所见杨明盛之子。 生平和主要事迹 《明史》卷二百九十五在大理/太和同死层中列杨明盛及其子一甲同死。 本地 CBDB 20260530 对 楊一甲/杨一甲 未见直接命中；这是弱否定，不证明其不存在。 当前只作家属同死名单层；姓名字形、年龄、身份和具体死亡情形未校。 性格、评价和行为模式提取 仅保留家属同死来源层，不提取性格。 著作或文本 未见。 游戏数据线索 Kinship Candidate: 杨明盛之子。 Event Participant: 大理/太和陷落死事层。 来源 ../source audit.md audit sm 0422：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。 ../source audit.md audit sm 0428：本地 CBDB 所见杨一甲无直接命中。 待辨析 “一甲”是否为名、字形是否有异文、与杨明盛关系、地方志记载和明人传记索引原条待校。"
 }

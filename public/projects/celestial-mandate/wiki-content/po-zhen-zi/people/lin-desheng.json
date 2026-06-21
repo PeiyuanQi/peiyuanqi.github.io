@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-desheng",
   "title": "林得胜 / Lin Desheng",
-  "sourcePath": "references/southern-ming/people/lin-desheng.md",
+  "sourcePath": "references/southern-ming/people/lin-desheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-desheng/portrait.png",
+    "caption": "AI generated game concept art. The likeness is not authenticated and should not be used as historical evidence.",
+    "alt": "林得胜 / Lin Desheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-desheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.lin_desheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>林得胜，南明将军，1659 年丽江边外降清链条中的人物之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年五月，林得胜与李如碧、刘镇国、高启隆、王玉隆、王朝钦等自丽江边外降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前仅能记录其为丽江边外降清名单节点，不作个人评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 丽江边外降清链。</li><li><code>Conversion</code>: 丽江边外路线待校。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0305</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林得胜官职、所部兵力、后续清方授职和姓名异写需继续校。</li></ul>",
   "plainText": "林得胜 / Lin Desheng Stable draft ID: person.lin desheng Status: anchored seed profile 身份 林得胜，南明将军，1659 年丽江边外降清链条中的人物之一。 生平和主要事迹 《南明史稿》记 1659 年五月，林得胜与李如碧、刘镇国、高启隆、王玉隆、王朝钦等自丽江边外降清。 性格、评价和行为模式提取 当前仅能记录其为丽江边外降清名单节点，不作个人评价。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 丽江边外降清链。 Conversion: 丽江边外路线待校。 来源 已核锚点：../source audit.md audit sm 0305。 待辨析 林得胜官职、所部兵力、后续清方授职和姓名异写需继续校。"
 }

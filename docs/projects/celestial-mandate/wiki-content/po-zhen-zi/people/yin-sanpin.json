@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yin-sanpin",
   "title": "尹三聘 / Yin Sanpin",
-  "sourcePath": "references/southern-ming/people/yin-sanpin.md",
+  "sourcePath": "references/southern-ming/people/yin-sanpin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yin-sanpin/portrait.png",
+    "caption": "AI generated game concept art based on local profile notes and shared Southern Ming art direction; not an authenticated likeness or evidence source.",
+    "alt": "尹三聘 / Yin Sanpin portrait concept art",
+    "sourcePath": "references/southern-ming/people/yin-sanpin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yin_sanpin</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>尹三聘，南明官员，材料中先见安龙追赠/建庙链，后又见 1659 年滇西和云南降清名单。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>安龙十八先生追赠和建庙材料中，尹三聘被记为奉命往安龙马场建庙立碑或立十八忠臣庙的人物。</li><li>《小腆紀年》和《南明史稿》又记 1659 年清兵还至云南后，尹三聘与扶纲、马宝、马惟兴等先后降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料显示其从安龙追赠执行链转入 1659 年降清名单，但中间履历和动机未校，不做忠诚弧定论。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本轮已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Retinue</code>: 安龙追赠/建庙执行者。</li><li><code>Political Actor</code>: 1659 年文臣降清链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0283</code>，<code>../source-audit.md#audit-sm-0296</code>，<code>../source-audit.md#audit-sm-0300</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>尹三聘官职、安龙建庙具体使命、1659 年降清日期和后续授职需继续校。</li></ul>",
   "plainText": "尹三聘 / Yin Sanpin Stable draft ID: person.yin sanpin Status: anchored seed profile 身份 尹三聘，南明官员，材料中先见安龙追赠/建庙链，后又见 1659 年滇西和云南降清名单。 生平和主要事迹 安龙十八先生追赠和建庙材料中，尹三聘被记为奉命往安龙马场建庙立碑或立十八忠臣庙的人物。 《小腆紀年》和《南明史稿》又记 1659 年清兵还至云南后，尹三聘与扶纲、马宝、马惟兴等先后降清。 性格、评价和行为模式提取 当前材料显示其从安龙追赠执行链转入 1659 年降清名单，但中间履历和动机未校，不做忠诚弧定论。 著作或文本 未见本轮已核著作。 游戏数据线索 Court Retinue: 安龙追赠/建庙执行者。 Political Actor: 1659 年文臣降清链。 来源 已核锚点：../source audit.md audit sm 0283，../source audit.md audit sm 0296，../source audit.md audit sm 0300。 待辨析 尹三聘官职、安龙建庙具体使命、1659 年降清日期和后续授职需继续校。"
 }

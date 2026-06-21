@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-konghe",
   "title": "刘孔和 / Liu Konghe",
-  "sourcePath": "references/southern-ming/people/liu-konghe.md",
+  "sourcePath": "references/southern-ming/people/liu-konghe/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-konghe/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness or evidence source",
+    "alt": "刘孔和 / Liu Konghe portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-konghe/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_konghe</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘孔和，刘鸿训之子，《南疆繹史》卷十一称其在甲申后散财集兵，后被刘泽清所害。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>传文称刘孔和甲申后散财集兵，具有地方动员线索。</li><li>后被刘泽清所害。此为公开文本来源层，刘泽清责任链和事件地点需互校。</li><li>本地 CBDB 20260530 有 <code>劉孔和 c_personid=132675</code>，常山人，字节之，生年 1615、卒年 1645，来源含史语所人名权威、明人传记资料索引、CText 和 Wikidata；可作较强候选权威入口。</li><li>《小腆紀年》《明季南略》均记刘泽清杀刘孔和，但对叔侄/同姓、触发原因、所部二千人和日期写法不同，不能据单一文本定亲属关系。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event</code>: 甲申后地方自发集兵和刘泽清辖区内的内部处置风险。</li><li><code>Relationship</code>: 刘泽清相关敌对/处置链。</li><li>Related dossier: <code>../events/hereditary-nobles-lineages-1644-1655.md</code>。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0436</code>：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。</li><li><code>../source-audit.md#audit-sm-0439</code>：本地 CBDB 所见刘孔和较强候选权威。</li><li><code>../source-audit.md#audit-sm-0441</code>：本地《小腆紀年》《明季南略》所见刘泽清杀刘孔和及亲属关系异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘孔和散财集兵规模、地点、刘泽清害其过程、叔侄/同姓关系、刘鸿训家族背景和 CBDB <code>132675</code> 的字段细节需地方志、清初笔记和刘泽清材料互校。</li></ul>",
   "plainText": "刘孔和 / Liu Konghe Stable draft ID: person.liu konghe Status: seed profile 身份 刘孔和，刘鸿训之子，《南疆繹史》卷十一称其在甲申后散财集兵，后被刘泽清所害。 生平和主要事迹 传文称刘孔和甲申后散财集兵，具有地方动员线索。 后被刘泽清所害。此为公开文本来源层，刘泽清责任链和事件地点需互校。 本地 CBDB 20260530 有 劉孔和 c personid=132675，常山人，字节之，生年 1615、卒年 1645，来源含史语所人名权威、明人传记资料索引、CText 和 Wikidata；可作较强候选权威入口。 《小腆紀年》《明季南略》均记刘泽清杀刘孔和，但对叔侄/同姓、触发原因、所部二千人和日期写法不同，不能据单一文本定亲属关系。 游戏数据线索 Event: 甲申后地方自发集兵和刘泽清辖区内的内部处置风险。 Relationship: 刘泽清相关敌对/处置链。 Related dossier: ../events/hereditary nobles lineages 1644 1655.md。 来源 ../source audit.md audit sm 0436：维基文库《南疆繹史》所见常元亮、汤南金、常延龄、徐逸度、刘文照、刘孔和层。 ../source audit.md audit sm 0439：本地 CBDB 所见刘孔和较强候选权威。 ../source audit.md audit sm 0441：本地《小腆紀年》《明季南略》所见刘泽清杀刘孔和及亲属关系异文。 待辨析 刘孔和散财集兵规模、地点、刘泽清害其过程、叔侄/同姓关系、刘鸿训家族背景和 CBDB 132675 的字段细节需地方志、清初笔记和刘泽清材料互校。"
 }

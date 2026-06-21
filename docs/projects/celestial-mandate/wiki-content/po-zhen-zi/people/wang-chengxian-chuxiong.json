@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-chengxian-chuxiong",
   "title": "王承宪（楚雄） / Wang Chengxian",
-  "sourcePath": "references/southern-ming/people/wang-chengxian-chuxiong.md",
+  "sourcePath": "references/southern-ming/people/wang-chengxian-chuxiong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-chengxian-chuxiong/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated and should not be used as historical evidence.",
+    "alt": "王承宪（楚雄） / Wang Chengxian portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-chengxian-chuxiong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_chengxian_chuxiong</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>王承宪，《小腆紀年》所见楚雄防御人物。来源称其为世袭楚雄卫指挥、武乡试出身，后擢游击，为杨畏知前锋。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》杨畏知小传称，王承宪在楚雄守御中“凡守御事”由其综理。</li><li>沙定洲部再次逼近楚雄时，王承宪偕土官那钥等出城冲击，后中流矢死；其弟王承瑱亦殁于阵。</li><li>维基文库《明史》卷二百九十五也记杨畏知遣王承宪偕土舍那龠等出击，王承宪被创死；页面未校对，那龠/那钥字形和死亡细节需复核。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方世袭武职在围城防御中承担实际守御组织。</li><li>不从单一小传扩展“勇武”“忠烈”等稳定性格字段。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 楚雄围城/杨畏知守御。</li><li><code>Local Defense</code>: 世袭卫所武职、土官协同、出城冲击。</li><li><code>Identity Disambiguation</code>: 王承宪同名风险待查，不直接并入其他王承宪。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0420</code>：《小腆紀年》所见楚雄守御中王承宪、王承瑱、那钥、王克猷与高其勋线索。</li><li><code>../source-audit.md#audit-sm-0422</code>：维基文库《明史》卷二百九十五所见王承宪、王承瑱和那龠层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>楚雄卫世袭关系、游击任命、死亡日期、那钥/那龠协同关系和地方志记载待校。</li></ul>",
   "plainText": "王承宪（楚雄） / Wang Chengxian Stable draft ID: person.wang chengxian chuxiong Status: anchored seed profile; identity pending. 身份 王承宪，《小腆紀年》所见楚雄防御人物。来源称其为世袭楚雄卫指挥、武乡试出身，后擢游击，为杨畏知前锋。 生平和主要事迹 《小腆紀年》杨畏知小传称，王承宪在楚雄守御中“凡守御事”由其综理。 沙定洲部再次逼近楚雄时，王承宪偕土官那钥等出城冲击，后中流矢死；其弟王承瑱亦殁于阵。 维基文库《明史》卷二百九十五也记杨畏知遣王承宪偕土舍那龠等出击，王承宪被创死；页面未校对，那龠/那钥字形和死亡细节需复核。 性格、评价和行为模式提取 行为模式：地方世袭武职在围城防御中承担实际守御组织。 不从单一小传扩展“勇武”“忠烈”等稳定性格字段。 著作或文本 未见。 游戏数据线索 Event Participant: 楚雄围城/杨畏知守御。 Local Defense: 世袭卫所武职、土官协同、出城冲击。 Identity Disambiguation: 王承宪同名风险待查，不直接并入其他王承宪。 来源 ../source audit.md audit sm 0420：《小腆紀年》所见楚雄守御中王承宪、王承瑱、那钥、王克猷与高其勋线索。 ../source audit.md audit sm 0422：维基文库《明史》卷二百九十五所见王承宪、王承瑱和那龠层。 待辨析 楚雄卫世袭关系、游击任命、死亡日期、那钥/那龠协同关系和地方志记载待校。"
 }

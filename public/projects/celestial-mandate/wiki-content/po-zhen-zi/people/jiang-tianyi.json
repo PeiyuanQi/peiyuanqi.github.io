@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__jiang-tianyi",
   "title": "江天一 / Jiang Tianyi",
-  "sourcePath": "references/southern-ming/people/jiang-tianyi.md",
+  "sourcePath": "references/southern-ming/people/jiang-tianyi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/jiang-tianyi/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated.",
+    "alt": "江天一 / Jiang Tianyi portrait concept art",
+    "sourcePath": "references/southern-ming/people/jiang-tianyi/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.jiang_tianyi</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>江天一，字文石，金声门人或相关诸生。南明江南抗清中参与徽州、绩溪义军。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>南京陷落后，与金声纠练义勇。</li><li>建议以绩溪孔道为关键，筑丛山关、屯兵守险，使徽州各县响应形成山地防线。</li><li>绩溪失守后，与金声同被执至南京，拒降遇害。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：战略地理判断者和士绅义军组织者。</li><li>在资料中常与金声并列，适合作为金声义军中的参谋型节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Advisor</code>: 山地关隘和孔道防守建议。</li><li><code>State Modifier Source</code>: 门人网络、地方义军组织和死节记忆。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0195</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>江天一籍贯、身份、具体职衔和同死者名单需地方志和传记材料补证。</li></ul>",
   "plainText": "江天一 / Jiang Tianyi Stable draft ID: person.jiang tianyi Status: anchored seed profile 身份 江天一，字文石，金声门人或相关诸生。南明江南抗清中参与徽州、绩溪义军。 生平和主要事迹 南京陷落后，与金声纠练义勇。 建议以绩溪孔道为关键，筑丛山关、屯兵守险，使徽州各县响应形成山地防线。 绩溪失守后，与金声同被执至南京，拒降遇害。 性格、评价和行为模式提取 行为模式：战略地理判断者和士绅义军组织者。 在资料中常与金声并列，适合作为金声义军中的参谋型节点。 著作或文本 未见已核著作。 游戏数据线索 Advisor: 山地关隘和孔道防守建议。 State Modifier Source: 门人网络、地方义军组织和死节记忆。 来源 已核锚点：../source audit.md audit sm 0195。 待辨析 江天一籍贯、身份、具体职衔和同死者名单需地方志和传记材料补证。"
 }

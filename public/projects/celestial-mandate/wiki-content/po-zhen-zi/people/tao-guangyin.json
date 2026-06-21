@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__tao-guangyin",
   "title": "陶光胤 / Tao Guangyin",
-  "sourcePath": "references/southern-ming/people/tao-guangyin.md",
+  "sourcePath": "references/southern-ming/people/tao-guangyin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/tao-guangyin/portrait.png",
+    "caption": "This is AI generated game concept art style inspired by the local person page; it is not an authenticated likeness or evidence source.",
+    "alt": "陶光胤 / Tao Guangyin portrait concept art",
+    "sourcePath": "references/southern-ming/people/tao-guangyin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.tao_guangyin</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>陶光胤，《南明史稿》卷二所见武定推官。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》卷二隆武二年正月丙寅条记沙定洲寇楚雄、杨畏知力拒；沙定洲陷蒙化、攻武定，推官陶光胤固守不下；同时又记大理已陷。</li><li>本地 CBDB 20260530 对 <code>陶光胤</code> 未见直接命中；这是弱否定，只提示转向武定府志和点校本。</li><li>当前只作武定地方防御线索，不确认其籍贯、任官全程或守城结局。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方推官在沙定洲扩张中承担城守职责。</li><li>不从“固守不下”一语扩展完整评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 武定防御。</li><li><code>Local Defense</code>: 文职地方官守城压力。</li><li><code>Source Variant</code>: 与《小腆紀年》武定参将高其勋、武定同知杨于陆等线索需分层互校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0421</code>：《南明史稿》卷二所见沙定洲寇楚雄、蒙化/武定/大理与陶光胤守武定线索。</li><li><code>../source-audit.md#audit-sm-0428</code>：本地 CBDB 所见陶光胤无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陶光胤籍贯、推官任期、武定守城时间、是否另见武定府志、云南通志或明人传记索引原条待校。</li></ul>",
   "plainText": "陶光胤 / Tao Guangyin Stable draft ID: person.tao guangyin Status: anchored seed profile; identity pending. 身份 陶光胤，《南明史稿》卷二所见武定推官。 生平和主要事迹 《南明史稿》卷二隆武二年正月丙寅条记沙定洲寇楚雄、杨畏知力拒；沙定洲陷蒙化、攻武定，推官陶光胤固守不下；同时又记大理已陷。 本地 CBDB 20260530 对 陶光胤 未见直接命中；这是弱否定，只提示转向武定府志和点校本。 当前只作武定地方防御线索，不确认其籍贯、任官全程或守城结局。 性格、评价和行为模式提取 行为模式：地方推官在沙定洲扩张中承担城守职责。 不从“固守不下”一语扩展完整评价。 著作或文本 未见。 游戏数据线索 Event Participant: 武定防御。 Local Defense: 文职地方官守城压力。 Source Variant: 与《小腆紀年》武定参将高其勋、武定同知杨于陆等线索需分层互校。 来源 ../source audit.md audit sm 0421：《南明史稿》卷二所见沙定洲寇楚雄、蒙化/武定/大理与陶光胤守武定线索。 ../source audit.md audit sm 0428：本地 CBDB 所见陶光胤无直接命中。 待辨析 陶光胤籍贯、推官任期、武定守城时间、是否另见武定府志、云南通志或明人传记索引原条待校。"
 }

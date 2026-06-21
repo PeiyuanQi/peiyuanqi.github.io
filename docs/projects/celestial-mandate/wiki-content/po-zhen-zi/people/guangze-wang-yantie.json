@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__guangze-wang-yantie",
   "title": "光泽王俨铁 / Guangze Wang Yantie",
-  "sourcePath": "references/southern-ming/people/guangze-wang-yantie.md",
+  "sourcePath": "references/southern-ming/people/guangze-wang-yantie/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/guangze-wang-yantie/portrait.png",
+    "caption": "AI-generated game concept art; not an authenticated likeness.",
+    "alt": "光泽王俨铁 / Guangze Wang Yantie portrait concept art",
+    "sourcePath": "references/southern-ming/people/guangze-wang-yantie/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.guangze_wang_yantie</code><br />Status: anchored seed profile, name and lineage pending</p></blockquote>\n<h3>身份</h3>\n<p>光泽王俨铁，《小腆纪年》郭之奇遇难条中同列的宗室或王号人物。姓名、封号、宗支和生平仍待校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆纪年》记光泽王俨铁、郭之奇、总兵杨祥被执至桂林后拒降而死。</li><li>顾诚《南明史》广东、安南线叙述可与此对读，但本轮尚未核出其完整履历。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：南明尾段跨境流亡或被执链条中的宗室节点。</li><li>评价层：当前仅能支撑“不屈死难”的记忆性框架，不足以建成完整人物画像。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 郭之奇安南线尾声中的宗室同难人物。</li><li><code>Unresolved Claim</code>: 光泽王封号、姓名写法、宗支和是否进入 1662 后尾声人物池。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0191</code>，<code>../source-audit.md#audit-sm-0273</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>“俨铁”姓名、字形和宗室谱系需用宗室资料、地方志和《小腆纪年》底本校核。</li><li>是否曾参与两广、安南线行动，或只是同难者，仍待补证。</li></ul>",
   "plainText": "光泽王俨铁 / Guangze Wang Yantie Stable draft ID: person.guangze wang yantie Status: anchored seed profile, name and lineage pending 身份 光泽王俨铁，《小腆纪年》郭之奇遇难条中同列的宗室或王号人物。姓名、封号、宗支和生平仍待校。 生平和主要事迹 《小腆纪年》记光泽王俨铁、郭之奇、总兵杨祥被执至桂林后拒降而死。 顾诚《南明史》广东、安南线叙述可与此对读，但本轮尚未核出其完整履历。 性格、评价和行为模式提取 行为模式：南明尾段跨境流亡或被执链条中的宗室节点。 评价层：当前仅能支撑“不屈死难”的记忆性框架，不足以建成完整人物画像。 著作或文本 未见已核著作。 游戏数据线索 Historical Candidate: 郭之奇安南线尾声中的宗室同难人物。 Unresolved Claim: 光泽王封号、姓名写法、宗支和是否进入 1662 后尾声人物池。 来源 已核锚点：../source audit.md audit sm 0191，../source audit.md audit sm 0273。 待辨析 “俨铁”姓名、字形和宗室谱系需用宗室资料、地方志和《小腆纪年》底本校核。 是否曾参与两广、安南线行动，或只是同难者，仍待补证。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wu-yingji",
   "title": "吴应箕 / Wu Yingji",
-  "sourcePath": "references/southern-ming/people/wu-yingji.md",
+  "sourcePath": "references/southern-ming/people/wu-yingji/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wu-yingji/portrait.png",
+    "caption": "AI generated game concept art informed by local textual notes; it is not an authenticated likeness or evidence source.",
+    "alt": "吴应箕 / Wu Yingji portrait concept art",
+    "sourcePath": "references/southern-ming/people/wu-yingji/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wu_yingji</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>吴应箕，字次尾，号楼山，贵池人，崇祯壬午乡试副榜。复社相关人物，南都反阮大铖“防乱揭帖”中为重要倡议者；1645 年在池州、贵池、东流、建德方向起兵。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>崇祯十一年前后，吴应箕参与反阮大铖的防乱揭帖，顾诚将其放在东林、复社和阮大铖冲突中解释。</li><li>南都覆亡后，吴应箕起兵响应复明，攻池州不克；同事者散去后，独自募士，以计复建德、东流。</li><li>金声承制署吴应箕为池州推官、监纪军事；金声先败后，吴应箕失援，仍招兵图再起。</li><li>旧籍和顾诚对其最后被获地点、死亡方式表述不完全一致：可确认其失败后被清方追击/捕获并死亡，细节待校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：复社政治动员、反阉党/反阮记忆和地方军事行动相接。</li><li>能力特征：善文词、意气强烈，能联络门徒武夫，失败后仍尝试独立重建队伍。</li><li>风险特征：依赖金声绩溪主线授权和外援；主线失败后，池州/石埭/青阳方向迅速孤立。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>本轮仅核到其善古文词和防乱揭帖活动；文集、诗文需后续补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Event</code>: 复社反阮网络延伸为地方抗清行动。</li><li><code>Historical Candidate</code>: 吴应箕能否稳住池州、东流、建德节点，连接徽州和长江线。</li><li><code>State Modifier Source</code>: 士人名望、复社网络、失援后的独立招兵。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0201</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>朱盛浓奉宗室号召关系、吴应箕被获地点和死因、池州推官授职来源、建德现代对应需继续核验。</li></ul>",
   "plainText": "吴应箕 / Wu Yingji Stable draft ID: person.wu yingji Status: anchored seed profile 身份 吴应箕，字次尾，号楼山，贵池人，崇祯壬午乡试副榜。复社相关人物，南都反阮大铖“防乱揭帖”中为重要倡议者；1645 年在池州、贵池、东流、建德方向起兵。 生平和主要事迹 崇祯十一年前后，吴应箕参与反阮大铖的防乱揭帖，顾诚将其放在东林、复社和阮大铖冲突中解释。 南都覆亡后，吴应箕起兵响应复明，攻池州不克；同事者散去后，独自募士，以计复建德、东流。 金声承制署吴应箕为池州推官、监纪军事；金声先败后，吴应箕失援，仍招兵图再起。 旧籍和顾诚对其最后被获地点、死亡方式表述不完全一致：可确认其失败后被清方追击/捕获并死亡，细节待校。 性格、评价和行为模式提取 行为模式：复社政治动员、反阉党/反阮记忆和地方军事行动相接。 能力特征：善文词、意气强烈，能联络门徒武夫，失败后仍尝试独立重建队伍。 风险特征：依赖金声绩溪主线授权和外援；主线失败后，池州/石埭/青阳方向迅速孤立。 著作或文本 本轮仅核到其善古文词和防乱揭帖活动；文集、诗文需后续补。 游戏数据线索 Political Event: 复社反阮网络延伸为地方抗清行动。 Historical Candidate: 吴应箕能否稳住池州、东流、建德节点，连接徽州和长江线。 State Modifier Source: 士人名望、复社网络、失援后的独立招兵。 来源 已核锚点：../source audit.md audit sm 0201。 待辨析 朱盛浓奉宗室号召关系、吴应箕被获地点和死因、池州推官授职来源、建德现代对应需继续核验。"
 }

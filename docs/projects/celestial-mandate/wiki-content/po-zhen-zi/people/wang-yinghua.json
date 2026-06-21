@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-yinghua",
   "title": "王应华 / Wang Yinghua",
-  "sourcePath": "references/southern-ming/people/wang-yinghua.md",
+  "sourcePath": "references/southern-ming/people/wang-yinghua/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-yinghua/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local person page; not an authenticated likeness or historical evidence source.",
+    "alt": "王应华 / Wang Yinghua portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-yinghua/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>王应华，广州绍武政权建立线中的朝臣节点人物。现有锚点只稳妥支持其与苏观生、顾元镜、林察等同见于拥立朱聿𨮁的绍武建立层；官职、籍贯、责任比例和后续结局仍待校。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>1646 年十一月前后，苏观生等在广州拥立续封唐王朱聿𨮁，改元绍武；王应华在该拥立集团名单中出现。</li><li>绍武政权随后同肇庆永历政权发生宣谕、杀使和三水/三山口方向冲突；目前没有独立锚点证明王应华在杀使或战事中承担具体执行角色。</li><li>广州为李成栋袭取后，绍武政权覆灭；王应华的战后去向本轮不作定论。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“短命朝廷拥立集团成员”种子：其意义在集团行动和政治站队，而非单独军事行动。</li><li>现阶段不抽取性格评价；后续需靠官职履历、奏疏或地方志补足。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Faction Actor</code>: 绍武拥立集团。</li><li><code>Court Legitimacy Support</code>: 为广州政权提供朝臣参与和仪式/官僚支撑。</li><li><code>Evidence Risk</code>: 后续去向、官职和具体责任不明。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/shaowu-yongli-rivalry-1646.md</code>：绍武、永历并立与广州覆灭。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0055</code>：广州绍武政权建立。</li><li><code>../source-audit.md#audit-sm-0150</code>：1646 年广州绍武政权建立。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王应华的官职、籍贯、与苏观生/顾元镜/林察的关系、是否参与后续杀使或军事部署，以及广州陷落后的结局，均需继续核。</li></ul>",
   "plainText": "王应华 / Wang Yinghua 身份 王应华，广州绍武政权建立线中的朝臣节点人物。现有锚点只稳妥支持其与苏观生、顾元镜、林察等同见于拥立朱聿𨮁的绍武建立层；官职、籍贯、责任比例和后续结局仍待校。 生平与主要事迹 1646 年十一月前后，苏观生等在广州拥立续封唐王朱聿𨮁，改元绍武；王应华在该拥立集团名单中出现。 绍武政权随后同肇庆永历政权发生宣谕、杀使和三水/三山口方向冲突；目前没有独立锚点证明王应华在杀使或战事中承担具体执行角色。 广州为李成栋袭取后，绍武政权覆灭；王应华的战后去向本轮不作定论。 性格、评价与行为模式 可作为“短命朝廷拥立集团成员”种子：其意义在集团行动和政治站队，而非单独军事行动。 现阶段不抽取性格评价；后续需靠官职履历、奏疏或地方志补足。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Faction Actor: 绍武拥立集团。 Court Legitimacy Support: 为广州政权提供朝臣参与和仪式/官僚支撑。 Evidence Risk: 后续去向、官职和具体责任不明。 相关事件 ../events/shaowu yongli rivalry 1646.md：绍武、永历并立与广州覆灭。 来源 ../source audit.md audit sm 0055：广州绍武政权建立。 ../source audit.md audit sm 0150：1646 年广州绍武政权建立。 待辨析 王应华的官职、籍贯、与苏观生/顾元镜/林察的关系、是否参与后续杀使或军事部署，以及广州陷落后的结局，均需继续核。"
 }

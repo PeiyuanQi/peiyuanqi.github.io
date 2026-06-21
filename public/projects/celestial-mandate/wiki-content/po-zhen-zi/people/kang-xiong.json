@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__kang-xiong",
   "title": "康熊 / Kang Xiong",
-  "sourcePath": "references/southern-ming/people/kang-xiong.md",
+  "sourcePath": "references/southern-ming/people/kang-xiong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/kang-xiong/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated and must not be treated as historical evidence",
+    "alt": "康熊 / Kang Xiong portrait concept art",
+    "sourcePath": "references/southern-ming/people/kang-xiong/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile.</p></blockquote>\n<h3>身份</h3>\n<p>康熊，郑成功系统领兵人物，黄梧叛海澄后与林明守五都土城，并被拔为左戎旗镇。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年黄梧叛海澄后，《海上見聞錄》记五都土城由副将林明及领兵康熊所守。</li><li>郑成功搬出五都土城米粟、兵器后，拔康熊为左戎旗镇。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为海澄残余据点守御节点。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Rear Base Defense</code>: 五都土城守御。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0356</code>：1656 年揭阳败事、围头海战和海澄叛前责任链。</li></ul>\n<h3>待辨析</h3>\n<ul><li>康熊职衔、五都土城地望、左戎旗镇任命和后续去向需校。</li></ul>",
   "plainText": "康熊 / Kang Xiong Status: seed profile. 身份 康熊，郑成功系统领兵人物，黄梧叛海澄后与林明守五都土城，并被拔为左戎旗镇。 生平和主要事迹 1656 年黄梧叛海澄后，《海上見聞錄》记五都土城由副将林明及领兵康熊所守。 郑成功搬出五都土城米粟、兵器后，拔康熊为左戎旗镇。 性格、评价和行为模式提取 当前只作为海澄残余据点守御节点。 著作或文本 未见本轮材料记录。 游戏数据线索 Rear Base Defense: 五都土城守御。 来源 ../source audit.md audit sm 0356：1656 年揭阳败事、围头海战和海澄叛前责任链。 待辨析 康熊职衔、五都土城地望、左戎旗镇任命和后续去向需校。"
 }

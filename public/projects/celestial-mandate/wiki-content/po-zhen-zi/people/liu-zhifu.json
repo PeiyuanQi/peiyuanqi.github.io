@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-zhifu",
   "title": "刘之复 / Liu Zhifu",
-  "sourcePath": "references/southern-ming/people/liu-zhifu.md",
+  "sourcePath": "references/southern-ming/people/liu-zhifu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-zhifu/portrait.png",
+    "caption": "AI generated game concept art informed by the local person page; it is not an authenticated likeness or historical evidence source.",
+    "alt": "刘之复 / Liu Zhifu portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-zhifu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_zhifu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘之复，南明人物，1659 年丽江边外降清链和后续清方十营编组线索中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年五月，刘之复与李如碧、刘镇国、高启隆、林得胜、王玉隆、王朝钦等自丽江边外降清。</li><li>顾诚《南明史》记顺治十七年七月清方把投降明军分作十营，刘之复为十营总兵之一。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其为降清名单和十营编组节点，不宜推断完整履历。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 丽江边外降清链。</li><li><code>State Modifier Source</code>: 降将十营编组。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0305</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>刘之复官职、是否总兵、所属兵力、十营编组后去向需继续校。</li></ul>",
   "plainText": "刘之复 / Liu Zhifu Stable draft ID: person.liu zhifu Status: anchored seed profile 身份 刘之复，南明人物，1659 年丽江边外降清链和后续清方十营编组线索中出现。 生平和主要事迹 《南明史稿》记 1659 年五月，刘之复与李如碧、刘镇国、高启隆、林得胜、王玉隆、王朝钦等自丽江边外降清。 顾诚《南明史》记顺治十七年七月清方把投降明军分作十营，刘之复为十营总兵之一。 性格、评价和行为模式提取 当前只可记录其为降清名单和十营编组节点，不宜推断完整履历。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 丽江边外降清链。 State Modifier Source: 降将十营编组。 来源 已核锚点：../source audit.md audit sm 0305，../source audit.md audit sm 0306。 待辨析 刘之复官职、是否总兵、所属兵力、十营编组后去向需继续校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-ai",
   "title": "何爱 / He Ai",
-  "sourcePath": "references/southern-ming/people/he-ai.md",
+  "sourcePath": "references/southern-ming/people/he-ai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-ai/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "何爱 / He Ai portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-ai/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.he_ai</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>何爱，王启隆家丁。顾诚《南明史》在 1661 年沐天波、王启隆内部策应失败中记其被处死。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚《南明史》记 1661 年沐天波、王启隆拟组织敢死者杀马吉翔、李国泰，并保护太子突围投奔李定国、白文选。谋泄后，马吉翔、李国泰谎奏沐、王勾结缅甸谋害皇室；永历下令处死王启隆家丁何爱和沐天波家丁李成，策应失败。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前材料只说明何爱作为王启隆家丁被卷入内部策应失败后的惩处链；不宜推断其主动性和具体行动。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Retinue</code>: 王启隆侧近人员。</li><li><code>Divergence Gate</code>: 内部突围策应是否被近臣破坏。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0308</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>何爱身份、处死方式、日期和原始出处需继续直查；不得据顾诚转述直接写入最终 casualty roster。</li></ul>",
   "plainText": "何爱 / He Ai Stable draft ID: person.he ai Status: anchored seed profile 身份 何爱，王启隆家丁。顾诚《南明史》在 1661 年沐天波、王启隆内部策应失败中记其被处死。 生平和主要事迹 顾诚《南明史》记 1661 年沐天波、王启隆拟组织敢死者杀马吉翔、李国泰，并保护太子突围投奔李定国、白文选。谋泄后，马吉翔、李国泰谎奏沐、王勾结缅甸谋害皇室；永历下令处死王启隆家丁何爱和沐天波家丁李成，策应失败。 性格、评价和行为模式提取 当前材料只说明何爱作为王启隆家丁被卷入内部策应失败后的惩处链；不宜推断其主动性和具体行动。 著作或文本 未见。 游戏数据线索 Court Retinue: 王启隆侧近人员。 Divergence Gate: 内部突围策应是否被近臣破坏。 来源 已核锚点：../source audit.md audit sm 0308。 待辨析 何爱身份、处死方式、日期和原始出处需继续直查；不得据顾诚转述直接写入最终 casualty roster。"
 }

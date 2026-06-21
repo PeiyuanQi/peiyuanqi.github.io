@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wu-bikui",
   "title": "吾必奎 / Wu Bikui",
-  "sourcePath": "references/southern-ming/people/wu-bikui.md",
+  "sourcePath": "references/southern-ming/people/wu-bikui/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wu-bikui/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page; not an authenticated likeness or evidence source.",
+    "alt": "吾必奎 / Wu Bikui portrait concept art",
+    "sourcePath": "references/southern-ming/people/wu-bikui/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wu_bikui</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>吾必奎，武定土司。1645 年九月前后起兵，是云南土司和沐氏关系崩裂的早期触发点之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1645 年九月，吾必奎趁明清、大西和南明继统混乱，在武定方向发动叛乱。</li><li>《明季南略》卷十二把吾必奎乱写成沐府增设饷票、盐场抗令、夺盐殴差和杀楚雄文武的触发链；该说法可补财政/盐务压力，但纪年和单因果归因待校。</li><li>《南明野史》将吾必奎前史追溯到普明声战事和阿迷卖阵，说明其与云南土司旧冲突相连；此处先作来源叙事层。</li><li>其部先后攻下大姚、定远、姚安等地，造成“全滇震动”。</li><li>沐天波调龙在田、王扬祖、沙定洲、禄永命、刁勋等土司平乱，吾必奎及党羽被擒。</li><li>这次土司军动员反而让沙定洲等部滞留昆明，间接成为沙定洲袭取黔国公府的前置条件。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：边疆秩序震荡时首先挑战沐氏权威的土司力量。</li><li>其意义更多是结构性触发，而非持久政治中心：吾必奎之乱暴露沐氏需要依赖土司兵平乱，也让后续土司军在省城集结形成风险。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Trigger Event</code>: 云南土司秩序失衡。</li><li><code>State Modifier Source</code>: 沐氏对土司军的依赖增加；昆明安全风险上升。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0207</code>，<code>../source-audit.md#audit-sm-0384</code>，<code>../source-audit.md#audit-sm-0385</code>，<code>../source-audit.md#audit-sm-0402</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>吾必奎起兵具体日期、控制区域、部众规模和被擒地点需地方志校。</li><li>《明季南略》所见沐府饷票、盐场抗令和夺盐杀官是否为直接触发，须与云南府志、楚雄府志、武定府志和顾诚注释源互校。</li><li>其叛乱与沙定洲后续政变是否有直接串联，目前只作结构性前因，不作共谋断定。</li><li>《南明野史》中的阿迷卖阵、普明声诱说和战功得官线索需回云南地方志校。</li></ul>",
   "plainText": "吾必奎 / Wu Bikui Stable draft ID: person.wu bikui Status: anchored seed profile 身份 吾必奎，武定土司。1645 年九月前后起兵，是云南土司和沐氏关系崩裂的早期触发点之一。 生平和主要事迹 1645 年九月，吾必奎趁明清、大西和南明继统混乱，在武定方向发动叛乱。 《明季南略》卷十二把吾必奎乱写成沐府增设饷票、盐场抗令、夺盐殴差和杀楚雄文武的触发链；该说法可补财政/盐务压力，但纪年和单因果归因待校。 《南明野史》将吾必奎前史追溯到普明声战事和阿迷卖阵，说明其与云南土司旧冲突相连；此处先作来源叙事层。 其部先后攻下大姚、定远、姚安等地，造成“全滇震动”。 沐天波调龙在田、王扬祖、沙定洲、禄永命、刁勋等土司平乱，吾必奎及党羽被擒。 这次土司军动员反而让沙定洲等部滞留昆明，间接成为沙定洲袭取黔国公府的前置条件。 性格、评价和行为模式提取 行为模式：边疆秩序震荡时首先挑战沐氏权威的土司力量。 其意义更多是结构性触发，而非持久政治中心：吾必奎之乱暴露沐氏需要依赖土司兵平乱，也让后续土司军在省城集结形成风险。 著作或文本 未见已核著作。 游戏数据线索 Trigger Event: 云南土司秩序失衡。 State Modifier Source: 沐氏对土司军的依赖增加；昆明安全风险上升。 来源 已核锚点：../source audit.md audit sm 0207，../source audit.md audit sm 0384，../source audit.md audit sm 0385，../source audit.md audit sm 0402。 待辨析 吾必奎起兵具体日期、控制区域、部众规模和被擒地点需地方志校。 《明季南略》所见沐府饷票、盐场抗令和夺盐杀官是否为直接触发，须与云南府志、楚雄府志、武定府志和顾诚注释源互校。 其叛乱与沙定洲后续政变是否有直接串联，目前只作结构性前因，不作共谋断定。 《南明野史》中的阿迷卖阵、普明声诱说和战功得官线索需回云南地方志校。"
 }

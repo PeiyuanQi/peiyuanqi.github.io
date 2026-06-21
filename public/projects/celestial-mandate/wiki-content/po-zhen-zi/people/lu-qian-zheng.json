@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lu-qian-zheng",
   "title": "卢谦（郑氏） / Lu Qian",
-  "sourcePath": "references/southern-ming/people/lu-qian-zheng.md",
+  "sourcePath": "references/southern-ming/people/lu-qian-zheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lu-qian-zheng/portrait.png",
+    "caption": "AI generated game concept art informed by local written evidence and shared roster art direction; it is not an authenticated likeness or evidence source.",
+    "alt": "卢谦（郑氏） / Lu Qian portrait concept art",
+    "sourcePath": "references/southern-ming/people/lu-qian-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>卢谦，1658 年《海上見聞錄》所见郑氏罗星塔守将之一，时称神器镇。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年《海上見聞錄》记闽安镇失守后，护卫前镇陈斌、神器镇卢谦守罗星塔，被困无援；施琅从清方军前遣人招降陈斌，后李率泰尽杀于南台桥。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其守罗星塔节点；不把招降、被杀等情节直接归因到卢谦个人选择。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Fort Defense</code>: 罗星塔。</li><li><code>Weapon/Artillery Office</code>: 神器镇职名待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0365</code>：《海上見聞錄》1658 年罗星塔、陈斌和卢谦线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>卢谦身份、神器镇职名、与陈斌同守罗星塔的日序和结局需地方志、清方记录和郑氏原书互校。</li></ul>",
   "plainText": "卢谦（郑氏） / Lu Qian Status: anchored seed profile; identity pending. 身份 卢谦，1658 年《海上見聞錄》所见郑氏罗星塔守将之一，时称神器镇。 生平和主要事迹 1658 年《海上見聞錄》记闽安镇失守后，护卫前镇陈斌、神器镇卢谦守罗星塔，被困无援；施琅从清方军前遣人招降陈斌，后李率泰尽杀于南台桥。 性格、评价和行为模式提取 当前只记录其守罗星塔节点；不把招降、被杀等情节直接归因到卢谦个人选择。 著作或文本 未见。 游戏数据线索 Fort Defense: 罗星塔。 Weapon/Artillery Office: 神器镇职名待校。 来源 ../source audit.md audit sm 0365：《海上見聞錄》1658 年罗星塔、陈斌和卢谦线索。 待辨析 卢谦身份、神器镇职名、与陈斌同守罗星塔的日序和结局需地方志、清方记录和郑氏原书互校。"
 }

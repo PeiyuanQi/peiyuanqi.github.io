@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wen-huang",
   "title": "温璜 / Wen Huang",
-  "sourcePath": "references/southern-ming/people/wen-huang.md",
+  "sourcePath": "references/southern-ming/people/wen-huang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wen-huang/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page; not an authenticated likeness or evidence source.",
+    "alt": "温璜 / Wen Huang portrait concept art",
+    "sourcePath": "references/southern-ming/people/wen-huang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wen_huang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>温璜，字宝忠，初名以介，字于石，乌程人，崇祯癸未进士。南明江南抗清中任徽州府推官，参与徽州守御和金声绩溪义军支援。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>任徽州推官后不久，北京陷落；材料记其恸哭誓死、募民兵修城。</li><li>南都覆亡后，徽州官属多遁，温璜摄诸印、慰谕士民，使府城暂能保守。</li><li>金声举兵绩溪后，温璜转饷给军，与绩溪方向形成犄角。</li><li>金声败后，温璜在徽州府城降清前后死节；死法细节见《小腆纪年》，仍需地方志和清方材料复核。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：在上级政权崩解和官属逃散时，以府级官印、士民安抚和粮饷支援维持地方秩序。</li><li>能力特征：偏行政组织、安抚和后勤，而非单纯战场指挥。</li><li>风险特征：守城依赖府城内部忠诚和外部义军存续；绩溪主线失败后，徽州府城缺乏独立长期支撑。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>《南明史稿》另列《温氏母训》，但本轮只检得目录线索，未核定作者关系和文本内容。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 府级秩序维持、官印连续性、粮饷支援。</li><li><code>Historical Candidate</code>: 徽州府城能否在绩溪防线之外维持后勤和保境。</li><li><code>CharacterProfile</code>: 行政型死节官员，不应只按武将处理。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0198</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>温璜死日、死法、家属殉难细节和《温氏母训》作者身份需继续核验。</li></ul>",
   "plainText": "温璜 / Wen Huang Stable draft ID: person.wen huang Status: anchored seed profile 身份 温璜，字宝忠，初名以介，字于石，乌程人，崇祯癸未进士。南明江南抗清中任徽州府推官，参与徽州守御和金声绩溪义军支援。 生平和主要事迹 任徽州推官后不久，北京陷落；材料记其恸哭誓死、募民兵修城。 南都覆亡后，徽州官属多遁，温璜摄诸印、慰谕士民，使府城暂能保守。 金声举兵绩溪后，温璜转饷给军，与绩溪方向形成犄角。 金声败后，温璜在徽州府城降清前后死节；死法细节见《小腆纪年》，仍需地方志和清方材料复核。 性格、评价和行为模式提取 行为模式：在上级政权崩解和官属逃散时，以府级官印、士民安抚和粮饷支援维持地方秩序。 能力特征：偏行政组织、安抚和后勤，而非单纯战场指挥。 风险特征：守城依赖府城内部忠诚和外部义军存续；绩溪主线失败后，徽州府城缺乏独立长期支撑。 著作或文本 《南明史稿》另列《温氏母训》，但本轮只检得目录线索，未核定作者关系和文本内容。 游戏数据线索 State Modifier Source: 府级秩序维持、官印连续性、粮饷支援。 Historical Candidate: 徽州府城能否在绩溪防线之外维持后勤和保境。 CharacterProfile: 行政型死节官员，不应只按武将处理。 来源 已核锚点：../source audit.md audit sm 0198。 待辨析 温璜死日、死法、家属殉难细节和《温氏母训》作者身份需继续核验。"
 }

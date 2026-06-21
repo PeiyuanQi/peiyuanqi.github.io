@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-keyou",
   "title": "王克猷 / Wang Keyou",
-  "sourcePath": "references/southern-ming/people/wang-keyou.md",
+  "sourcePath": "references/southern-ming/people/wang-keyou/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-keyou/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page; not a historically authenticated likeness.",
+    "alt": "王克猷 / Wang Keyou portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-keyou/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_keyou</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>王克猷，《小腆紀年》所见嶍峨土官。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》杨畏知小传称沙定洲部攻石屏、破宁州后，下嶍峨，土官王克猷走死。</li><li>本地 CBDB 20260530 对 <code>王克猷</code> 未见直接命中；这是弱否定，只提示转向嶍峨、楚雄和云南地方志。</li><li>这是一条地方土官死亡线索，当前不能确认其职衔全称、所属地望或死亡方式。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>不从“走死”一语推断怯勇或政治立场。</li><li>可暂作“沙定洲扩张时嶍峨地方权力节点受冲击”的人物入口。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 嶍峨陷落/沙定洲扩张支线。</li><li><code>Place Disambiguation</code>: 嶍峨现代对应待地方志校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0420</code>：《小腆紀年》所见楚雄守御中王承宪、王承瑱、那钥、王克猷与高其勋线索。</li><li><code>../source-audit.md#audit-sm-0428</code>：本地 CBDB 所见王克猷无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王克猷土官身份、嶍峨地望、死亡方式、是否另见地方志和明人传记索引原条待校。</li></ul>",
   "plainText": "王克猷 / Wang Keyou Stable draft ID: person.wang keyou Status: anchored seed profile; identity pending. 身份 王克猷，《小腆紀年》所见嶍峨土官。 生平和主要事迹 《小腆紀年》杨畏知小传称沙定洲部攻石屏、破宁州后，下嶍峨，土官王克猷走死。 本地 CBDB 20260530 对 王克猷 未见直接命中；这是弱否定，只提示转向嶍峨、楚雄和云南地方志。 这是一条地方土官死亡线索，当前不能确认其职衔全称、所属地望或死亡方式。 性格、评价和行为模式提取 不从“走死”一语推断怯勇或政治立场。 可暂作“沙定洲扩张时嶍峨地方权力节点受冲击”的人物入口。 著作或文本 未见。 游戏数据线索 Event Participant: 嶍峨陷落/沙定洲扩张支线。 Place Disambiguation: 嶍峨现代对应待地方志校。 来源 ../source audit.md audit sm 0420：《小腆紀年》所见楚雄守御中王承宪、王承瑱、那钥、王克猷与高其勋线索。 ../source audit.md audit sm 0428：本地 CBDB 所见王克猷无直接命中。 待辨析 王克猷土官身份、嶍峨地望、死亡方式、是否另见地方志和明人传记索引原条待校。"
 }

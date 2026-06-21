@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__su-mao",
   "title": "苏茂 / Su Mao",
-  "sourcePath": "references/southern-ming/people/su-mao.md",
+  "sourcePath": "references/southern-ming/people/su-mao/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/su-mao/portrait.png",
+    "caption": "AI generated game concept art; style inspired from local text evidence only; not an authenticated likeness or evidence source",
+    "alt": "苏茂 / Su Mao portrait concept art",
+    "sourcePath": "references/southern-ming/people/su-mao/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile.</p></blockquote>\n<h3>身份</h3>\n<p>苏茂，郑成功系统将领，1654-1656 年南下勤王、揭阳败事和被斩线索中出现。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1654 年郑成功遣林察、周瑞、王秀奇、苏茂等南下勤王，奉表行在并持书会李定国。</li><li>1655 年苏茂随林察、周瑞、王秀奇等南下回军后，郑成功责罚有差。</li><li>1656 年本地两书记揭阳败事后，郑成功调回苏茂、杜辉、黄梧等；《海上見聞錄》记苏茂守揭阳西门时败，后按军法被斩。黄梧与苏明叛海澄的叙述紧接其后。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为郑氏军纪归责链中的执行将领处理，不凭单一叙事定性。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Responsibility Chain</code>: 新会迟援后回军、揭阳败事、军法处置。</li><li><code>Zheng Command Risk</code>: 将领失利后的惩罚和连锁离叛。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0351</code>：1654 年清方招抚、南下勤王和漳州归郑。</li><li><code>../source-audit.md#audit-sm-0353</code>：1655 年黄恺被诛、南下回军和郑氏南北调度。</li><li><code>../source-audit.md#audit-sm-0355</code>：1656 年黄梧叛海澄和清方海澄公封授。</li><li><code>../source-audit.md#audit-sm-0356</code>：1656 年揭阳败事、围头海战和海澄叛前责任链。</li></ul>\n<h3>待辨析</h3>\n<ul><li>苏茂职衔、揭阳战败责任、与苏明关系及被斩日期需继续校。</li></ul>",
   "plainText": "苏茂 / Su Mao Status: seed profile. 身份 苏茂，郑成功系统将领，1654 1656 年南下勤王、揭阳败事和被斩线索中出现。 生平和主要事迹 1654 年郑成功遣林察、周瑞、王秀奇、苏茂等南下勤王，奉表行在并持书会李定国。 1655 年苏茂随林察、周瑞、王秀奇等南下回军后，郑成功责罚有差。 1656 年本地两书记揭阳败事后，郑成功调回苏茂、杜辉、黄梧等；《海上見聞錄》记苏茂守揭阳西门时败，后按军法被斩。黄梧与苏明叛海澄的叙述紧接其后。 性格、评价和行为模式提取 当前只作为郑氏军纪归责链中的执行将领处理，不凭单一叙事定性。 著作或文本 未见本轮材料记录。 游戏数据线索 Responsibility Chain: 新会迟援后回军、揭阳败事、军法处置。 Zheng Command Risk: 将领失利后的惩罚和连锁离叛。 来源 ../source audit.md audit sm 0351：1654 年清方招抚、南下勤王和漳州归郑。 ../source audit.md audit sm 0353：1655 年黄恺被诛、南下回军和郑氏南北调度。 ../source audit.md audit sm 0355：1656 年黄梧叛海澄和清方海澄公封授。 ../source audit.md audit sm 0356：1656 年揭阳败事、围头海战和海澄叛前责任链。 待辨析 苏茂职衔、揭阳战败责任、与苏明关系及被斩日期需继续校。"
 }

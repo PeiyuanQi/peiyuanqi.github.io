@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xian-guoan",
   "title": "线国安 / Xian Guoan",
-  "sourcePath": "references/southern-ming/people/xian-guoan.md",
+  "sourcePath": "references/southern-ming/people/xian-guoan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xian-guoan/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated.",
+    "alt": "线国安 / Xian Guoan portrait concept art",
+    "sourcePath": "references/southern-ming/people/xian-guoan/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>线国安，清方定藩下提督，1658 年随广西方向参与入黔、入滇。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年，赵布泰/卓布泰一路会合线国安部，取道南丹、那地、独山、都匀方向北上进入贵州。</li><li>杨老堡会议后，线国安部被编入南路，由都匀西攻安龙、黄草坝入滇。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料主要显示其为清方利用原广西、定藩系统兵力北上入黔的节点人物。其角色有助于说明清方不是单一路线南下，而是从湖南、四川、广西同时压缩南明西南。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Commander</code>: 广西入黔辅助将领。</li><li><code>Route</code>: 南丹-那地-独山-都匀-安龙/黄草坝。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0116</code>：线国安参与分道攻取黔滇。</li><li><code>../source-audit.md#audit-sm-0117</code>：广西一路入黔。</li><li><code>../source-audit.md#audit-sm-0118</code>：杨老堡后南路入滇。</li></ul>\n<h3>待辨析</h3>\n<ul><li>线国安官职、所属“定藩”关系、兵力数和后续去向需清方材料补证。</li></ul>",
   "plainText": "线国安 / Xian Guoan 身份 线国安，清方定藩下提督，1658 年随广西方向参与入黔、入滇。 生平和主要事迹 1658 年，赵布泰/卓布泰一路会合线国安部，取道南丹、那地、独山、都匀方向北上进入贵州。 杨老堡会议后，线国安部被编入南路，由都匀西攻安龙、黄草坝入滇。 性格、评价和行为模式 当前材料主要显示其为清方利用原广西、定藩系统兵力北上入黔的节点人物。其角色有助于说明清方不是单一路线南下，而是从湖南、四川、广西同时压缩南明西南。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Qing Commander: 广西入黔辅助将领。 Route: 南丹 那地 独山 都匀 安龙/黄草坝。 来源 ../source audit.md audit sm 0116：线国安参与分道攻取黔滇。 ../source audit.md audit sm 0117：广西一路入黔。 ../source audit.md audit sm 0118：杨老堡后南路入滇。 待辨析 线国安官职、所属“定藩”关系、兵力数和后续去向需清方材料补证。"
 }

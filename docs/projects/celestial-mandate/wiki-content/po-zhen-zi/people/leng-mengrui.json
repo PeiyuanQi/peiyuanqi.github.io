@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__leng-mengrui",
   "title": "冷孟銋 / Leng Mengrui",
-  "sourcePath": "references/southern-ming/people/leng-mengrui.md",
+  "sourcePath": "references/southern-ming/people/leng-mengrui/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/leng-mengrui/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the local person page, not an authenticated likeness or evidence source.",
+    "alt": "冷孟銋 / Leng Mengrui portrait concept art",
+    "sourcePath": "references/southern-ming/people/leng-mengrui/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.leng_mengrui</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>冷孟銋，永历十二年前后贵州方向人物，《小腆紀年》记为巡抚，贵阳失守时死节；杨氏《安龍紀事》转引评价又把他归入马吉翔之党。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>《小腆紀年》在清军取贵阳条中记马进忠遁、冷孟銋死。</li><li>该书又引杨氏《安龍紀事》，称冷孟銋大概属于马吉翔党；徐鼒按语则因冷孟銋在贵阳拒剃死节，质疑杨氏褒贬是否失实，或冷孟銋前后行为分裂。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>冷孟銋适合作为“党附评价与死节评价冲突”的人物种子：同一人物可能在安龙政治中被归入马吉翔系统，又在贵阳末局中表现为拒降死节。</li><li>建模时不宜用单一忠奸标签；应拆为派系关系、末局选择和后世评价三层。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Faction Reputation</code>: 可能与马吉翔党羽评价相连。</li><li><code>Martyrdom Memory</code>: 贵阳失守时拒剃死节。</li><li><code>Conflicted Evaluation</code>: 同一人物的派系记录和末局行为相冲突。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0293</code>：《小腆紀年》按语所见杨氏《安龍紀事》与冷孟銋评价冲突。</li></ul>\n<h3>待辨析</h3>\n<ul><li>冷孟銋姓名字形、正式职衔、是否确为巡抚、与马吉翔关系、贵阳死节日期和杨氏《安龍紀事》原文均需继续核。</li></ul>",
   "plainText": "冷孟銋 / Leng Mengrui Stable draft ID: person.leng mengrui Status: anchored seed profile 身份 冷孟銋，永历十二年前后贵州方向人物，《小腆紀年》记为巡抚，贵阳失守时死节；杨氏《安龍紀事》转引评价又把他归入马吉翔之党。 生平与主要事迹 《小腆紀年》在清军取贵阳条中记马进忠遁、冷孟銋死。 该书又引杨氏《安龍紀事》，称冷孟銋大概属于马吉翔党；徐鼒按语则因冷孟銋在贵阳拒剃死节，质疑杨氏褒贬是否失实，或冷孟銋前后行为分裂。 性格、评价与行为模式 冷孟銋适合作为“党附评价与死节评价冲突”的人物种子：同一人物可能在安龙政治中被归入马吉翔系统，又在贵阳末局中表现为拒降死节。 建模时不宜用单一忠奸标签；应拆为派系关系、末局选择和后世评价三层。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Faction Reputation: 可能与马吉翔党羽评价相连。 Martyrdom Memory: 贵阳失守时拒剃死节。 Conflicted Evaluation: 同一人物的派系记录和末局行为相冲突。 来源 ../source audit.md audit sm 0293：《小腆紀年》按语所见杨氏《安龍紀事》与冷孟銋评价冲突。 待辨析 冷孟銋姓名字形、正式职衔、是否确为巡抚、与马吉翔关系、贵阳死节日期和杨氏《安龍紀事》原文均需继续核。"
 }

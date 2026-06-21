@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__he-shiming",
   "title": "贺世明 / He Shiming",
-  "sourcePath": "references/southern-ming/people/he-shiming.md",
+  "sourcePath": "references/southern-ming/people/he-shiming/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/he-shiming/portrait.png",
+    "caption": "AI generated game concept art; likeness is not authenticated.",
+    "alt": "贺世明 / He Shiming portrait concept art",
+    "sourcePath": "references/southern-ming/people/he-shiming/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>贺世明，1658 年羊山风灾后《海上見聞錄》所见援剿左镇相关人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年九月前后，《海上見聞錄》记军中有援剿左镇贺世明等船头桅竿颜色和欲叛流言，郑成功撤贺世明镇任，贺世明后因愤激气死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其被卷入北将谣言、撤任和死亡叙述；不把“欲叛”流言作为既定事实。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Morale/Rumor Crisis</code>: 羊山风灾后军心动摇。</li><li><code>Command Removal</code>: 援剿左镇撤任。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0368</code>：1658 年北将谣言、贺世明撤任和死亡叙述。</li></ul>\n<h3>待辨析</h3>\n<ul><li>贺世明职衔、流言真实性、撤任经过和死亡方式需郑氏原书、地方志和清方记录互校。</li></ul>",
   "plainText": "贺世明 / He Shiming Status: anchored seed profile; identity pending. 身份 贺世明，1658 年羊山风灾后《海上見聞錄》所见援剿左镇相关人物。 生平和主要事迹 1658 年九月前后，《海上見聞錄》记军中有援剿左镇贺世明等船头桅竿颜色和欲叛流言，郑成功撤贺世明镇任，贺世明后因愤激气死。 性格、评价和行为模式提取 当前只记录其被卷入北将谣言、撤任和死亡叙述；不把“欲叛”流言作为既定事实。 著作或文本 未见。 游戏数据线索 Morale/Rumor Crisis: 羊山风灾后军心动摇。 Command Removal: 援剿左镇撤任。 来源 ../source audit.md audit sm 0368：1658 年北将谣言、贺世明撤任和死亡叙述。 待辨析 贺世明职衔、流言真实性、撤任经过和死亡方式需郑氏原书、地方志和清方记录互校。"
 }

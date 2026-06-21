@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__shi-qiwen",
   "title": "史其文 / Shi Qiwen",
-  "sourcePath": "references/southern-ming/people/shi-qiwen.md",
+  "sourcePath": "references/southern-ming/people/shi-qiwen/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/shi-qiwen/portrait.png",
+    "caption": "AI generated game concept art informed by local written evidence and shared roster art direction; it is not an authenticated likeness or evidence source.",
+    "alt": "史其文 / Shi Qiwen portrait concept art",
+    "sourcePath": "references/southern-ming/people/shi-qiwen/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.shi_qiwen</code><br />Status: variant seed profile</p></blockquote>\n<h3>身份</h3>\n<p>史其文，《明季南略》所引《粤事记》中出现的朱亨嘉党羽。该材料称其为临桂知县、天启辛酉举人，并称朱亨嘉以其为大司马。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《粤事记》异文称，朱亨嘉自立时以临桂知县史其文为大司马。</li><li>同一异文又称丁魁楚擒朱亨嘉时，顾奕、史其文一并被擒解福州并论叛逆。</li><li>《小腆紀年》本轮已核主线没有把史其文列入核心被擒名单，因此暂作低置信人物种子。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>若异文属实，史其文代表县级官员卷入宗藩自立，并被用来填补军事高级职衔。</li><li>当前证据不足以提取稳定性格或行为模式。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Unresolved Candidate</code>: 是否作为朱亨嘉政权文武任官链中的县令节点。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0217</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>史其文是否确实参与朱亨嘉自立、是否被擒送福州、是否伏诛。</li><li>临桂知县任期、籍贯、科名和“大司马”职衔写法需进一步校。</li></ul>",
   "plainText": "史其文 / Shi Qiwen Stable draft ID: person.shi qiwen Status: variant seed profile 身份 史其文，《明季南略》所引《粤事记》中出现的朱亨嘉党羽。该材料称其为临桂知县、天启辛酉举人，并称朱亨嘉以其为大司马。 生平和主要事迹 《粤事记》异文称，朱亨嘉自立时以临桂知县史其文为大司马。 同一异文又称丁魁楚擒朱亨嘉时，顾奕、史其文一并被擒解福州并论叛逆。 《小腆紀年》本轮已核主线没有把史其文列入核心被擒名单，因此暂作低置信人物种子。 性格、评价和行为模式提取 若异文属实，史其文代表县级官员卷入宗藩自立，并被用来填补军事高级职衔。 当前证据不足以提取稳定性格或行为模式。 著作或文本 未见已核著作。 游戏数据线索 Unresolved Candidate: 是否作为朱亨嘉政权文武任官链中的县令节点。 来源 已核锚点：../source audit.md audit sm 0217。 待辨析 史其文是否确实参与朱亨嘉自立、是否被擒送福州、是否伏诛。 临桂知县任期、籍贯、科名和“大司马”职衔写法需进一步校。"
 }

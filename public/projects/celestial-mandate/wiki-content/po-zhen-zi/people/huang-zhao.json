@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__huang-zhao",
   "title": "黄昭 / Huang Zhao",
-  "sourcePath": "references/southern-ming/people/huang-zhao.md",
+  "sourcePath": "references/southern-ming/people/huang-zhao/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/huang-zhao/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page. The likeness is not authenticated.",
+    "alt": "黄昭 / Huang Zhao portrait concept art",
+    "sourcePath": "references/southern-ming/people/huang-zhao/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>黄昭，郑成功系统将领，1659 年镇江守备和南京战役相关人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年郑军克镇江后，黄昭与周全斌等被命入城防守。</li><li>南京城下郑军败后，黄昭所在后续撤退与殿后线索需继续校。</li><li>郑成功死后，《海上见闻录》《闽海纪要》均见黄昭与郑世袭继承方案相连；郑经入台后，黄昭在攻营冲突中被周全斌所斩。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料只足以记录其为镇江守备、南京战役和郑氏继承冲突中的郑氏将领，不展开人格评价。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Zheng Commander</code>: 镇江守备。</li><li><code>Authority Transition</code>: 郑经继承冲突。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0125</code>：镇江克复和守备安排。</li><li><code>../source-audit.md#audit-sm-0126</code>：南京败后撤出长江。</li><li><code>../source-audit.md#audit-sm-0318</code>：郑成功死亡、郑经继承和黄昭冲突。</li></ul>\n<h3>待辨析</h3>\n<ul><li>黄昭职名、部属、撤退过程需郑氏材料和清方材料校。</li></ul>",
   "plainText": "黄昭 / Huang Zhao 身份 黄昭，郑成功系统将领，1659 年镇江守备和南京战役相关人物。 生平和主要事迹 1659 年郑军克镇江后，黄昭与周全斌等被命入城防守。 南京城下郑军败后，黄昭所在后续撤退与殿后线索需继续校。 郑成功死后，《海上见闻录》《闽海纪要》均见黄昭与郑世袭继承方案相连；郑经入台后，黄昭在攻营冲突中被周全斌所斩。 性格、评价和行为模式 当前材料只足以记录其为镇江守备、南京战役和郑氏继承冲突中的郑氏将领，不展开人格评价。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Zheng Commander: 镇江守备。 Authority Transition: 郑经继承冲突。 来源 ../source audit.md audit sm 0125：镇江克复和守备安排。 ../source audit.md audit sm 0126：南京败后撤出长江。 ../source audit.md audit sm 0318：郑成功死亡、郑经继承和黄昭冲突。 待辨析 黄昭职名、部属、撤退过程需郑氏材料和清方材料校。"
 }

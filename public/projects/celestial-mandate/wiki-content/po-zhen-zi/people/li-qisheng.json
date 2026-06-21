@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-qisheng",
   "title": "李企晟 / Li Qisheng",
-  "sourcePath": "references/southern-ming/people/li-qisheng.md",
+  "sourcePath": "references/southern-ming/people/li-qisheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-qisheng/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local profile; the likeness is not authenticated.",
+    "alt": "李企晟 / Li Qisheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-qisheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_qisheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>李企晟，山西、陕西复明联络人物，顾诚《南明史》据湖广总督祖泽远奏疏整理其曾到房县郝摇旗营，与韩王朱璟溧和郝永忠商议联络内外兵马。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>曾在韩城一带与虞胤、韩昭宣等共同推举或依附韩王名义，使用永历体系文书进行联络。</li><li>顺治十二年末至十三年初，李企晟取道潼关、河南、均州等地进入房县郝永忠营。</li><li>离营时携带永历敕札、韩王龙札、关防、书札等文书，准备往山西、陕西一带散给复明党人，后进入清辖区不久被捕。</li><li>材料中还出现其派人赴云贵通信未回的线索，说明夔东与西南永历核心之间至少存在联络想象和文书通道。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料呈现其为文书和密联型行动者，依靠印信、札付和宗藩名义连接郝摇旗营、韩王朱璟溧、晋陕旧网络和永历正朔。</p>\n<h3>著作或文本</h3>\n<p>未见个人著作；涉及文书包括永历敕札、韩王龙札、龙票、国公札付、告示和书札等，需清档原件或影印复核。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Document Chain</code>: 敕札、关防、韩王龙札的流转风险。</li><li><code>Information Network</code>: 房县-均州-河南-山西/陕西联络。</li><li><code>Contested Legitimacy</code>: 韩王名义可建模为永历授权网络，不建模为独立朝廷。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0275</code>：韩王朱璟溧、郝摇旗营和“定武”讹传拆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>李企晟职衔、被捕地点、文书清单原文、李得福赴云贵通信是否成行需清档和地方志校。</li></ul>",
   "plainText": "李企晟 / Li Qisheng Stable draft ID: person.li qisheng Status: anchored seed profile 身份 李企晟，山西、陕西复明联络人物，顾诚《南明史》据湖广总督祖泽远奏疏整理其曾到房县郝摇旗营，与韩王朱璟溧和郝永忠商议联络内外兵马。 生平和主要事迹 曾在韩城一带与虞胤、韩昭宣等共同推举或依附韩王名义，使用永历体系文书进行联络。 顺治十二年末至十三年初，李企晟取道潼关、河南、均州等地进入房县郝永忠营。 离营时携带永历敕札、韩王龙札、关防、书札等文书，准备往山西、陕西一带散给复明党人，后进入清辖区不久被捕。 材料中还出现其派人赴云贵通信未回的线索，说明夔东与西南永历核心之间至少存在联络想象和文书通道。 性格、评价和行为模式 当前材料呈现其为文书和密联型行动者，依靠印信、札付和宗藩名义连接郝摇旗营、韩王朱璟溧、晋陕旧网络和永历正朔。 著作或文本 未见个人著作；涉及文书包括永历敕札、韩王龙札、龙票、国公札付、告示和书札等，需清档原件或影印复核。 游戏数据线索 Document Chain: 敕札、关防、韩王龙札的流转风险。 Information Network: 房县 均州 河南 山西/陕西联络。 Contested Legitimacy: 韩王名义可建模为永历授权网络，不建模为独立朝廷。 来源 ../source audit.md audit sm 0275：韩王朱璟溧、郝摇旗营和“定武”讹传拆层。 待辨析 李企晟职衔、被捕地点、文书清单原文、李得福赴云贵通信是否成行需清档和地方志校。"
 }

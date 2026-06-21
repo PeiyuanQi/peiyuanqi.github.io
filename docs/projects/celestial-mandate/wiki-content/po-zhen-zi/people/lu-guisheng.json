@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lu-guisheng",
   "title": "卢桂生 / Lu Guisheng",
-  "sourcePath": "references/southern-ming/people/lu-guisheng.md",
+  "sourcePath": "references/southern-ming/people/lu-guisheng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lu-guisheng/portrait.png",
+    "caption": "AI generated game concept art, not an authenticated likeness or evidence source.",
+    "alt": "卢桂生 / Lu Guisheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/lu-guisheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.lu_guisheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>卢桂生，磨盘山战役中泄露李定国伏击部署的关键人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年磨盘山战役前后，卢桂生向清方泄露南明伏击安排，使清军得以规避部分陷阱。</li><li>当前材料只支撑其在磨盘山事件中的角色，不展开更早或更晚生平。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：战役级情报泄露者，一名低层或中层人物的倒向足以改变大型伏击结果。</li><li>游戏上可作为“情报安全/降将风险”的清晰样本。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Divergence Gate</code>: 卢桂生是否泄密。</li><li><code>State Modifier Source</code>: 伏击失败、清方追击风险下降。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0030</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>卢桂生身份、降清过程、姓名写法和后续处置。</li></ul>",
   "plainText": "卢桂生 / Lu Guisheng Stable draft ID: person.lu guisheng Status: anchored seed profile 身份 卢桂生，磨盘山战役中泄露李定国伏击部署的关键人物。 生平和主要事迹 1659 年磨盘山战役前后，卢桂生向清方泄露南明伏击安排，使清军得以规避部分陷阱。 当前材料只支撑其在磨盘山事件中的角色，不展开更早或更晚生平。 性格、评价和行为模式提取 行为模式：战役级情报泄露者，一名低层或中层人物的倒向足以改变大型伏击结果。 游戏上可作为“情报安全/降将风险”的清晰样本。 著作或文本 待补。 游戏数据线索 Divergence Gate: 卢桂生是否泄密。 State Modifier Source: 伏击失败、清方追击风险下降。 来源 已核锚点：../source audit.md audit sm 0030。 待辨析 卢桂生身份、降清过程、姓名写法和后续处置。"
 }

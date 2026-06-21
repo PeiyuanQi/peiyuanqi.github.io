@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__pi-xiong",
   "title": "皮熊 / Pi Xiong",
-  "sourcePath": "references/southern-ming/people/pi-xiong.md",
+  "sourcePath": "references/southern-ming/people/pi-xiong/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/pi-xiong/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the person page only. The likeness is not authenticated.",
+    "alt": "皮熊 / Pi Xiong portrait concept art",
+    "sourcePath": "references/southern-ming/people/pi-xiong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.pi_xiong</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>皮熊，贵州/水西方向南明地方武装人物。《小腆紀年》1662 年称其为明沅江总兵。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649-1650 年孙可望体系入黔时，顾诚材料把皮熊、王祥等列为被孙可望体系以会盟和武力改编并用方式压服的南明地方武装。</li><li>永历被执后，《小腆紀年》记皮熊走避水西并绝粒，后被吴三桂遣骑执至，背立不降，绝食而死，尸体遭戮。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方武装/边地军事节点，早期被西南大西余部整合，终局时又以拒降死节进入记忆层。</li><li>由于 1650 与 1662 两处身份、地望和职衔仍需校，不宜直接把所有同名线索合成完整生平。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Regional Power</code>: 贵州/水西地方军事节点。</li><li><code>Memory Layer</code>: 永历被执后的拒降死节。</li></ul>\n<h3>相关事件</h3>\n<ul><li><code>../events/yongli-burma-terminal-network-1659-1662.md</code>：终局中皮熊死节和水西/沅江身份待校的总入口。</li><li><code>../events/yongli-execution-1662.md</code>：永历帝死亡。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0086</code>，<code>../source-audit.md#audit-sm-0313</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>1650 年被孙可望体系压服的皮熊与 1662 年《小腆紀年》所称沅江总兵皮熊是否完全同一人。</li><li>沅江、水西、被执地点、年龄、职衔和死亡经过需地方志与清方材料复核。</li></ul>",
   "plainText": "皮熊 / Pi Xiong Stable draft ID: person.pi xiong Status: anchored seed profile 身份 皮熊，贵州/水西方向南明地方武装人物。《小腆紀年》1662 年称其为明沅江总兵。 生平和主要事迹 1649 1650 年孙可望体系入黔时，顾诚材料把皮熊、王祥等列为被孙可望体系以会盟和武力改编并用方式压服的南明地方武装。 永历被执后，《小腆紀年》记皮熊走避水西并绝粒，后被吴三桂遣骑执至，背立不降，绝食而死，尸体遭戮。 性格、评价和行为模式提取 行为模式：地方武装/边地军事节点，早期被西南大西余部整合，终局时又以拒降死节进入记忆层。 由于 1650 与 1662 两处身份、地望和职衔仍需校，不宜直接把所有同名线索合成完整生平。 著作或文本 未见。 游戏数据线索 Regional Power: 贵州/水西地方军事节点。 Memory Layer: 永历被执后的拒降死节。 相关事件 ../events/yongli burma terminal network 1659 1662.md：终局中皮熊死节和水西/沅江身份待校的总入口。 ../events/yongli execution 1662.md：永历帝死亡。 来源 已核锚点：../source audit.md audit sm 0086，../source audit.md audit sm 0313。 待辨析 1650 年被孙可望体系压服的皮熊与 1662 年《小腆紀年》所称沅江总兵皮熊是否完全同一人。 沅江、水西、被执地点、年龄、职衔和死亡经过需地方志与清方材料复核。"
 }

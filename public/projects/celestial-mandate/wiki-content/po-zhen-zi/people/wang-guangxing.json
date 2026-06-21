@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-guangxing",
   "title": "王光兴 / Wang Guangxing",
-  "sourcePath": "references/southern-ming/people/wang-guangxing.md",
+  "sourcePath": "references/southern-ming/people/wang-guangxing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-guangxing/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local person page and shared Celestial Mandate portrait direction; the likeness is not authenticated",
+    "alt": "王光兴 / Wang Guangxing portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-guangxing/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>王光兴，施州卫方向夔东抗清网络人物。《小腆纪年》《明季南略》在 1658 年吴三桂入蜀背景中均记施州或施州卫有王光兴分守。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年，清军经四川、重庆入黔时，王光兴被列入夔东、川东连兵分守网络，位置在施州/施州卫方向。</li><li>其后续降清、抵抗或部属变迁属于 1662 后夔东尾声问题，本轮只建种子档。</li></ul>\n<h3>性格、评价和行为模式</h3>\n<p>当前材料只足以记录其为施州方向的山地防守节点，不宜展开性格评价。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录个人著作。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Kuidong Commander</code>: 施州簇人物。</li><li><code>Place Link</code>: 施州/施州卫。</li><li><code>Post-1662 Boundary</code>: 顾诚把其 1663 年降清列为夔东尾声中坚持者瓦解的标志之一。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0251</code>：1658 夔东、川东分守清单。</li><li><code>../source-audit.md#audit-sm-0276</code>：1662 后夔东三省会剿、东线反击和茅麓山尾声。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王光兴与王光恩、王昌/王光泰等同族或同名关系、封爵和 1663 后去向需校。</li></ul>",
   "plainText": "王光兴 / Wang Guangxing 身份 王光兴，施州卫方向夔东抗清网络人物。《小腆纪年》《明季南略》在 1658 年吴三桂入蜀背景中均记施州或施州卫有王光兴分守。 生平和主要事迹 1658 年，清军经四川、重庆入黔时，王光兴被列入夔东、川东连兵分守网络，位置在施州/施州卫方向。 其后续降清、抵抗或部属变迁属于 1662 后夔东尾声问题，本轮只建种子档。 性格、评价和行为模式 当前材料只足以记录其为施州方向的山地防守节点，不宜展开性格评价。 著作或文本 未见本轮材料记录个人著作。 游戏数据线索 Kuidong Commander: 施州簇人物。 Place Link: 施州/施州卫。 Post 1662 Boundary: 顾诚把其 1663 年降清列为夔东尾声中坚持者瓦解的标志之一。 来源 ../source audit.md audit sm 0251：1658 夔东、川东分守清单。 ../source audit.md audit sm 0276：1662 后夔东三省会剿、东线反击和茅麓山尾声。 待辨析 王光兴与王光恩、王昌/王光泰等同族或同名关系、封爵和 1663 后去向需校。"
 }

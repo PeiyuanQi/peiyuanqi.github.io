@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__shen-yun",
   "title": "沈云 / Shen Yun",
-  "sourcePath": "references/southern-ming/people/shen-yun.md",
+  "sourcePath": "references/southern-ming/people/shen-yun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/shen-yun/portrait.png",
+    "caption": "AI generated game concept art based on local text evidence. This is not an authenticated likeness or evidence source.",
+    "alt": "沈云 / Shen Yun portrait concept art",
+    "sourcePath": "references/southern-ming/people/shen-yun/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.shen_yun</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>沈云，德清人，清代《臺灣鄭氏始末》作者。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>CText《臺灣鄭氏始末》序/自叙题署“清沈云撰”；沈云称道光十六年在京师借得江日昇台湾纪事本末四十九篇，参考他书、删繁润色，成六卷《臺灣鄭氏始末》。</li><li>该自叙还说明其对事迹年月不合处“姑仍之”，因此沈云既是郑氏史料整理者，也是本资料库判断《臺灣鄭氏始末》史源层级的重要人物。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：后出整理者，倾向把小说/纪事本末材料删润为编年体，同时保留疑点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>《臺灣鄭氏始末》。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Source Transmission</code>: 郑氏台湾线文本流传和整理层。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0325</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>沈云生平、藏书来源、所称江日昇文本与《臺灣外記》的具体版本关系需继续校。</li></ul>",
   "plainText": "沈云 / Shen Yun Stable draft ID: person.shen yun Status: anchored seed profile 身份 沈云，德清人，清代《臺灣鄭氏始末》作者。 生平和主要事迹 CText《臺灣鄭氏始末》序/自叙题署“清沈云撰”；沈云称道光十六年在京师借得江日昇台湾纪事本末四十九篇，参考他书、删繁润色，成六卷《臺灣鄭氏始末》。 该自叙还说明其对事迹年月不合处“姑仍之”，因此沈云既是郑氏史料整理者，也是本资料库判断《臺灣鄭氏始末》史源层级的重要人物。 性格、评价和行为模式提取 行为模式：后出整理者，倾向把小说/纪事本末材料删润为编年体，同时保留疑点。 著作或文本 《臺灣鄭氏始末》。 游戏数据线索 Source Transmission: 郑氏台湾线文本流传和整理层。 来源 已核锚点：../source audit.md audit sm 0325。 待辨析 沈云生平、藏书来源、所称江日昇文本与《臺灣外記》的具体版本关系需继续校。"
 }

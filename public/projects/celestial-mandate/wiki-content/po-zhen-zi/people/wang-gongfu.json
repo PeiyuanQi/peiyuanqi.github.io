@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-gongfu",
   "title": "汪公福 / Wang Gongfu",
-  "sourcePath": "references/southern-ming/people/wang-gongfu.md",
+  "sourcePath": "references/southern-ming/people/wang-gongfu/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-gongfu/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local person page and shared Celestial Mandate portrait direction; the likeness is not authenticated",
+    "alt": "汪公福 / Wang Gongfu portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-gongfu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_gongfu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>汪公福，白文选降清前后带来郑成功会师表的联络人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>在白文选部将欲降清时，汪公福带来郑成功约请会师的表文，促使白文选暂驻锡薄/锡箔并尝试重新联络李定国；表文内容和郑氏方面真实部署仍未直见。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：东西联络末梢人物，信息本身可能短暂改变军队方向。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route/Flow</code>: 郑氏海上和滇缅残军之间的迟到联络。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0140</code>，<code>../source-audit.md#audit-sm-0309</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>汪公福身份、来路、表文内容和郑成功真实军令需补。</li></ul>",
   "plainText": "汪公福 / Wang Gongfu Stable draft ID: person.wang gongfu Status: anchored seed profile 身份 汪公福，白文选降清前后带来郑成功会师表的联络人物。 生平和主要事迹 在白文选部将欲降清时，汪公福带来郑成功约请会师的表文，促使白文选暂驻锡薄/锡箔并尝试重新联络李定国；表文内容和郑氏方面真实部署仍未直见。 性格、评价和行为模式提取 行为模式：东西联络末梢人物，信息本身可能短暂改变军队方向。 著作或文本 未见。 游戏数据线索 Route/Flow: 郑氏海上和滇缅残军之间的迟到联络。 来源 已核锚点：../source audit.md audit sm 0140，../source audit.md audit sm 0309。 待辨析 汪公福身份、来路、表文内容和郑成功真实军令需补。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-hui",
   "title": "王会 / Wang Hui",
-  "sourcePath": "references/southern-ming/people/wang-hui.md",
+  "sourcePath": "references/southern-ming/people/wang-hui/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-hui/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page; not a historically authenticated likeness.",
+    "alt": "王会 / Wang Hui portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-hui/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_hui</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>王会，南明旧将或降清人物，永历被缅方交出时出现在清方接收链条中。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚材料记其曾在永历座船抵岸时自称奉李定国命迎驾，使永历误入清营；《庭闻录》系统另有高得捷接收永历的异文，当前不把两者合并为同一动作。</li><li>此前亦见南明降清名单和清方编营线索：交水后奖惩材料中有王会降官降爵线索，《南明史稿》记 1659 年六月王会等自建昌卫入罗次降清；顾诚《南明史》又把王会列为降清后十营总兵之一。上述是否均为同一人仍需核对。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：降将身份可被清方用来降低永历警惕，属于心理/信息欺骗节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Communication System</code>: 假迎驾、降将身份欺骗。</li><li><code>State Modifier Source</code>: 降将编营和清方心理欺骗节点。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0138</code>，<code>../source-audit.md#audit-sm-0130</code>，<code>../source-audit.md#audit-sm-0264</code>，<code>../source-audit.md#audit-sm-0290</code>，<code>../source-audit.md#audit-sm-0305</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王会官职、与磨盘山/降清名单中王会是否同一人、献俘日序中的角色需校。</li></ul>",
   "plainText": "王会 / Wang Hui Stable draft ID: person.wang hui Status: anchored seed profile 身份 王会，南明旧将或降清人物，永历被缅方交出时出现在清方接收链条中。 生平和主要事迹 顾诚材料记其曾在永历座船抵岸时自称奉李定国命迎驾，使永历误入清营；《庭闻录》系统另有高得捷接收永历的异文，当前不把两者合并为同一动作。 此前亦见南明降清名单和清方编营线索：交水后奖惩材料中有王会降官降爵线索，《南明史稿》记 1659 年六月王会等自建昌卫入罗次降清；顾诚《南明史》又把王会列为降清后十营总兵之一。上述是否均为同一人仍需核对。 性格、评价和行为模式提取 行为模式：降将身份可被清方用来降低永历警惕，属于心理/信息欺骗节点。 著作或文本 未见。 游戏数据线索 Communication System: 假迎驾、降将身份欺骗。 State Modifier Source: 降将编营和清方心理欺骗节点。 来源 已核锚点：../source audit.md audit sm 0138，../source audit.md audit sm 0130，../source audit.md audit sm 0264，../source audit.md audit sm 0290，../source audit.md audit sm 0305，../source audit.md audit sm 0306。 待辨析 王会官职、与磨盘山/降清名单中王会是否同一人、献俘日序中的角色需校。"
 }

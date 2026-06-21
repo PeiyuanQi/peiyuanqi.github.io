@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-jing",
   "title": "王敬 / Wang Jing",
-  "sourcePath": "references/southern-ming/people/wang-jing.md",
+  "sourcePath": "references/southern-ming/people/wang-jing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-jing/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the local person page; not a historically authenticated likeness.",
+    "alt": "王敬 / Wang Jing portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-jing/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_jing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>王敬，1659 年建昌卫入罗次降清链条中的人物之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年六月，王敬与王会、杨威、赵武、邓望功、万致元、韩天福、王朝兴、旷世宰、胡九鼎等自建昌卫入罗次降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录其为建昌卫入罗次降清名单节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 建昌卫入罗次降清链。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0305</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王敬官职、同名人物混同、所属兵力和后续去向需继续校。</li></ul>",
   "plainText": "王敬 / Wang Jing Stable draft ID: person.wang jing Status: anchored seed profile 身份 王敬，1659 年建昌卫入罗次降清链条中的人物之一。 生平和主要事迹 《南明史稿》记 1659 年六月，王敬与王会、杨威、赵武、邓望功、万致元、韩天福、王朝兴、旷世宰、胡九鼎等自建昌卫入罗次降清。 性格、评价和行为模式提取 当前只可记录其为建昌卫入罗次降清名单节点。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 建昌卫入罗次降清链。 来源 已核锚点：../source audit.md audit sm 0305。 待辨析 王敬官职、同名人物混同、所属兵力和后续去向需继续校。"
 }

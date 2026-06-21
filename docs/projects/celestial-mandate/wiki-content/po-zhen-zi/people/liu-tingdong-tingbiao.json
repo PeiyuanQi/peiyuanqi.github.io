@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-tingdong-tingbiao",
   "title": "刘廷栋 / 刘廷标 / Liu Tingdong or Liu Tingbiao",
-  "sourcePath": "references/southern-ming/people/liu-tingdong-tingbiao.md",
+  "sourcePath": "references/southern-ming/people/liu-tingdong-tingbiao/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-tingdong-tingbiao/portrait.png",
+    "caption": "This is AI generated game concept art informed by the local person page and late Ming local official visual grammar; it is not an authenticated likeness or evidence source.",
+    "alt": "刘廷栋 / 刘廷标 / Liu Tingdong or Liu Tingbiao portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-tingdong-tingbiao/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_tingdong_tingbiao</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘廷栋/刘廷标，永昌通判或署知府线人物。姓名在顾诚叙述和《小腆纪年》提取中存在异写，暂同档保留。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>大西军入滇并接受杨畏知约法后，孙可望移檄永昌索道府印。</li><li>刘廷标/刘廷栋与王运开守澜沧江方向，拒绝缴印，认为大西军不可信。</li><li>《小腆纪年》记其劝散哭请出降的士民后，沐浴赋诗，自缢死。</li><li>本地 CBDB 有 <code>劉廷標 c_personid=132736</code>，见上杭、明人传记资料索引 8621、史语所人名权威 024487、CText 134945、府通判和“詩人/賦詩”字段；精确名 <code>劉廷棟</code> 另有多条记录，但目前不如 <code>劉廷標</code> 与永昌通判/赋诗线直接相合。</li><li>维基文库《明史》卷二百九十五作刘廷标，上杭人，右参政署永昌知府，孙可望索印时自经；这加强“刘廷标”写法，但顾诚“刘廷栋”仍须保留待校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：旧明地方官绅在沐氏合作和大西压力之间选择死节。</li><li>其人物线索适合用来表现“中央/沐氏合作”和“地方官绅接受度”之间的裂缝。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>临终题幅巾自序和诗作见《小腆纪年》所引，需回《寒支集》核。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Identity Variant</code>: 刘廷栋/刘廷标需保留异名，不进入单一 ID 前需校。</li><li><code>Divergence Gate</code>: 永昌是否缴印、是否和平转入孙可望体系。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0211</code>。</li><li>CBDB 候选权威：<code>../source-audit.md#audit-sm-0416</code>。</li><li>明史公开文本旁证：<code>../source-audit.md#audit-sm-0425</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>顾诚作刘廷栋，《小腆纪年》和维基文库《明史》卷二百九十五作刘廷标；CBDB 支持刘廷标作较强候选，但是否同一人、职衔、籍贯和文集出处仍需复核。</li></ul>",
   "plainText": "刘廷栋 / 刘廷标 / Liu Tingdong or Liu Tingbiao Stable draft ID: person.liu tingdong tingbiao Status: anchored seed profile 身份 刘廷栋/刘廷标，永昌通判或署知府线人物。姓名在顾诚叙述和《小腆纪年》提取中存在异写，暂同档保留。 生平和主要事迹 大西军入滇并接受杨畏知约法后，孙可望移檄永昌索道府印。 刘廷标/刘廷栋与王运开守澜沧江方向，拒绝缴印，认为大西军不可信。 《小腆纪年》记其劝散哭请出降的士民后，沐浴赋诗，自缢死。 本地 CBDB 有 劉廷標 c personid=132736，见上杭、明人传记资料索引 8621、史语所人名权威 024487、CText 134945、府通判和“詩人/賦詩”字段；精确名 劉廷棟 另有多条记录，但目前不如 劉廷標 与永昌通判/赋诗线直接相合。 维基文库《明史》卷二百九十五作刘廷标，上杭人，右参政署永昌知府，孙可望索印时自经；这加强“刘廷标”写法，但顾诚“刘廷栋”仍须保留待校。 性格、评价和行为模式提取 行为模式：旧明地方官绅在沐氏合作和大西压力之间选择死节。 其人物线索适合用来表现“中央/沐氏合作”和“地方官绅接受度”之间的裂缝。 著作或文本 临终题幅巾自序和诗作见《小腆纪年》所引，需回《寒支集》核。 游戏数据线索 Identity Variant: 刘廷栋/刘廷标需保留异名，不进入单一 ID 前需校。 Divergence Gate: 永昌是否缴印、是否和平转入孙可望体系。 来源 已核锚点：../source audit.md audit sm 0211。 CBDB 候选权威：../source audit.md audit sm 0416。 明史公开文本旁证：../source audit.md audit sm 0425。 待辨析 顾诚作刘廷栋，《小腆纪年》和维基文库《明史》卷二百九十五作刘廷标；CBDB 支持刘廷标作较强候选，但是否同一人、职衔、籍贯和文集出处仍需复核。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yin-minxing",
   "title": "尹民兴 / Yin Minxing",
-  "sourcePath": "references/southern-ming/people/yin-minxing.md",
+  "sourcePath": "references/southern-ming/people/yin-minxing/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yin-minxing/portrait.png",
+    "caption": "AI generated game concept art based on local profile notes and shared Southern Ming art direction; not an authenticated likeness or evidence source.",
+    "alt": "尹民兴 / Yin Minxing portrait concept art",
+    "sourcePath": "references/southern-ming/people/yin-minxing/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yin_minxing</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>尹民兴，前职方司郎中。1645 年流寓泾县，与赵初浣、吴汉超起兵守泾县。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>南都覆亡后，尹民兴在泾县被吴汉超联络，与赵初浣等约起兵城守。</li><li>顾诚据清方档案记尹民兴部曾进攻南陵，又参与围攻宁国府治宣城；八月清军攻泾县，尹民兴见敌势大，逃出城外，后走入闽。</li><li>《小腆纪年》记其入闽后授兵部郎中、行御史事，闽亡后卒于家。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：流寓官员与本地士人、勇力人物结成临时守城核心。</li><li>能力特征：旧籍称“善谋”，适合作为泾县防御中的策划节点。</li><li>风险特征：泾县防御缺乏持续外援，城破后守城者遭严厉镇压。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 泾县是否能拖住张天禄部、支援绩溪和宁国。</li><li><code>State Modifier Source</code>: 流寓官员谋划、本地守城、清方屠戮威慑。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0200</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>尹民兴在隆武政权中的授职、后续履历、泾县出逃过程和清方处斩人数需继续校。</li></ul>",
   "plainText": "尹民兴 / Yin Minxing Stable draft ID: person.yin minxing Status: anchored seed profile 身份 尹民兴，前职方司郎中。1645 年流寓泾县，与赵初浣、吴汉超起兵守泾县。 生平和主要事迹 南都覆亡后，尹民兴在泾县被吴汉超联络，与赵初浣等约起兵城守。 顾诚据清方档案记尹民兴部曾进攻南陵，又参与围攻宁国府治宣城；八月清军攻泾县，尹民兴见敌势大，逃出城外，后走入闽。 《小腆纪年》记其入闽后授兵部郎中、行御史事，闽亡后卒于家。 性格、评价和行为模式提取 行为模式：流寓官员与本地士人、勇力人物结成临时守城核心。 能力特征：旧籍称“善谋”，适合作为泾县防御中的策划节点。 风险特征：泾县防御缺乏持续外援，城破后守城者遭严厉镇压。 著作或文本 未见已核著作。 游戏数据线索 Historical Candidate: 泾县是否能拖住张天禄部、支援绩溪和宁国。 State Modifier Source: 流寓官员谋划、本地守城、清方屠戮威慑。 来源 已核锚点：../source audit.md audit sm 0200。 待辨析 尹民兴在隆武政权中的授职、后续履历、泾县出逃过程和清方处斩人数需继续校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__tang-tai",
   "title": "唐泰 / Tang Tai",
-  "sourcePath": "references/southern-ming/people/tang-tai.md",
+  "sourcePath": "references/southern-ming/people/tang-tai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/tang-tai/portrait.png",
+    "caption": "AI generated style inspired game concept art. No authenticated likeness is claimed.",
+    "alt": "唐泰 / Tang Tai portrait concept art",
+    "sourcePath": "references/southern-ming/people/tang-tai/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.tang_tai</code><br />Status: anchored seed profile; identity pending</p></blockquote>\n<h3>身份</h3>\n<p>唐泰，《明季南略》卷十七所见沙定洲谋主异文人物。来源称其为贡生，帮助沙定洲谋划，并劝杀王锡衮和诸乡绅。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明季南略》卷十七在王锡衮不屈叙事后，称贡生唐泰为沙定洲谋主。</li><li>这一人物与顾诚所见汤嘉宾同为沙定洲谋主层，但目前不能判断唐泰是否为汤嘉宾误写、异名，或另一名谋主。</li><li>当前保持单独种子页，避免与 <code>tang-jiabin.md</code> 静默合并。</li><li>本地 CBDB 精确名 <code>唐泰</code> 有多条同名记录，分属侯官、仁和、歙县、长泰和清代肥城等线索；<code>湯嘉賓/汤嘉宾</code> 无直接命中。现有 CBDB 命中不能证明为沙定洲谋主。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方士人参与土司割据谋划的旧籍异文层。</li><li>“劝杀”属于来源叙事，未校前不作为最终人物评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Identity Disambiguation</code>: 唐泰/汤嘉宾关系待校。</li><li><code>Political Operator</code>: 沙定洲网络中的士人谋主可能性。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0406</code>：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。</li><li><code>../source-audit.md#audit-sm-0417</code>：本地 CBDB 所见唐泰同名记录和汤嘉宾无直接命中。</li></ul>\n<h3>待辨析</h3>\n<ul><li>唐泰是否即汤嘉宾，贡生身份、家族、具体谋划和结局，需查临安府志、云南通志、王锡衮文集和顾诚注释源；CBDB 同名记录不得直接挂作本页外部 ID。</li></ul>",
   "plainText": "唐泰 / Tang Tai Stable draft ID: person.tang tai Status: anchored seed profile; identity pending 身份 唐泰，《明季南略》卷十七所见沙定洲谋主异文人物。来源称其为贡生，帮助沙定洲谋划，并劝杀王锡衮和诸乡绅。 生平和主要事迹 《明季南略》卷十七在王锡衮不屈叙事后，称贡生唐泰为沙定洲谋主。 这一人物与顾诚所见汤嘉宾同为沙定洲谋主层，但目前不能判断唐泰是否为汤嘉宾误写、异名，或另一名谋主。 当前保持单独种子页，避免与 tang jiabin.md 静默合并。 本地 CBDB 精确名 唐泰 有多条同名记录，分属侯官、仁和、歙县、长泰和清代肥城等线索；湯嘉賓/汤嘉宾 无直接命中。现有 CBDB 命中不能证明为沙定洲谋主。 性格、评价和行为模式提取 行为模式：地方士人参与土司割据谋划的旧籍异文层。 “劝杀”属于来源叙事，未校前不作为最终人物评价。 著作或文本 未见已核著作。 游戏数据线索 Identity Disambiguation: 唐泰/汤嘉宾关系待校。 Political Operator: 沙定洲网络中的士人谋主可能性。 来源 ../source audit.md audit sm 0406：《明季南略》卷十七所见曲靖、朱寿琳死节、王锡衮和杨畏知线索。 ../source audit.md audit sm 0417：本地 CBDB 所见唐泰同名记录和汤嘉宾无直接命中。 待辨析 唐泰是否即汤嘉宾，贡生身份、家族、具体谋划和结局，需查临安府志、云南通志、王锡衮文集和顾诚注释源；CBDB 同名记录不得直接挂作本页外部 ID。"
 }

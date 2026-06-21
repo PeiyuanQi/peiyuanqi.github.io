@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__sha-ruqi",
   "title": "沙如琦 / Sha Ruqi",
-  "sourcePath": "references/southern-ming/people/sha-ruqi.md",
+  "sourcePath": "references/southern-ming/people/sha-ruqi/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/sha-ruqi/portrait.png",
+    "caption": "AI generated game concept art; not an authenticated likeness and not historical evidence.",
+    "alt": "沙如琦 / Sha Ruqi portrait concept art",
+    "sourcePath": "references/southern-ming/people/sha-ruqi/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>沙如琦，《南明野史》所见沙氏诸子和万氏、沙定洲继承链中的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》将沙如琦列入普明声、万氏和沙氏诸子的旧籍前史层，用来解释沙定洲势力扩张背景。</li><li>当前没有独立锚点证明其具体行动、官职、死亡方式或与沙定洲的精确亲属关系。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作待校姓名和家族网络节点，不作性格判断。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Tusi Network</code>: 沙氏诸子和阿迷/蒙自控制权变化。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0384</code>：《南明野史》所见沙氏诸子和万氏婚姻继承前史。</li></ul>\n<h3>待辨析</h3>\n<ul><li>沙如琦姓名、排行、事迹和是否与其他异名人物同一，需云南地方志校。</li></ul>",
   "plainText": "沙如琦 / Sha Ruqi Status: anchored seed profile; identity pending. 身份 沙如琦，《南明野史》所见沙氏诸子和万氏、沙定洲继承链中的人物。 生平和主要事迹 《南明野史》将沙如琦列入普明声、万氏和沙氏诸子的旧籍前史层，用来解释沙定洲势力扩张背景。 当前没有独立锚点证明其具体行动、官职、死亡方式或与沙定洲的精确亲属关系。 性格、评价和行为模式提取 当前只作待校姓名和家族网络节点，不作性格判断。 著作或文本 未见。 游戏数据线索 Tusi Network: 沙氏诸子和阿迷/蒙自控制权变化。 来源 ../source audit.md audit sm 0384：《南明野史》所见沙氏诸子和万氏婚姻继承前史。 待辨析 沙如琦姓名、排行、事迹和是否与其他异名人物同一，需云南地方志校。"
 }

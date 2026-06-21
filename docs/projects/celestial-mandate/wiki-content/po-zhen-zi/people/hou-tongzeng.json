@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__hou-tongzeng",
   "title": "侯峒曾 / Hou Tongzeng",
-  "sourcePath": "references/southern-ming/people/hou-tongzeng.md",
+  "sourcePath": "references/southern-ming/people/hou-tongzeng/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/hou-tongzeng/portrait.png",
+    "caption": "AI generated game concept art based on the local person page; style inspired only, not an authenticated likeness or evidence source.",
+    "alt": "侯峒曾 / Hou Tongzeng portrait concept art",
+    "sourcePath": "references/southern-ming/people/hou-tongzeng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.hou_tongzeng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>侯峒曾，嘉定人，天启五年进士，明末曾任通政司相关官职。1645 年嘉定拒剃起事中被推为核心主持者，城破后死难。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>明末仕宦，弘光朝曾召为左通政等职，因朝事乖谬或局势不稳未积极赴任的记载需继续细校。</li><li>弘光覆亡后居嘉定。剃发令激起地方反抗时，侯峒曾主张积极起兵，不止于个人守节。</li><li>1645 年嘉定起事后，与黄淳耀等组织出丁、分堞、筹饷和守城。</li><li>嘉定城破时，侯峒曾与二子侯玄演、侯玄洁死难。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方士绅型政治动员者，把个人名节转化为地方集体抵抗。</li><li>评价层：材料突出其“与城存亡”的选择；同时守城军事效果受乡兵训练和组织能力限制。</li><li>游戏建模可抽取为：高士绅号召力、高抗清意志、中等军事组织能力，强依赖地方乡勇质量。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>《易解》作为著作线索见《南明史稿》书目/人物材料，尚未在本轮作为事实来源使用。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 嘉定士绅动员、拒剃起事、忠义记忆。</li><li><code>Historical Candidate</code>: 侯峒曾是否入城主持，决定嘉定起事组织度和清方镇压成本。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0043</code>，<code>../source-audit.md#audit-sm-0045</code>，<code>../source-audit.md#audit-sm-0046</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>侯峒曾弘光朝具体任命、是否赴任和与东林/复社网络关系需继续查证。</li><li>子名、死难地点和首级/收殓细节需逐源校。</li></ul>",
   "plainText": "侯峒曾 / Hou Tongzeng Stable draft ID: person.hou tongzeng Status: anchored seed profile 身份 侯峒曾，嘉定人，天启五年进士，明末曾任通政司相关官职。1645 年嘉定拒剃起事中被推为核心主持者，城破后死难。 生平和主要事迹 明末仕宦，弘光朝曾召为左通政等职，因朝事乖谬或局势不稳未积极赴任的记载需继续细校。 弘光覆亡后居嘉定。剃发令激起地方反抗时，侯峒曾主张积极起兵，不止于个人守节。 1645 年嘉定起事后，与黄淳耀等组织出丁、分堞、筹饷和守城。 嘉定城破时，侯峒曾与二子侯玄演、侯玄洁死难。 性格、评价和行为模式提取 行为模式：地方士绅型政治动员者，把个人名节转化为地方集体抵抗。 评价层：材料突出其“与城存亡”的选择；同时守城军事效果受乡兵训练和组织能力限制。 游戏建模可抽取为：高士绅号召力、高抗清意志、中等军事组织能力，强依赖地方乡勇质量。 著作或文本 《易解》作为著作线索见《南明史稿》书目/人物材料，尚未在本轮作为事实来源使用。 游戏数据线索 State Modifier Source: 嘉定士绅动员、拒剃起事、忠义记忆。 Historical Candidate: 侯峒曾是否入城主持，决定嘉定起事组织度和清方镇压成本。 来源 已核锚点：../source audit.md audit sm 0043，../source audit.md audit sm 0045，../source audit.md audit sm 0046。 待辨析 侯峒曾弘光朝具体任命、是否赴任和与东林/复社网络关系需继续查证。 子名、死难地点和首级/收殓细节需逐源校。"
 }

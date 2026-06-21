@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__hu-shirui",
   "title": "胡士瑞 / 胡士端 / Hu Shirui",
-  "sourcePath": "references/southern-ming/people/hu-shirui.md",
+  "sourcePath": "references/southern-ming/people/hu-shirui/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/hu-shirui/portrait.png",
+    "caption": "AI generated game concept art based on the local person page; style inspired only, not an authenticated likeness or evidence source.",
+    "alt": "胡士瑞 / 胡士端 / Hu Shirui portrait concept art",
+    "sourcePath": "references/southern-ming/people/hu-shirui/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>胡士瑞，永历安龙朝臣，十八先生案相关人物。顾诚叙述和《明季南略》追赠层多作“胡士瑞”，顾诚所录诏书中有“胡士端”写法，需作为同一候选人物的异文暂存。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>安龙受制时期，与徐极、林青阳、张镌、蔡氏等劾奏马吉翔、庞天寿依附孙可望。</li><li>张福禄、全为国向永历推荐可参与密召李定国的人选时，胡士瑞在列。</li><li>1654 年三月前后卷入密诏案，顾诚叙述中列入从犯处斩层；1657 年追赠层继续出现。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“言官/部曹抗议转入密谋”的种子：先劾奏马庞，再卷入密诏通信。</li><li>姓名异文需要保留，不应把胡士瑞与胡士端拆成两个已证人物。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Name Variant</code>: 胡士瑞/胡士端。</li><li><code>Political Actor</code>: 劾奏马庞、参与密诏案。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0277</code>：安龙控制网络的内外节点。</li><li><code>../source-audit.md#audit-sm-0278</code>：安龙密诏的文书链、使者链和泄密链。</li><li><code>../source-audit.md#audit-sm-0279</code>：十八先生案的审讯、首从划分和处置层次。</li><li><code>../source-audit.md#audit-sm-0280</code>：十八先生追赠、祠庙和地方记忆层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>胡士瑞/胡士端是否完全同一、官职正名、处置方式和追赠职衔需逐源校。</li></ul>",
   "plainText": "胡士瑞 / 胡士端 / Hu Shirui 身份 胡士瑞，永历安龙朝臣，十八先生案相关人物。顾诚叙述和《明季南略》追赠层多作“胡士瑞”，顾诚所录诏书中有“胡士端”写法，需作为同一候选人物的异文暂存。 生平与主要事迹 安龙受制时期，与徐极、林青阳、张镌、蔡氏等劾奏马吉翔、庞天寿依附孙可望。 张福禄、全为国向永历推荐可参与密召李定国的人选时，胡士瑞在列。 1654 年三月前后卷入密诏案，顾诚叙述中列入从犯处斩层；1657 年追赠层继续出现。 性格、评价与行为模式 可作为“言官/部曹抗议转入密谋”的种子：先劾奏马庞，再卷入密诏通信。 姓名异文需要保留，不应把胡士瑞与胡士端拆成两个已证人物。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Name Variant: 胡士瑞/胡士端。 Political Actor: 劾奏马庞、参与密诏案。 来源 ../source audit.md audit sm 0277：安龙控制网络的内外节点。 ../source audit.md audit sm 0278：安龙密诏的文书链、使者链和泄密链。 ../source audit.md audit sm 0279：十八先生案的审讯、首从划分和处置层次。 ../source audit.md audit sm 0280：十八先生追赠、祠庙和地方记忆层。 待辨析 胡士瑞/胡士端是否完全同一、官职正名、处置方式和追赠职衔需逐源校。"
 }

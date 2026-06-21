@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__liu-sikuan",
   "title": "刘嗣宽 / Liu Sikuan",
-  "sourcePath": "references/southern-ming/people/liu-sikuan.md",
+  "sourcePath": "references/southern-ming/people/liu-sikuan/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/liu-sikuan/portrait.png",
+    "caption": "This is AI generated game concept art informed by the local person page and late Ming regional defense visual grammar; it is not an authenticated likeness or evidence source.",
+    "alt": "刘嗣宽 / Liu Sikuan portrait concept art",
+    "sourcePath": "references/southern-ming/people/liu-sikuan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.liu_sikuan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>刘嗣宽，1649 年忠贞营抵梧州附近时出现的南明地方官员，顾诚材料作“兵备道刘嗣宽”。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649 年五月，李赤心、高必正部抵梧州附近，刘嗣宽与叶承恩、梧州知府东玉（姓名待校）等迎战失利。</li><li>后与叶承恩飞檄德庆总兵杨大甫来援，参与梧州地方对忠贞营过境的防御和求援。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式暂定为地方文武防务官：在朝廷无法统一协调忠贞营安置时，以地方安全和关隘/水道控制为优先。</li><li>该人物适合用于表现“文官防务系统和流动强军之间的摩擦”，不宜扩写为主动反明。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>奏疏、檄文或地方志传记待检。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 兵备道防线、梧州冲突。</li><li><code>Divergence Gate</code>: 朝廷是否能在地方兵备道之外提供更高层授权和安置方案。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0240</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>官职全称、辖区、梧州战斗中的具体责任，以及地方志是否有其传记待核。</li></ul>",
   "plainText": "刘嗣宽 / Liu Sikuan Stable draft ID: person.liu sikuan Status: anchored seed profile 身份 刘嗣宽，1649 年忠贞营抵梧州附近时出现的南明地方官员，顾诚材料作“兵备道刘嗣宽”。 生平和主要事迹 1649 年五月，李赤心、高必正部抵梧州附近，刘嗣宽与叶承恩、梧州知府东玉（姓名待校）等迎战失利。 后与叶承恩飞檄德庆总兵杨大甫来援，参与梧州地方对忠贞营过境的防御和求援。 性格、评价和行为模式提取 行为模式暂定为地方文武防务官：在朝廷无法统一协调忠贞营安置时，以地方安全和关隘/水道控制为优先。 该人物适合用于表现“文官防务系统和流动强军之间的摩擦”，不宜扩写为主动反明。 著作或文本 奏疏、檄文或地方志传记待检。 游戏数据线索 State Modifier Source: 兵备道防线、梧州冲突。 Divergence Gate: 朝廷是否能在地方兵备道之外提供更高层授权和安置方案。 来源 已核锚点：../source audit.md audit sm 0240；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 官职全称、辖区、梧州战斗中的具体责任，以及地方志是否有其传记待核。"
 }

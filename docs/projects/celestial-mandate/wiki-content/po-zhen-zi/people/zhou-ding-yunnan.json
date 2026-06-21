@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhou-ding-yunnan",
   "title": "周鼎（云南沐府从官） / Zhou Ding",
-  "sourcePath": "references/southern-ming/people/zhou-ding-yunnan.md",
+  "sourcePath": "references/southern-ming/people/zhou-ding-yunnan/profile.md",
   "html": "<blockquote><p>Stable draft ID: <code>person.zhou_ding_yunnan</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>周鼎，《南明野史》所见沐天波从官，出现在沙定洲袭取昆明后沐天波出奔一段。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明野史》记沐天波由小窦出西城时，从官周鼎劝其留下讨贼；沐天波疑周鼎诱己，杀之，然后走楚雄。</li><li>当前只作沐府出奔现场的旧籍人物线索，不与永历朝近侍周鼎瀚合并。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>不从单一旧籍提取周鼎忠奸或性格。</li><li>行为模式只可暂记为“危机现场劝留/被疑杀”的来源叙事层。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 沙定洲袭昆明后沐天波出奔链条。</li><li><code>Identity Disambiguation</code>: 与周鼎瀚等同名/近名人物分开。</li><li><code>Uncertainty</code>: 动机、现场对话和责任权重未校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0419</code>：《南明野史》所见周鼎劝留沐天波与被杀线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>周鼎职衔、籍贯、是否另见沐氏材料或云南地方志待校。</li></ul>",
   "plainText": "周鼎（云南沐府从官） / Zhou Ding Stable draft ID: person.zhou ding yunnan Status: anchored seed profile; identity pending. 身份 周鼎，《南明野史》所见沐天波从官，出现在沙定洲袭取昆明后沐天波出奔一段。 生平和主要事迹 《南明野史》记沐天波由小窦出西城时，从官周鼎劝其留下讨贼；沐天波疑周鼎诱己，杀之，然后走楚雄。 当前只作沐府出奔现场的旧籍人物线索，不与永历朝近侍周鼎瀚合并。 性格、评价和行为模式提取 不从单一旧籍提取周鼎忠奸或性格。 行为模式只可暂记为“危机现场劝留/被疑杀”的来源叙事层。 著作或文本 未见。 游戏数据线索 Event Participant: 沙定洲袭昆明后沐天波出奔链条。 Identity Disambiguation: 与周鼎瀚等同名/近名人物分开。 Uncertainty: 动机、现场对话和责任权重未校。 来源 ../source audit.md audit sm 0419：《南明野史》所见周鼎劝留沐天波与被杀线索。 待辨析 周鼎职衔、籍贯、是否另见沐氏材料或云南地方志待校。"
 }

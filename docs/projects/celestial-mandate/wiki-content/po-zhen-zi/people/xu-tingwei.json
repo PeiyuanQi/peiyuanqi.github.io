@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__xu-tingwei",
   "title": "徐廷威 / Xu Tingwei",
-  "sourcePath": "references/southern-ming/people/xu-tingwei.md",
+  "sourcePath": "references/southern-ming/people/xu-tingwei/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/xu-tingwei/portrait.png",
+    "caption": "AI generated game concept art. It is not an authenticated likeness or evidence source.",
+    "alt": "徐廷威 / Xu Tingwei portrait concept art",
+    "sourcePath": "references/southern-ming/people/xu-tingwei/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.xu_tingwei</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>徐廷威，南明将军，1659 年澜沧江外降清链条中的人物之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《南明史稿》记 1659 年五月，徐廷威与马宝、塔新策、刘偁、李贵、贺天云等自澜沧江外降清。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前仅能作为澜沧江外降清名单中的节点记录；不作个人忠诚或军事能力评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 澜沧江外降清链。</li><li><code>Uncertainty</code>: 名单人物待清方投诚记录复核。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0305</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>徐廷威官职、所属部队、是否进入后续清方编组、姓名异写需继续校。</li></ul>",
   "plainText": "徐廷威 / Xu Tingwei Stable draft ID: person.xu tingwei Status: anchored seed profile 身份 徐廷威，南明将军，1659 年澜沧江外降清链条中的人物之一。 生平和主要事迹 《南明史稿》记 1659 年五月，徐廷威与马宝、塔新策、刘偁、李贵、贺天云等自澜沧江外降清。 性格、评价和行为模式提取 当前仅能作为澜沧江外降清名单中的节点记录；不作个人忠诚或军事能力评价。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 澜沧江外降清链。 Uncertainty: 名单人物待清方投诚记录复核。 来源 已核锚点：../source audit.md audit sm 0305。 待辨析 徐廷威官职、所属部队、是否进入后续清方编组、姓名异写需继续校。"
 }

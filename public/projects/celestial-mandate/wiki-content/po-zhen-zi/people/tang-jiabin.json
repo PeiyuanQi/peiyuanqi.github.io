@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__tang-jiabin",
   "title": "汤嘉宾 / Tang Jiabin",
-  "sourcePath": "references/southern-ming/people/tang-jiabin.md",
+  "sourcePath": "references/southern-ming/people/tang-jiabin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/tang-jiabin/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local textual research; the likeness is not authenticated",
+    "alt": "汤嘉宾 / Tang Jiabin portrait concept art",
+    "sourcePath": "references/southern-ming/people/tang-jiabin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.tang_jiabin</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>汤嘉宾，临安府生员，万氏妹夫。沙定洲之乱中的谋主型人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>顾诚记沙定洲、万氏势力扩张后，以汤嘉宾为谋主，利用沐府、云南巡抚和三司官之间的矛盾及土司向背不一，筹划夺取云南权力。</li><li>《明季南略》卷十七作“贡生唐泰”为沙定洲谋主，并称其劝沙定洲杀王锡衮、杀诸乡绅；唐泰是否为汤嘉宾异文，当前不合并。</li><li>1645 年沙定洲袭取昆明后，汤嘉宾应属于沙氏政权核心谋划层。</li><li>1648 年佴革龙平定后，汤嘉宾与沙定洲、万氏等被押至昆明处置。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：本地士人/谋主，帮助土司武力把地方矛盾转化为夺权方案。</li><li>游戏建模中可作为“地方士绅参与土司割据”的节点，而非单纯武将。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Political Operator</code>: 沙定洲网络中的士人谋划。</li><li><code>Divergence Gate</code>: 地方士绅是否支持或被胁迫参与沙氏代镇方案。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0208</code>；<code>../source-audit.md#audit-sm-0212</code>；<code>../source-audit.md#audit-sm-0388</code>；<code>../source-audit.md#audit-sm-0392</code>；<code>../source-audit.md#audit-sm-0406</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>汤嘉宾的家族、功名、具体谋划文书和被处置细节需地方志校；《明季南略》唐泰是否为同一人、误写、或另一名谋主，需另校。</li></ul>",
   "plainText": "汤嘉宾 / Tang Jiabin Stable draft ID: person.tang jiabin Status: anchored seed profile 身份 汤嘉宾，临安府生员，万氏妹夫。沙定洲之乱中的谋主型人物。 生平和主要事迹 顾诚记沙定洲、万氏势力扩张后，以汤嘉宾为谋主，利用沐府、云南巡抚和三司官之间的矛盾及土司向背不一，筹划夺取云南权力。 《明季南略》卷十七作“贡生唐泰”为沙定洲谋主，并称其劝沙定洲杀王锡衮、杀诸乡绅；唐泰是否为汤嘉宾异文，当前不合并。 1645 年沙定洲袭取昆明后，汤嘉宾应属于沙氏政权核心谋划层。 1648 年佴革龙平定后，汤嘉宾与沙定洲、万氏等被押至昆明处置。 性格、评价和行为模式提取 行为模式：本地士人/谋主，帮助土司武力把地方矛盾转化为夺权方案。 游戏建模中可作为“地方士绅参与土司割据”的节点，而非单纯武将。 著作或文本 未见已核著作。 游戏数据线索 Political Operator: 沙定洲网络中的士人谋划。 Divergence Gate: 地方士绅是否支持或被胁迫参与沙氏代镇方案。 来源 已核锚点：../source audit.md audit sm 0208；../source audit.md audit sm 0212；../source audit.md audit sm 0388；../source audit.md audit sm 0392；../source audit.md audit sm 0406。 待辨析 汤嘉宾的家族、功名、具体谋划文书和被处置细节需地方志校；《明季南略》唐泰是否为同一人、误写、或另一名谋主，需另校。"
 }

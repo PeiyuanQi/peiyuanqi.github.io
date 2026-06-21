@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__li-shichun",
   "title": "李士春 / Li Shichun",
-  "sourcePath": "references/southern-ming/people/li-shichun.md",
+  "sourcePath": "references/southern-ming/people/li-shichun/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/li-shichun/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local profile; the likeness is not authenticated.",
+    "alt": "李士春 / Li Shichun portrait concept art",
+    "sourcePath": "references/southern-ming/people/li-shichun/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.li_shichun</code><br />Status: low-visibility Jiujiang counsel profile</p></blockquote>\n<h3>身份</h3>\n<p>李士春，九江之变中出现的副将线索。材料把他放在袁继咸欲死后的劝阻层：主张隐忍，到前途再图挽救。Phase 1 demo 中应把他写成被胁危机中的务实建议者，而不是确定投降派。</p>\n<h3>可见经历</h3>\n<div class=\"wiki-table-wrap\"><table><thead><tr><th>时间</th><th>地点</th><th>事件</th><th>角色意义</th></tr></thead><tbody><tr><td>1645 四月初，九江城乱后</td><td>九江、左军控制空间</td><td>袁继咸欲自尽时，李士春密劝其隐忍，认为前途仍可图。</td><td>可作为 <code>PragmaticCounselUnderCaptivity</code>：劝活下来保留劝阻空间。</td></tr></tbody></table></div>\n<h3>行为模式提取</h3>\n<ul><li><code>Pragmatic Counsel</code>: 面对失控局面，倾向保存行动余地。</li><li><code>Ambiguous Moral Position</code>: 劝隐忍不等于投降，也不等于可靠忠臣；必须看后续证据。</li><li><code>Low-Text Visibility</code>: 目前只支撑一段言行接口。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>CharacterProfile</code>: low-visibility counsel actor.</li><li><code>Report Fact</code>: 李士春劝袁继咸隐忍。</li><li><code>Divergence Gate</code>: 袁继咸是否当场殉死、是否随军寻找劝阻空间。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0459</code></li><li><code>../source-audit.md#audit-sm-0510</code></li><li><code>data/era-packages/southern-ming/source-notes/hongguang-jiujiang-command-chain-low-visibility-actors-1645.json</code></li></ul>\n<h3>待辨析</h3>\n<ul><li>官职、所属阵营、劝语版本可靠性。</li><li>后续是否随左梦庚东下、降清或离散。</li></ul>",
   "plainText": "李士春 / Li Shichun Stable draft ID: person.li shichun Status: low visibility Jiujiang counsel profile 身份 李士春，九江之变中出现的副将线索。材料把他放在袁继咸欲死后的劝阻层：主张隐忍，到前途再图挽救。Phase 1 demo 中应把他写成被胁危机中的务实建议者，而不是确定投降派。 可见经历 时间 地点 事件 角色意义 1645 四月初，九江城乱后 九江、左军控制空间 袁继咸欲自尽时，李士春密劝其隐忍，认为前途仍可图。 可作为 PragmaticCounselUnderCaptivity：劝活下来保留劝阻空间。 行为模式提取 Pragmatic Counsel: 面对失控局面，倾向保存行动余地。 Ambiguous Moral Position: 劝隐忍不等于投降，也不等于可靠忠臣；必须看后续证据。 Low Text Visibility: 目前只支撑一段言行接口。 游戏数据线索 CharacterProfile: low visibility counsel actor. Report Fact: 李士春劝袁继咸隐忍。 Divergence Gate: 袁继咸是否当场殉死、是否随军寻找劝阻空间。 来源 ../source audit.md audit sm 0459 ../source audit.md audit sm 0510 data/era packages/southern ming/source notes/hongguang jiujiang command chain low visibility actors 1645.json 待辨析 官职、所属阵营、劝语版本可靠性。 后续是否随左梦庚东下、降清或离散。"
 }

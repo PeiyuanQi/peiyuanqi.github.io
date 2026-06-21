@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wang-yunkai",
   "title": "王运开 / Wang Yunkai",
-  "sourcePath": "references/southern-ming/people/wang-yunkai.md",
+  "sourcePath": "references/southern-ming/people/wang-yunkai/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wang-yunkai/portrait.png",
+    "caption": "AI generated game concept art informed by the local person page; not an authenticated likeness and not a historical evidence source.",
+    "alt": "王运开 / Wang Yunkai portrait concept art",
+    "sourcePath": "references/southern-ming/people/wang-yunkai/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wang_yunkai</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>王运开，字子朗，夹江人。大西入滇后署金腾道，是永昌缴印争议中的死节人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>大西军接受杨畏知约法后，孙可望移檄永昌，迎沐天波归省，并索道府印。</li><li>王运开与刘廷标/刘廷栋守澜沧江方向，拒绝缴印，认为缴印即等于降大西。</li><li>《小腆纪年》记王运开先自经，其弟王运闳后亦拒绝臣服，跃入江中死。</li><li>本地 CBDB 有 <code>王運開 c_personid=126746</code>，见夹江、明人传记资料索引 636、史语所人名权威 019232、CText 577190 和府推官字段，可作为本页人物的较强外部权威候选。</li><li>维基文库《明史》卷二百九十五也记金腾道王运开为夹江举人，先自经，其弟王运闳后亦投江死；页面未校对，官职、死法和弟王运闳仍需点校本/地方志复核。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：旧明地方官在沐天波与大西合作后仍坚持守土和名分。</li><li>其死说明杨畏知约法和沐天波合作并不自动等于云南旧官绅全体接受大西体系。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>王运开遗文待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Local Resistance</code>: 永昌官绅对大西整合的抵触。</li><li><code>Divergence Gate</code>: 沐天波合作是否足以说服地方官缴印。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0211</code>。</li><li>CBDB 候选权威：<code>../source-audit.md#audit-sm-0416</code>。</li><li>明史公开文本旁证：<code>../source-audit.md#audit-sm-0425</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>王运开官职、死亡日期、王运闳事迹和“署金腾道”权责需地方志校；CBDB 候选只证明身份入口，不证明死亡细节。</li></ul>",
   "plainText": "王运开 / Wang Yunkai Stable draft ID: person.wang yunkai Status: anchored seed profile 身份 王运开，字子朗，夹江人。大西入滇后署金腾道，是永昌缴印争议中的死节人物。 生平和主要事迹 大西军接受杨畏知约法后，孙可望移檄永昌，迎沐天波归省，并索道府印。 王运开与刘廷标/刘廷栋守澜沧江方向，拒绝缴印，认为缴印即等于降大西。 《小腆纪年》记王运开先自经，其弟王运闳后亦拒绝臣服，跃入江中死。 本地 CBDB 有 王運開 c personid=126746，见夹江、明人传记资料索引 636、史语所人名权威 019232、CText 577190 和府推官字段，可作为本页人物的较强外部权威候选。 维基文库《明史》卷二百九十五也记金腾道王运开为夹江举人，先自经，其弟王运闳后亦投江死；页面未校对，官职、死法和弟王运闳仍需点校本/地方志复核。 性格、评价和行为模式提取 行为模式：旧明地方官在沐天波与大西合作后仍坚持守土和名分。 其死说明杨畏知约法和沐天波合作并不自动等于云南旧官绅全体接受大西体系。 著作或文本 王运开遗文待补。 游戏数据线索 Local Resistance: 永昌官绅对大西整合的抵触。 Divergence Gate: 沐天波合作是否足以说服地方官缴印。 来源 已核锚点：../source audit.md audit sm 0211。 CBDB 候选权威：../source audit.md audit sm 0416。 明史公开文本旁证：../source audit.md audit sm 0425。 待辨析 王运开官职、死亡日期、王运闳事迹和“署金腾道”权责需地方志校；CBDB 候选只证明身份入口，不证明死亡细节。"
 }

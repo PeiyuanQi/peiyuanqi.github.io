@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__wan-faxiang",
   "title": "万发祥 / Wan Faxiang",
-  "sourcePath": "references/southern-ming/people/wan-faxiang.md",
+  "sourcePath": "references/southern-ming/people/wan-faxiang/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/wan-faxiang/portrait.png",
+    "caption": "AI generated game concept art, style inspired from local textual research; this is not an authenticated likeness or evidence source.",
+    "alt": "万发祥 / Wan Faxiang portrait concept art",
+    "sourcePath": "references/southern-ming/people/wan-faxiang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.wan_faxiang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>万发祥，赣州/忠诚府陷落时死难官绅之一。顾诚材料作翰林院兼兵科给事中，《南明野史》列为兵科给事。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1646 年赣州陷落时，万发祥列入同时死难名单。</li><li>当前材料只支撑其在忠诚府死难名单中的位置，生平和赣州守御具体职责待补。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>目前仅可作为忠诚府死难记忆人物处理，不宜提取过度性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 忠诚府陷落死难名单成员。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0221</code>。</li><li>相关事件：<code>../events/ganzhou-defense-1646.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>万发祥官职、籍贯、赣州守御职责和死难方式。</li></ul>",
   "plainText": "万发祥 / Wan Faxiang Stable draft ID: person.wan faxiang Status: anchored seed profile 身份 万发祥，赣州/忠诚府陷落时死难官绅之一。顾诚材料作翰林院兼兵科给事中，《南明野史》列为兵科给事。 生平和主要事迹 1646 年赣州陷落时，万发祥列入同时死难名单。 当前材料只支撑其在忠诚府死难名单中的位置，生平和赣州守御具体职责待补。 性格、评价和行为模式提取 目前仅可作为忠诚府死难记忆人物处理，不宜提取过度性格。 著作或文本 未见已核著作。 游戏数据线索 Report Fact: 忠诚府陷落死难名单成员。 来源 已核锚点：../source audit.md audit sm 0221。 相关事件：../events/ganzhou defense 1646.md。 待辨析 万发祥官职、籍贯、赣州守御职责和死难方式。"
 }

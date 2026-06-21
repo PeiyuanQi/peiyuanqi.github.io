@@ -1,7 +1,7 @@
 {
   "id": "po-zhen-zi__people__zhang-zhong-eunuch",
   "title": "张忠（太监） / Zhang Zhong",
-  "sourcePath": "references/southern-ming/people/zhang-zhong-eunuch.md",
+  "sourcePath": "references/southern-ming/people/zhang-zhong-eunuch/profile.md",
   "html": "<blockquote><p>Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>张忠，1658 年《海上見聞錄》羊山风灾叙事中出现的太监。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1658 年七月羊山风灾中，《海上見聞錄》记太监张忠与管船都督陈德等跪求郑成功上棚拜天；此条属于灾难记忆和神异叙事层。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其随郑氏舰队出现在风灾叙事中；不据单条材料写性格或宫廷身份延伸。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Court Retinue</code>: 海上郑氏系统中的内廷/太监随行线索。</li><li><code>Disaster Narrative Node</code>: 羊山风灾。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0367</code>：1658 年羊山风灾、陈德和张忠线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张忠身份、与永历或郑氏内廷的关系、风灾叙事真实性和后续去向需另查。</li></ul>",
   "plainText": "张忠（太监） / Zhang Zhong Status: anchored seed profile; identity pending. 身份 张忠，1658 年《海上見聞錄》羊山风灾叙事中出现的太监。 生平和主要事迹 1658 年七月羊山风灾中，《海上見聞錄》记太监张忠与管船都督陈德等跪求郑成功上棚拜天；此条属于灾难记忆和神异叙事层。 性格、评价和行为模式提取 当前只记录其随郑氏舰队出现在风灾叙事中；不据单条材料写性格或宫廷身份延伸。 著作或文本 未见。 游戏数据线索 Court Retinue: 海上郑氏系统中的内廷/太监随行线索。 Disaster Narrative Node: 羊山风灾。 来源 ../source audit.md audit sm 0367：1658 年羊山风灾、陈德和张忠线索。 待辨析 张忠身份、与永历或郑氏内廷的关系、风灾叙事真实性和后续去向需另查。"
 }

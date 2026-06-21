@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__zhang-hongde",
   "title": "张鸿德 / Zhang Hongde",
-  "sourcePath": "references/southern-ming/people/zhang-hongde.md",
+  "sourcePath": "references/southern-ming/people/zhang-hongde/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/zhang-hongde/portrait.png",
+    "caption": "AI generated game concept art, style inspired from profile.md; not an authenticated likeness and not a historical evidence source.",
+    "alt": "张鸿德 / Zhang Hongde portrait concept art",
+    "sourcePath": "references/southern-ming/people/zhang-hongde/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; name variant pending.</p></blockquote>\n<h3>身份</h3>\n<p>张鸿德，1655 年宁波/舟山线来归人物；《閩海紀要》作张宏德，《海上見聞錄》作张鸿德。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1655 年《閩海紀要》记宁波镇张宏德出降。</li><li>《海上見聞錄》记清定关守将张鸿德弃家来奔，郑成功授前锋镇。</li><li>1656 年三月，《海上見聞錄》记郑成功遣马信、张鸿德等北上协防舟山；八月舟山失守时，张鸿德亦战死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只作为温台舟山线来归人物和姓名异文处理。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Defection</code>: 清方沿海守将来归郑氏。</li><li><code>Route Node</code>: 定关、宁波、舟山。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0354</code>：1655 年舟山、温台行动和王统入闽压力。</li><li><code>../source-audit.md#audit-sm-0356</code>：1656 年揭阳败事、围头海战和海澄叛前责任链。</li><li><code>../source-audit.md#audit-sm-0357</code>：1656 年闽安、福州行动和舟山失守。</li></ul>\n<h3>待辨析</h3>\n<ul><li>张鸿德/张宏德姓名、原任地、授职和后续去向需校。</li></ul>",
   "plainText": "张鸿德 / Zhang Hongde Status: seed profile; name variant pending. 身份 张鸿德，1655 年宁波/舟山线来归人物；《閩海紀要》作张宏德，《海上見聞錄》作张鸿德。 生平和主要事迹 1655 年《閩海紀要》记宁波镇张宏德出降。 《海上見聞錄》记清定关守将张鸿德弃家来奔，郑成功授前锋镇。 1656 年三月，《海上見聞錄》记郑成功遣马信、张鸿德等北上协防舟山；八月舟山失守时，张鸿德亦战死。 性格、评价和行为模式提取 当前只作为温台舟山线来归人物和姓名异文处理。 著作或文本 未见本轮材料记录。 游戏数据线索 Defection: 清方沿海守将来归郑氏。 Route Node: 定关、宁波、舟山。 来源 ../source audit.md audit sm 0354：1655 年舟山、温台行动和王统入闽压力。 ../source audit.md audit sm 0356：1656 年揭阳败事、围头海战和海澄叛前责任链。 ../source audit.md audit sm 0357：1656 年闽安、福州行动和舟山失守。 待辨析 张鸿德/张宏德姓名、原任地、授职和后续去向需校。"
 }

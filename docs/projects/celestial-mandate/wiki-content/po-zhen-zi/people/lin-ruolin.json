@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__lin-ruolin",
   "title": "林若霖 / Lin Ruolin",
-  "sourcePath": "references/southern-ming/people/lin-ruolin.md",
+  "sourcePath": "references/southern-ming/people/lin-ruolin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/lin-ruolin/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated.",
+    "alt": "林若霖 / Lin Ruolin portrait concept art",
+    "sourcePath": "references/southern-ming/people/lin-ruolin/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.lin_ruolin</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>林若霖，1659 年镇江克复后地方接收线索人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年六月镇江克复后，《海上見聞錄》列冯澄世、李凤、林若霖分任地方职的线索。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为镇江短期接收层人物，不足以推断长期身份。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Occupation Administration</code>: 镇江接收与地方任命。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0370</code>：镇江克复后地方职任线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>林若霖职衔、是否实际到任、后续去向和同名人物需另校。</li></ul>",
   "plainText": "林若霖 / Lin Ruolin Stable draft ID: person.lin ruolin Status: anchored seed profile 身份 林若霖，1659 年镇江克复后地方接收线索人物。 生平和主要事迹 1659 年六月镇江克复后，《海上見聞錄》列冯澄世、李凤、林若霖分任地方职的线索。 性格、评价和行为模式提取 当前只可记录为镇江短期接收层人物，不足以推断长期身份。 著作或文本 未见。 游戏数据线索 Occupation Administration: 镇江接收与地方任命。 来源 ../source audit.md audit sm 0370：镇江克复后地方职任线索。 待辨析 林若霖职衔、是否实际到任、后续去向和同名人物需另校。"
 }

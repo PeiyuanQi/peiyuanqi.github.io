@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__yang-wei",
   "title": "杨威 / Yang Wei",
-  "sourcePath": "references/southern-ming/people/yang-wei.md",
+  "sourcePath": "references/southern-ming/people/yang-wei/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/yang-wei/portrait.png",
+    "caption": "AI generated style inspired game concept art; not an authenticated likeness or evidence source.",
+    "alt": "杨威 / Yang Wei portrait concept art",
+    "sourcePath": "references/southern-ming/people/yang-wei/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.yang_wei</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>杨威，南明总兵或将领，材料中见于刘文秀四川经营、建昌卫入罗次降清链和清方十营编组。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1656 年刘文秀经营四川时，杨威与祁三升、狄三品、贺天云、郑守豹等进嘉定方向。</li><li>《南明史稿》记 1659 年六月，杨威与王会、赵武等自建昌卫入罗次降清。</li><li>顾诚《南明史》记顺治十七年七月清方把投降明军分作十营，杨威为十营总兵之一。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前可记录其从四川经营支线进入建昌卫/罗次降清链，随后成为清方十营编组节点；具体动机和军中地位未校。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 四川经营支线、建昌卫入罗次降清链。</li><li><code>State Modifier Source</code>: 降将十营编组。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0111</code>，<code>../source-audit.md#audit-sm-0305</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>杨威官职、是否与其他同名人物混同、入罗次路线和十营编组后履历需继续校。</li></ul>",
   "plainText": "杨威 / Yang Wei Stable draft ID: person.yang wei Status: anchored seed profile 身份 杨威，南明总兵或将领，材料中见于刘文秀四川经营、建昌卫入罗次降清链和清方十营编组。 生平和主要事迹 1656 年刘文秀经营四川时，杨威与祁三升、狄三品、贺天云、郑守豹等进嘉定方向。 《南明史稿》记 1659 年六月，杨威与王会、赵武等自建昌卫入罗次降清。 顾诚《南明史》记顺治十七年七月清方把投降明军分作十营，杨威为十营总兵之一。 性格、评价和行为模式提取 当前可记录其从四川经营支线进入建昌卫/罗次降清链，随后成为清方十营编组节点；具体动机和军中地位未校。 著作或文本 未见已核著作。 游戏数据线索 Military Actor: 四川经营支线、建昌卫入罗次降清链。 State Modifier Source: 降将十营编组。 来源 已核锚点：../source audit.md audit sm 0111，../source audit.md audit sm 0305，../source audit.md audit sm 0306。 待辨析 杨威官职、是否与其他同名人物混同、入罗次路线和十营编组后履历需继续校。"
 }

@@ -1,7 +1,13 @@
 {
   "id": "po-zhen-zi__people__gu-qipin",
   "title": "古其品 / Gu Qipin",
-  "sourcePath": "references/southern-ming/people/gu-qipin.md",
+  "sourcePath": "references/southern-ming/people/gu-qipin/profile.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/gu-qipin/portrait.png",
+    "caption": "AI-generated game concept art; not an authenticated likeness.",
+    "alt": "古其品 / Gu Qipin portrait concept art",
+    "sourcePath": "references/southern-ming/people/gu-qipin/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>古其品，永历安龙朝臣，顾诚材料中作郎中。安龙禅位压力中，他因拒绝绘制象征禅让的图像而被孙可望方面处死。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>马吉翔试图让古其品绘制“尧舜禅受图”以迎合孙可望禅位企图。</li><li>古其品拒绝作画，随后被报告给孙可望，并被解往贵阳杖毙。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“象征政治拒绝者”种子：他没有掌握军权，但拒绝配合禅位图像，触碰了孙可望合法性工程的象征层。</li><li>其死说明安龙控制不是单纯软禁，也包括对拒绝配合者的直接暴力。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Legitimacy Symbol</code>: 禅受图像、仪式准备和拒绝配合。</li><li><code>Coercive Signal</code>: 拒绝者被处死后对朝臣形成恐惧修饰。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0277</code>：安龙控制网络的内外节点。</li></ul>\n<h3>待辨析</h3>\n<ul><li>古其品官职、被解贵阳日期、死亡方式和其他来源是否另有异文需继续核。</li></ul>",
   "plainText": "古其品 / Gu Qipin 身份 古其品，永历安龙朝臣，顾诚材料中作郎中。安龙禅位压力中，他因拒绝绘制象征禅让的图像而被孙可望方面处死。 生平与主要事迹 马吉翔试图让古其品绘制“尧舜禅受图”以迎合孙可望禅位企图。 古其品拒绝作画，随后被报告给孙可望，并被解往贵阳杖毙。 性格、评价与行为模式 可作为“象征政治拒绝者”种子：他没有掌握军权，但拒绝配合禅位图像，触碰了孙可望合法性工程的象征层。 其死说明安龙控制不是单纯软禁，也包括对拒绝配合者的直接暴力。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Legitimacy Symbol: 禅受图像、仪式准备和拒绝配合。 Coercive Signal: 拒绝者被处死后对朝臣形成恐惧修饰。 来源 ../source audit.md audit sm 0277：安龙控制网络的内外节点。 待辨析 古其品官职、被解贵阳日期、死亡方式和其他来源是否另有异文需继续核。"
 }
