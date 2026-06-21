@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__cao-zhijian",
   "title": "曹志建 / Cao Zhijian",
   "sourcePath": "references/southern-ming/people/cao-zhijian.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/cao-zhijian/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the person page and shared Celestial Mandate art direction; not an authenticated likeness and not a historical evidence source.",
+    "alt": "曹志建 / Cao Zhijian portrait concept art",
+    "sourcePath": "references/southern-ming/people/cao-zhijian/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.cao_zhijian</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>曹志建，1649 年堵胤锡从衡州、龙虎关线撤退时出现的南明地方军事人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>堵胤锡在衡州/草桥线失败后，经龙虎关方向撤退。《南明野史》《小腆紀年》均保存曹志建围堵或杀害堵胤锡随从的叙事。</li><li>其行为与何图复救堵胤锡、朱谋烈等地方人物线索相连，反映南明内部对堵胤锡和忠贞营相关人员的疑惧。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前不作完整人格判断；只作为“地方军镇对堵胤锡/忠贞营线不信任”的节点。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见可归属文本。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 内部猜忌、撤退路线上地方军镇阻断。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0241</code>，<code>../source-audit.md#audit-sm-0243</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>曹志建官职、所属、与朱谋烈和何图复的关系，以及所杀人数和地点均待校。</li></ul>",
   "plainText": "曹志建 / Cao Zhijian Stable draft ID: person.cao zhijian Status: anchored seed profile 身份 曹志建，1649 年堵胤锡从衡州、龙虎关线撤退时出现的南明地方军事人物。 生平和主要事迹 堵胤锡在衡州/草桥线失败后，经龙虎关方向撤退。《南明野史》《小腆紀年》均保存曹志建围堵或杀害堵胤锡随从的叙事。 其行为与何图复救堵胤锡、朱谋烈等地方人物线索相连，反映南明内部对堵胤锡和忠贞营相关人员的疑惧。 性格、评价和行为模式提取 当前不作完整人格判断；只作为“地方军镇对堵胤锡/忠贞营线不信任”的节点。 著作或文本 未见可归属文本。 游戏数据线索 State Modifier Source: 内部猜忌、撤退路线上地方军镇阻断。 来源 已核锚点：../source audit.md audit sm 0241，../source audit.md audit sm 0243；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 曹志建官职、所属、与朱谋烈和何图复的关系，以及所杀人数和地点均待校。"
 }

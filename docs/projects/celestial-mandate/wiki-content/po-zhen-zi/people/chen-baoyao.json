@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-baoyao",
   "title": "陈宝钥 / Chen Baoyao",
   "sourcePath": "references/southern-ming/people/chen-baoyao.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-baoyao/portrait.png",
+    "caption": "AI generated style inspired game concept art. No local rights clear visual reference was available, and the image is not an authenticated likeness.",
+    "alt": "陈宝钥 / Chen Baoyao portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-baoyao/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>陈宝钥，见《閩海紀要》1655 年郑成功承制设六官名单，被列为礼官；《海上見聞錄》同位礼官作郑擎柱，需校是否异文、误写或不同任次。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1655 年郑成功设六官时，《閩海紀要》列陈宝钥为礼官，并注其为丙戌举人。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只可作为郑氏思明州制度化时的礼制/文官节点，不做性格评价。</p>\n<h3>著作或文本</h3>\n<p>未见本轮材料记录。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Governance</code>: 郑氏六官中的礼官异文节点。</li><li><code>Identity Disambiguation</code>: 陈宝钥/郑擎柱。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0352</code>：1655 年六官、两馆、思明州和宗室士绅安置。</li></ul>\n<h3>待辨析</h3>\n<ul><li>与《海上見聞錄》所列郑擎柱的关系、任职时点和履历需郑氏原书、地方志或举人名录校。</li></ul>",
   "plainText": "陈宝钥 / Chen Baoyao Status: seed profile; identity pending. 身份 陈宝钥，见《閩海紀要》1655 年郑成功承制设六官名单，被列为礼官；《海上見聞錄》同位礼官作郑擎柱，需校是否异文、误写或不同任次。 生平和主要事迹 1655 年郑成功设六官时，《閩海紀要》列陈宝钥为礼官，并注其为丙戌举人。 性格、评价和行为模式提取 当前只可作为郑氏思明州制度化时的礼制/文官节点，不做性格评价。 著作或文本 未见本轮材料记录。 游戏数据线索 Governance: 郑氏六官中的礼官异文节点。 Identity Disambiguation: 陈宝钥/郑擎柱。 来源 ../source audit.md audit sm 0352：1655 年六官、两馆、思明州和宗室士绅安置。 待辨析 与《海上見聞錄》所列郑擎柱的关系、任职时点和履历需郑氏原书、地方志或举人名录校。"
 }

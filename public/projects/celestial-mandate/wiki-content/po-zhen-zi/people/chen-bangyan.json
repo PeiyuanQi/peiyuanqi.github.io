@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-bangyan",
   "title": "陈邦彦 / Chen Bangyan",
   "sourcePath": "references/southern-ming/people/chen-bangyan.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-bangyan/portrait.png",
+    "caption": "AI generated style inspired game concept art. No authenticated likeness is claimed.",
+    "alt": "陈邦彦 / Chen Bangyan portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-bangyan/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_bangyan</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈邦彦，广东抗清士人和地方武装领袖之一，永历初期广东义师代表人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1647 年清军占广州后，与余龙等起兵响应永历。</li><li>绍武、永历并立时，陈邦彦支持永历；清军入广后，曾变姓名潜入高明山中。</li><li>后联络余龙等甘竹滩义军，从高明和珠江水路方向合攻广州，一度击败清方水师并迫使李成栋回援。</li><li>义师撤退后，陈邦彦转战顺德、下江门、三水、清远等地，后在清远一带被俘。</li><li>失败后遇害，成为广东地方抗清和南明忠义叙事中的核心人物之一。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方士绅动员、短期军事冒险、强烈正统承诺。</li><li>游戏建模可作为“地方义师”节点：士气高、组织脆弱、需要外部正规军协同。</li><li>其行动逻辑不是守一城，而是利用广东水网和清军兵力空隙牵制广州，从而间接保护广西行在。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>文集、奏疏和地方志条目待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 1647 广东义师起兵。</li><li><code>State Modifier Source</code>: 广东地方抗清动员、士绅网络、清方镇压压力。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0015</code>，<code>../source-audit.md#audit-sm-0075</code>，<code>../source-audit.md#audit-sm-0076</code>。</li><li>相关事件：<code>../events/guangdong-yishi-1647.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>起兵兵力、与余龙关系、被俘处死日期和地点需地方志/文集复核。</li><li>甘竹滩、黄连江、下江门与清远战事的具体地理路线需地图和地方志核对。</li></ul>",
   "plainText": "陈邦彦 / Chen Bangyan Stable draft ID: person.chen bangyan Status: anchored seed profile 身份 陈邦彦，广东抗清士人和地方武装领袖之一，永历初期广东义师代表人物。 生平和主要事迹 1647 年清军占广州后，与余龙等起兵响应永历。 绍武、永历并立时，陈邦彦支持永历；清军入广后，曾变姓名潜入高明山中。 后联络余龙等甘竹滩义军，从高明和珠江水路方向合攻广州，一度击败清方水师并迫使李成栋回援。 义师撤退后，陈邦彦转战顺德、下江门、三水、清远等地，后在清远一带被俘。 失败后遇害，成为广东地方抗清和南明忠义叙事中的核心人物之一。 性格、评价和行为模式提取 行为模式：地方士绅动员、短期军事冒险、强烈正统承诺。 游戏建模可作为“地方义师”节点：士气高、组织脆弱、需要外部正规军协同。 其行动逻辑不是守一城，而是利用广东水网和清军兵力空隙牵制广州，从而间接保护广西行在。 著作或文本 文集、奏疏和地方志条目待补。 游戏数据线索 Historical Candidate: 1647 广东义师起兵。 State Modifier Source: 广东地方抗清动员、士绅网络、清方镇压压力。 来源 已核锚点：../source audit.md audit sm 0015，../source audit.md audit sm 0075，../source audit.md audit sm 0076。 相关事件：../events/guangdong yishi 1647.md。 待辨析 起兵兵力、与余龙关系、被俘处死日期和地点需地方志/文集复核。 甘竹滩、黄连江、下江门与清远战事的具体地理路线需地图和地方志核对。"
 }

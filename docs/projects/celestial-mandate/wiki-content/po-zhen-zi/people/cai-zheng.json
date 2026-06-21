@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__cai-zheng",
   "title": "蔡政 / Cai Zheng",
   "sourcePath": "references/southern-ming/people/cai-zheng.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/cai-zheng/portrait.png",
+    "caption": "AI generated style inspired game concept art; the likeness is not authenticated.",
+    "alt": "蔡政 / Cai Zheng portrait concept art",
+    "sourcePath": "references/southern-ming/people/cai-zheng/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.cai_zheng</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>蔡政，郑氏系统人物，郑成功死后郑经继承中的执行和劝进节点。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年南京围城时，郑成功遣蔡政、高绵祖会马进宝师。</li><li>南京败后，郑成功使蔡政往见马进宝并入京议和；十二月蔡政回报和议不成、同安侯被系、马进宝被逮或问罪，达素将三省会剿。这条线索仍需清方档案校验。</li><li>郑成功死后，蔡政奉潮王冠袍至思明州，请郑经发丧嗣位，是郑经继承合法性链条中的执行人物。</li><li>郑经入台后，以蔡政为审理所正，巡访台湾地方并整顿风俗制度。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：郑氏关键文书/外交执行者，既参与 1659 年与马进宝及清方议和线，也参与郑经继承合法性和台湾治理。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Authority Transition</code>: 郑经嗣位。</li><li><code>Governance</code>: 东都初期制度整顿。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0143</code>，<code>../source-audit.md#audit-sm-0257</code>，<code>../source-audit.md#audit-sm-0258</code>，<code>../source-audit.md#audit-sm-0318</code>，<code>../source-audit.md#audit-sm-0371</code>，<code>../source-audit.md#audit-sm-0372</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>1659 年蔡政会马进宝、入京议和路线和清方回应需清方档案、郑氏原书互校；官职、与郑氏诸将关系和台湾治理细节需郑氏材料补。</li></ul>",
   "plainText": "蔡政 / Cai Zheng Stable draft ID: person.cai zheng Status: anchored seed profile 身份 蔡政，郑氏系统人物，郑成功死后郑经继承中的执行和劝进节点。 生平和主要事迹 1659 年南京围城时，郑成功遣蔡政、高绵祖会马进宝师。 南京败后，郑成功使蔡政往见马进宝并入京议和；十二月蔡政回报和议不成、同安侯被系、马进宝被逮或问罪，达素将三省会剿。这条线索仍需清方档案校验。 郑成功死后，蔡政奉潮王冠袍至思明州，请郑经发丧嗣位，是郑经继承合法性链条中的执行人物。 郑经入台后，以蔡政为审理所正，巡访台湾地方并整顿风俗制度。 性格、评价和行为模式提取 行为模式：郑氏关键文书/外交执行者，既参与 1659 年与马进宝及清方议和线，也参与郑经继承合法性和台湾治理。 著作或文本 未见。 游戏数据线索 Authority Transition: 郑经嗣位。 Governance: 东都初期制度整顿。 来源 已核锚点：../source audit.md audit sm 0143，../source audit.md audit sm 0257，../source audit.md audit sm 0258，../source audit.md audit sm 0318，../source audit.md audit sm 0371，../source audit.md audit sm 0372。 待辨析 1659 年蔡政会马进宝、入京议和路线和清方回应需清方档案、郑氏原书互校；官职、与郑氏诸将关系和台湾治理细节需郑氏材料补。"
 }

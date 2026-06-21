@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__baguizai",
   "title": "拔鬼仔 / Baguizai",
   "sourcePath": "references/southern-ming/people/baguizai.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/baguizai/portrait.png",
+    "caption": "AI generated game concept art, style inspired by the person page only. The likeness is not authenticated.",
+    "alt": "拔鬼仔 / Baguizai portrait concept art",
+    "sourcePath": "references/southern-ming/people/baguizai/portrait.md"
+  },
   "html": "<blockquote><p>Status: anchored seed profile; source transliteration pending.</p></blockquote>\n<h3>身份</h3>\n<p>拔鬼仔，《海上見聞錄》所见荷方/红夷头目音译名。现代身份和原文拼写待校。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1661 年四月郑军入台后，《海上見聞錄》记台湾城夷长揆一遣头目拔鬼仔率鸟铳兵数百前来冲击，陈泽迎战，拔鬼仔战死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只作来源转写和鹿耳门/北线尾战斗人物线索，不映射现代姓名，也不展开性格评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Foreign Fort Defense</code>: 台湾城外出击。</li><li><code>Identity Disambiguation</code>: 音译名需 VOC/台湾资料校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0379</code>：1661 年北线尾迎战和拔鬼仔战死线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>拔鬼仔的原文姓名、职位、出击人数、战死细节和与荷兰/VOC 人名的对应需 VOC 资料、台湾地方史和郑氏材料互校。</li></ul>",
   "plainText": "拔鬼仔 / Baguizai Status: anchored seed profile; source transliteration pending. 身份 拔鬼仔，《海上見聞錄》所见荷方/红夷头目音译名。现代身份和原文拼写待校。 生平和主要事迹 1661 年四月郑军入台后，《海上見聞錄》记台湾城夷长揆一遣头目拔鬼仔率鸟铳兵数百前来冲击，陈泽迎战，拔鬼仔战死。 性格、评价和行为模式提取 当前只作来源转写和鹿耳门/北线尾战斗人物线索，不映射现代姓名，也不展开性格评价。 著作或文本 未见。 游戏数据线索 Foreign Fort Defense: 台湾城外出击。 Identity Disambiguation: 音译名需 VOC/台湾资料校。 来源 ../source audit.md audit sm 0379：1661 年北线尾迎战和拔鬼仔战死线索。 待辨析 拔鬼仔的原文姓名、职位、出击人数、战死细节和与荷兰/VOC 人名的对应需 VOC 资料、台湾地方史和郑氏材料互校。"
 }

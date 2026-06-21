@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-qice",
   "title": "陈奇策 / Chen Qice",
   "sourcePath": "references/southern-ming/people/chen-qice.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-qice/portrait.png",
+    "caption": "AI generated game concept art; style inspired from the person page and shared Celestial Mandate art direction. The likeness is not authenticated.",
+    "alt": "陈奇策 / Chen Qice portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-qice/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_qice</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈奇策，广东义师和水师相关人物，1654 年新会战役中在江门、西江方向参与配合李定国。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1654 年，李定国第二次入粤时，陈奇策作为广东义师水师节点出现。</li><li>八月前后，陈奇策部水师入西江，攻占江门，击毙清广东水师总兵盖一鹏，切断广州与新会之间的通道。</li><li>郑成功所派林察、周瑞部迟至十二月中旬才到广东海面时，清方侦察材料中仍见陈奇策与李万荣等广东义师活动线索。</li><li>1659 年清方攻取上思州后，陈奇策率残部逃往滩宁寨，次日被栗养志部追败并活捉；清方材料记获其水军都督银印、凌海将军木印。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前资料可支撑其作为地方水师执行者和粤桂边境残军节点，不足以展开完整性格评价。</li><li>建模价值在于说明广东义师不是单纯陆上地方武装，也能提供水道控制和接应能力；1659 年被俘则显示粤桂边境通道崩解。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Route/Flow</code>: 西江、江门、新会、广州之间的水路控制。</li><li><code>State Modifier Source</code>: 广东义师水师响应。</li><li><code>Divergence Gate</code>: 江门水路是否能在郑氏海师到来前保持。</li><li><code>Collapse Marker</code>: 上思州、滩宁寨失守与粤桂边境残军被俘。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0100</code>，<code>../source-audit.md#audit-sm-0185</code>，<code>../source-audit.md#audit-sm-0267</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈奇策官爵、部众、与王兴/李万荣/连城璧/郑成功的关系，以及被俘后的处置需继续校。</li></ul>",
   "plainText": "陈奇策 / Chen Qice Stable draft ID: person.chen qice Status: anchored seed profile 身份 陈奇策，广东义师和水师相关人物，1654 年新会战役中在江门、西江方向参与配合李定国。 生平和主要事迹 1654 年，李定国第二次入粤时，陈奇策作为广东义师水师节点出现。 八月前后，陈奇策部水师入西江，攻占江门，击毙清广东水师总兵盖一鹏，切断广州与新会之间的通道。 郑成功所派林察、周瑞部迟至十二月中旬才到广东海面时，清方侦察材料中仍见陈奇策与李万荣等广东义师活动线索。 1659 年清方攻取上思州后，陈奇策率残部逃往滩宁寨，次日被栗养志部追败并活捉；清方材料记获其水军都督银印、凌海将军木印。 性格、评价和行为模式提取 当前资料可支撑其作为地方水师执行者和粤桂边境残军节点，不足以展开完整性格评价。 建模价值在于说明广东义师不是单纯陆上地方武装，也能提供水道控制和接应能力；1659 年被俘则显示粤桂边境通道崩解。 著作或文本 待补。 游戏数据线索 Route/Flow: 西江、江门、新会、广州之间的水路控制。 State Modifier Source: 广东义师水师响应。 Divergence Gate: 江门水路是否能在郑氏海师到来前保持。 Collapse Marker: 上思州、滩宁寨失守与粤桂边境残军被俘。 来源 已核锚点：../source audit.md audit sm 0100，../source audit.md audit sm 0185，../source audit.md audit sm 0267。 待辨析 陈奇策官爵、部众、与王兴/李万荣/连城璧/郑成功的关系，以及被俘后的处置需继续校。"
 }

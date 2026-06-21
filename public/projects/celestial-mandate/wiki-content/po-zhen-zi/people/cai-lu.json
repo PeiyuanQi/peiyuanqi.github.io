@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__cai-lu",
   "title": "蔡禄 / Cai Lu",
   "sourcePath": "references/southern-ming/people/cai-lu.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/cai-lu/portrait.png",
+    "caption": "AI generated style inspired game concept art. No authenticated likeness is claimed.",
+    "alt": "蔡禄 / Cai Lu portrait concept art",
+    "sourcePath": "references/southern-ming/people/cai-lu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.cai_lu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>蔡禄，郑氏铜山守将之一，1661 年铜山叛乱人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《海上见闻录》《闽海纪要》均记蔡禄、郭义在郑成功取台湾期间据铜山叛，胁迫忠匡伯张进投诚清方。</li><li>顾诚《南明史》据郑氏材料把蔡禄、郭义与黄梧勾结、畏赴台湾、抢掠铜山后投清相连；这属于顾诚整理的动机和行动链，仍需原始郑氏/清方材料核验。</li><li>CText《臺灣鄭氏始末》整理本也作郭义、蔡禄铜山叛乱，并把万礼祀典不平、黄梧/施琅谋间郑氏守将等放入动机层；同段又见“万仪/万禄”写法，须保留异文。</li><li>《先王實錄》叙述同一类铜山叛乱和张进死节时作万义、万禄，当前只作为姓名异文记录，不并入蔡禄人物 ID。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只记录其为后方叛乱人物；不凭忠奸标签推导完整人格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Loyalty Fracture</code>: 岛屿后方叛乱。</li><li><code>Rear Base Risk</code>: 铜山节点失稳。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0317</code>，<code>../source-audit.md#audit-sm-0328</code>；姓名异文参见 <code>../source-audit.md#audit-sm-0323</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>蔡禄职衔、与黄梧/施琅联系、投清后的封授和铜山抢掠细节需继续校；与《先王實錄》万义、万禄及《臺灣鄭氏始末》万仪、万禄的关系未定，不得直接合并。</li></ul>",
   "plainText": "蔡禄 / Cai Lu Stable draft ID: person.cai lu Status: anchored seed profile 身份 蔡禄，郑氏铜山守将之一，1661 年铜山叛乱人物。 生平和主要事迹 《海上见闻录》《闽海纪要》均记蔡禄、郭义在郑成功取台湾期间据铜山叛，胁迫忠匡伯张进投诚清方。 顾诚《南明史》据郑氏材料把蔡禄、郭义与黄梧勾结、畏赴台湾、抢掠铜山后投清相连；这属于顾诚整理的动机和行动链，仍需原始郑氏/清方材料核验。 CText《臺灣鄭氏始末》整理本也作郭义、蔡禄铜山叛乱，并把万礼祀典不平、黄梧/施琅谋间郑氏守将等放入动机层；同段又见“万仪/万禄”写法，须保留异文。 《先王實錄》叙述同一类铜山叛乱和张进死节时作万义、万禄，当前只作为姓名异文记录，不并入蔡禄人物 ID。 性格、评价和行为模式提取 当前只记录其为后方叛乱人物；不凭忠奸标签推导完整人格。 著作或文本 未见。 游戏数据线索 Loyalty Fracture: 岛屿后方叛乱。 Rear Base Risk: 铜山节点失稳。 来源 已核锚点：../source audit.md audit sm 0317，../source audit.md audit sm 0328；姓名异文参见 ../source audit.md audit sm 0323。 待辨析 蔡禄职衔、与黄梧/施琅联系、投清后的封授和铜山抢掠细节需继续校；与《先王實錄》万义、万禄及《臺灣鄭氏始末》万仪、万禄的关系未定，不得直接合并。"
 }

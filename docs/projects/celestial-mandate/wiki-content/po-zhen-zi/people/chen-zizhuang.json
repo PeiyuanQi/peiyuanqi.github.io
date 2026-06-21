@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-zizhuang",
   "title": "陈子壮 / Chen Zizhuang",
   "sourcePath": "references/southern-ming/people/chen-zizhuang.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-zizhuang/portrait.png",
+    "caption": "AI generated style inspired game concept art based on the local person page and late Ming visual grammar. It is not an authenticated likeness and must not be used as historical evidence.",
+    "alt": "陈子壮 / Chen Zizhuang portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-zizhuang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_zizhuang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈子壮，广东抗清士人，永历初期广东义师代表之一。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>永历在肇庆继统后，陈子壮支持永历；绍武政权据广州时，他拒不承认，并曾写信给永历朝廷表示拥戴。</li><li>清军入广后，陈子壮以南海九江村为基地，联络官绅和地方武装，尝试与陈邦彦合攻广州并策动城内内应。</li><li>广州内应谋泄后，陈子壮在白鹅潭/广州外水战受挫，后退保高明。</li><li>十月下旬，高明城破，陈子壮、麦而炫等被俘或遇害，朱实莲战死。</li><li>与陈邦彦、张家玉并列体现广东士绅在永历初期的地方动员。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：守土、士人号召、地方抗清网络。</li><li>游戏建模可作为“地方正统声望”来源，但需要兵力、粮饷和外援才能维持。</li><li>与陈邦彦相比，陈子壮更接近“城内策应 + 乡村基地”的组织者；他的失败说明保密和时机对地方义师极端关键。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>文集、诗文和地方志条目待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Historical Candidate</code>: 1647 高明、新会义师失败。</li><li><code>State Modifier Source</code>: 广东地方士气、清方镇压。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0015</code>，<code>../source-audit.md#audit-sm-0078</code>。</li><li>相关事件：<code>../events/guangdong-yishi-1647.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>高明、新会战事路径和遇害日期需补地方志/文集证据。</li><li>九江村、白鹅潭、花山义师、赵王朱由棪和广州内应链条需分层核验。</li></ul>",
   "plainText": "陈子壮 / Chen Zizhuang Stable draft ID: person.chen zizhuang Status: anchored seed profile 身份 陈子壮，广东抗清士人，永历初期广东义师代表之一。 生平和主要事迹 永历在肇庆继统后，陈子壮支持永历；绍武政权据广州时，他拒不承认，并曾写信给永历朝廷表示拥戴。 清军入广后，陈子壮以南海九江村为基地，联络官绅和地方武装，尝试与陈邦彦合攻广州并策动城内内应。 广州内应谋泄后，陈子壮在白鹅潭/广州外水战受挫，后退保高明。 十月下旬，高明城破，陈子壮、麦而炫等被俘或遇害，朱实莲战死。 与陈邦彦、张家玉并列体现广东士绅在永历初期的地方动员。 性格、评价和行为模式提取 行为模式：守土、士人号召、地方抗清网络。 游戏建模可作为“地方正统声望”来源，但需要兵力、粮饷和外援才能维持。 与陈邦彦相比，陈子壮更接近“城内策应 + 乡村基地”的组织者；他的失败说明保密和时机对地方义师极端关键。 著作或文本 文集、诗文和地方志条目待补。 游戏数据线索 Historical Candidate: 1647 高明、新会义师失败。 State Modifier Source: 广东地方士气、清方镇压。 来源 已核锚点：../source audit.md audit sm 0015，../source audit.md audit sm 0078。 相关事件：../events/guangdong yishi 1647.md。 待辨析 高明、新会战事路径和遇害日期需补地方志/文集证据。 九江村、白鹅潭、花山义师、赵王朱由棪和广州内应链条需分层核验。"
 }

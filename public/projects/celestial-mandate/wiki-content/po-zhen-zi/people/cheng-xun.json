@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__cheng-xun",
   "title": "程峋 / Cheng Xun",
   "sourcePath": "references/southern-ming/people/cheng-xun.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/cheng-xun/portrait.png",
+    "caption": "AI generated style inspired game concept art. It is not an authenticated likeness and must not be used as historical evidence for Cheng Xun's face, costume, death scene, or exact travel route.",
+    "alt": "程峋 / Cheng Xun portrait concept art",
+    "sourcePath": "references/southern-ming/people/cheng-xun/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.cheng_xun</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>程峋，南明兵部侍郎，1649 年忠贞营安置和召入行在争议中遇害的人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1649 年，程峋奉命或携朝廷文书往见李赤心，旧籍记其在封川/江中被张祥所杀。</li><li>《小腆紀年》还保存一种责任异文：李元胤憾程峋召忠贞营入行在，因而使张祥杀之。当前只作为争议层记录。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前可作为“朝廷整合忠贞营失败”的遇害官员节点。</li><li>其行动说明永历中枢试图以文臣、敕命或使者方式处理忠贞营，但地方军镇不信任可能直接破坏沟通链。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>奏疏、任命文书或家属材料待检。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Report Fact</code>: 朝廷使臣遇害。</li><li><code>State Modifier Source</code>: 忠贞营整合失败、地方军镇阻断中枢命令。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0243</code>；事件文件 <code>../events/zhongzhen-guangxi-withdrawal-1649.md</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>程峋奉命内容、携带文书性质、遇害地点、张祥身份和李元胤是否主使均待多源核验。</li></ul>",
   "plainText": "程峋 / Cheng Xun Stable draft ID: person.cheng xun Status: anchored seed profile 身份 程峋，南明兵部侍郎，1649 年忠贞营安置和召入行在争议中遇害的人物。 生平和主要事迹 1649 年，程峋奉命或携朝廷文书往见李赤心，旧籍记其在封川/江中被张祥所杀。 《小腆紀年》还保存一种责任异文：李元胤憾程峋召忠贞营入行在，因而使张祥杀之。当前只作为争议层记录。 性格、评价和行为模式提取 当前可作为“朝廷整合忠贞营失败”的遇害官员节点。 其行动说明永历中枢试图以文臣、敕命或使者方式处理忠贞营，但地方军镇不信任可能直接破坏沟通链。 著作或文本 奏疏、任命文书或家属材料待检。 游戏数据线索 Report Fact: 朝廷使臣遇害。 State Modifier Source: 忠贞营整合失败、地方军镇阻断中枢命令。 来源 已核锚点：../source audit.md audit sm 0243；事件文件 ../events/zhongzhen guangxi withdrawal 1649.md。 待辨析 程峋奉命内容、携带文书性质、遇害地点、张祥身份和李元胤是否主使均待多源核验。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__fan-yingxu",
   "title": "范应旭 / Fan Yingxu",
   "sourcePath": "references/southern-ming/people/fan-yingxu.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/fan-yingxu/portrait.png",
+    "caption": "AI generated style inspired game concept art; the likeness is not authenticated.",
+    "alt": "范应旭 / Fan Yingxu portrait concept art",
+    "sourcePath": "references/southern-ming/people/fan-yingxu/portrait.md"
+  },
   "html": "<h3>身份</h3>\n<p>范应旭，安龙时期安隆/安龙府知府，参与永历行在的供给和地方行政安排。</p>\n<h3>生平与主要事迹</h3>\n<ul><li>永历迁入安龙后，安龙被改府，范应旭作为知府进入供给、账册和监视体系。</li><li>顾诚材料把安龙供给数额、月支账册和知府/提塘监视并列呈现，说明范应旭所处位置兼具地方行政与受控行在服务功能。</li><li>《南明史稿》“上供”条把安龙银米额度、内廷困窘和范应旭账册并列，显示其不仅是地方行政官，也是把行在生活纳入孙可望财政账册的执行节点。</li><li>《南明史稿》另有残缺线索提示范应旭后续可能由安龙知府、副使递擢至贵州参议一类职衔，并在 1658 年前后与方于宣、朱运久等被劾逮问；此处只能作为官职变动和追责线索。</li></ul>\n<h3>性格、评价与行为模式</h3>\n<ul><li>可作为“地方行政-行在供给接口”种子：不一定主导政治迫害，但其职位使永历朝廷的日常生存被纳入孙可望系统的账册和监视。</li><li>其行为模式更接近制度执行者：通过账册、口粮、供应和官府接口让皇帝的象征身份被财政行政重新编码。</li></ul>\n<h3>著作或相关文本</h3>\n<ul><li>暂未核到个人著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Supply Ledger</code>: 行在银米和月支账册。</li><li><code>Humiliation Ledger</code>: 皇帝/皇后被以口数登记的政治贬抑线索。</li><li><code>Residence Control</code>: 行在驻地和地方府治合一后的控制成本。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0246</code>：安龙供给、知府/提塘监视和通信限制。</li><li><code>../source-audit.md#audit-sm-0285</code>：《明季南略》所见安龙改府、范应旭知府和章应科账册。</li><li><code>../source-audit.md#audit-sm-0289</code>：《南明史稿》所见安龙上供、银米额度和范应旭账册。</li><li><code>../source-audit.md#audit-sm-0291</code>：《南明史稿》所见 1658 年方于宣、范应旭、朱运久等被劾逮问的残缺线索。</li></ul>\n<h3>待辨析</h3>\n<ul><li>范应旭任安龙知府的起止、具体账册来源、后续贵州参议/副使职衔、被劾逮问日序和个人立场需继续校。</li></ul>",
   "plainText": "范应旭 / Fan Yingxu 身份 范应旭，安龙时期安隆/安龙府知府，参与永历行在的供给和地方行政安排。 生平与主要事迹 永历迁入安龙后，安龙被改府，范应旭作为知府进入供给、账册和监视体系。 顾诚材料把安龙供给数额、月支账册和知府/提塘监视并列呈现，说明范应旭所处位置兼具地方行政与受控行在服务功能。 《南明史稿》“上供”条把安龙银米额度、内廷困窘和范应旭账册并列，显示其不仅是地方行政官，也是把行在生活纳入孙可望财政账册的执行节点。 《南明史稿》另有残缺线索提示范应旭后续可能由安龙知府、副使递擢至贵州参议一类职衔，并在 1658 年前后与方于宣、朱运久等被劾逮问；此处只能作为官职变动和追责线索。 性格、评价与行为模式 可作为“地方行政 行在供给接口”种子：不一定主导政治迫害，但其职位使永历朝廷的日常生存被纳入孙可望系统的账册和监视。 其行为模式更接近制度执行者：通过账册、口粮、供应和官府接口让皇帝的象征身份被财政行政重新编码。 著作或相关文本 暂未核到个人著作。 游戏数据线索 Supply Ledger: 行在银米和月支账册。 Humiliation Ledger: 皇帝/皇后被以口数登记的政治贬抑线索。 Residence Control: 行在驻地和地方府治合一后的控制成本。 来源 ../source audit.md audit sm 0246：安龙供给、知府/提塘监视和通信限制。 ../source audit.md audit sm 0285：《明季南略》所见安龙改府、范应旭知府和章应科账册。 ../source audit.md audit sm 0289：《南明史稿》所见安龙上供、银米额度和范应旭账册。 ../source audit.md audit sm 0291：《南明史稿》所见 1658 年方于宣、范应旭、朱运久等被劾逮问的残缺线索。 待辨析 范应旭任安龙知府的起止、具体账册来源、后续贵州参议/副使职衔、被劾逮问日序和个人立场需继续校。"
 }

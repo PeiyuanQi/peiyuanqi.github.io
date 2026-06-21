@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chang-shouning",
   "title": "常寿宁 / Chang Shouning",
   "sourcePath": "references/southern-ming/people/chang-shouning.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chang-shouning/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not historically authenticated.",
+    "alt": "常寿宁 / Chang Shouning portrait concept art",
+    "sourcePath": "references/southern-ming/people/chang-shouning/portrait.md"
+  },
   "html": "<blockquote><p>Status: seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>常寿宁，1657 年郑氏内部洋船银案中的言官或监察人物，来源中有刊误提示。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1657 年《海上見聞錄》记常寿宁启称户官郑泰乾没洋船银一万，后查为失实。郑泰称其可能为奸细、离间藩下左右用事之人；郑成功念其松江世胄、一家四十余口起义被杀，免刑而幽置，后死。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前不可据此定为奸细或诬告者；只记录“被判不实控告”和“幽置而死”两层。</p>\n<h3>著作或文本</h3>\n<p>未见。</p>\n<h3>游戏数据线索</h3>\n<ul><li><code>Internal Governance</code>: 财政控告、户官权力、疑似离间。</li><li><code>Risk Marker</code>: 海上政权内部信任与审计风险。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0359</code>：1657 年常寿宁控郑泰洋船银案。</li></ul>\n<h3>待辨析</h3>\n<ul><li>常寿宁姓名、官职、松江世胄背景、被杀家属事件、洋船银来源和案件性质需继续校。</li></ul>",
   "plainText": "常寿宁 / Chang Shouning Status: seed profile; identity pending. 身份 常寿宁，1657 年郑氏内部洋船银案中的言官或监察人物，来源中有刊误提示。 生平和主要事迹 1657 年《海上見聞錄》记常寿宁启称户官郑泰乾没洋船银一万，后查为失实。郑泰称其可能为奸细、离间藩下左右用事之人；郑成功念其松江世胄、一家四十余口起义被杀，免刑而幽置，后死。 性格、评价和行为模式提取 当前不可据此定为奸细或诬告者；只记录“被判不实控告”和“幽置而死”两层。 著作或文本 未见。 游戏数据线索 Internal Governance: 财政控告、户官权力、疑似离间。 Risk Marker: 海上政权内部信任与审计风险。 来源 ../source audit.md audit sm 0359：1657 年常寿宁控郑泰洋船银案。 待辨析 常寿宁姓名、官职、松江世胄背景、被杀家属事件、洋船银来源和案件性质需继续校。"
 }

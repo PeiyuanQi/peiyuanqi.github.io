@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__dasu",
   "title": "达素 / Dasu",
   "sourcePath": "references/southern-ming/people/dasu.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/dasu/portrait.png",
+    "caption": "AI generated style inspired game concept art. No authenticated likeness is claimed.",
+    "alt": "达素 / Dasu portrait concept art",
+    "sourcePath": "references/southern-ming/people/dasu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.dasu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>达素，清方将领。1659 年郑成功南京战役失败后，材料记其将三省会剿郑氏。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1659 年十二月，蔡政自北京回报和议不成、同安侯被系、马进宝被逮或问罪，并称达素将三省会剿。</li><li>该线索把南京战役余波接到 1660 年厦金防御压力。</li><li>1660 年正月至五月，《閩海紀要》《海上見聞錄》记达素入闽至福州、泉州后催船配兵，随后与李率泰、黄梧、施琅等分路攻厦金；海门海战和高崎登陆线失利后，清方覆岛计划失败。</li><li>战后材料记达素退回福州，十月因清廷调回问罪而自杀或吞金而死；这一点需清方档案互校。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可作为清方会剿厦金的主帅节点人物，不足以评价其军事风格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Qing Campaign Pressure</code>: 1660 年厦金会剿、清方问责链。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0372</code>：蔡政回报和议失败、达素将三省会剿。</li><li><code>../source-audit.md#audit-sm-0373</code>：达素入闽与厦金布防。</li><li><code>../source-audit.md#audit-sm-0374</code>：海门海战中达素、李率泰、黄梧、施琅等分路。</li><li><code>../source-audit.md#audit-sm-0375</code>：高崎登陆线。</li><li><code>../source-audit.md#audit-sm-0376</code>：达素败回、问罪和死亡异文。</li></ul>\n<h3>待辨析</h3>\n<ul><li>达素职衔、会剿兵力、三省范围、出兵日序、败后问罪和自杀/吞金异文需清方档案记录另校。</li></ul>",
   "plainText": "达素 / Dasu Stable draft ID: person.dasu Status: anchored seed profile 身份 达素，清方将领。1659 年郑成功南京战役失败后，材料记其将三省会剿郑氏。 生平和主要事迹 1659 年十二月，蔡政自北京回报和议不成、同安侯被系、马进宝被逮或问罪，并称达素将三省会剿。 该线索把南京战役余波接到 1660 年厦金防御压力。 1660 年正月至五月，《閩海紀要》《海上見聞錄》记达素入闽至福州、泉州后催船配兵，随后与李率泰、黄梧、施琅等分路攻厦金；海门海战和高崎登陆线失利后，清方覆岛计划失败。 战后材料记达素退回福州，十月因清廷调回问罪而自杀或吞金而死；这一点需清方档案互校。 性格、评价和行为模式提取 当前只可作为清方会剿厦金的主帅节点人物，不足以评价其军事风格。 著作或文本 未见。 游戏数据线索 Qing Campaign Pressure: 1660 年厦金会剿、清方问责链。 来源 ../source audit.md audit sm 0372：蔡政回报和议失败、达素将三省会剿。 ../source audit.md audit sm 0373：达素入闽与厦金布防。 ../source audit.md audit sm 0374：海门海战中达素、李率泰、黄梧、施琅等分路。 ../source audit.md audit sm 0375：高崎登陆线。 ../source audit.md audit sm 0376：达素败回、问罪和死亡异文。 待辨析 达素职衔、会剿兵力、三省范围、出兵日序、败后问罪和自杀/吞金异文需清方档案记录另校。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-zilong",
   "title": "陈子龙 / Chen Zilong",
   "sourcePath": "references/southern-ming/people/chen-zilong.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-zilong/portrait.png",
+    "caption": "AI generated style inspired game concept art based on the local person page and late Ming visual grammar. It is not an authenticated likeness and must not be used as historical evidence.",
+    "alt": "陈子龙 / Chen Zilong portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-zilong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_zilong</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈子龙，字卧子，号海士，松江华亭人。明末复社、几社相关文士和经世派人物，南明时期参与松江抗清与吴胜兆反清联络。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>弘光朝曾以原官召用，陈子龙上疏亲征和防务事宜，后乞终养归。</li><li>1645 年南京失守后，松江兵起，陈子龙设太祖像誓众，称监军，并邀吴志葵等水师为城守计；松江被李成栋攻破后潜匿。</li><li>1647 年吴胜兆反清前，陈子龙为其联系舟山黄斌卿、张名振等海上明军，成为松江内应与舟山接应之间的关键文书和政治纽带。</li><li>吴胜兆案败后，陈子龙经嘉定、昆山等处潜逃，被捕后押解途中投水而死，清方仍戮其尸。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：士人政治号召、书信联络、内应网络和海上军事接应之间的桥梁。</li><li>能力特征：在江南士绅中有声望，能把文人网络转化为行动网络。</li><li>风险特征：高度依赖文书和熟人关系，失败后极易被清方题本、口供和搜捕链条追溯。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>诗文著作和年谱线索待专题整理；本轮只记录其政治和抗清行动。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Network Node</code>: 江南士绅-松江内应-舟山海师联络。</li><li><code>Intelligence Risk</code>: 密信、荐牒和通海文书暴露。</li><li><code>Historical Candidate</code>: 陈子龙是否能促成吴胜兆与舟山海师及时会合。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0196</code>、<code>../source-audit.md#audit-sm-0197</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>1645 松江起兵、1647 吴胜兆案和陈子龙死日的日级换算需年谱、清方题本和地方志对读。</li></ul>",
   "plainText": "陈子龙 / Chen Zilong Stable draft ID: person.chen zilong Status: anchored seed profile 身份 陈子龙，字卧子，号海士，松江华亭人。明末复社、几社相关文士和经世派人物，南明时期参与松江抗清与吴胜兆反清联络。 生平和主要事迹 弘光朝曾以原官召用，陈子龙上疏亲征和防务事宜，后乞终养归。 1645 年南京失守后，松江兵起，陈子龙设太祖像誓众，称监军，并邀吴志葵等水师为城守计；松江被李成栋攻破后潜匿。 1647 年吴胜兆反清前，陈子龙为其联系舟山黄斌卿、张名振等海上明军，成为松江内应与舟山接应之间的关键文书和政治纽带。 吴胜兆案败后，陈子龙经嘉定、昆山等处潜逃，被捕后押解途中投水而死，清方仍戮其尸。 性格、评价和行为模式提取 行为模式：士人政治号召、书信联络、内应网络和海上军事接应之间的桥梁。 能力特征：在江南士绅中有声望，能把文人网络转化为行动网络。 风险特征：高度依赖文书和熟人关系，失败后极易被清方题本、口供和搜捕链条追溯。 著作或文本 诗文著作和年谱线索待专题整理；本轮只记录其政治和抗清行动。 游戏数据线索 Network Node: 江南士绅 松江内应 舟山海师联络。 Intelligence Risk: 密信、荐牒和通海文书暴露。 Historical Candidate: 陈子龙是否能促成吴胜兆与舟山海师及时会合。 来源 已核锚点：../source audit.md audit sm 0196、../source audit.md audit sm 0197。 待辨析 1645 松江起兵、1647 吴胜兆案和陈子龙死日的日级换算需年谱、清方题本和地方志对读。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-mingyu",
   "title": "陈明遇 / Chen Mingyu",
   "sourcePath": "references/southern-ming/people/chen-mingyu.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-mingyu/portrait.png",
+    "caption": "AI generated style inspired game concept art. No local rights clear visual reference was used, and the likeness is not authenticated.",
+    "alt": "陈明遇 / Chen Mingyu portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-mingyu/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_mingyu</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈明遇，江阴典史，1645 年江阴拒剃起事初期被士民推为主事者，后迎阎应元入城协同守御，城破后死难。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>江阴起事时，士民搜发军械、逮捕清委地方官和守备后，推陈明遇主持城中局面。</li><li>陈明遇自知军事组织能力不足，主动推荐并迎请旧典史阎应元入城主守。</li><li>守城期间负责分守和安抚，材料中多写其与士民共甘苦。</li><li>城破时死难；顾诚和《明季南略》均把陈、阎并列为江阴抗清核心人物。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：忠义和责任感强，能承认自身军事短板并让位给更合适的指挥者。</li><li>评价层：材料多强调其宽厚、善抚循、能使士民乐死；这是人物性格线索，但需与事迹事实分开记录。</li><li>游戏建模可抽取为：高忠诚、高地方信任、协调/安抚能力强，军事统筹能力不如阎应元。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见本人著作进入本轮核验。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>State Modifier Source</code>: 地方信任、守城士气、拒降抗清。</li><li><code>Report Fact</code>: 领导者自知能力边界并引入更强指挥者，可成为抵抗延续的关键分歧点。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0043</code>，<code>../source-audit.md#audit-sm-0044</code>，<code>../source-audit.md#audit-sm-0046</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>籍贯、任官履历和城破死亡细节需对《江阴城守后纪》、地方志和人物传记继续校。</li><li>陈明遇与阎应元之间的正式权限关系不应从后世赞语中直接推断。</li></ul>",
   "plainText": "陈明遇 / Chen Mingyu Stable draft ID: person.chen mingyu Status: anchored seed profile 身份 陈明遇，江阴典史，1645 年江阴拒剃起事初期被士民推为主事者，后迎阎应元入城协同守御，城破后死难。 生平和主要事迹 江阴起事时，士民搜发军械、逮捕清委地方官和守备后，推陈明遇主持城中局面。 陈明遇自知军事组织能力不足，主动推荐并迎请旧典史阎应元入城主守。 守城期间负责分守和安抚，材料中多写其与士民共甘苦。 城破时死难；顾诚和《明季南略》均把陈、阎并列为江阴抗清核心人物。 性格、评价和行为模式提取 行为模式：忠义和责任感强，能承认自身军事短板并让位给更合适的指挥者。 评价层：材料多强调其宽厚、善抚循、能使士民乐死；这是人物性格线索，但需与事迹事实分开记录。 游戏建模可抽取为：高忠诚、高地方信任、协调/安抚能力强，军事统筹能力不如阎应元。 著作或文本 未见本人著作进入本轮核验。 游戏数据线索 State Modifier Source: 地方信任、守城士气、拒降抗清。 Report Fact: 领导者自知能力边界并引入更强指挥者，可成为抵抗延续的关键分歧点。 来源 已核锚点：../source audit.md audit sm 0043，../source audit.md audit sm 0044，../source audit.md audit sm 0046。 待辨析 籍贯、任官履历和城破死亡细节需对《江阴城守后纪》、地方志和人物传记继续校。 陈明遇与阎应元之间的正式权限关系不应从后世赞语中直接推断。"
 }

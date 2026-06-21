@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__gao-qilong",
   "title": "高启隆 / Gao Qilong",
   "sourcePath": "references/southern-ming/people/gao-qilong.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/gao-qilong/portrait.png",
+    "caption": "AI generated game concept art, style inspired from the local person page only; the likeness is not authenticated",
+    "alt": "高启隆 / Gao Qilong portrait concept art",
+    "sourcePath": "references/southern-ming/people/gao-qilong/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.gao_qilong</code><br />Status: seed profile</p></blockquote>\n<h3>身份</h3>\n<p>高启隆，南明降清后进入清方执行链的人物之一。当前材料显示其在 1659 年云南降清链条中出现，1661 年又随吴三桂、爱星阿方向参与入缅追索永历。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记其以宜川伯身份在 1659 年清兵还至云南后先后降清的名单中出现；《南明史稿》另把高启隆列入自丽江边外降清链条。</li><li>顾诚《南明史》把高启隆列为退至滇西北鹤庆、剑川、丽江、兰州一带后先后降清的将领，并记其后进入清方降将十营编组；顾诚脚注提示地方志有高启龙异写和不同投降日序。</li><li>1661 年随清方入缅行动，和马宁、石国柱、祁三升、马宝、马惟兴等推进至木邦方向，向缅方施压交出永历君臣。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<p>当前只记录其从南明尾段降清链条进入清方执行层，不做性格评价。</p>\n<h3>著作或文本</h3>\n<ul><li>待补。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Military Actor</code>: 清方入缅前锋/偏师节点。</li></ul>\n<h3>来源</h3>\n<ul><li>已核锚点：<code>../source-audit.md#audit-sm-0264</code>，<code>../source-audit.md#audit-sm-0300</code>，<code>../source-audit.md#audit-sm-0305</code>，<code>../source-audit.md#audit-sm-0306</code>。</li></ul>\n<h3>待辨析</h3>\n<ul><li>高启隆/高启龙姓名写法、官职、宜川伯爵号来源、所属兵力、丽江边外路线、分路关系和后续履历需清方资料校。</li></ul>",
   "plainText": "高启隆 / Gao Qilong Stable draft ID: person.gao qilong Status: seed profile 身份 高启隆，南明降清后进入清方执行链的人物之一。当前材料显示其在 1659 年云南降清链条中出现，1661 年又随吴三桂、爱星阿方向参与入缅追索永历。 生平和主要事迹 《小腆紀年》记其以宜川伯身份在 1659 年清兵还至云南后先后降清的名单中出现；《南明史稿》另把高启隆列入自丽江边外降清链条。 顾诚《南明史》把高启隆列为退至滇西北鹤庆、剑川、丽江、兰州一带后先后降清的将领，并记其后进入清方降将十营编组；顾诚脚注提示地方志有高启龙异写和不同投降日序。 1661 年随清方入缅行动，和马宁、石国柱、祁三升、马宝、马惟兴等推进至木邦方向，向缅方施压交出永历君臣。 性格、评价和行为模式提取 当前只记录其从南明尾段降清链条进入清方执行层，不做性格评价。 著作或文本 待补。 游戏数据线索 Military Actor: 清方入缅前锋/偏师节点。 来源 已核锚点：../source audit.md audit sm 0264，../source audit.md audit sm 0300，../source audit.md audit sm 0305，../source audit.md audit sm 0306。 待辨析 高启隆/高启龙姓名写法、官职、宜川伯爵号来源、所属兵力、丽江边外路线、分路关系和后续履历需清方资料校。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__jin-shiding",
   "title": "金世鼎 / Jin Shiding",
   "sourcePath": "references/southern-ming/people/jin-shiding.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/jin-shiding/portrait.png",
+    "caption": "AI generated game concept art; the likeness is not authenticated and must not be treated as historical evidence",
+    "alt": "金世鼎 / Jin Shiding portrait concept art",
+    "sourcePath": "references/southern-ming/people/jin-shiding/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.jin_shiding</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>金世鼎，《小腆紀年》所见姚州举人。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《小腆紀年》记金世鼎与姚州知州何思、举人席上珍起兵拒孙可旺，不克而死。</li><li>同源称金世鼎战败后自杀；当前只作来源记忆层。</li><li>本地 CBDB 对 <code>金世鼎</code> exact-name 查询无主名或别名直接命中；<code>金世</code> 前缀查询见多条近名和同名簇，但未见目标全名。此为弱否定，不能证明人物不存在。</li><li>维基文库《明史》卷二百九十五也把金世鼎列入姚州何思、席上珍起兵层，并记其自杀；页面未校对，此处仅作公开文本旁证。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：地方士人参与抵抗的名单层。</li><li>不从单一来源扩展性格评价。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见已核著作。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 姚州地方抵抗/士人死节名单层。</li><li><code>Authority Gap</code>: 本地 CBDB 未见直接目标命中，需姚州志和传记索引原条复核。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0410</code>：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。</li><li><code>../source-audit.md#audit-sm-0415</code>：本地 CBDB 二次查验所见金世鼎无直接命中层。</li><li><code>../source-audit.md#audit-sm-0424</code>：维基文库《明史》卷二百九十五所见姚州何思、席上珍、金世鼎层。</li></ul>\n<h3>待辨析</h3>\n<ul><li>金世鼎履历、起兵细节、死亡方式、地方志记载和外部权威入口待校。</li></ul>",
   "plainText": "金世鼎 / Jin Shiding Stable draft ID: person.jin shiding Status: anchored seed profile 身份 金世鼎，《小腆紀年》所见姚州举人。 生平和主要事迹 《小腆紀年》记金世鼎与姚州知州何思、举人席上珍起兵拒孙可旺，不克而死。 同源称金世鼎战败后自杀；当前只作来源记忆层。 本地 CBDB 对 金世鼎 exact name 查询无主名或别名直接命中；金世 前缀查询见多条近名和同名簇，但未见目标全名。此为弱否定，不能证明人物不存在。 维基文库《明史》卷二百九十五也把金世鼎列入姚州何思、席上珍起兵层，并记其自杀；页面未校对，此处仅作公开文本旁证。 性格、评价和行为模式提取 行为模式：地方士人参与抵抗的名单层。 不从单一来源扩展性格评价。 著作或文本 未见已核著作。 游戏数据线索 Event Participant: 姚州地方抵抗/士人死节名单层。 Authority Gap: 本地 CBDB 未见直接目标命中，需姚州志和传记索引原条复核。 来源 ../source audit.md audit sm 0410：《小腆紀年》所见大西入滇后南宁、广通、姚州、武定、师宗地方死节层。 ../source audit.md audit sm 0415：本地 CBDB 二次查验所见金世鼎无直接命中层。 ../source audit.md audit sm 0424：维基文库《明史》卷二百九十五所见姚州何思、席上珍、金世鼎层。 待辨析 金世鼎履历、起兵细节、死亡方式、地方志记载和外部权威入口待校。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-zheng-dali",
   "title": "陈正（大理） / Chen Zheng, Dali",
   "sourcePath": "references/southern-ming/people/chen-zheng-dali.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-zheng-dali/portrait.png",
+    "caption": "AI generated style inspired game concept art; likeness is not authenticated.",
+    "alt": "陈正（大理） / Chen Zheng, Dali portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-zheng-dali/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_zheng_dali</code><br />Status: anchored seed profile; identity pending.</p></blockquote>\n<h3>身份</h3>\n<p>陈正，维基文库《明史》卷二百九十五所见大理卫指挥家族线人物。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>《明史》卷二百九十五记陈正世为大理卫指挥，未嗣职；沙定洲部陷城时督众巷战，战死。</li><li>本地 CBDB 20260530 有 <code>陳正 c_personid=130808</code>，状态字段见“大理卫指挥”，可作强候选权威入口。</li><li>该页为未校对公开文本；陈正是否另见大理地方志、卫所承袭记录和点校本，待复核。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>行为模式：卫所武职家族成员在地方陷落时组织巷战的来源层。</li><li>不从单一忠义传扩展性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Event Participant</code>: 大理陷落/巷战层。</li><li><code>Military Household</code>: 大理卫指挥承袭待校。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0422</code>：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。</li><li><code>../source-audit.md#audit-sm-0426</code>：本地 CBDB 所见陈正强候选权威。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈正职衔承袭、具体城池、死亡时间、与大理府/卫所地理关系及 <code>c_personid=130808</code> 是否可进入 curated externalRefs 待校。</li></ul>",
   "plainText": "陈正（大理） / Chen Zheng, Dali Stable draft ID: person.chen zheng dali Status: anchored seed profile; identity pending. 身份 陈正，维基文库《明史》卷二百九十五所见大理卫指挥家族线人物。 生平和主要事迹 《明史》卷二百九十五记陈正世为大理卫指挥，未嗣职；沙定洲部陷城时督众巷战，战死。 本地 CBDB 20260530 有 陳正 c personid=130808，状态字段见“大理卫指挥”，可作强候选权威入口。 该页为未校对公开文本；陈正是否另见大理地方志、卫所承袭记录和点校本，待复核。 性格、评价和行为模式提取 行为模式：卫所武职家族成员在地方陷落时组织巷战的来源层。 不从单一忠义传扩展性格。 著作或文本 未见。 游戏数据线索 Event Participant: 大理陷落/巷战层。 Military Household: 大理卫指挥承袭待校。 来源 ../source audit.md audit sm 0422：维基文库《明史》卷二百九十五所见楚雄、武定和大理人物层。 ../source audit.md audit sm 0426：本地 CBDB 所见陈正强候选权威。 待辨析 陈正职衔承袭、具体城池、死亡时间、与大理府/卫所地理关系及 c personid=130808 是否可进入 curated externalRefs 待校。"
 }

@@ -2,6 +2,12 @@
   "id": "po-zhen-zi__people__chen-mang",
   "title": "陈蟒 / Chen Mang",
   "sourcePath": "references/southern-ming/people/chen-mang.md",
+  "portrait": {
+    "imagePath": "/wiki-content/po-zhen-zi/people/chen-mang/portrait.png",
+    "caption": "AI generated style inspired game concept art. The likeness is not authenticated and should not be used as historical evidence.",
+    "alt": "陈蟒 / Chen Mang portrait concept art",
+    "sourcePath": "references/southern-ming/people/chen-mang/portrait.md"
+  },
   "html": "<blockquote><p>Stable draft ID: <code>person.chen_mang</code><br />Status: anchored seed profile</p></blockquote>\n<h3>身份</h3>\n<p>陈蟒，郑成功系统右虎卫相关人物，1660 年高崎登陆战中与陈鹏内应线相对。</p>\n<h3>生平和主要事迹</h3>\n<ul><li>1660 年五月高崎线中，材料记陈鹏欲为清方内应，陈蟒不与谋，主张决一死战，并与陈璋等反击清兵。</li><li>《海上見聞錄》称陈蟒为陈鹏左营人物、陈璋之侄；战后郑成功以陈蟒为虎卫右镇。</li></ul>\n<h3>性格、评价和行为模式提取</h3>\n<ul><li>当前只可记录为高崎防御中反内应和临阵反击人物；不据单一叙事扩展为完整性格。</li></ul>\n<h3>著作或文本</h3>\n<ul><li>未见。</li></ul>\n<h3>游戏数据线索</h3>\n<ul><li><code>Internal Crisis</code>: 陈鹏内应失败。</li><li><code>Battle Commander</code>: 高崎反击。</li></ul>\n<h3>来源</h3>\n<ul><li><code>../source-audit.md#audit-sm-0375</code>：高崎登陆、陈鹏内应和陈蟒反击。</li></ul>\n<h3>待辨析</h3>\n<ul><li>陈蟒与陈鹏、陈璋关系，虎卫右镇任命和战后去向需另校。</li></ul>",
   "plainText": "陈蟒 / Chen Mang Stable draft ID: person.chen mang Status: anchored seed profile 身份 陈蟒，郑成功系统右虎卫相关人物，1660 年高崎登陆战中与陈鹏内应线相对。 生平和主要事迹 1660 年五月高崎线中，材料记陈鹏欲为清方内应，陈蟒不与谋，主张决一死战，并与陈璋等反击清兵。 《海上見聞錄》称陈蟒为陈鹏左营人物、陈璋之侄；战后郑成功以陈蟒为虎卫右镇。 性格、评价和行为模式提取 当前只可记录为高崎防御中反内应和临阵反击人物；不据单一叙事扩展为完整性格。 著作或文本 未见。 游戏数据线索 Internal Crisis: 陈鹏内应失败。 Battle Commander: 高崎反击。 来源 ../source audit.md audit sm 0375：高崎登陆、陈鹏内应和陈蟒反击。 待辨析 陈蟒与陈鹏、陈璋关系，虎卫右镇任命和战后去向需另校。"
 }
