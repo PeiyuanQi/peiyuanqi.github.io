@@ -33,6 +33,61 @@
       const normalize = (value) =>
         value.normalize("NFKC").toLocaleLowerCase().trim();
 
+      const hidePortrait = () => {
+        if (
+          portraitNode instanceof HTMLElement &&
+          portraitImageNode instanceof HTMLImageElement
+        ) {
+          portraitImageNode.removeAttribute("src");
+          portraitImageNode.alt = "";
+          if (portraitCaptionNode) {
+            portraitCaptionNode.textContent = "";
+          }
+          portraitNode.hidden = true;
+        }
+      };
+
+      const revealLoadedPortrait = () => {
+        if (
+          portraitNode instanceof HTMLElement &&
+          portraitImageNode instanceof HTMLImageElement
+        ) {
+          const hasLoadedImage =
+            Boolean(portraitImageNode.getAttribute("src")) &&
+            portraitImageNode.complete &&
+            portraitImageNode.naturalWidth > 0;
+          portraitNode.hidden = !hasLoadedImage;
+        }
+      };
+
+      const setPortrait = (portrait) => {
+        if (
+          !(portraitNode instanceof HTMLElement) ||
+          !(portraitImageNode instanceof HTMLImageElement)
+        ) {
+          return;
+        }
+
+        if (!portrait) {
+          hidePortrait();
+          return;
+        }
+
+        portraitNode.hidden = true;
+        portraitImageNode.alt = portrait.alt;
+        if (portraitCaptionNode) {
+          portraitCaptionNode.textContent = portrait.caption ?? "";
+        }
+        portraitImageNode.src = portrait.imagePath;
+        revealLoadedPortrait();
+      };
+
+      if (portraitImageNode instanceof HTMLImageElement) {
+        portraitImageNode.addEventListener("load", revealLoadedPortrait);
+        portraitImageNode.addEventListener("error", hidePortrait);
+        revealLoadedPortrait();
+      }
+
       const openActiveCategory = () => {
         const activeButton = document.querySelector(".wiki-entry-button.active");
         for (const category of document.querySelectorAll(
@@ -68,26 +123,7 @@
         if (dlcNode) dlcNode.textContent = entry.dlcLabel;
         if (categoryNode) categoryNode.textContent = entry.categoryLabel;
         if (sourceNode) sourceNode.textContent = entry.sourcePath;
-        if (
-          portraitNode instanceof HTMLElement &&
-          portraitImageNode instanceof HTMLImageElement
-        ) {
-          if (entry.portrait) {
-            portraitImageNode.src = entry.portrait.imagePath;
-            portraitImageNode.alt = entry.portrait.alt;
-            if (portraitCaptionNode) {
-              portraitCaptionNode.textContent = entry.portrait.caption ?? "";
-            }
-            portraitNode.hidden = false;
-          } else {
-            portraitImageNode.removeAttribute("src");
-            portraitImageNode.alt = "";
-            if (portraitCaptionNode) {
-              portraitCaptionNode.textContent = "";
-            }
-            portraitNode.hidden = true;
-          }
-        }
+        setPortrait(entry.portrait);
         contentNode.setAttribute("aria-busy", "true");
         contentNode.innerHTML = `<p class="wiki-loading">${loadingLabel}</p>`;
 
