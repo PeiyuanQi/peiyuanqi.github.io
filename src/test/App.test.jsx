@@ -14,7 +14,9 @@ import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
 import Projects from '../pages/Projects';
+import Privacy from '../pages/Privacy';
 import Stats from '../pages/Stats';
+import { PrivacyProvider } from '../privacy/PrivacyContext';
 
 const getDescriptionMeta = () => document.querySelector('meta[name="description"]');
 
@@ -35,6 +37,11 @@ const pages = [
     component: Projects,
   },
   {
+    route: '/privacy',
+    heading: 'Privacy Notice',
+    component: Privacy,
+  },
+  {
     route: '/stats',
     heading: 'Stats',
     component: Stats,
@@ -51,7 +58,11 @@ const pages = [
 // https://testing-library.com/docs/example-react-router/#reducing-boilerplate
 const renderWithRouter = (ui, { route = '/' } = {}) => {
   window.history.pushState({}, 'Test page', route);
-  return render(ui, { wrapper: BrowserRouter });
+  return render(
+    <BrowserRouter>
+      <PrivacyProvider>{ui}</PrivacyProvider>
+    </BrowserRouter>,
+  );
 };
 
 beforeEach(() => {

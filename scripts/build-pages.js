@@ -3,7 +3,7 @@ const path = require('path');
 
 const buildDir = path.resolve(__dirname, '..', 'build');
 const indexPath = path.join(buildDir, 'index.html');
-const routes = ['about', 'projects'];
+const routes = ['about', 'privacy', 'projects'];
 
 fs.copyFileSync(indexPath, path.join(buildDir, '404.html'));
 

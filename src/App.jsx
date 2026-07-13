@@ -1,6 +1,9 @@
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
+import Analytics from './components/Template/Analytics';
+import ConsentBanner from './components/Privacy/ConsentBanner';
+import { PrivacyProvider } from './privacy/PrivacyContext';
 import './static/css/main.scss'; // All of our styles
 
 // Every route - we lazy load so that each page can be chunked
@@ -10,21 +13,27 @@ const About = lazy(() => import('./pages/About'));
 // const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
+const Privacy = lazy(() => import('./pages/Privacy'));
 const Projects = lazy(() => import('./pages/Projects'));
 // const Stats = lazy(() => import('./pages/Stats'));
 
 const App = () => (
   <BrowserRouter>
-    <Suspense fallback={<Main />}>
-      <Switch>
-        <Route exact path="/" component={Index} />
-        <Route path="/about" component={About} />
-        <Route path="/projects" component={Projects} />
-        {/* <Route path="/stats" component={Stats} /> */}
-        {/* <Route path="/contact" component={Contact} /> */}
-        <Route component={NotFound} status={404} />
-      </Switch>
-    </Suspense>
+    <PrivacyProvider>
+      <Analytics />
+      <Suspense fallback={<Main />}>
+        <Switch>
+          <Route exact path="/" component={Index} />
+          <Route path="/about" component={About} />
+          <Route path="/projects" component={Projects} />
+          <Route path="/privacy" component={Privacy} />
+          {/* <Route path="/stats" component={Stats} /> */}
+          {/* <Route path="/contact" component={Contact} /> */}
+          <Route component={NotFound} status={404} />
+        </Switch>
+      </Suspense>
+      <ConsentBanner />
+    </PrivacyProvider>
   </BrowserRouter>
 );
 

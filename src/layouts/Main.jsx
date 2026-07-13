@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import Analytics from '../components/Template/Analytics';
 import DocumentHead from '../components/Template/DocumentHead';
 import Navigation from '../components/Template/Navigation';
 import SideBar from '../components/Template/SideBar';
@@ -9,7 +8,6 @@ import ScrollToTop from '../components/Template/ScrollToTop';
 
 const Main = (props) => (
   <>
-    <Analytics />
     <ScrollToTop />
     <DocumentHead title={props.title} description={props.description} />
     <div id="wrapper">

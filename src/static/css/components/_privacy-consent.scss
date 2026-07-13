@@ -1,0 +1,144 @@
+/* Analytics consent and preference controls. */
+
+.privacy-consent {
+	background: _palette(bg);
+	border-top: solid 1px _palette(border-alt);
+	bottom: 0;
+	box-shadow: 0 -0.75em 2em rgba(60, 59, 59, 0.08);
+	left: 0;
+	position: fixed;
+	right: 0;
+	z-index: _misc(z-index-base) + 2;
+
+	&__inner {
+		@include vendor('align-items', 'center');
+		@include vendor('display', 'flex');
+		@include vendor('justify-content', 'space-between');
+		gap: 2em;
+		margin: 0 auto;
+		max-width: 90em;
+		padding: 1.35em 4.5em;
+		position: relative;
+	}
+
+	&__copy {
+		max-width: 54em;
+
+		h2 {
+			font-size: 0.9em;
+			margin-bottom: 0.25em;
+		}
+
+		p {
+			font-size: 0.85em;
+			line-height: 1.55;
+			margin: 0;
+		}
+	}
+
+	&__eyebrow,
+	&__status {
+		color: _palette(fg-light);
+		font-family: _font(family-heading);
+		font-size: 0.55em !important;
+		font-weight: _font(weight-heading-bold);
+		letter-spacing: _font(kerning-heading);
+		text-transform: uppercase;
+	}
+
+	&__eyebrow {
+		margin-bottom: 0.35em !important;
+	}
+
+	&__status {
+		margin-top: 0.65em !important;
+	}
+
+	&__actions {
+		@include vendor('display', 'flex');
+		@include vendor('flex-shrink', '0');
+		gap: 0.75em;
+
+		button {
+			height: 3.6em;
+			line-height: 3.6em;
+			padding: 0 1.5em;
+		}
+	}
+
+	&__close {
+		background: transparent;
+		box-shadow: none;
+		color: _palette(fg-light) !important;
+		font-family: _font(family);
+		font-size: 1.4em;
+		height: 2em;
+		line-height: 2em;
+		padding: 0;
+		position: absolute;
+		right: 1em;
+		top: 0.7em;
+		width: 2em;
+
+		&:hover {
+			box-shadow: none;
+			color: _palette(accent) !important;
+		}
+	}
+
+	@include breakpoint(medium) {
+		&__inner {
+			padding-left: 3em;
+			padding-right: 3em;
+		}
+	}
+
+	@include breakpoint(small) {
+		&__inner {
+			@include vendor('align-items', 'stretch');
+			@include vendor('flex-direction', 'column');
+			gap: 1em;
+			padding: 1.25em 1.5em;
+		}
+
+		&__copy {
+			padding-right: 1.5em;
+		}
+
+		&__actions {
+			button {
+				@include vendor('flex', '1');
+				padding: 0 0.8em;
+			}
+		}
+	}
+
+	@include breakpoint(xsmall) {
+		&__actions {
+			@include vendor('flex-direction', 'column');
+
+			button {
+				width: 100%;
+			}
+		}
+	}
+}
+.privacy-settings-link {
+	background: transparent;
+	border-bottom: dotted 1px _palette(border-alt);
+	box-shadow: none;
+	color: inherit !important;
+	display: inline;
+	font: inherit;
+	height: auto;
+	letter-spacing: inherit;
+	line-height: inherit;
+	padding: 0;
+	text-transform: inherit;
+
+	&:hover {
+		border-bottom-color: transparent;
+		box-shadow: none;
+		color: _palette(accent) !important;
+	}
+}
