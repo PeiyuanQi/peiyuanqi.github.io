@@ -108,6 +108,13 @@ test('Updates document head for the 404 page', () => {
   );
 });
 
+test('Renders the BeniPin project entry', () => {
+  renderWithRouter(<Projects />, { route: '/projects' });
+
+  expect(screen.getByText('卡益 (BeniPin)')).toBeInTheDocument();
+  expect(screen.getByText(/bilingual, privacy-first iOS app/i)).toBeInTheDocument();
+});
+
 const checkPageComponent = async (page) => {
   test(`Renders ${page.route} Component`, () => {
     renderWithRouter(<page.component />, { route: page.route });

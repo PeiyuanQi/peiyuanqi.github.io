@@ -1,5 +1,54 @@
 const data = [
   {
+    title: '卡益 (BeniPin)',
+    subtitle: 'Privacy-First iOS Benefit Organizer',
+    slug: 'beni-pin',
+    images: [
+      '/images/projects/beni-pin.png',
+    ],
+    image: '/images/projects/beni-pin.png',
+    videos: [],
+    date: '2026-07-20',
+    summary:
+      'A bilingual, privacy-first iOS app for finding, organizing, and tracking recurring U.S. credit-card benefits.',
+    desc:
+      'A native iOS organizer for credit-card benefits.',
+    details: [
+      '卡益 (BeniPin) brings credit-card benefit discovery into a native SwiftUI app. Users manually add the card products they own, search benefits across those cards or the full catalog, and mark recurring benefits as used for the current month, quarter, year, or other supported period.',
+      'The MVP deliberately avoids bank credentials and Apple Wallet inspection. It stores only selected catalog IDs and benefit-use state on-device, while a reviewed bilingual catalog can refresh from a validated, versioned JSON source.',
+    ],
+    links: [
+      {
+        external: true,
+        label: 'View on GitHub',
+        href: 'https://github.com/PeiyuanQi/beni-pin',
+      },
+    ],
+    tags: [
+      'SwiftUI',
+      'Privacy-First',
+      'Bilingual',
+    ],
+    facts: [
+      {
+        label: 'Type',
+        value: 'Native iOS credit-card benefit organizer',
+      },
+      {
+        label: 'Platform',
+        value: 'iOS 17+ with SwiftUI',
+      },
+      {
+        label: 'Privacy',
+        value: 'No card numbers, balances, transactions, or bank login',
+      },
+      {
+        label: 'Status',
+        value: 'Active MVP development',
+      },
+    ],
+  },
+  {
     title: 'Celestial Mandate',
     subtitle: 'Historical Strategy Game Design',
     slug: 'celestial-mandate',
