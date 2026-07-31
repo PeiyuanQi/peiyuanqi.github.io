@@ -149,6 +149,7 @@ test('Switches BeniPin pages to Simplified Chinese', () => {
   fireEvent.click(screen.getByRole('button', { name: '简中' }));
 
   expect(screen.getByTestId('heading')).toHaveTextContent('让每一项信用卡权益都清晰可见');
+  expect(document.documentElement).toHaveAttribute('lang', 'zh-Hans');
 });
 
 test('Provides public BeniPin privacy and support contacts', () => {

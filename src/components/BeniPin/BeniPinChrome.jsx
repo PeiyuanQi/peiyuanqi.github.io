@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
@@ -26,6 +26,14 @@ const BeniPinChrome = ({
   onLanguageChange,
 }) => {
   const copy = navCopy[language];
+
+  useEffect(() => {
+    document.documentElement.lang = language;
+
+    return () => {
+      document.documentElement.lang = 'en';
+    };
+  }, [language]);
 
   return (
     <div className="benipin-site">
