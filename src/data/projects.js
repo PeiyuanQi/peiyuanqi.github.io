@@ -14,10 +14,14 @@ const data = [
     desc:
       'A native iOS organizer for credit-card benefits.',
     details: [
-      '卡益 (BeniPin) brings credit-card benefit discovery into a native SwiftUI app. Users manually add the card products they own, search benefits across those cards or the full catalog, and mark recurring benefits as used for the current month, quarter, year, or other supported period.',
-      'The MVP deliberately avoids bank credentials and Apple Wallet inspection. It stores only selected catalog IDs and benefit-use state on-device, while a reviewed bilingual catalog can refresh from a validated, versioned JSON source.',
+      '卡益 (BeniPin) brings credit-card benefit discovery into a native SwiftUI app. Users manually add the products they own, switch between benefit and earning-rate views, and mark recurring benefits as used for the current period.',
+      'The app keeps selected card IDs, benefit-use state, and editable point valuations on-device. It does not connect to bank accounts or store card numbers or transactions.',
     ],
     links: [
+      {
+        label: 'Visit product page',
+        href: '/projects/benipin/',
+      },
       {
         external: true,
         label: 'View on GitHub',
@@ -44,7 +48,12 @@ const data = [
       },
       {
         label: 'Status',
-        value: 'Active MVP development',
+        value: 'Coming to the App Store',
+      },
+      {
+        label: 'Product page',
+        value: 'peiyuanqi.me/projects/benipin/',
+        href: 'https://peiyuanqi.me/projects/benipin/',
       },
     ],
   },

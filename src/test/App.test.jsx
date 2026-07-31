@@ -3,13 +3,16 @@
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom/vitest';
-import { render, screen } from '@testing-library/react';
+import { fireEvent, render, screen } from '@testing-library/react';
 import { afterEach, beforeEach, vi } from 'vitest';
 
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
 import About from '../pages/About';
+import BeniPin from '../pages/BeniPin';
+import BeniPinPrivacy from '../pages/BeniPinPrivacy';
+import BeniPinSupport from '../pages/BeniPinSupport';
 import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
@@ -19,6 +22,8 @@ import Stats from '../pages/Stats';
 import { PrivacyProvider } from '../privacy/PrivacyContext';
 
 const getDescriptionMeta = () => document.querySelector('meta[name="description"]');
+const getCanonicalLink = () => document.querySelector('link[rel="canonical"]');
+const getOpenGraphMeta = (property) => document.querySelector(`meta[property="${property}"]`);
 
 const pages = [
   {
@@ -35,6 +40,21 @@ const pages = [
     route: '/projects',
     heading: 'Projects',
     component: Projects,
+  },
+  {
+    route: '/projects/benipin',
+    heading: 'Keep every card benefit in sight.',
+    component: BeniPin,
+  },
+  {
+    route: '/projects/benipin/privacy',
+    heading: 'Privacy Policy',
+    component: BeniPinPrivacy,
+  },
+  {
+    route: '/projects/benipin/support',
+    heading: 'Support',
+    component: BeniPinSupport,
   },
   {
     route: '/privacy',
@@ -106,6 +126,39 @@ test('Updates document head for the 404 page', () => {
     'content',
     'The content you are looking for cannot be found.',
   );
+});
+
+test('Adds App Store-ready metadata to the BeniPin product page', () => {
+  renderWithRouter(<BeniPin />, { route: '/projects/benipin' });
+
+  expect(document.title).toBe('BeniPin | Peiyuan Qi');
+  expect(getCanonicalLink()).toHaveAttribute(
+    'href',
+    'https://peiyuanqi.me/projects/benipin/',
+  );
+  expect(getOpenGraphMeta('og:type')).toHaveAttribute('content', 'product');
+  expect(getOpenGraphMeta('og:image')).toHaveAttribute(
+    'content',
+    'https://peiyuanqi.me/images/projects/beni-pin.png',
+  );
+});
+
+test('Switches BeniPin pages to Simplified Chinese', () => {
+  renderWithRouter(<BeniPin />, { route: '/projects/benipin' });
+
+  fireEvent.click(screen.getByRole('button', { name: '简中' }));
+
+  expect(screen.getByTestId('heading')).toHaveTextContent('让每一项信用卡权益都清晰可见');
+});
+
+test('Provides public BeniPin privacy and support contacts', () => {
+  renderWithRouter(<BeniPinSupport />, { route: '/projects/benipin/support' });
+
+  expect(screen.getByRole('link', { name: 'Email Support' })).toHaveAttribute(
+    'href',
+    'mailto:mithsul@foxmail.com?subject=BeniPin%20Support',
+  );
+  expect(screen.getByText(/Never email sensitive financial information/i)).toBeInTheDocument();
 });
 
 test('Renders the BeniPin project entry', () => {

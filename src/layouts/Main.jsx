@@ -9,7 +9,13 @@ import ScrollToTop from '../components/Template/ScrollToTop';
 const Main = (props) => (
   <>
     <ScrollToTop />
-    <DocumentHead title={props.title} description={props.description} />
+    <DocumentHead
+      canonicalPath={props.canonicalPath}
+      description={props.description}
+      image={props.image}
+      title={props.title}
+      type={props.type}
+    />
     <div id="wrapper">
       <Navigation />
       <div id="main">
@@ -25,16 +31,22 @@ Main.propTypes = {
     PropTypes.arrayOf(PropTypes.node),
     PropTypes.node,
   ]),
-  fullPage: PropTypes.bool,
-  title: PropTypes.string,
+  canonicalPath: PropTypes.string,
   description: PropTypes.string,
+  fullPage: PropTypes.bool,
+  image: PropTypes.string,
+  title: PropTypes.string,
+  type: PropTypes.string,
 };
 
 Main.defaultProps = {
   children: null,
-  fullPage: false,
-  title: null,
+  canonicalPath: null,
   description: "Peiyuan's Personal Website.",
+  fullPage: false,
+  image: '/images/me.jpg',
+  title: null,
+  type: 'website',
 };
 
 export default Main;

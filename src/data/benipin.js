@@ -1,0 +1,334 @@
+export const productCopy = {
+  en: {
+    status: 'Coming to the App Store',
+    eyebrow: 'A private benefit ledger for iPhone',
+    title: 'Keep every card benefit in sight.',
+    intro:
+      'BeniPin organizes U.S. credit-card benefits and earning rates without asking for bank access, card numbers, or transaction history.',
+    primaryAction: 'Read the Privacy Policy',
+    secondaryAction: 'Get Support',
+    visualLabel: 'Illustrative in-app view',
+    visualBenefits: 'Benefits',
+    visualUsed: 'Used',
+    visualMonthly: 'Monthly dining credit',
+    visualTravel: 'Annual travel credit',
+    visualEarning: 'Earning',
+    visualDining: 'Dining',
+    visualTravelRate: 'Travel',
+    visualOther: 'Everywhere else',
+    visualPointValue: 'Your value: 2.05¢ / point',
+    facts: [
+      ['Platform', 'iOS 17 or later'],
+      ['Languages', 'English + Simplified Chinese'],
+      ['Accounts', 'None required'],
+      ['Data model', 'Local-first'],
+    ],
+    sectionEyebrow: 'Designed around the benefit, not the bank account',
+    sectionTitle: 'A calmer way to use what your cards already include.',
+    features: [
+      {
+        number: '01',
+        title: 'Build your card shelf manually',
+        body: 'Find cards by issuer or product, then add only the products you own. BeniPin never pretends it can inspect every payment card in Apple Wallet.',
+      },
+      {
+        number: '02',
+        title: 'Separate benefits from earning rates',
+        body: 'Browse statement credits, lounge access, insurance, and other benefits in one view. Switch to a dedicated earning view when you want category multipliers and estimated returns.',
+      },
+      {
+        number: '03',
+        title: 'Track recurring value',
+        body: 'Mark monthly, quarterly, semiannual, annual, anniversary, and four-year benefits as used for their current period.',
+      },
+      {
+        number: '04',
+        title: 'Use your own point assumptions',
+        body: 'Edit cents-per-point values locally and let BeniPin recalculate estimated earning returns around the way you redeem rewards.',
+      },
+    ],
+    workflowEyebrow: 'Three simple motions',
+    workflowTitle: 'Add. Find. Check off.',
+    workflow: [
+      ['Add cards', 'Search the reviewed catalog by issuer or product and create your personal card shelf.'],
+      ['Find value', 'Search benefits across your cards, compare earning categories, and open official source terms when needed.'],
+      ['Mark progress', 'Check off recurring benefits as you use them. Your status remains on this device.'],
+    ],
+    privacyEyebrow: 'Privacy by product boundary',
+    privacyTitle: 'Useful without becoming another financial account.',
+    privacyBody:
+      'BeniPin stores selected catalog IDs, benefit-use state, point-value overrides, and preferences locally. It has no account system, analytics SDK, advertising, or cross-app tracking.',
+    privacyItems: [
+      'No bank connection',
+      'No card number or security code',
+      'No balance or transaction history',
+      'No contacts, photos, or location access',
+    ],
+    sourceNote:
+      'Benefit and earning information is summarized from public sources for organization only. Issuer terms always control.',
+  },
+  'zh-Hans': {
+    status: '即将登陆 App Store',
+    eyebrow: '为 iPhone 打造的私密权益账本',
+    title: '让每一项信用卡权益都清晰可见。',
+    intro:
+      'BeniPin 帮你整理美国信用卡权益与消费积分，无需连接银行，也不需要卡号或交易记录。',
+    primaryAction: '阅读隐私政策',
+    secondaryAction: '获取支持',
+    visualLabel: 'App 内界面示意',
+    visualBenefits: '权益',
+    visualUsed: '已使用',
+    visualMonthly: '每月餐饮报销',
+    visualTravel: '年度旅行报销',
+    visualEarning: '消费积分',
+    visualDining: '餐饮',
+    visualTravelRate: '旅行',
+    visualOther: '其他消费',
+    visualPointValue: '你的估值：2.05 美分 / 点',
+    facts: [
+      ['平台', 'iOS 17 或更高版本'],
+      ['语言', '英文 + 简体中文'],
+      ['账户', '无需注册'],
+      ['数据方式', '本机优先'],
+    ],
+    sectionEyebrow: '以权益为中心，而不是银行账户',
+    sectionTitle: '更从容地用好卡片已经包含的价值。',
+    features: [
+      {
+        number: '01',
+        title: '手动建立我的卡片',
+        body: '按发卡行或产品查找卡片，只添加你真正持有的产品。BeniPin 不会假装可以读取 Apple 钱包中的全部支付卡。',
+      },
+      {
+        number: '02',
+        title: '权益与消费积分分开呈现',
+        body: '在权益视图中查看报销、贵宾室、保险等内容；需要比较类别倍率和预估回报时，切换到独立的消费积分视图。',
+      },
+      {
+        number: '03',
+        title: '记录周期性权益',
+        body: '将每月、每季度、每半年、每年、持卡周年和每四年权益标记为本周期已使用。',
+      },
+      {
+        number: '04',
+        title: '使用自己的积分估值',
+        body: '在本机调整每点美分估值，让 BeniPin 按照你的兑换方式重新计算预估回报。',
+      },
+    ],
+    workflowEyebrow: '三个简单动作',
+    workflowTitle: '添加、查找、打勾。',
+    workflow: [
+      ['添加卡片', '按发卡行或产品搜索经审核的目录，建立你的卡片列表。'],
+      ['查找价值', '搜索所持卡片的权益，比较消费类别，并在需要时打开官方条款。'],
+      ['记录进度', '使用权益后直接打勾。你的状态只保留在这台设备上。'],
+    ],
+    privacyEyebrow: '用产品边界保护隐私',
+    privacyTitle: '实用，却不会变成另一个金融账户。',
+    privacyBody:
+      'BeniPin 仅在本机保存已选目录 ID、权益使用状态、积分估值与偏好。App 没有账户系统、分析 SDK、广告或跨 App 跟踪。',
+    privacyItems: [
+      '不连接银行',
+      '不收集卡号或安全码',
+      '不获取余额或交易记录',
+      '不访问通讯录、照片或位置',
+    ],
+    sourceNote:
+      '权益与消费信息根据公开来源整理，仅用于辅助管理；最终以发卡行条款为准。',
+  },
+};
+
+export const privacyCopy = {
+  en: {
+    eyebrow: 'BeniPin legal',
+    title: 'Privacy Policy',
+    summary:
+      'BeniPin is designed to organize credit-card information without collecting the financial data needed by a bank-connected app.',
+    effectiveDate: 'Effective July 31, 2026',
+    sections: [
+      {
+        title: 'Information stored on your device',
+        paragraphs: [
+          'BeniPin stores the catalog product IDs for cards you select, benefit usage state, point-value overrides, and app preferences locally on your device.',
+          'This local state is used to show your card list, remember which recurring benefits you marked as used, calculate estimated earning returns using your values, and retain your settings.',
+        ],
+      },
+      {
+        title: 'Information BeniPin does not request or store',
+        paragraphs: [
+          'BeniPin does not request or store card numbers, expiration dates, CVV or other security codes, cardholder names, balances, transactions, financial-account credentials, contacts, photos, or location.',
+          'The app has no account system, advertising, analytics SDK, or cross-app tracking.',
+        ],
+      },
+      {
+        title: 'Catalog updates',
+        paragraphs: [
+          'BeniPin requests a public catalog JSON file from GitHub Raw so reviewed card, benefit, and earning information can be refreshed.',
+          'Catalog requests do not contain your selected cards, benefit usage state, point valuations, or other locally stored preferences. The app can continue using its bundled or previously validated cached catalog when a refresh is unavailable.',
+        ],
+      },
+      {
+        title: 'External websites',
+        paragraphs: [
+          'Issuer terms, benefit sources, valuation sources, repository links, and article links open in the system browser. Those websites operate under their own privacy policies and terms.',
+        ],
+      },
+      {
+        title: 'Deleting your data',
+        paragraphs: [
+          'Use Delete Local Data in BeniPin Settings to remove selected cards and benefit usage state and restore default point valuations. Uninstalling BeniPin also removes the app data stored on that device.',
+        ],
+      },
+      {
+        title: 'Informational content',
+        paragraphs: [
+          'Benefit and earning information is provided for organization and general information only. Card eligibility, exclusions, values, and terms can change. The applicable issuer terms control.',
+        ],
+      },
+    ],
+    contactTitle: 'Privacy questions',
+    contactBody: 'Email mithsul@foxmail.com with questions about this policy or BeniPin’s privacy behavior.',
+  },
+  'zh-Hans': {
+    eyebrow: 'BeniPin 法律信息',
+    title: '隐私政策',
+    summary:
+      'BeniPin 用于整理信用卡信息，不会像银行连接类 App 那样收集金融数据。',
+    effectiveDate: '2026 年 7 月 31 日起生效',
+    sections: [
+      {
+        title: '保存在你设备上的信息',
+        paragraphs: [
+          'BeniPin 会在你的设备上本地保存已选卡片的目录产品 ID、权益使用状态、积分估值覆盖项和 App 偏好。',
+          '这些本地数据用于显示卡片列表、记住你标记为已使用的周期权益、按你的估值计算预估回报，以及保留设置。',
+        ],
+      },
+      {
+        title: 'BeniPin 不会索取或保存的信息',
+        paragraphs: [
+          'BeniPin 不会索取或保存卡号、有效期、CVV 或其他安全码、持卡人姓名、余额、交易、金融账户凭据、通讯录、照片或位置。',
+          'App 没有账户系统、广告、分析 SDK 或跨 App 跟踪。',
+        ],
+      },
+      {
+        title: '目录更新',
+        paragraphs: [
+          'BeniPin 会从 GitHub Raw 请求公开的目录 JSON 文件，以更新经审核的卡片、权益和消费积分信息。',
+          '目录请求不包含你选择的卡片、权益使用状态、积分估值或其他本地偏好。刷新不可用时，App 仍可使用内置或之前已验证的缓存目录。',
+        ],
+      },
+      {
+        title: '外部网站',
+        paragraphs: [
+          '发卡行条款、权益来源、估值来源、代码仓库和文章链接会在系统浏览器中打开。这些网站适用各自的隐私政策和条款。',
+        ],
+      },
+      {
+        title: '删除你的数据',
+        paragraphs: [
+          '在 BeniPin 设置中使用“删除本地数据”，可删除已选卡片和权益使用状态，并恢复默认积分估值。卸载 BeniPin 也会删除保存在该设备上的 App 数据。',
+        ],
+      },
+      {
+        title: '信息性内容',
+        paragraphs: [
+          '权益和消费信息仅用于整理和一般参考。卡片资格、排除条款、价值和规则可能变化，以适用的发卡行条款为准。',
+        ],
+      },
+    ],
+    contactTitle: '隐私问题',
+    contactBody: '如对本政策或 BeniPin 的隐私行为有疑问，请发送邮件至 mithsul@foxmail.com。',
+  },
+};
+
+export const supportCopy = {
+  en: {
+    eyebrow: 'BeniPin help',
+    title: 'Support',
+    summary: 'Practical help for using BeniPin and reporting catalog or app issues safely.',
+    platform: 'iOS 17 or later',
+    languages: 'English and Simplified Chinese',
+    contactLabel: 'Email Support',
+    contactNote: 'Typical support requests can be sent to mithsul@foxmail.com.',
+    quickStartTitle: 'Quick start',
+    steps: [
+      ['Add cards', 'Open My Cards, tap the add button, then search by issuer or product. Add only the card products you own.'],
+      ['Find benefits', 'Open Benefits, choose My Cards or All Cards, search by keyword, and use the category filters.'],
+      ['Mark a recurring benefit used', 'Open a benefit and use Mark Used. You can also swipe a benefit row on a card detail screen.'],
+      ['Review earning rates', 'Switch the Benefits view to Earning to see category rates and estimated returns separately from card benefits.'],
+      ['Edit point valuations', 'Open Settings, choose Adjust Point Values, and change the cents-per-point estimate for a supported program.'],
+      ['Refresh or reset', 'Pull to refresh where available or use Check for Updates in Settings. Use Delete Local Data to remove your selections and usage state and restore default point values.'],
+    ],
+    walletTitle: 'Why cards are added manually',
+    walletBody:
+      'Apple does not allow a normal third-party app to enumerate arbitrary payment cards in Apple Wallet. BeniPin therefore uses manual selection by issuer and product instead of a Wallet import or a fake Apple Pay transaction.',
+    troubleshootingTitle: 'Troubleshooting',
+    troubleshooting: [
+      {
+        title: 'Catalog refresh failed',
+        body: 'Check your internet connection and try Settings › Benefit Catalog › Check for Updates again. BeniPin keeps using its bundled or previously validated cached catalog when a download fails.',
+      },
+      {
+        title: 'Benefit information looks outdated',
+        body: 'Open the official source from the benefit or earning detail and follow the issuer’s current terms. You may email support with the card product, benefit name, source URL, and the date you noticed the issue.',
+      },
+      {
+        title: 'A card or earning category is missing',
+        body: 'Send the exact issuer and product name, plus a public official source if available. Catalog coverage grows through reviewed updates rather than automatic scraping.',
+      },
+    ],
+    bugTitle: 'Reporting a bug',
+    bugIntro: 'Please include:',
+    bugItems: ['BeniPin app version', 'iOS version', 'Device model', 'Clear reproduction steps', 'What you expected and what happened'],
+    safetyTitle: 'Never email sensitive financial information',
+    safetyBody:
+      'Do not send card numbers, expiration dates, security codes, banking credentials, statements, transaction exports, or other sensitive financial information. BeniPin support does not need them.',
+    boundaryTitle: 'What support cannot do',
+    boundaryBody:
+      'BeniPin is an organizational tool, not a bank or financial adviser. Support cannot confirm issuer eligibility, change account terms, recover credits, or resolve disputes with a card issuer.',
+  },
+  'zh-Hans': {
+    eyebrow: 'BeniPin 帮助',
+    title: '支持',
+    summary: '安全使用 BeniPin，并反馈目录或 App 问题的实用说明。',
+    platform: 'iOS 17 或更高版本',
+    languages: '英文和简体中文',
+    contactLabel: '邮件联系支持',
+    contactNote: '一般支持请求可发送至 mithsul@foxmail.com。',
+    quickStartTitle: '快速开始',
+    steps: [
+      ['添加卡片', '打开“我的卡片”，点击添加按钮，再按发卡行或产品搜索。只添加你真正持有的卡片产品。'],
+      ['查找权益', '打开“权益”，选择“我的卡片”或“全部卡片”，通过关键词和类别筛选查找。'],
+      ['标记周期权益已使用', '打开权益并选择“标记已使用”。也可在卡片详情中滑动权益行进行标记。'],
+      ['查看消费积分', '将权益视图切换到“消费积分”，单独查看类别倍率和预估回报。'],
+      ['编辑积分估值', '打开“设置”，选择“调整积分估值”，修改受支持项目的每点美分估值。'],
+      ['刷新或重置', '可在支持的界面下拉刷新，或在设置中使用“检查更新”。使用“删除本地数据”可移除卡片选择和使用状态，并恢复默认积分估值。'],
+    ],
+    walletTitle: '为什么需要手动添加卡片',
+    walletBody:
+      'Apple 不允许普通第三方 App 枚举 Apple 钱包中的任意支付卡。因此 BeniPin 按发卡行和产品进行手动选择，不会伪造钱包导入或虚假 Apple Pay 交易。',
+    troubleshootingTitle: '故障排查',
+    troubleshooting: [
+      {
+        title: '目录刷新失败',
+        body: '检查网络连接，然后重试“设置 › 权益目录 › 检查更新”。下载失败时，BeniPin 会继续使用内置或之前已验证的缓存目录。',
+      },
+      {
+        title: '权益信息似乎过期',
+        body: '从权益或消费积分详情中打开官方来源，并以发卡行最新条款为准。你可在邮件中提供卡片产品、权益名称、来源网址和发现日期。',
+      },
+      {
+        title: '缺少卡片或消费类别',
+        body: '请提供准确的发卡行和产品名称，如有可用的公开官方来源，也请一并提供。目录通过人工审核的更新扩展，不进行自动抓取。',
+      },
+    ],
+    bugTitle: '报告问题',
+    bugIntro: '请提供：',
+    bugItems: ['BeniPin App 版本', 'iOS 版本', '设备型号', '清晰的复现步骤', '预期结果与实际结果'],
+    safetyTitle: '切勿通过邮件发送敏感金融信息',
+    safetyBody:
+      '请勿发送卡号、有效期、安全码、银行凭据、账单、交易导出或其他敏感金融信息。BeniPin 支持不需要这些内容。',
+    boundaryTitle: '支持无法处理的事项',
+    boundaryBody:
+      'BeniPin 是整理工具，不是银行或财务顾问。支持无法确认发卡行资格、修改账户条款、追回报销，或解决与发卡行的争议。',
+  },
+};
