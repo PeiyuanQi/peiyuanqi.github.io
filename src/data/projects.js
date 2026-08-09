@@ -1,5 +1,65 @@
 const data = [
   {
+    title: 'MARSFORGE',
+    subtitle: 'Robot-Powered Mars Program',
+    slug: 'marsforge',
+    images: [
+      '/images/projects/marsforge/mars-arrival.webp',
+      '/images/projects/marsforge/gameplay-card.png',
+    ],
+    image: '/images/projects/marsforge/mars-arrival.webp',
+    videos: [],
+    date: '2026-08-09',
+    summary:
+      'A compact browser strategy game where you command robot minions, build an industrial spaceport, assemble Redfront One, and launch toward Mars.',
+    desc:
+      'A robot-powered browser strategy game about building a path to Mars.',
+    details: [
+      'Marsforge turns a dusty outpost into a working Mars launch program. Assign minions, gather resources, build industry, research missing technology, and assemble Redfront One piece by piece.',
+      'The game combines an approachable strategy loop with a growing 3D spaceport, multiple starting eras, typed and optional Grok voice commands, local saves, and a cinematic launch toward Mars.',
+    ],
+    links: [
+      {
+        external: true,
+        label: 'Play Marsforge',
+        href: 'https://mishu.tech/projects/marsforge/',
+      },
+      {
+        external: true,
+        label: 'View on GitHub',
+        href: 'https://github.com/PeiyuanQi/grokthon-2026',
+      },
+    ],
+    tags: [
+      'Browser Game',
+      'Strategy',
+      'Grokathon 2026',
+    ],
+    facts: [
+      {
+        label: 'Type',
+        value: 'Robot-powered browser strategy game',
+      },
+      {
+        label: 'Mission',
+        value: 'Build industry, assemble Redfront One, and launch toward Mars',
+      },
+      {
+        label: 'Built with',
+        value: 'TypeScript, Three.js, Vite, and optional Grok integrations',
+      },
+      {
+        label: 'Event',
+        value: 'SpaceXAI Grokathon 2026',
+      },
+      {
+        label: 'Play',
+        value: 'mishu.tech/projects/marsforge/',
+        href: 'https://mishu.tech/projects/marsforge/',
+      },
+    ],
+  },
+  {
     title: '卡益 (BeniPin)',
     subtitle: 'Privacy-First iOS Benefit Organizer',
     slug: 'beni-pin',

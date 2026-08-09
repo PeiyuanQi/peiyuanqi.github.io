@@ -169,6 +169,22 @@ test('Renders the BeniPin project entry', () => {
   expect(screen.getByText(/bilingual, privacy-first iOS app/i)).toBeInTheDocument();
 });
 
+test('Renders the Marsforge project with live and source links', () => {
+  renderWithRouter(<Projects />, { route: '/projects' });
+
+  expect(screen.getByText('MARSFORGE')).toBeInTheDocument();
+  fireEvent.click(screen.getByRole('button', { name: /MARSFORGE/i }));
+
+  expect(screen.getByRole('link', { name: 'Play Marsforge' })).toHaveAttribute(
+    'href',
+    'https://mishu.tech/projects/marsforge/',
+  );
+  expect(screen.getByRole('link', { name: 'View on GitHub' })).toHaveAttribute(
+    'href',
+    'https://github.com/PeiyuanQi/grokthon-2026',
+  );
+});
+
 const checkPageComponent = async (page) => {
   test(`Renders ${page.route} Component`, () => {
     renderWithRouter(<page.component />, { route: page.route });
