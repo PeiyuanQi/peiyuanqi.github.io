@@ -38,6 +38,9 @@ public/dist/
 dist/
 tmp/
 
+# Keep the browser-downloadable resume in the checked-in deploy output.
+!docs/Peiyuan_Qi_Resume.pdf
+
 # OSX
 .DS_Store
 
