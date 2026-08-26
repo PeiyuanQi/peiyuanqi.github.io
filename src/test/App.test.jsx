@@ -3,7 +3,9 @@
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom/vitest';
-import { fireEvent, render, screen } from '@testing-library/react';
+import {
+  fireEvent, render, screen, within,
+} from '@testing-library/react';
 import { afterEach, beforeEach, vi } from 'vitest';
 
 import React from 'react';
@@ -167,6 +169,21 @@ test('Renders the BeniPin project entry', () => {
 
   expect(screen.getByText('卡益 (BeniPin)')).toBeInTheDocument();
   expect(screen.getByText(/bilingual, privacy-first iOS app/i)).toBeInTheDocument();
+});
+
+test('Pins Canwu and Celestial Mandate above the project timeline', () => {
+  renderWithRouter(<Projects />, { route: '/projects' });
+
+  const pinnedProjects = screen.getByRole('region', { name: 'Pinned Projects' });
+  const projectTimeline = screen.getByRole('region', { name: 'Project Timeline' });
+
+  expect(within(pinnedProjects).getByRole('button', { name: /Canwu/i })).toBeInTheDocument();
+  expect(
+    within(pinnedProjects).getByRole('button', { name: /Celestial Mandate/i }),
+  ).toBeInTheDocument();
+  expect(within(projectTimeline).queryByRole('button', { name: /Canwu/i })).toBeNull();
+  expect(within(projectTimeline).getByRole('button', { name: /MARSFORGE/i }))
+    .toBeInTheDocument();
 });
 
 test('Renders the Marsforge project with live and source links', () => {

@@ -3,6 +3,7 @@ const data = [
     title: '参伍 (Canwu)',
     subtitle: 'Deterministic History Simulation Engine',
     slug: 'canwu',
+    pinned: true,
     images: [
       '/images/projects/canwu.png',
     ],
@@ -180,6 +181,7 @@ const data = [
     title: 'Celestial Mandate',
     subtitle: 'Historical Strategy Game Design',
     slug: 'celestial-mandate',
+    pinned: true,
     images: [
       '/projects/celestial-mandate/images/hero-command-table.png',
       '/projects/celestial-mandate/images/hero-po-zhen-zi-southern-ming.png',
