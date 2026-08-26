@@ -185,6 +185,22 @@ test('Renders the Marsforge project with live and source links', () => {
   );
 });
 
+test('Renders the Canwu project with website and source links', () => {
+  renderWithRouter(<Projects />, { route: '/projects' });
+
+  expect(screen.getByText('参伍 (Canwu)')).toBeInTheDocument();
+  fireEvent.click(screen.getByRole('button', { name: /参伍 \(Canwu\)/i }));
+
+  expect(screen.getByRole('link', { name: 'Visit canwu.org' })).toHaveAttribute(
+    'href',
+    'https://canwu.org/',
+  );
+  expect(screen.getByRole('link', { name: 'View on GitHub' })).toHaveAttribute(
+    'href',
+    'https://github.com/PeiyuanQi/canwu',
+  );
+});
+
 const checkPageComponent = async (page) => {
   test(`Renders ${page.route} Component`, () => {
     renderWithRouter(<page.component />, { route: page.route });

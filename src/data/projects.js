@@ -1,5 +1,64 @@
 const data = [
   {
+    title: '参伍 (Canwu)',
+    subtitle: 'Deterministic History Simulation Engine',
+    slug: 'canwu',
+    images: [
+      '/images/projects/canwu.png',
+    ],
+    image: '/images/projects/canwu.png',
+    videos: [],
+    date: '2026-08-15',
+    summary:
+      'An open-source Rust engine for deterministic historical, social, and strategy simulations with agent-ready APIs.',
+    desc:
+      'A deterministic Rust engine for historical and social simulation.',
+    details: [
+      'Canwu is a headless simulation engine that advances historical worlds through repeatable time, validated commands, atomic settlement, and events with explicit causes. It separates authoritative world state from what each actor knows.',
+      'Games, research tools, web clients, and AI agents can embed Canwu through its public APIs while supplying their own domain rules, content, rendering, and interfaces. Snapshots, save validation, and exact replay make runs inspectable and reproducible.',
+    ],
+    links: [
+      {
+        external: true,
+        label: 'Visit canwu.org',
+        href: 'https://canwu.org/',
+      },
+      {
+        external: true,
+        label: 'View on GitHub',
+        href: 'https://github.com/PeiyuanQi/canwu',
+      },
+    ],
+    tags: [
+      'Rust',
+      'Simulation Engine',
+      'Open Source',
+    ],
+    facts: [
+      {
+        label: 'Type',
+        value: 'Headless deterministic simulation engine',
+      },
+      {
+        label: 'Core',
+        value: 'Time, commands, causality, knowledge, snapshots, and exact replay',
+      },
+      {
+        label: 'Integrations',
+        value: 'Games, research tools, web clients, and AI agents',
+      },
+      {
+        label: 'License',
+        value: 'Apache 2.0',
+      },
+      {
+        label: 'Website',
+        value: 'canwu.org',
+        href: 'https://canwu.org/',
+      },
+    ],
+  },
+  {
     title: 'MARSFORGE',
     subtitle: 'Robot-Powered Mars Program',
     slug: 'marsforge',
